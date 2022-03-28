@@ -1,1 +1,1 @@
-Sitemap: https://gold-light.github.io/sitemap.xml
+Sitemap: https://cloudlog.kr/sitemap.xml
