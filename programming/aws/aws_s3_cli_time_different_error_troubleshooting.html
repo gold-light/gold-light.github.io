@@ -1,0 +1,617 @@
+<!DOCTYPE html>
+<html lang="kr">
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법입니다">
+<meta name="keywords" content="awss3,  programming, 아마존">
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<meta name="generator" content="Jekyll v4.2.1" />
+<meta property="og:title" content="AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법" />
+<meta property="og:locale" content="ko_KR" />
+<meta property="og:description" content="AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법입니다" />
+<link rel="canonical" href="https://gold-light.github.io/programming/aws/aws_s3_cli_time_different_error_troubleshooting.html" />
+<meta property="og:url" content="https://gold-light.github.io/programming/aws/aws_s3_cli_time_different_error_troubleshooting.html" />
+<meta property="og:site_name" content="Simple Life Cloud Log" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법" />
+<script type="application/ld+json">
+{"url":"https://gold-light.github.io/programming/aws/aws_s3_cli_time_different_error_troubleshooting.html","@type":"WebPage","description":"AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법입니다","headline":"AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+<title>AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법 | Simple Life Cloud Log</title>
+<link rel="stylesheet" href="/css/syntax.css">
+
+<link rel="stylesheet" href="/fontawesome/css/all.min.css"/>
+<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+<link rel="stylesheet" href="/css/modern-business.css">
+<!-- Latest compiled and minified CSS -->
+<!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"-->
+<!--link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"-->
+<link rel="stylesheet" href="/css/customstyles.css">
+<link rel="stylesheet" href="/css/boxshadowproperties.css">
+<!-- most color styles are extracted out to here -->
+<link rel="stylesheet" href="/css/theme-blue.css">
+
+<script src="/js/jquery.341.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script-->
+
+<script src="/js/jquery.cookie.141.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script-->
+<script src="/js/jquery.navgoco.min.js"></script>
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="/js/bootstrap.341.min.js"></script>
+<!--script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script-->
+<!--script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script-->
+<!-- Anchor.js -->
+<script src="/js/anchor.420.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js"></script-->
+<script src="/js/toc.js"></script>
+<script src="/js/customscripts.js"></script>
+
+<link rel="shortcut icon" href="/images/favicon.ico">
+
+
+<link rel="alternate" type="application/rss+xml" title="Simple Life Cloud Log" href="https://gold-light.github.io/feed.xml">
+
+
+
+    <script>
+        $(document).ready(function() {
+            // Initialize navgoco with default options
+            $("#mysidebar").navgoco({
+                caretHtml: '',
+                accordion: true,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
+
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', true);
+            });
+
+        });
+
+    </script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+        });
+    </script>
+    
+
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container topnavlinks">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="fa fa-home fa-lg navbar-brand" href="/index.html">&nbsp;<span class="projectTitle"> Simple Life Cloud Log</span></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <!-- toggle sidebar button -->
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
+                <!-- entries without drop-downs appear here -->
+
+
+
+
+                
+                
+                
+                <li><a href="/programming/php/php_sql_injection_function.html">프로그래밍</a></li>
+                
+                
+                
+                <li><a href="/category/game/pcgame.html">게임</a></li>
+                
+                
+                
+                <li><a href="/category/life/drama.html">일상</a></li>
+                
+                
+                
+                <!-- entries with drop-downs appear here -->
+                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+                
+                
+                                
+                <!--comment out this block if you want to hide search-->
+                <li>
+                    <!--start search-->
+                    <div id="search-demo-container">
+                        <input type="text" id="search-input" placeholder="search...">
+                        <ul id="results-container"></ul>
+                    </div>
+                    <script src="/js/jekyll-search.js" type="text/javascript"></script>
+                    <script type="text/javascript">
+                            SimpleJekyllSearch.init({
+                                searchInput: document.getElementById('search-input'),
+                                resultsContainer: document.getElementById('results-container'),
+                                dataSource: '/search.json',
+                                searchResultTemplate: '<li><a href="{url}" title="AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법">{title}</a></li>',
+                    noResultsText: 'No results found.',
+                            limit: 10,
+                            fuzzy: true,
+                    })
+                    </script>
+                    <!--end search-->
+                </li>
+            </ul>
+        </div>
+        </div>
+        <!-- /.container -->
+</nav>
+
+
+
+<!-- Page Content -->
+<div class="container">
+  <div id="main">
+    <!-- Content Row -->
+    <div class="row">
+        
+        
+            <!-- Sidebar Column -->
+            <div class="col-md-3" id="tg-sb-sidebar">
+                
+
+<ul id="mysidebar" class="nav">
+  <li class="sidebarTitle">Programming 1.0</li>
+  
+  
+  
+  <li>
+      <a title="PHP" href="#">PHP</a>
+      <ul>
+          
+          
+          
+          <li><a title="PHP SQL Injection 방지 코드" href="/programming/php/php_sql_injection_function.html">PHP SQL Injection 방지 코드</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="윤년 계산 하는 방법" href="/programming/php/php_leap_year_with_asp.html">윤년 계산 하는 방법</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PHPExcel 최신판 PhpSpreadsheet" href="/programming/php/php_phpspreadsheet_introduce.html">PHPExcel 최신판 PhpSpreadsheet</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 행 높이 설정하기" href="/programming/php/php_phpspreadsheet_row_height.html">PhpSpreadsheet 행 높이 설정하기</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 셀 서식 문자 지정" href="/programming/php/php_phpspreadsheet_cell_datatype_string.html">PhpSpreadsheet 셀 서식 문자 지정</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet ERR_INVALID_RESPONSE 오류" href="/programming/php/php_phpspreadsheet_err_invalid_response.html">PhpSpreadsheet ERR_INVALID_RESPONSE 오류</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="API" href="#">API</a>
+      <ul>
+          
+          
+          
+          <li><a title="UniPass 오픈API" href="/programming/api/api_unipass_openapi_introduce.html">UniPass 오픈API</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="AWS" href="#">AWS</a>
+      <ul>
+          
+          
+          
+          <li><a title="AWS bitnami LAMP 설정하기" href="/programming/aws/aws_bitnami_lamp_setting_guide.html">AWS bitnami LAMP 설정하기</a></li>
+          
+          
+          
+          
+          
+          
+          <li class="active"><a title="S3 cli RequestTimeTooSkewed 에러" href="/programming/aws/aws_s3_cli_time_different_error_troubleshooting.html">S3 cli RequestTimeTooSkewed 에러</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="OS" href="#">OS</a>
+      <ul>
+          
+          
+          
+          <li><a title="맥OS 카탈리나(Catalina) 기타볼륨" href="/programming/os/os_macos_catalina_other_volume.html">맥OS 카탈리나(Catalina) 기타볼륨</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="MarkDown" href="#">MarkDown</a>
+      <ul>
+          
+          
+          
+          <li><a title="VPC 환경에서 서버 생성" href="/compute/server/ncloud_server_vpc_create.html">VPC 환경에서 서버 생성</a></li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Jekyll" href="#">Jekyll</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Cloud Functions Action을 .Net (C#)을 사용하여 윈도우 명령프롬프트(cmd)에서 만드는 방법" href="/compute/cloud_functions/ncloud_server_cloud_functions_dotnet_csharp_cmd.html">Cloud Functions Action을 .Net (C#)을 사용하여 윈도우 명령프롬프트(cmd)에서 만드는 방법</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+
+  
+
+  
+  
+  
+  <li>
+      <a title="Tag archives" href="#">Tag archives</a>
+      <ul>
+          
+          
+          
+          <li><a title="Tag archives overview" href="/tag/tag_archives_overview.html">Tag archives overview</a></li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Game Tag pages" href="#">Game Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Ragnarok pages" href="/tag/tag_ragnarok.html">Ragnarok pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="LostArk pages" href="/tag/tag_lostark.html">LostArk pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Life Tag pages" href="#">Life Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Drama pages" href="/tag/tag_drama.html">Drama pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Ramantic pages" href="/tag/tag_romantic.html">Ramantic pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Alien pages" href="/tag/tag_alien.html">Alien pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Programming Tag pages" href="#">Programming Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="PHP pages" href="/tag/tag_php.html">PHP pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="AWS pages" href="/tag/tag_aws.html">AWS pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Linux pages" href="/tag/tag_linux.html">Linux pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="API pages" href="/tag/tag_api.html">API pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+
+
+  
+    <!-- if you aren't using the accordion, uncomment this block:
+       <p class="external">
+           <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+       </p>
+    -->
+</ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+
+
+            </div>
+            
+        
+
+        <!-- Content Column -->
+        <div class="col-md-9" id="tg-sb-content">
+            <div class="post-header-no">
+   <h1 class="post-title-main-no">AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법</h1>
+</div>
+
+
+
+<div class="post-content">
+
+   
+    <div class="summary">AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법입니다</div>
+   
+
+    
+    
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+});
+
+$("#toc_onoff").click(function() {  
+        $("#toc").toggle();
+        $("#tg-toc-icon").toggleClass('fa-toggle-on');
+        $("#tg-toc-icon").toggleClass('fa-toggle-off');
+
+});
+
+});
+</script>
+
+<p><span class="label label-warning" style="cursor:pointer" id="toc_onoff"><i id="tg-toc-icon" class="fas fa-toggle-on"></i> ToC on/off</span></p>
+<div id="toc"></div>
+
+
+
+    
+
+
+    
+
+   <h2 id="개요">개요</h2>
+<p>aws의 s3를 이용하면서 aws cli를 이용해 접근하는 경우가 있습니다.
+이럴 때 간혹 오류가 발생하는데 제가 최근에 겪었던 원인에 대해 알아보고 해결 방법을 찾아보겠습니다.</p>
+
+<h2 id="s3-cli">S3 cli</h2>
+<p>저는 DB서버에서 DB백업을 주기적으로 하면서 백업된 파일을 s3에 보관하는 이중백업을 설정해두었습니다.</p>
+
+<p>aws cli를 이용해서 s3로 백업하는 명령어는 대략 다음과 같습니다.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Linux</span>
+~# aws s3 <span class="nb">sync</span> /backup/dbback/ s3://db.back/db_back
+
+<span class="c"># Windows</span>
+ <span class="o">&gt;</span> aws s3 <span class="nb">sync </span>D:<span class="se">\D</span>BBack s3://db.back/
+</code></pre></div></div>
+
+<h2 id="오류-상황">오류 상황</h2>
+<p>그런데 한동안 바빠서 서버에 신경을 쓰지 못했다가 오래간만에 들어갔더니 s3로 백업된 데이터가 하나도 없는 것이었습니다.</p>
+
+<p>무슨일인지 궁금해서 이리저리 찾아보다가 s3로 백업하는 명령어를 직접 입력해보았더니 아래와 같은 메시지가 떴습니다.</p>
+
+<div class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>A client error (RequestTimeTooSkewed) occurred when calling the ListObjects operation:</b> The difference between the request time and the current time is too large.</div>
+
+<h2 id="오류-원인">오류 원인</h2>
+<p>그동안 s3를 이용하면서 오류가 한번도 없었기에 순간 살짝 당황했는데 오류 메시지를 자세히 살펴보니 해답이 있었습니다.</p>
+
+<p>우선 핵심 단어인 RequestTimeTooSkewed 를 잘 분석해보면 Request Time Too Skewed 로 나누어 볼 수 있습니다.
+요청 시간이 너무 어긋나 있다. 왜곡되었다. 이렇게 볼 수 있습니다.</p>
+
+<p>그리고, 그 아래에 좀 더 자세한 메시지가 있습니다.</p>
+
+<p><code class="language-plaintext highlighter-rouge">The difference between the request time and the current time is too large.</code></p>
+
+<p>즉, 요청한 시간(the request time)과 현재 시간(the current time)의 차이가 너무 크다라고 해석할 수 있겠습니다.</p>
+
+<div class="bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-2">결국 디비서버에서 aws s3로 요청한 시간과 현재시간(또는 aws s3의 시간) 사이에 차이가 커서 비정상적인 접근이라고 판단하는 것으로 보였습니다. 그래서 혹시나 해서 서버 시간을 살펴봤더니 실제 시간보다 15분 정도나 차이가 나는 것을 발견했습니다.</div>
+
+<h2 id="해결-방법">해결 방법</h2>
+<p>분명 서버에서 시간을 자동으로 동기화 하도록 설정해두었는데 무슨 일인지 차이가 생겼더군요. 그래서 <strong>서버 시간을 수동으로 동기화</strong>하고 나서 명령을 실행하니 문제가 없이 잘 작동했습니다.</p>
+
+<p>이래서 서버 관리는 아무리 바빠도 주기적으로 해야 한다는 것을 다시 한번 뼈저리게 느꼈습니다.</p>
+
+<h2 id="참고-문서">참고 문서</h2>
+<p>실제로 aws s3 오류 메시지 도움말에 보면 잘 나옵니다.</p>
+
+<p><a href="https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/API/ErrorResponses.html" target="_blank">https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/API/ErrorResponses.html</a></p>
+
+<p>해당 항목을 살펴보니 이렇게 서버 시간과 너무 차이가 커서 오류로 판단하는 경우라고 확인되었습니다.</p>
+
+<div class="bs-callout-v2 bs-callout-v2-danger bs-callout-v2-level-3">RequestTimeTooSkewed : The difference between the request time and the server’s time is too large. : 403 Forbidden : Client</div>
+
+
+
+    <div class="tags">
+        
+        <b>Tags: </b>
+        
+        
+        
+        <a href="/tag/tag_aws.html" class="btn btn-default navbar-btn cursorNorm" role="button">aws</a>
+        
+        
+        
+        <a href="/tag/tag_s3.html" class="btn btn-default navbar-btn cursorNorm" role="button">s3</a>
+        
+        
+        
+    </div>
+
+
+
+
+
+
+
+</div>
+
+<hr class="shaded"/>
+
+<footer>
+            <div class="row">
+                <div class="col-lg-12 footer">
+               &copy;2022 Copyright 2022 @cloudlog.kr. All rights reserved. <br />
+<span>Page last updated:</span> 2022-02-22<br/> Site last generated: 2022-03-28 <br />
+
+                </div>
+            </div>
+</footer>
+
+
+
+
+
+
+        </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+</div>
+<!-- /#main -->
+    </div>
+
+</body>
+
+</html>
+
+

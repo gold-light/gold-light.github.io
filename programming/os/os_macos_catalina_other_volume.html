@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="kr">
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="keywords" content="mac,  programming, os, macOS, Volume">
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<meta name="generator" content="Jekyll v4.2.1" />
+<meta property="og:title" content="맥OS 카탈리나(Catalina) 기타볼륨(읽기 전용 볼륨)의 정체" />
+<meta property="og:locale" content="ko_KR" />
+<meta property="og:description" content="Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements yo..." />
+<link rel="canonical" href="https://gold-light.github.io/programming/os/os_macos_catalina_other_volume.html" />
+<meta property="og:url" content="https://gold-light.github.io/programming/os/os_macos_catalina_other_volume.html" />
+<meta property="og:site_name" content="Simple Life Cloud Log" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="맥OS 카탈리나(Catalina) 기타볼륨(읽기 전용 볼륨)의 정체" />
+<script type="application/ld+json">
+{"url":"https://gold-light.github.io/programming/os/os_macos_catalina_other_volume.html","@type":"WebPage","description":"Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features.","headline":"맥OS 카탈리나(Catalina) 기타볼륨(읽기 전용 볼륨)의 정체","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+<title>맥OS 카탈리나(Catalina) 기타볼륨(읽기 전용 볼륨)의 정체 | Simple Life Cloud Log</title>
+<link rel="stylesheet" href="/css/syntax.css">
+
+<link rel="stylesheet" href="/fontawesome/css/all.min.css"/>
+<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+<link rel="stylesheet" href="/css/modern-business.css">
+<!-- Latest compiled and minified CSS -->
+<!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"-->
+<!--link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"-->
+<link rel="stylesheet" href="/css/customstyles.css">
+<link rel="stylesheet" href="/css/boxshadowproperties.css">
+<!-- most color styles are extracted out to here -->
+<link rel="stylesheet" href="/css/theme-blue.css">
+
+<script src="/js/jquery.341.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script-->
+
+<script src="/js/jquery.cookie.141.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script-->
+<script src="/js/jquery.navgoco.min.js"></script>
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="/js/bootstrap.341.min.js"></script>
+<!--script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script-->
+<!--script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script-->
+<!-- Anchor.js -->
+<script src="/js/anchor.420.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js"></script-->
+<script src="/js/toc.js"></script>
+<script src="/js/customscripts.js"></script>
+
+<link rel="shortcut icon" href="/images/favicon.ico">
+
+
+<link rel="alternate" type="application/rss+xml" title="Simple Life Cloud Log" href="https://gold-light.github.io/feed.xml">
+
+
+
+    <script>
+        $(document).ready(function() {
+            // Initialize navgoco with default options
+            $("#mysidebar").navgoco({
+                caretHtml: '',
+                accordion: true,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
+
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', true);
+            });
+
+        });
+
+    </script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+        });
+    </script>
+    
+
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container topnavlinks">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="fa fa-home fa-lg navbar-brand" href="/index.html">&nbsp;<span class="projectTitle"> Simple Life Cloud Log</span></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <!-- toggle sidebar button -->
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
+                <!-- entries without drop-downs appear here -->
+
+
+
+
+                
+                
+                
+                <li><a href="/programming/php/php_sql_injection_function.html">프로그래밍</a></li>
+                
+                
+                
+                <li><a href="/category/game/pcgame.html">게임</a></li>
+                
+                
+                
+                <li><a href="/category/life/drama.html">일상</a></li>
+                
+                
+                
+                <!-- entries with drop-downs appear here -->
+                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+                
+                
+                                
+                <!--comment out this block if you want to hide search-->
+                <li>
+                    <!--start search-->
+                    <div id="search-demo-container">
+                        <input type="text" id="search-input" placeholder="search...">
+                        <ul id="results-container"></ul>
+                    </div>
+                    <script src="/js/jekyll-search.js" type="text/javascript"></script>
+                    <script type="text/javascript">
+                            SimpleJekyllSearch.init({
+                                searchInput: document.getElementById('search-input'),
+                                resultsContainer: document.getElementById('results-container'),
+                                dataSource: '/search.json',
+                                searchResultTemplate: '<li><a href="{url}" title="맥OS 카탈리나(Catalina) 기타볼륨(읽기 전용 볼륨)의 정체">{title}</a></li>',
+                    noResultsText: 'No results found.',
+                            limit: 10,
+                            fuzzy: true,
+                    })
+                    </script>
+                    <!--end search-->
+                </li>
+            </ul>
+        </div>
+        </div>
+        <!-- /.container -->
+</nav>
+
+
+
+<!-- Page Content -->
+<div class="container">
+  <div id="main">
+    <!-- Content Row -->
+    <div class="row">
+        
+        
+            <!-- Sidebar Column -->
+            <div class="col-md-3" id="tg-sb-sidebar">
+                
+
+<ul id="mysidebar" class="nav">
+  <li class="sidebarTitle">Programming 1.0</li>
+  
+  
+  
+  <li>
+      <a title="PHP" href="#">PHP</a>
+      <ul>
+          
+          
+          
+          <li><a title="PHP SQL Injection 방지 코드" href="/programming/php/php_sql_injection_function.html">PHP SQL Injection 방지 코드</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="윤년 계산 하는 방법" href="/programming/php/php_leap_year_with_asp.html">윤년 계산 하는 방법</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PHPExcel 최신판 PhpSpreadsheet" href="/programming/php/php_phpspreadsheet_introduce.html">PHPExcel 최신판 PhpSpreadsheet</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 행 높이 설정하기" href="/programming/php/php_phpspreadsheet_row_height.html">PhpSpreadsheet 행 높이 설정하기</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 셀 서식 문자 지정" href="/programming/php/php_phpspreadsheet_cell_datatype_string.html">PhpSpreadsheet 셀 서식 문자 지정</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet ERR_INVALID_RESPONSE 오류" href="/programming/php/php_phpspreadsheet_err_invalid_response.html">PhpSpreadsheet ERR_INVALID_RESPONSE 오류</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="API" href="#">API</a>
+      <ul>
+          
+          
+          
+          <li><a title="UniPass 오픈API" href="/programming/api/api_unipass_openapi_introduce.html">UniPass 오픈API</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="AWS" href="#">AWS</a>
+      <ul>
+          
+          
+          
+          <li><a title="AWS bitnami LAMP 설정하기" href="/programming/aws/aws_bitnami_lamp_setting_guide.html">AWS bitnami LAMP 설정하기</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="S3 cli RequestTimeTooSkewed 에러" href="/programming/aws/aws_s3_cli_time_different_error_troubleshooting.html">S3 cli RequestTimeTooSkewed 에러</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="OS" href="#">OS</a>
+      <ul>
+          
+          
+          
+          <li class="active"><a title="맥OS 카탈리나(Catalina) 기타볼륨" href="/programming/os/os_macos_catalina_other_volume.html">맥OS 카탈리나(Catalina) 기타볼륨</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="MarkDown" href="#">MarkDown</a>
+      <ul>
+          
+          
+          
+          <li><a title="VPC 환경에서 서버 생성" href="/compute/server/ncloud_server_vpc_create.html">VPC 환경에서 서버 생성</a></li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Jekyll" href="#">Jekyll</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Cloud Functions Action을 .Net (C#)을 사용하여 윈도우 명령프롬프트(cmd)에서 만드는 방법" href="/compute/cloud_functions/ncloud_server_cloud_functions_dotnet_csharp_cmd.html">Cloud Functions Action을 .Net (C#)을 사용하여 윈도우 명령프롬프트(cmd)에서 만드는 방법</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+
+  
+
+  
+  
+  
+  <li>
+      <a title="Tag archives" href="#">Tag archives</a>
+      <ul>
+          
+          
+          
+          <li><a title="Tag archives overview" href="/tag/tag_archives_overview.html">Tag archives overview</a></li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Game Tag pages" href="#">Game Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Ragnarok pages" href="/tag/tag_ragnarok.html">Ragnarok pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="LostArk pages" href="/tag/tag_lostark.html">LostArk pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Life Tag pages" href="#">Life Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Drama pages" href="/tag/tag_drama.html">Drama pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Ramantic pages" href="/tag/tag_romantic.html">Ramantic pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Alien pages" href="/tag/tag_alien.html">Alien pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Programming Tag pages" href="#">Programming Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="PHP pages" href="/tag/tag_php.html">PHP pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="AWS pages" href="/tag/tag_aws.html">AWS pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Linux pages" href="/tag/tag_linux.html">Linux pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="API pages" href="/tag/tag_api.html">API pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+
+
+  
+    <!-- if you aren't using the accordion, uncomment this block:
+       <p class="external">
+           <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+       </p>
+    -->
+</ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+
+
+            </div>
+            
+        
+
+        <!-- Content Column -->
+        <div class="col-md-9" id="tg-sb-content">
+            <div class="post-header-no">
+   <h1 class="post-title-main-no">맥OS 카탈리나(Catalina) 기타볼륨(읽기 전용 볼륨)의 정체</h1>
+</div>
+
+
+
+<div class="post-content">
+
+   
+    <div class="summary">맥OS 카탈리나(Catalina)에 새로 생긴 읽기 전용 시스템 볼륨, 기타볼륨(Other Volume)에 대해 알아보겠습니다 </div>
+   
+
+    
+
+
+    
+
+   <h2 id="개요">개요</h2>
+<p>아이맥이나 맥북을 사용하면서 최신 OS 카탈리나로 업데이트 한 후에 저랑 비슷하게 당황스러운 경험을 하신 분들이 있을거라 생각이 들어 조금 정리해보았습니다.</p>
+
+<p>아이맥에서 카탈리나로 업데이트 한 후에 몇일 사용하다보니 디스크 용량이 부족하다는 메시지를 접하게 되었습니다.
+그래서 디스크 유틸리티로 확인해보았더니 기타볼륨이라고 해서 알수 없는 공간이 상당한 양을 차지하고 있었습니다.
+게다가 왼쪽 디스크 구분에 “…-데이터” 라고 하는 조금 의아한 디스크도 추가되어 있어서 몹시 당황스러웠습니다.</p>
+
+<figure><img class="docimage" src="/images/programming/os/os_macos_catalina_other_volume.jpg" alt="맥OS 카탈리나(Catalina) 기타볼륨(읽기 전용 볼륨)의 정체" style="width: 850px; max-width: 100%" /></figure>
+
+<p>결국 구글에서 맥OS 카탈리나 기타볼륨 등으로 검색을 열심히 해보았더니 디스크 클린 유틸리티 등으로 사용하지 않는 파일 등을 삭제해야 해결된다는 이야기만 가득했습니다.</p>
+
+<p>실제로 디스크 정리 앱등을 사용해봐도 전혀 변화가 없었고, 매우 난감한 상황에서 우연히 “…- 데이터” 디스크의 정보를 살펴보다 마운트 위치가 “/System/Volumes/Data”라는 것을 확인하고 저 내용으로 검색을 해보았습니다.</p>
+
+<p>그랬더니 아래와 같은 애플의 공식 가이드 문서를 발견하게 되었습니다.</p>
+
+<div class="bs-callout bs-callout-info bs-callout-level-2">[macOS Catalina의 읽기 전용 시스템 볼륨에 관하여] <br /><br />macOS Catalina는 Mac의 다른 파일과는 별도로 읽기 전용 시스템 볼륨에서 실행됩니다. Catalina로 업그레이드하면 또 하나의 볼륨이 생성되고 일부 파일은 재배치된 항목 폴더로 이동될 수 있습니다. 
+<br />macOS Catalina는 Macintosh HD라는 읽기 전용의 전용 시스템 볼륨에서 실행됩니다. 이 볼륨은 다른 모든 데이터와 완전히 분리되어 중요한 운영 체제 파일을 실수로 덮어쓰는 것을 방지합니다. 파일과 데이터는 Macintosh HD - 데이터라는 다른 볼륨에 저장됩니다. Finder에서는 두 볼륨 모두 Macintosh HD로 나타납니다.
+<br /><br />공식 가이드 문서 링크: <a href="https://support.apple.com/ko-kr/HT210650" target="_blank">https://support.apple.com/ko-kr/HT210650</a>
+</div>
+
+<p>다시 말해 중요한 시스템 영역이나 데이터 영역에는 사용자가 접근할 수 없도록 읽기 전용으로 구성되어 있다는 내용이었습니다.</p>
+
+<p>그래서 혹시나 이 기타볼륨 영역이 차지하는 공간이 커서 디스크 공간이 부족하다면 디스크 정리가 아니라 새로운 디스크를 추가하거나 더 큰 용량의 디스크로 교체하는 것이 좋아 보입니다.</p>
+
+<p>또한 OS 재설치나 포맷을 할 경우 기본 디스크 뿐만 아니라 “…- 데이터” 디스크 부분도 함께 삭제를 한 후에 파티션을 잡아주면 된다고 합니다.</p>
+
+
+    <div class="tags">
+        
+        <b>Tags: </b>
+        
+        
+        
+        <a href="/tag/tag_mac.html" class="btn btn-default navbar-btn cursorNorm" role="button">mac</a>
+        
+        
+        
+    </div>
+
+
+
+
+
+
+
+</div>
+
+<hr class="shaded"/>
+
+<footer>
+            <div class="row">
+                <div class="col-lg-12 footer">
+               &copy;2022 Copyright 2022 @cloudlog.kr. All rights reserved. <br />
+<span>Page last updated:</span> 2021-11-13<br/> Site last generated: 2022-03-28 <br />
+
+                </div>
+            </div>
+</footer>
+
+
+
+
+
+
+        </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+</div>
+<!-- /#main -->
+    </div>
+
+</body>
+
+</html>
+
+
