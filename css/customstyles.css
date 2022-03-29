@@ -1418,3 +1418,16 @@ img.docimage{
 .seriescontext ol li {
     list-style-type: upper-roman;
 }
+
+
+@media screen and (max-width:991px)
+{
+    #tg-sb-sidebar {display: none;}    
+    #tg-sb-content {width:100%};
+}
+
+@media screen and (min-width:992px)
+{
+    #tg-sb-sidebar {display: inline;}
+    #tg-sb-content {width:75%};
+}

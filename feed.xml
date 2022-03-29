@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Simple Life Cloud Log</title>
-        <description>Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features.</description>
+        <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 Mar 2022 19:21:44 +0900</pubDate>
-        <lastBuildDate>Mon, 28 Mar 2022 19:21:44 +0900</lastBuildDate>
+        <pubDate>Tue, 29 Mar 2022 23:38:05 +0900</pubDate>
+        <lastBuildDate>Tue, 29 Mar 2022 23:38:05 +0900</lastBuildDate>
         <generator>Jekyll v4.2.1</generator>
         
         <item>
@@ -411,7 +411,7 @@
 
 &lt;p&gt;복사 캐릭터다 보니 언데드에 대한 방어력이 대단히 높아서 데미지가 거의 1, 간혹 2 정도밖에 입지 않아서 생기는 현상인데, 그때 복사 캐릭터로 게임 하시던 분들의 소소한 재미의 작은 놀이(?)였습니다.&lt;/p&gt;
 
-&lt;p&gt;20년 전이라니 정말 까마득한 옛날 일이네요. ^_^&lt;/p&gt;
+&lt;p&gt;거의 20년 전이라니 정말 까마득한 옛날 일이네요. ^_^&lt;/p&gt;
 
 &lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/ragnarok/ragnarok_online_acolyte_laser_show_01.jpg&quot; alt=&quot;라그나로크 온라인에서 방어력이 높은 복사(Acolyte)가 페이욘에서 데미지 1의 레이저쇼를 보여주는 모습&quot; style=&quot;width: 800px; &quot; /&gt;&lt;/figure&gt;
 
