@@ -5,9 +5,9 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Mar 2022 23:38:05 +0900</pubDate>
-        <lastBuildDate>Tue, 29 Mar 2022 23:38:05 +0900</lastBuildDate>
-        <generator>Jekyll v4.2.1</generator>
+        <pubDate>Wed, 30 Mar 2022 22:17:43 +0900</pubDate>
+        <lastBuildDate>Wed, 30 Mar 2022 22:17:43 +0900</lastBuildDate>
+        <generator>Jekyll v4.2.2</generator>
         
         <item>
             <title>[넷플릭스] 일본 드라마 리스트 - 2022년 3월 기준</title>
@@ -313,7 +313,9 @@
 
 &lt;h2 id=&quot;플레이-영상&quot;&gt;플레이 영상&lt;/h2&gt;
 
-&lt;iframe width=&quot;845&quot; height=&quot;420&quot; src=&quot;https://www.youtube-nocookie.com/embed/BP9WKimaxt8&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;div class=&quot;video-wrap&quot;&gt;
+    &lt;iframe width=&quot;845&quot; height=&quot;420&quot; src=&quot;https://www.youtube-nocookie.com/embed/BP9WKimaxt8&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;영웅-상세-능력치와-스킬&quot;&gt;영웅 상세 능력치와 스킬&lt;/h2&gt;
 
