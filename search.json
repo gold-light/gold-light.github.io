@@ -7,7 +7,7 @@
 "title": "유니패스 오픈API 신청, 가이드 정보 통관정보 조회, 개인통관고유부호 검증",
 "tags": "api",
 "keywords": "programming, API, OpenAPI, UniPass",
-"url": "/programming/api/api_unipass_openapi_introduce.html",
+"url": "/programming/api/api-unipass-openapi-introduce.html",
 "summary": "수출입화물의 화물통관정보 조회나 수입신고 개인통관고유부호 검증할 때 이용하는 유니패스(UniPass)의 OpenApi 소개입니다"
 }
 ,
@@ -18,7 +18,7 @@
 "title": "AWS bitnami LAMP 설정하기 (apache, php, mysql)",
 "tags": "awslamplinuxubuntuapachephpmysqldatabase",
 "keywords": "programming, Linux, 아파치",
-"url": "/programming/aws/aws_bitnami_lamp_setting_guide.html",
+"url": "/programming/aws/aws-bitnami-lamp-setting-guide.html",
 "summary": "AWS bitnami LAMP (ubuntu, apache, php, mysql) 설정하는 방법입니다"
 }
 ,
@@ -29,7 +29,7 @@
 "title": "AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법",
 "tags": "awss3",
 "keywords": "programming, 아마존",
-"url": "/programming/aws/aws_s3_cli_time_different_error_troubleshooting.html",
+"url": "/programming/aws/aws-s3-cli-time-different-error-troubleshooting.html",
 "summary": "AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법입니다"
 }
 ,
@@ -58,7 +58,7 @@
 "title": "맥OS 카탈리나(Catalina) 기타볼륨(읽기 전용 볼륨)의 정체",
 "tags": "mac",
 "keywords": "programming, os, macOS, Volume",
-"url": "/programming/os/os_macos_catalina_other_volume.html",
+"url": "/programming/os/os-macos-catalina-other-volume.html",
 "summary": "맥OS 카탈리나(Catalina)에 새로 생긴 읽기 전용 시스템 볼륨, 기타볼륨(Other Volume)에 대해 알아보겠습니다"
 }
 ,
@@ -73,7 +73,7 @@
 "title": "윤년 계산하는 방법 PHP, ASP",
 "tags": "phpasp",
 "keywords": "programming, asp, leap year",
-"url": "/programming/php/php_leap_year_with_asp.html",
+"url": "/programming/php/php-leap-year-with-asp.html",
 "summary": "PHP와 ASP에서 윤년을 계산하는 방법입니다"
 }
 ,
@@ -84,7 +84,7 @@
 "title": "PhpSpreadsheet 셀 서식 텍스트(문자)로 지정하기",
 "tags": "phpexcel",
 "keywords": "programming, php, excel",
-"url": "/programming/php/php_phpspreadsheet_cell_datatype_string.html",
+"url": "/programming/php/php-phpspreadsheet-cell-datatype-string.html",
 "summary": "PhpSpreadsheet 셀 서식을 텍스트(문자)로 지정하는 방법입니다"
 }
 ,
@@ -95,7 +95,7 @@
 "title": "PHPExcel, PhpSpreadsheet에서 ERR_INVALID_RESPONSE 오류 해결 방법",
 "tags": "phpexcelerror",
 "keywords": "programming, PHP, Excel, Error",
-"url": "/programming/php/php_phpspreadsheet_err_invalid_response.html",
+"url": "/programming/php/php-phpspreadsheet-err-invalid-response.html",
 "summary": "PHPExcel 또는 PhpSpreadsheet을 사용할 때 발생하는 ERR_INVALID_RESPONSE 오류를 해결 방법입니다"
 }
 ,
@@ -106,7 +106,7 @@
 "title": "PHP 엑셀파일 업로드, 다운로드 솔루션 PHPExcel 최신판 PhpSpreadsheet",
 "tags": "phpexcel",
 "keywords": "programming, php, excel",
-"url": "/programming/php/php_phpspreadsheet_introduce.html",
+"url": "/programming/php/php-phpspreadsheet-introduce.html",
 "summary": "PHP 엑셀파일 업로드, 다운로드 솔루션 PHPExcel 최신판 PhpSpreadsheet"
 }
 ,
@@ -117,7 +117,7 @@
 "title": "PhpSpreadsheet 엑셀 셀서식 행 높이 설정하기",
 "tags": "phpexcel",
 "keywords": "programming, php, excel",
-"url": "/programming/php/php_phpspreadsheet_row_height.html",
+"url": "/programming/php/php-phpspreadsheet-row-height.html",
 "summary": "PhpSpreadsheet 엑셀 셀서식 중에서 행 높이 설정하는 방법입니다"
 }
 ,
@@ -128,7 +128,7 @@
 "title": "PHP SQL Injection 방지 코드",
 "tags": "phpsql_injection",
 "keywords": "php, programming",
-"url": "/programming/php/php_sql_injection_function.html",
+"url": "/programming/php/php-sql-injection-function.html",
 "summary": "PHP SQL Injection 방지 코드, 지정된 형식의 문자만 입력 받는 함수입니다"
 }
 ,
@@ -185,7 +185,7 @@
 "title": "[넷플릭스] 일본 드라마 리스트 - 2022년 3월 기준",
 "tags": "dramanetflix",
 "keywords": "Netflix, drama, japan",
-"url": "/life/drama/japan/netflix_japan_drama_list_202203.html",
+"url": "/life/drama/japan/netflix-japan-drama-list-202203.html",
 "summary": ""
 }
 ,
@@ -195,7 +195,7 @@
 "title": "[낭만닥터 김사부] 시즌2 성추행, 성폭력을 로맨스로 미화하는 잘못된 습관이 또 나타나다",
 "tags": "dramaromantic",
 "keywords": "romantic, doctor, 한석규, 서현진",
-"url": "/life/drama/korea/romantic_doctor_teacher_kim_04.html",
+"url": "/life/drama/korea/romantic-doctor-teacher-kim-04.html",
 "summary": ""
 }
 ,
@@ -205,7 +205,7 @@
 "title": "[일본어 공부] ～をもって VS ～を限りに 비교",
 "tags": "japan",
 "keywords": "japanese, grammer, difference",
-"url": "/life/language/japanese/grammer_difference_womotte_wokagirini.html",
+"url": "/life/language/japanese/grammer-difference-womotte-wokagirini.html",
 "summary": ""
 }
 ,
@@ -215,7 +215,7 @@
 "title": "타워 디펜스 추천 게임 Alien Creeps TD 소개, 리뷰",
 "tags": "aliendefense",
 "keywords": "tower defense, defense",
-"url": "/game/defense/alien_creeps_introduce.html",
+"url": "/game/defense/alien-creeps-introduce.html",
 "summary": ""
 }
 ,
@@ -225,7 +225,7 @@
 "title": "라그나로크 온라인 페이욘 복사 레이저쇼",
 "tags": "ragnarok",
 "keywords": "Ragnarok, Acolyte",
-"url": "/game/ragnarok/ragnarok_online_acolyte_laser_show.html",
+"url": "/game/ragnarok/ragnarok-online-acolyte-laser-show.html",
 "summary": ""
 }
 ,
@@ -235,7 +235,7 @@
 "title": "[로스트아크] 잊혀진 자들의 도시 : 잊혀진 보물상자 위치 정보",
 "tags": "lostark",
 "keywords": "LostArk, Tip",
-"url": "/game/lostark/lostark_forgotten_box.html",
+"url": "/game/lostark/lostark-forgotten-box.html",
 "summary": ""
 }
 

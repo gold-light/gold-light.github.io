@@ -4,24 +4,25 @@
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="">
-<meta name="keywords" content=" ">
+<meta name="description" content="수출입화물의 화물통관정보 조회나 수입신고 개인통관고유부호 검증할 때 이용하는 유니패스(UniPass)의 OpenApi 소개입니다">
+<meta name="keywords" content="api,  programming, API, OpenAPI, UniPass">
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="Page Not Found" />
+<meta property="og:title" content="유니패스 오픈API 신청, 가이드 정보 통관정보 조회, 개인통관고유부호 검증" />
 <meta property="og:locale" content="ko_KR" />
-<meta property="og:description" content="Simple Life Cloud Log Blog" />
-<link rel="canonical" href="https://cloudlog.kr/404.html" />
-<meta property="og:url" content="https://cloudlog.kr/404.html" />
+<meta property="og:description" content="수출입화물의 화물통관정보 조회나 수입신고 개인통관고유부호 검증할 때 이용하는 유니패스(UniPass)의 OpenApi 소개입니다" />
+<link rel="canonical" href="https://cloudlog.kr/programming/api/api-unipass-openapi-introduce.html" />
+<meta property="og:url" content="https://cloudlog.kr/programming/api/api-unipass-openapi-introduce.html" />
 <meta property="og:site_name" content="Simple Life Cloud Log" />
-<meta property="og:type" content="website" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-01-04T00:00:00+09:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Page Not Found" />
+<meta property="twitter:title" content="유니패스 오픈API 신청, 가이드 정보 통관정보 조회, 개인통관고유부호 검증" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Simple Life Cloud Log Blog","headline":"Page Not Found","url":"https://cloudlog.kr/404.html"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"수출입화물의 화물통관정보 조회나 수입신고 개인통관고유부호 검증할 때 이용하는 유니패스(UniPass)의 OpenApi 소개입니다","headline":"유니패스 오픈API 신청, 가이드 정보 통관정보 조회, 개인통관고유부호 검증","url":"https://cloudlog.kr/programming/api/api-unipass-openapi-introduce.html"}</script>
 <!-- End Jekyll SEO tag -->
 
-<title>Page Not Found | Cloud Log</title>
+<title>유니패스 오픈API 신청, 가이드 정보 통관정보 조회, 개인통관고유부호 검증 | Cloud Log</title>
 <link rel="stylesheet" href="/css/syntax.css">
 
 <link rel="stylesheet" href="/fontawesome/css/all.min.css"/>
@@ -166,7 +167,7 @@
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
                                 dataSource: '/search.json',
-                                searchResultTemplate: '<li><a href="{url}" title="Page Not Found">{title}</a></li>',
+                                searchResultTemplate: '<li><a href="{url}" title="유니패스 오픈API 신청, 가이드 정보 통관정보 조회, 개인통관고유부호 검증">{title}</a></li>',
                     noResultsText: 'No results found.',
                             limit: 10,
                             fuzzy: true,
@@ -255,7 +256,7 @@
           
           
           
-          <li><a title="UniPass 오픈API" href="/programming/api/api-unipass-openapi-introduce.html">UniPass 오픈API</a></li>
+          <li class="active"><a title="UniPass 오픈API" href="/programming/api/api-unipass-openapi-introduce.html">UniPass 오픈API</a></li>
           
           
           
@@ -429,7 +430,7 @@
         <!-- Content Column -->
         <div class="col-md-9" id="tg-sb-content">
             <div class="post-header-no">
-   <h1 class="post-title-main-no">Page Not Found</h1>
+   <h1 class="post-title-main-no">유니패스 오픈API 신청, 가이드 정보 통관정보 조회, 개인통관고유부호 검증</h1>
 </div>
 
 
@@ -437,16 +438,175 @@
 <div class="post-content">
 
    
+    <div class="summary">수출입화물의 화물통관정보 조회나 수입신고 개인통관고유부호 검증할 때 이용하는 유니패스(UniPass)의 OpenApi 소개입니다</div>
+   
 
     
 
 
     
 
-   <p>Sorry, but the page you were trying to view does not exist. Try searching for it or looking at the URL to see if it looks correct.</p>
+   <h2 id="개요">개요</h2>
+<p>수출입화물의 화물통관정보 조회나 수입신고 개인통관고유부호 검증을 하려고 할 때 관세청에서 운영하는 유니패스(UniPass)사이트에서 직접 조회를 할 수도 있지만 
+각 쇼핑몰 사이트 등에서 해당 기능을 만들어서 제공하려고 할 때는 유니패스에서 제공하는 Open API를 활용하면 됩니다.</p>
+
+<h2 id="사용-신청">사용 신청</h2>
+<p>일단 유니패스 사이트 주소는 다음과 같습니다.</p>
+
+<p><a href="https://unipass.customs.go.kr/" target="_blank">https://unipass.customs.go.kr/</a></p>
+
+<figure><img class="docimage" src="/images/programming/api/api_unipass_openapi_01.jpg" alt="유니패스 오픈API 신청, 가이드 정보 : 통관정보 조회, 개인통관고유부호 검증" style="width: 850px; max-width: 100%" /></figure>
+
+<p>유니패스 사이트에 접속해서 회원 가입을 한 이후에 오른쪽 상단에 있는 My메뉴에 들어가시면 [서비스 관리] - [OpenAPI 사용관리] 메뉴가 있습니다.</p>
+
+<p>현재는 총 30건의 오픈API를 제공하고 있고, 화면 오른쪽 하단에 보면 [연계가이드 다운로드]와 [Open API 신청] 버튼이 있습니다.</p>
+
+<p>우선 필요한 항목의 API를 선택해서 신청 버튼을 누르면 바로 승인이 완료되고 필요한 인증키 등의 정보가 제공됩니다.</p>
+
+<h2 id="openapi-목록">OpenAPI 목록</h2>
+<p>현재 제공되는 OpenAPI 목록은 다음과 같습니다.</p>
+
+<ul>
+  <li>
+    <p>화물통관 : 진행정보 수입화물의 일반정보와 진행상태별 정보 제공</p>
+  </li>
+  <li>
+    <p>수출신고번호별 수출이행 내역 : 수출신고번호별 수출이행내역 및 잔량 정보 제공</p>
+  </li>
+  <li>
+    <p>수출입요건 승인 내역 :  수출입화물의 요건승인내역 정보 제공</p>
+  </li>
+  <li>
+    <p>검사검역 : 내역 수출입 화물의 검사/검역 정보 제공</p>
+  </li>
+  <li>
+    <p>장치장 정보 : 보세구역 부호 및 주소 정보 제공</p>
+  </li>
+  <li>
+    <p>화물운송주선업자 목록 : 화물운송주선업자 부호 및 상호 정보 제공</p>
+  </li>
+  <li>
+    <p>화물운송주선업자 내역 : 화물운송주선업자 주소, 전화번호 등 정보 제공</p>
+  </li>
+  <li>
+    <p>항공사 목록 : 항공사 부호 정보 제공</p>
+  </li>
+  <li>
+    <p>항공사 내역 : 항공사 부호, 상호, 주소 등 상세 정보 제공</p>
+  </li>
+  <li>
+    <p>통관고유부호 : 통관고유부호 및 상호 정보 제공</p>
+  </li>
+  <li>
+    <p>해외공급자부호 : 해외공급자 부호 및 상호 정보 제공</p>
+  </li>
+  <li>
+    <p>관세확율 정보 : 관세확율 정보 제공</p>
+  </li>
+  <li>
+    <p>관세사 목록 : 관세사 부호 및 상호 정보 제공</p>
+  </li>
+  <li>
+    <p>관세사 내역 : 관세사 부호 및 전화번호등 상세 정보 제공</p>
+  </li>
+  <li>
+    <p>간이정액 환급율표 : 간이정액환급율 정보 제공</p>
+  </li>
+  <li>
+    <p>간이정액 적용/비적용 업체 : 간이정액 환급 적용/비적용 업체 정보 제공</p>
+  </li>
+  <li>
+    <p>수출이행기간 단축대상 품목 : 수출이행기간 단축대상 품목 정보 제공</p>
+  </li>
+  <li>
+    <p>HS부호 :HS 정보 제공</p>
+  </li>
+  <li>
+    <p>통계부호 : 내국세율, 관세 감면/분납부호 등 통계부호 제공</p>
+  </li>
+  <li>
+    <p>컨테이너내역조회 : 컨테이너번호, 규격, 봉인번호 제공</p>
+  </li>
+  <li>
+    <p>입항보고내역조회 : 적하목록관리번호, 호출번호 등 입항정보 제공</p>
+  </li>
+  <li>
+    <p>수입신고필증검증 : 수입신고필증 검증 여부 제공</p>
+  </li>
+  <li>
+    <p>보세운송차량등록내역 : 보세운송차량등록내역 조회 제공</p>
+  </li>
+  <li>
+    <p>입출항보고내역조회 : 입출항보고내역 조회 제공</p>
+  </li>
+  <li>
+    <p>통관단일창구 처리이력 : 통관단일창구 처리이력 조회</p>
+  </li>
+  <li>
+    <p>선박회사 목록 : 선박회사 부호 정보 제공</p>
+  </li>
+  <li>
+    <p>선박회사 내역 : 선박회사 부호, 상호, 주소 등 상세 정보 제공</p>
+  </li>
+  <li>
+    <p>수입신고 개인통관고유부호 검증 : 수입신고 개인통관고유부호 검증 제공</p>
+  </li>
+  <li>
+    <p>세관장확인대상 물품조회 : 세관장확인대상 물품조회 제공</p>
+  </li>
+  <li>
+    <p>관세율 기본 조회 : 관세율 기본조회 제공</p>
+  </li>
+</ul>
+
+<p><br />
+연계가이드를 다운로드 받으면 압축파일인데 압축을 풀면 아래와 같이 MS워드 문서와 PDF문서 2가지가 제공됩니다.</p>
+
+<figure><img class="docimage" src="/images/programming/api/api_unipass_openapi_02.jpg" alt="유니패스 오픈API 신청, 가이드 정보 : 통관정보 조회, 개인통관고유부호 검증" style="width: 658px; " /></figure>
+
+<h2 id="이용-방법">이용 방법</h2>
+<p>이용하는 방법은 가이드에 자세히 나와있지만 간단하게 살펴보면</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code>https://unipass.customs.go.kr:38010/ext/rest/cargCsclPrgsInfoQry/retrieveCargCsclPrgsInfo?crkyCn=인증키<span class="err">&amp;</span>cargMtNo=
+</code></pre></div></div>
+
+<p>이런식으로 REST 방식으로 위 URL 형식으로 인증키와 필요한 정보를 전달하면 값이 반환됩니다.</p>
+
+<p>반환되는 형식은 XML형식으로 간단하게 살펴보면 다음과 같습니다.</p>
+
+<div class="language-xml highlighter-rouge"><div class="highlight"><pre class="highlight"><code> <span class="cp">&lt;?xml version="1.0" encoding="UTF-8" standalone="yes" ?&gt;</span>  
+
+ <span class="nt">&lt;cargCsclPrgsInfoQryRtnVo&gt;</span> <span class="nt">&lt;ntceInfo/&gt;</span>
+
+   <span class="nt">&lt;cargCsclPrgsInfoQryVo&gt;</span>
+
+     <span class="nt">&lt;csclPrgsStts&gt;</span>수입신고수리<span class="nt">&lt;/csclPrgsStts&gt;</span>
+
+     <span class="nt">&lt;vydf/&gt;</span>
+
+     <span class="nt">&lt;rlseDtyPridPassTpcd&gt;</span>N<span class="nt">&lt;/rlseDtyPridPassTpcd&gt;</span>
+
+     <span class="nt">&lt;prnm&gt;</span>MAG****LAY<span class="nt">&lt;/prnm&gt;</span>
+
+     <span class="nt">&lt;ldprCd&gt;</span>D****K<span class="nt">&lt;/ldprCd&gt;</span>
+
+      <span class="nt">&lt;agnc/&gt;</span>
+
+    <span class="nt">&lt;/cargCsclPrgsInfoQryVo&gt;</span>
+
+  <span class="nt">&lt;tCnt&gt;</span>8<span class="nt">&lt;/tCnt&gt;</span> 
+</code></pre></div></div>
 
 
     <div class="tags">
+        
+        <b>Tags: </b>
+        
+        
+        
+        <a href="/tag/tag-api.html" class="btn btn-default navbar-btn cursorNorm" role="button">api</a>
+        
+        
         
     </div>
 
@@ -464,7 +624,7 @@
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy;2022 Copyright 2022 @CLOUDLOG.KR. All rights reserved. <br />
- Site last generated: 2022-04-02 <br />
+<span>Page last updated:</span> 2022-01-04<br/> Site last generated: 2022-04-02 <br />
 
                 </div>
             </div>
