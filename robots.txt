@@ -1,1 +1,3 @@
 Sitemap: https://cloudlog.kr/sitemap.xml
+Disallow: /tag/
+Disallow: /category/
