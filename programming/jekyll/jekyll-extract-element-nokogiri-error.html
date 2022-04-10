@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="jekyll 4.x에서 jekyll-extract-element 0.0.7, nokogiri 버전 오류 해결 방법입니다">
+<meta name="keywords" content="markdownjekyll,  programming, markdown, 지킬">
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="jekyll 4.x jekyll-extract-element, nokogiri 버전 오류 해결 방법" />
+<meta property="og:locale" content="ko_KR" />
+<meta property="og:description" content="jekyll 4.x에서 jekyll-extract-element 0.0.7, nokogiri 버전 오류 해결 방법입니다" />
+<link rel="canonical" href="https://cloudlog.kr/programming/jekyll/jekyll-extract-element-nokogiri-error.html" />
+<meta property="og:url" content="https://cloudlog.kr/programming/jekyll/jekyll-extract-element-nokogiri-error.html" />
+<meta property="og:site_name" content="Simple Life Cloud Log" />
+<meta property="og:image" content="https://cloudlog.kr/imagesprogramming/jekyll/jekyll-extract-element-nokogiri-error-10.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-04-09T00:00:00+09:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://cloudlog.kr/imagesprogramming/jekyll/jekyll-extract-element-nokogiri-error-10.png" />
+<meta property="twitter:title" content="jekyll 4.x jekyll-extract-element, nokogiri 버전 오류 해결 방법" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"jekyll 4.x에서 jekyll-extract-element 0.0.7, nokogiri 버전 오류 해결 방법입니다","headline":"jekyll 4.x jekyll-extract-element, nokogiri 버전 오류 해결 방법","image":"https://cloudlog.kr/imagesprogramming/jekyll/jekyll-extract-element-nokogiri-error-10.png","url":"https://cloudlog.kr/programming/jekyll/jekyll-extract-element-nokogiri-error.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+<title>jekyll 4.x jekyll-extract-element, nokogiri 버전 오류 해결 방법 | Cloud Log</title>
+<link rel="stylesheet" href="/css/syntax.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+<link href="/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="/fontawesome/css/v4.7.css" rel="stylesheet">
+<link rel="stylesheet" href="/css/modern-business.css">
+<!-- Latest compiled and minified CSS -->
+<!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"-->
+<!--link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"-->
+<link rel="stylesheet" href="/css/customstyles.css">
+<link rel="stylesheet" href="/css/boxshadowproperties.css">
+<!-- most color styles are extracted out to here -->
+<link rel="stylesheet" href="/css/theme-blue.css">
+
+
+
+<script src="/js/jquery.341.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script-->
+
+<script src="/js/jquery.cookie.141.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script-->
+<script src="/js/jquery.navgoco.min.js"></script>
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="/js/bootstrap.341.min.js"></script>
+<!--script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script-->
+<!--script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script-->
+<!-- Anchor.js -->
+<script src="/js/anchor.420.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js"></script-->
+<script src="/js/toc.js"></script>
+<script src="/js/customscripts.js"></script>
+
+<link rel="shortcut icon" href="/images/favicon.ico">
+
+
+<link rel="alternate" type="application/rss+xml" title="Simple Life Cloud Log" href="https://cloudlog.kr/feed.xml">
+
+
+
+    <script>
+        $(document).ready(function() {
+            // Initialize navgoco with default options
+            $("#mysidebar").navgoco({
+                caretHtml: '',
+                accordion: true,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
+
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', true);
+            });
+
+        });
+
+    </script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+        });
+    </script>
+    
+
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container topnavlinks">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="fa fa-home fa-lg navbar-brand" href="/">&nbsp;<span class="projectTitle"> Simple Life Cloud Log</span></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <!-- toggle sidebar button -->
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on fa-lg"></i> 카테고리</a></li>
+                <!-- entries without drop-downs appear here -->
+
+
+
+
+                
+                
+                
+                <li><a href="/programming/php/php-sql-injection-function.html">프로그래밍</a></li>
+                
+                
+                
+                <li><a href="/category/game/pcgame.html">게임</a></li>
+                
+                
+                
+                <li><a href="/category/life/drama.html">일상</a></li>
+                
+                
+                
+                <!-- entries with drop-downs appear here -->
+                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+                
+                
+                                
+                <!--comment out this block if you want to hide search-->
+                <li>
+                    <!--start search-->
+                    <div id="search-demo-container">
+                        <input type="text" id="search-input" placeholder="search...">
+                        <ul id="results-container"></ul>
+                    </div>
+                    <script src="/js/jekyll-search.js"></script>
+                    <script>
+                            SimpleJekyllSearch.init({
+                                searchInput: document.getElementById('search-input'),
+                                resultsContainer: document.getElementById('results-container'),
+                                dataSource: '/search.json',
+                                searchResultTemplate: '<li><a href="{url}" title="jekyll 4.x jekyll-extract-element, nokogiri 버전 오류 해결 방법">{title}</a></li>',
+                    noResultsText: 'No results found.',
+                            limit: 10,
+                            fuzzy: true,
+                    })
+                    </script>
+                    <!--end search-->
+                </li>
+            </ul>
+        </div>
+        </div>
+        <!-- /.container -->
+</nav>
+
+
+
+<!-- Page Content -->
+<div class="container">
+  <div id="main">
+    <!-- Content Row -->
+    <div class="row">
+        
+        
+            <!-- Sidebar Column -->
+            <div class="col-md-3" id="tg-sb-sidebar">
+                
+
+<ul id="mysidebar" class="nav">
+  <li class="sidebarTitle">Programming 1.0</li>
+  
+  
+  
+  <li>
+      <a title="PHP" href="#">PHP</a>
+      <ul>
+          
+          
+          
+          <li><a title="PHP SQL Injection 방지 코드" href="/programming/php/php-sql-injection-function.html">PHP SQL Injection 방지 코드</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="윤년 계산 하는 방법" href="/programming/php/php-leap-year-with-asp.html">윤년 계산 하는 방법</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PHPExcel 최신판 PhpSpreadsheet" href="/programming/php/php-phpspreadsheet-introduce.html">PHPExcel 최신판 PhpSpreadsheet</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 행 높이 설정하기" href="/programming/php/php-phpspreadsheet-row-height.html">PhpSpreadsheet 행 높이 설정하기</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 셀 서식 문자 지정" href="/programming/php/php-phpspreadsheet-cell-datatype-string.html">PhpSpreadsheet 셀 서식 문자 지정</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet ERR-INVALID-RESPONSE 오류" href="/programming/php/php-phpspreadsheet-err-invalid-response.html">PhpSpreadsheet ERR-INVALID-RESPONSE 오류</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="API" href="#">API</a>
+      <ul>
+          
+          
+          
+          <li><a title="UniPass 오픈API" href="/programming/api/api-unipass-openapi-introduce.html">UniPass 오픈API</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="AWS" href="#">AWS</a>
+      <ul>
+          
+          
+          
+          <li><a title="AWS bitnami LAMP 설정하기" href="/programming/aws/aws-bitnami-lamp-setting-guide.html">AWS bitnami LAMP 설정하기</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="S3 cli RequestTimeTooSkewed 에러" href="/programming/aws/aws-s3-cli-time-different-error-troubleshooting.html">S3 cli RequestTimeTooSkewed 에러</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="Jekyll" href="#">Jekyll</a>
+      <ul>
+          
+          
+          
+          <li class="active"><a title="jekyll 4.x jekyll-extract-element 오류" href="/programming/jekyll/jekyll-extract-element-nokogiri-error.html">jekyll 4.x jekyll-extract-element 오류</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="OS" href="#">OS</a>
+      <ul>
+          
+          
+          
+          <li><a title="맥OS 카탈리나(Catalina) 기타볼륨" href="/programming/os/os-macos-catalina-other-volume.html">맥OS 카탈리나(Catalina) 기타볼륨</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+
+  
+
+  
+  
+  
+  <li>
+      <a title="Tag archives" href="#">Tag archives</a>
+      <ul>
+          
+          
+          
+          <li><a title="Tag archives overview" href="/tag/tag-archives_overview.html">Tag archives overview</a></li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Game Tag pages" href="#">Game Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Ragnarok pages" href="/tag/tag-ragnarok.html">Ragnarok pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="LostArk pages" href="/tag/tag-lostark.html">LostArk pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Life Tag pages" href="#">Life Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Drama pages" href="/tag/tag-drama.html">Drama pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Ramantic pages" href="/tag/tag-romantic.html">Ramantic pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Alien pages" href="/tag/tag-alien.html">Alien pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Programming Tag pages" href="#">Programming Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="PHP pages" href="/tag/tag-php.html">PHP pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="AWS pages" href="/tag/tag-aws.html">AWS pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Linux pages" href="/tag/tag-linux.html">Linux pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="API pages" href="/tag/tag-api.html">API pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+
+
+  
+    <!-- if you aren't using the accordion, uncomment this block:
+       <p class="external">
+           <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+       </p>
+    -->
+</ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+
+
+            </div>
+            
+        
+
+        <!-- Content Column -->
+        <div class="col-md-9" id="tg-sb-content">
+            <div class="post-header-no">
+   <h1 class="post-title-main-no">jekyll 4.x jekyll-extract-element, nokogiri 버전 오류 해결 방법</h1>
+</div>
+
+
+
+<div class="post-content">
+
+   
+    <div class="summary">jekyll 4.x에서 jekyll-extract-element 0.0.7, nokogiri 버전 오류 해결 방법입니다</div>
+   
+
+    
+    
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+});
+
+$("#toc_onoff").click(function() {  
+        $("#toc").toggle();
+        $("#tg-toc-icon").toggleClass('fa-toggle-on');
+        $("#tg-toc-icon").toggleClass('fa-toggle-off');
+
+});
+
+});
+</script>
+
+<p><span class="label label-warning" style="cursor:pointer" id="toc_onoff"><i id="tg-toc-icon" class="fas fa-toggle-on"></i> ToC on/off</span></p>
+<div id="toc"></div>
+
+
+
+    
+
+
+    
+
+   <h2 id="개요">개요</h2>
+<p>Jekyll로 정적인 웹사이트를 만들면서 <strong>Ruby 3.x</strong>와 <strong>Jekyll 4.x</strong> 버전으로 업그레이드 할 때 테마(템플릿)에 따라 
+일부 호환되지 않는 gem에서 오류가 발생해 고생하는 경우가 많습니다. 그 중에서 오늘은 <strong>nokogiri</strong> gem을 사용하는 
+<code class="language-plaintext highlighter-rouge">jekyll-extract-element 0.0.7</code> 버전 문제를 해결하고 <code class="language-plaintext highlighter-rouge">0.0.8</code> 버전을 사용하는 방법을 정리해 보겠습니다.</p>
+
+<h2 id="환경">환경</h2>
+<ul>
+  <li>테마: Base Theme by CloudCannon</li>
+  <li>Ruby: 3.0.3 p157 (2021-11-24 revision 3fb7d2cadc) [x64-mingw32]</li>
+  <li>jekyll: 4.2.2</li>
+  <li>편집기: Visual Studio Code</li>
+</ul>
+
+<h2 id="base-테마-소개">Base 테마 소개</h2>
+<p>CloudCannon에서 제작한 Base 테마는 Tutorial이나 고객센터, 기술문서 등에 사용하면 좋은 테마입니다.</p>
+<ul>
+  <li>Base Theme by CloudCannon: <a href="https://cloudcannon.com/community/themes/base/" target="_blank" style="word-break:break-all;">https://cloudcannon.com/community/themes/base/</a></li>
+</ul>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-extract-element-nokogiri-error-11.png" alt="jekyll Base Theme by CloudCannon 스크린샷" style="width: 845px; " /></figure>
+
+<h2 id="오류-상황">오류 상황</h2>
+<p>jekyll-extract-element는 HTML에서 특정 Element를 추출해주는 gem으로 Base 테마에서는 기본적으로 0.0.7 버전을 사용합니다.<br />
+이 상태에서 <code class="language-plaintext highlighter-rouge">Ruby 3.0, Jekyll 4.2.2</code>를 사용하고 <strong>bundle exec jekyll serve</strong> 명령어를 실행하면 다음과 같은 오류가 발생합니다.</p>
+
+<h3 id="gemfile-설정">Gemfile 설정</h3>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">group</span> <span class="ss">:jekyll_plugins</span> <span class="k">do</span>
+	<span class="n">gem</span> <span class="s1">'jekyll-extract-element'</span><span class="p">,</span> <span class="s1">'0.0.7'</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-extract-element-nokogiri-error-01.png" alt="jekyll 4.x에서 jekyll-extract-element 0.0.7, nokogiri 버전 오류 해결 방법" style="width: 845px; " /></figure>
+
+<h3 id="오류-메시지">오류 메시지</h3>
+<p>bundle exec jekyll serve 명령어를 실행해보면 jekyll-extract-element gem은 jekyll 3.x 버전에서만 실행된다는 메시지를 확인할 수 있습니다.</p>
+
+<div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">PS</span><span class="w"> </span><span class="nx">E:\jekyll\base-jekyll-template-main\base-jekyll-template-main</span><span class="err">&gt;</span><span class="w"> </span><span class="nx">bundle</span><span class="w"> </span><span class="nx">exec</span><span class="w"> </span><span class="nx">jekyll</span><span class="w"> </span><span class="nx">serve</span><span class="w">
+</span><span class="n">Bundler</span><span class="w"> </span><span class="nx">could</span><span class="w"> </span><span class="nx">not</span><span class="w"> </span><span class="nx">find</span><span class="w"> </span><span class="nx">compatible</span><span class="w"> </span><span class="nx">versions</span><span class="w"> </span><span class="nx">for</span><span class="w"> </span><span class="nx">gem</span><span class="w"> </span><span class="s2">"jekyll"</span><span class="p">:</span><span class="w">
+  </span><span class="kr">In</span><span class="w"> </span><span class="n">Gemfile:</span><span class="w">
+    </span><span class="nx">jekyll</span><span class="w"> </span><span class="p">(</span><span class="n">~</span><span class="err">&gt;</span><span class="w"> </span><span class="nx">4.2.1</span><span class="p">)</span><span class="w">
+
+    </span><span class="n">jekyll-extract-element</span><span class="w"> </span><span class="p">(</span><span class="n">~</span><span class="err">&gt;</span><span class="w"> </span><span class="nx">0.0.7</span><span class="p">)</span><span class="w"> </span><span class="n">was</span><span class="w"> </span><span class="nx">resolved</span><span class="w"> </span><span class="nx">to</span><span class="w"> </span><span class="nx">0.0.7</span><span class="p">,</span><span class="w"> </span><span class="nx">which</span><span class="w"> </span><span class="nx">depends</span><span class="w"> </span><span class="nx">on</span><span class="w">
+      </span><span class="n">jekyll</span><span class="w"> </span><span class="p">(</span><span class="n">~</span><span class="err">&gt;</span><span class="w"> </span><span class="nx">3.3</span><span class="p">)</span><span class="w">
+</span></code></pre></div></div>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-extract-element-nokogiri-error-02.png" alt="jekyll 4.x에서 jekyll-extract-element 0.0.7, nokogiri 버전 오류 해결 방법" style="width: 845px; " /></figure>
+
+<h2 id="rubygem-최신-버전">RubyGem 최신 버전</h2>
+<p>RubyGem 공식 사이트 (<a href="https://rubygems.org/gems/jekyll-extract-element/" target="_blank" style="word-break:break-all;">https://rubygems.org/gems/jekyll-extract-element/</a>)에서 jekyll-extract-element 버전을 확인해보면 0.0.7이 최신 버전이라는 것을 확인할 수 있습니다. 그렇다면 해결 방법이 없는 것일까 고민하다 여기저기 검색을 해보았습니다.</p>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-extract-element-nokogiri-error-03.png" alt="jekyll 4.x에서 jekyll-extract-element 0.0.7, nokogiri 버전 오류 해결 방법" style="width: 845px; " /></figure>
+
+<h2 id="jekyll-extract-element-ver-008">jekyll-extract-element ver 0.0.8</h2>
+<p>google에서 검색을 하다 Base 테마를 만든 <strong>CloudCannon에서 0.0.8 버전을 GitHub에 공개</strong>한 것을 발견했습니다.</p>
+<ul>
+  <li>CloudCannon GitHub: <a href="https://github.com/CloudCannon/jekyll-extract-element" target="_blank" style="word-break:break-all;">https://github.com/CloudCannon/jekyll-extract-element</a></li>
+</ul>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-extract-element-nokogiri-error-04.png" alt="jekyll 4.x에서 jekyll-extract-element 0.0.7, nokogiri 버전 오류 해결 방법" style="width: 845px; " /></figure>
+
+<h3 id="다운로드">다운로드</h3>
+<p>jekyll-extract-element 0.0.8 버전을 다운로드 받고 압축을 풀어보면 다음과 같이 핵심 파일인 <code class="language-plaintext highlighter-rouge">jekyll-extract-element.gemspec</code>을 확인할 수 있습니다.</p>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-extract-element-nokogiri-error-05.png" alt="jekyll 4.x에서 jekyll-extract-element 0.0.7, nokogiri 버전 오류 해결 방법" style="width: 845px; " /></figure>
+
+<h2 id="gem-build-하기">gem build 하기</h2>
+<p>gem 파일 소스 즉, gamspec 파일을 이용해서 gem 파일을 만드는 명령어는 다음과 같습니다.<br />
+그런데 결과를 보면 build에는 성공하지만 dependency 관련해서 추천하는 버전이 아니라는 메시지가 나타납니다.</p>
+
+<div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">gem</span><span class="w"> </span><span class="nx">build</span><span class="w"> </span><span class="nx">jekyll-extract-element.gemspec</span><span class="w">
+</span></code></pre></div></div>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-extract-element-nokogiri-error-06.png" alt="jekyll 4.x에서 jekyll-extract-element 0.0.7, nokogiri 버전 오류 해결 방법" style="width: 845px; " /></figure>
+
+<h2 id="gem-소스-수정">gem 소스 수정</h2>
+<p>물론 이상태로 설치해서 사용해도 문제는 없지만 혹시 모르는 오류 메시지를 없애기 위해 gem 파일 소스를 일부 수정해보겠습니다.<br />
+<code class="language-plaintext highlighter-rouge">jekyll-extract-element.gemspec</code> 파일을 열어서 소스 중에서 오류 메시지가 나타났던 <strong>jekyll, nokogiri, rake</strong> 이 세가지의 버전을 현재 사용 중인 버전으로 수정합니다.</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="no">Gem</span><span class="o">::</span><span class="no">Specification</span><span class="p">.</span><span class="nf">new</span> <span class="k">do</span> <span class="o">|</span><span class="n">s</span><span class="o">|</span>
+  <span class="n">s</span><span class="p">.</span><span class="nf">add_dependency</span> <span class="s2">"jekyll"</span><span class="p">,</span> <span class="s2">"~&gt; 4.2.1"</span>
+  <span class="n">s</span><span class="p">.</span><span class="nf">add_dependency</span> <span class="s2">"nokogiri"</span><span class="p">,</span> <span class="s2">"~&gt; 1.13.3"</span>
+
+  <span class="n">s</span><span class="p">.</span><span class="nf">add_development_dependency</span> <span class="s2">"rake"</span><span class="p">,</span> <span class="s2">"~&gt; 13.0.6"</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-extract-element-nokogiri-error-07.png" alt="jekyll 4.x에서 jekyll-extract-element 0.0.7, nokogiri 버전 오류 해결 방법" style="width: 845px; " /></figure>
+
+<h2 id="gem-최종-build">gem 최종 build</h2>
+<p>수정을 마쳤으면 다시 build를 해봅니다. 이제는 오류 없이 빌드가 완료되고 <code class="language-plaintext highlighter-rouge">jekyll-extract-element-0.0.8.gem</code> 파일이 생성된 것을 확인할 수 있습니다.</p>
+
+<div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">gem</span><span class="w"> </span><span class="nx">build</span><span class="w"> </span><span class="nx">jekyll-extract-element.gemspec</span><span class="w">
+</span></code></pre></div></div>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-extract-element-nokogiri-error-08.png" alt="jekyll 4.x에서 jekyll-extract-element 0.0.7, nokogiri 버전 오류 해결 방법" style="width: 845px; " /></figure>
+
+<h2 id="gem-설치">gem 설치</h2>
+<p>이제 gem을 설치합니다. 문제 없이 잘 설치됩니다.</p>
+
+<div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">gem</span><span class="w"> </span><span class="nx">install</span><span class="w"> </span><span class="nx">jekyll-extract-element-0.0.8.gem</span><span class="w">
+</span></code></pre></div></div>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-extract-element-nokogiri-error-09.png" alt="jekyll 4.x에서 jekyll-extract-element 0.0.7, nokogiri 버전 오류 해결 방법" style="width: 845px; " /></figure>
+
+<h2 id="최종-확인">최종 확인</h2>
+<p>이제 Base 테마 폴더로 이동해서 Gemfile을 수정하고 bundle exec jekyll serve 명령어로 사이트를 띄웁니다.<br />
+문제 없이 잘 실행되는 것을 확인할 수 있습니다.</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">group</span> <span class="ss">:jekyll_plugins</span> <span class="k">do</span>
+	<span class="n">gem</span> <span class="s1">'jekyll-extract-element'</span><span class="p">,</span> <span class="s1">'0.0.8'</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-extract-element-nokogiri-error-10.png" alt="jekyll 4.x에서 jekyll-extract-element 0.0.7, nokogiri 버전 오류 해결 방법" style="width: 845px; " /></figure>
+
+<div class="alert alert-info" role="alert"><i class="fa fa-info-circle"></i> <b>실행 디렉터리 오류:</b> 간혹 저와 같이 gem 설치 후에 base 테마 디렉터리로 이동한 후에 bundle exec jekyll serve 명령어를 실행해야 하는데 gem build, install 후에 jekyll-extract-element 디렉터리에서 그대로 실행하고는 왜 안될까 고민하는 일이 없도록 꼭 디렉터리를 이동하시기 바랍니다. ^^ </div>
+
+<h2 id="로컬-gem-파일-위치-수동-지정">로컬 gem 파일 위치 수동 지정</h2>
+<p>혹시 gem 파일 설치가 잘 안되거나 할 경우 build된 gem 파일을 위치를 아래와 같이 Gemfile에서 수동으로 지정할 수 있습니다.</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">group</span> <span class="ss">:jekyll_plugins</span> <span class="k">do</span>  
+  <span class="n">gem</span> <span class="s1">'jekyll-extract-element'</span><span class="p">,</span> <span class="s1">'0.0.8'</span><span class="p">,</span> <span class="ss">path: </span><span class="s2">"E:/jekyll/jekyll-extract-element-master/jekyll-extract-element-master"</span>
+<span class="k">end</span>
+</code></pre></div></div>
+
+<h2 id="참고-url">참고 URL</h2>
+<ol>
+  <li>Base Theme by CloudCannon
+    <ul>
+      <li><a href="https://cloudcannon.com/community/themes/base/" target="_blank" style="word-break:break-all;">https://cloudcannon.com/community/themes/base/</a></li>
+    </ul>
+  </li>
+  <li>RubyGem 공식 사이트
+    <ul>
+      <li><a href="https://rubygems.org/gems/jekyll-extract-element/" target="_blank" style="word-break:break-all;">https://rubygems.org/gems/jekyll-extract-element/</a></li>
+    </ul>
+  </li>
+  <li>CloudCannon GitHub
+    <ul>
+      <li><a href="https://github.com/CloudCannon/jekyll-extract-element" target="_blank" style="word-break:break-all;">https://github.com/CloudCannon/jekyll-extract-element</a></li>
+    </ul>
+  </li>
+</ol>
+
+
+    <div class="tags">
+        
+        <b>Tags: </b>
+        
+        
+        
+        <a href="/tag/tag-markdown.html" class="btn btn-default navbar-btn cursorNorm" role="button">markdown</a>
+        
+        
+        
+        <a href="/tag/tag-jekyll.html" class="btn btn-default navbar-btn cursorNorm" role="button">jekyll</a>
+        
+        
+        
+    </div>
+
+
+
+
+
+
+
+</div>
+
+<hr class="shaded"/>
+
+<footer>
+            <div class="row">
+                <div class="col-lg-12 footer">
+               &copy;2022 Copyright 2022 @CLOUDLOG.KR. All rights reserved. <br />
+<span>Page last updated:</span> 2022-04-09<br/> Site last generated: 2022-04-10 <br />
+
+                </div>
+            </div>
+</footer>
+
+
+
+
+
+
+        </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+</div>
+<!-- /#main -->
+</div>
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JNK63BTKXN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JNK63BTKXN');
+</script>
+
+
+
+
+
+<!-- Naver Analytics -->
+<script src="//wcs.naver.net/wcslog.js"></script>
+<script>
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "1352844e1f81670";
+if(window.wcs) {
+  wcs_do();
+}
+</script>
+
+
+</body>
+</html>
+
+
