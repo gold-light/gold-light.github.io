@@ -5,9 +5,31 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 Apr 2022 13:21:35 +0900</pubDate>
-        <lastBuildDate>Sun, 10 Apr 2022 13:21:35 +0900</lastBuildDate>
+        <pubDate>Sun, 10 Apr 2022 22:18:14 +0900</pubDate>
+        <lastBuildDate>Sun, 10 Apr 2022 22:18:14 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>残業(ざんぎょう), 夜勤(やきん) 차이점 | 일본어 공부</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;보통 업무시간이 끝나고 저녁에 근무하는 것을 우리는 야근이라고 합니다. 그런데 잔업이라는 단어를 쓰는 곳도 있기는 합니다.&lt;br /&gt;
+우리 나라에서는 야근은 저녁에 하는 시간 외 근무를 지칭하고, 잔업은 시간에 관계 없이 업무 시간 이후에 하는 근무를 경우를 나타내는 경우가 많은 듯합니다.  그런데 일본에서는 조금 다르게 사용하는 것 같아서 찾아봤습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;残業-ざんぎょう&quot;&gt;残業 (ざんぎょう)&lt;/h2&gt;
+&lt;p&gt;정해진 근무 시간 이후에 추가로 일을 하는 것으로 우리가 알고 있는 일반적인 야근을 뜻한다고 합니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;夜勤-やきん&quot;&gt;夜勤 (やきん)&lt;/h2&gt;
+&lt;p&gt;병원이나 공장 등의 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;교대 근무제도가 있는 곳에서 심야 시간에 근무하는 것&lt;/code&gt;으로 &lt;strong&gt;2교대, 3교대 등으로 돌아가며 근무하는 직장에서 심야 시간대에 근무하는 것&lt;/strong&gt;을 뜻한다고 합니다.&lt;br /&gt;
+이때 심야 시간이라는 것의 정의는 일본 노동기준법 61조에 [오후 10시 ~ 오전 5시까지]라고 정의되어 있으며, 25% 이상의 추가 수당을 지급해야 한다고 합니다.&lt;/p&gt;
+</description>
+            <pubDate>Sat, 09 Apr 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/life/language/japanese/grammer-difference-zanngixyou-yakinn.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/grammer-difference-zanngixyou-yakinn.html</guid>
+            
+            <category>japan</category>
+            
+            
+        </item>
         
         <item>
             <title>카카오페이지 오디오 드라마 소개</title>
@@ -846,28 +868,6 @@
             <category>alien</category>
             
             <category>defense</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>라그나로크 온라인 페이욘 복사 레이저쇼</title>
-            <description>&lt;p&gt;대략 2002년 즈음, 라그나로그 온라인에 대규모 패치가 적용되기 전 페이욘 던전에서 레이저쇼를 펼치고 있던 복사(Acolyte) 캐릭터의 모습입니다.&lt;/p&gt;
-
-&lt;p&gt;복사 캐릭터다 보니 언데드에 대한 방어력이 대단히 높아서 데미지가 거의 1, 간혹 2 정도밖에 입지 않아서 생기는 현상인데, 그때 복사 캐릭터로 게임 하시던 분들의 소소한 재미의 작은 놀이(?)였습니다.&lt;/p&gt;
-
-&lt;p&gt;거의 20년 전이라니 정말 까마득한 옛날 일이네요. ^_^&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/ragnarok/ragnarok_online_acolyte_laser_show_01.jpg&quot; alt=&quot;라그나로크 온라인에서 방어력이 높은 복사(Acolyte)가 페이욘에서 데미지 1의 레이저쇼를 보여주는 모습&quot; style=&quot;width: 800px; &quot; /&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/ragnarok/ragnarok_online_acolyte_laser_show_02.jpg&quot; alt=&quot;라그나로크 온라인에서 방어력이 높은 복사(Acolyte)가 페이욘에서 데미지 1의 레이저쇼를 보여주는 모습&quot; style=&quot;width: 800px; &quot; /&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/ragnarok/ragnarok-online-acolyte-laser-show.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/ragnarok/ragnarok-online-acolyte-laser-show.html</guid>
-            
-            <category>ragnarok</category>
             
             
         </item>
