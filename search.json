@@ -62,17 +62,6 @@
 
 
 {
-"title": "jekyll-seo-tag gem template 수정하기 | Ruby 3.0",
-"tags": "markdownjekyll",
-"keywords": "programming, markdown, 지킬, 루비",
-"url": "/programming/jekyll/jekyll-seo-tag-gem-edit.html",
-"summary": "Ruby 3.0 환경에서 jekyll-seo-tag gem 템플릿 파일 위치에 대한 정보입니다."
-}
-,
-
-
-
-{
 "title": "Jekyll robots.txt 템플릿 수정하기 | Ruby 3.0",
 "tags": "markdownjekyll",
 "keywords": "programming, markdown, 지킬, 루비",
