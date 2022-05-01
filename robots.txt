@@ -1,4 +1,6 @@
 Sitemap: https://cloudlog.kr/sitemap.xml
+
 User-agent: *
 Disallow: /tag/
 Disallow: /category/
+Allow: /

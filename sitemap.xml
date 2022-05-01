@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2022-05-01T19:15:06+09:00</lastmod>
+    <lastmod>2022-05-01T23:00:43+09:00</lastmod>
   </url>
   
   
@@ -17,7 +17,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/life/animation/2022/04/26/summer-days-with-coo.html</loc>
+    <loc>https://cloudlog.kr/life/animation/ova/summer-days-with-coo.html</loc>
   
     <lastmod>2022-04-26T00:00:00+09:00</lastmod>
     
@@ -217,6 +217,10 @@
   
 
 
+  
+  
+  
+  
   
   
   
@@ -424,6 +428,16 @@
   
   
   
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/programming/os/windows-command-util-config.html</loc>
+
+    <lastmod>2022-05-01T00:00:00+09:00</lastmod>
+    
+       
+  </url>
   
   
 </urlset>
