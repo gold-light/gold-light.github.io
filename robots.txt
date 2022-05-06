@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /tag/
-Disallow: /category/
 Allow: /
 
 User-agent: Baiduspider
