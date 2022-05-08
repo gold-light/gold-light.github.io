@@ -5,9 +5,67 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 May 2022 00:54:46 +0900</pubDate>
-        <lastBuildDate>Fri, 06 May 2022 00:54:46 +0900</lastBuildDate>
+        <pubDate>Sun, 08 May 2022 21:43:04 +0900</pubDate>
+        <lastBuildDate>Sun, 08 May 2022 21:43:04 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>쿠팡이츠 배달파트너 1주차 수입 정산 공유, 입금, 세금, 산재보험</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;2020년 10월 말&lt;/code&gt;에 쿠팡이츠 배달파트너 등록하고 활동을 시작하고 1주일 정도 후에 정산 받았던 첫번째 정산 내용을 다시 정리해보았습니다.&lt;/p&gt;
+
+&lt;p&gt;쿠팡이츠는 매달 1일부터 7일 단위의 수익을 그 다음 7일 후 즉 14일에 정산해주기에 
+10월 20일(화) 저녁부터 시작한 저는 10월 21일까지의 수익을 10월 28일에 정산 받았습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;정산-금액&quot;&gt;정산 금액&lt;/h2&gt;
+&lt;p&gt;10월 20일 저녁부터 배달을 시작해서 20일은 1건, 다음 날인 21일은 5건으로 총 6건의 배달수수료를 입금 받았습니다.&lt;br /&gt;
+거기에 처음 가입 후 수강했던 안전교육 비용 2만원을 추가해서 총 4만원 정도의 금액이 입금되었습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/coupang-eats-delivery-first-income.jpg&quot; alt=&quot;쿠팡이츠 배달파트너로 활동하고 맨 처음 받았던 1주차 수입 정산 금액과 세금, 그리고 산재보험 금액을 정리해보았습니다&quot; style=&quot;width: 800px; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;원천징수-세금&quot;&gt;원천징수 세금&lt;/h3&gt;
+&lt;p&gt;쿠팡이츠 또는 배달의민족 등의 배달로 받게 되는 &lt;strong&gt;위탁수수료는&lt;/strong&gt; 일용근로소득이 아닌, &lt;strong&gt;사업소득(프리랜서)&lt;/strong&gt;에 해당됩니다.&lt;br /&gt;
+그러므로 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;원천징수 금액은 사업소득 원천징수에 해당하는 [3.3%] (소득세 3% + 주민세 0.3%)가 공제&lt;/code&gt;되고 지급됩니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;산재보험&quot;&gt;산재보험&lt;/h3&gt;
+&lt;p&gt;산재보험은 선 공제를 한 다음 산재보험 가입 대상이 아니면 다음 달 1차 정산 날짜에 환급 받게 됩니다.&lt;br /&gt;
+산재보험 금액은 초기에는 수익금의 일정 비율로 공제되었으나 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;현재는 월 15,190원이 공제되는 방식으로 변경&lt;/code&gt;&lt;/strong&gt;되었다고 합니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;정산-상세-내역&quot;&gt;정산 상세 내역&lt;/h2&gt;
+&lt;p&gt;정산 받은 금액을 다시 상세하게 정리해보겠습니다.&lt;/p&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-2&quot;&gt;
+⁃ 배달 건수: 6건 &lt;br /&gt;
+⁃ 배달 수입: 21,950원 &lt;br /&gt;
+⁃ 안전교육비용: 20,000원 &lt;br /&gt;
+⁃ 소득세 (3%): 1,250원 (10원 미만 절사) &lt;br /&gt;
+⁃ 주민세 (0.3%): 120원 (10원 미만 절사)  &lt;br /&gt;
+⁃ 산재보험: 400원 (2020년 기준 금액)&lt;br /&gt;
+⁃ 총 공제금액: 1,770원 &lt;br /&gt;
+⁃ 최종 정산금액: 40,180원 &lt;br /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;산재보험료&quot;&gt;산재보험료&lt;/h2&gt;
+&lt;p&gt;개인이 부담하는 금액은 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;월 15,190원&lt;/code&gt;입니다 (&lt;strong&gt;2021년 7월1일&lt;/strong&gt;부터 적용)&lt;/p&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
+다만, 산재보험 가입 조건에 해당하는 전속성에 해당되지 않을 경우 산재보험에 자동 가입되지 않으며, &lt;br /&gt;
+&lt;strong&gt;선공제된 보험료는 익월 즉, 다음 달 1차 정산일에 환급&lt;/strong&gt;됩니다.
+&lt;/div&gt;
+
+&lt;h3 id=&quot;전속성-기준&quot;&gt;전속성 기준&lt;/h3&gt;
+&lt;p&gt;산재보험 가입 조건이 되는 전속성 기준은 매월1일~말일까지의 &lt;strong&gt;배달업무 수행 시간이 월 93시간 이상 또는 월 1,150,000원 이상의 수익&lt;/strong&gt;을 지급 받은 배달파트너입니다.&lt;/p&gt;
+
+&lt;p&gt;다음에는 쿠팡이츠에 요청해서 받은 상세 정산 내역서를 살펴보겠습니다.&lt;/p&gt;
+</description>
+            <pubDate>Wed, 04 May 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/life/diary/sidejob-coupang-eats-delivery-first-income.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/life/diary/sidejob-coupang-eats-delivery-first-income.html</guid>
+            
+            <category>coupang</category>
+            
+            
+        </item>
         
         <item>
             <title>한자 一 를 いつ로 읽는 경우 | 일본어 공부</title>
@@ -577,52 +635,6 @@
             <pubDate>Sun, 17 Apr 2022 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/life/language/japanese/kanzi-yomikata-saku-sa.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/kanzi-yomikata-saku-sa.html</guid>
-            
-            <category>japan</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>初 (はつ, しょ) 한자 읽는법 読み方 | 일본어 공부</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;일본어 한자 初는 初め(はじめ), 初めて(はじめて)등으로 많이 사용되지만, 다른 한자와 함께 복합어로 사용될 때에는 대표적으로 2가지 발음 はつ, しょ로 읽게 됩니다. 
-이 2가지가 자주 헷갈리기도 하고 시험에도 많이 나오는데 한번 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;初-はつ로-읽는-경우&quot;&gt;初 (はつ)로 읽는 경우&lt;/h2&gt;
-&lt;p&gt;はつ로 읽는 경우는 다음과 같은 단어에 사용될 때입니다.&lt;/p&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-• &lt;strong&gt;初恋(はつこい) : 첫사랑&lt;/strong&gt;&lt;br /&gt;
-• 初舞台(はつぶたい) : 첫무대&lt;br /&gt;
-• 初耳(はつみみ) : 처음 듣는 일&lt;br /&gt;
-• 初詣(はつもうで) : 일본에서 새해 첫날 절이나 신사에 참배하러 가는 것&lt;br /&gt;
-• 初旅(はつたび) : 첫여행&lt;br /&gt;
-• 初登場(はつとうじょう) : 첫등장
-&lt;/div&gt;
-
-&lt;h2 id=&quot;初-しょ로-읽는-경우&quot;&gt;初 (しょ)로 읽는 경우&lt;/h2&gt;
-&lt;p&gt;はつ로 읽는 경우는 다음과 같은 단어에 사용될 때입니다.&lt;/p&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-success bs-callout-v2-level-1&quot;&gt;
-• &lt;strong&gt;初対面(しょたいめん) : 초면, 첫 대면&lt;/strong&gt;&lt;br /&gt;
-• 初級(しょきゅう) : 초급&lt;br /&gt;
-• 最初(さいしょ) : 처음&lt;br /&gt;
-• 初心者(しょしんしゃ) : 초보자&lt;br /&gt;
-• 初日(しょにち) : 첫 날
-&lt;/div&gt;
-
-&lt;h2 id=&quot;첫인상-올바른-표현&quot;&gt;첫인상 올바른 표현&lt;/h2&gt;
-&lt;p&gt;위 내용을 읽다보면 첫 만남에서 느끼는 첫인상을 일본어라 어떻게 표현할지 궁금해집니다.&lt;br /&gt;
-흔히 하는 실수가 &lt;del&gt;初印象(はついんしょう)&lt;/del&gt;, &lt;del&gt;初印象(しょいんしょう)&lt;/del&gt; 이렇게 사용하는 경우인데 모두 올바른 표현이 아닙니다.&lt;br /&gt;
-올바른 표현은 다음과 같습니다.&lt;/p&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;&lt;strong&gt;第一印象 (だいいちいんしょう)&lt;/strong&gt;&lt;/div&gt;
-
-</description>
-            <pubDate>Sat, 16 Apr 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/language/japanese/kanzi-yomikata-hatsu-sixyo.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/kanzi-yomikata-hatsu-sixyo.html</guid>
             
             <category>japan</category>
             
