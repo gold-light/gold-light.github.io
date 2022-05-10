@@ -5,9 +5,68 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 May 2022 21:43:04 +0900</pubDate>
-        <lastBuildDate>Sun, 08 May 2022 21:43:04 +0900</lastBuildDate>
+        <pubDate>Tue, 10 May 2022 23:48:31 +0900</pubDate>
+        <lastBuildDate>Tue, 10 May 2022 23:48:31 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>腕に覚えがある vs 身に覚えがある | 일본어 공부</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;이번에는 [覚えがある]가 사용되는 표현 [&lt;strong&gt;腕に覚えがある&lt;/strong&gt;] 와 [&lt;strong&gt;身に覚えがある&lt;/strong&gt;] 두가지 표현의 차이점을 비교해보겠습니다.&lt;br /&gt;
+그리고 [身に覚えがない] 표현도 함께 정리했습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;腕に覚えがある-うでにおぼえがある&quot;&gt;腕に覚えがある (うでにおぼえがある)&lt;/h2&gt;
+
+&lt;h3 id=&quot;의미&quot;&gt;의미&lt;/h3&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
+⁃ 자신의 능력이나 역량에 자신이 있다.
+&lt;/div&gt;
+
+&lt;h3 id=&quot;예문&quot;&gt;예문&lt;/h3&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
+⁃ 日本語にかけては、いささか&lt;strong&gt;腕に覚えがあります&lt;/strong&gt;。&lt;br /&gt;
+⁃ 歌なら少しは&lt;strong&gt;腕に覚えがあります&lt;/strong&gt;。
+&lt;/div&gt;
+
+&lt;h2 id=&quot;身に覚えがある-みにおぼえがある&quot;&gt;身に覚えがある (みにおぼえがある)&lt;/h2&gt;
+
+&lt;h3 id=&quot;의미-1&quot;&gt;의미&lt;/h3&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
+⁃ 자기자신이 그런 행동을 한 기억이 있다. 뭔가 짚이는 데가 있다.&lt;br /&gt;
+⁃ 보통은 그 반대인 그런 말이나 행동을 한 적이 없다는 뜻으로 [身に覚えがない], [身に覚えのない]의 형식을 많이 사용한다.
+&lt;/div&gt;
+
+&lt;h3 id=&quot;예문-1&quot;&gt;예문&lt;/h3&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
+⁃ 彼に言われてみれば身に覚えがある。
+&lt;/div&gt;
+
+&lt;h2 id=&quot;身に覚えがない-みにおぼえがない&quot;&gt;身に覚えがない (みにおぼえがない)&lt;/h2&gt;
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
+⁃ 기억이 없다, 처음 듣는 일이다.&lt;br /&gt;
+⁃ [身に覚えがある] 보다는 더 자주 사용하는 표현이다.
+&lt;/div&gt;
+
+&lt;h3 id=&quot;예문-2&quot;&gt;예문&lt;/h3&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
+⁃ 身に覚えのないことを聞いて腹が立った。&lt;br /&gt;
+⁃ 身に覚えのない濡れ衣(ぬれぎぬ)を着せられた。
+&lt;/div&gt;
+
+</description>
+            <pubDate>Thu, 05 May 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/life/language/japanese/grammer-difference-udenioboegaaru-minioboegaaru.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/grammer-difference-udenioboegaaru-minioboegaaru.html</guid>
+            
+            <category>japan</category>
+            
+            
+        </item>
         
         <item>
             <title>쿠팡이츠 배달파트너 1주차 수입 정산 공유, 입금, 세금, 산재보험</title>
@@ -589,52 +648,6 @@
             <pubDate>Mon, 18 Apr 2022 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/life/language/japanese/grammer-defference-mousikomu-mousideru-mousibunnnai-mousiwakenai.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/grammer-defference-mousikomu-mousideru-mousibunnnai-mousiwakenai.html</guid>
-            
-            <category>japan</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>作 (さく, さ) 한자 읽는법 読み方 | 일본어 공부</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;일본어 한자 作는 作る처럼 훈독의 경우에는 つくる가 되지만, 음독의 경우는 さく, さ 두가지 방법 중에서 대부분 さく로 읽게 되고, 몇가지 특수한 경우에만 さ로 읽게 되는데 대표적인 단어를 각각 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;作-さ로-읽는-경우&quot;&gt;作 (さ)로 읽는 경우&lt;/h2&gt;
-&lt;p&gt;さ로 읽는 경우는 다음과 같은 단어에 사용될 때입니다.&lt;/p&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-• 作業(さぎょう) : 작업&lt;br /&gt;
-• 作動(さどう) : 작동&lt;br /&gt;
-• 作用(さよう) : 작용&lt;br /&gt;
-• 操作(そうさ) : 조작&lt;br /&gt;
-• 動作(どうさ) : 동작&lt;br /&gt;
-• 発作(ほっさ) : 발작&lt;br /&gt;
-• 無造作(むぞうさ) : 손쉽게, 아무렇지 않게 하는 모양&lt;br /&gt;
-• 作法(さほう) : 규범
-&lt;/div&gt;
-
-&lt;h2 id=&quot;作-さく로-읽는-경우&quot;&gt;作 (さく)로 읽는 경우&lt;/h2&gt;
-&lt;p&gt;さく로 읽는 경우는 다음과 같은 단어에 사용될 때입니다.&lt;br /&gt;
-거의 대부분이 さく로 읽기 때문에 위에서 나온 さ로 읽는 경우 몇가지를 제외하면 특별히 신경쓰지 않아도 될 정도입니다.&lt;/p&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-• 作詞(さくし) : 작사&lt;br /&gt;
-• 作者(さくしゃ) : 작자&lt;br /&gt;
-• 作成(さくせい) : 작성&lt;br /&gt;
-• 作品(さくひん) : 작품&lt;br /&gt;
-• 工作(こうさく) : 공작&lt;br /&gt;
-• 製作(せいさく) : 제작&lt;br /&gt;
-• 創作(そうさく) : 창작&lt;br /&gt;
-• 名作(めいさく) : 명작&lt;br /&gt;
-• 作戦(さくせん) : 작전&lt;br /&gt;
-• 耕作(こうさく) : 경작&lt;br /&gt;
-&lt;/div&gt;
-
-</description>
-            <pubDate>Sun, 17 Apr 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/language/japanese/kanzi-yomikata-saku-sa.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/kanzi-yomikata-saku-sa.html</guid>
             
             <category>japan</category>
             
