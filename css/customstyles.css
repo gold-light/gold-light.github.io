@@ -1460,3 +1460,19 @@ img.docimage{
 .alert-v2 i{margin:0 10px 0 5px}
 .alert-sm-v2.alert-dismissible-v2 .close{top:-5px;right:-2px}.tgl{position:relative;display:inline-block;height:30px;cursor:pointer}
 
+
+.coupang_partners_banner_bottom {
+    width:100%;
+    margin-top:50px;
+    margin-bottom:30px;
+}
+
+@media screen and (max-width:991px)
+{
+    .coupang_partners_banner_bottom {height:300px;}        
+}
+
+@media screen and (min-width:992px)
+{
+    .coupang_partners_banner_bottom {height:200px;}   
+}
