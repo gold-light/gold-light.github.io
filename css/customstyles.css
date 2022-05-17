@@ -1465,14 +1465,21 @@ img.docimage{
     width:100%;
     margin-top:50px;
     margin-bottom:30px;
+    
 }
 
 @media screen and (max-width:991px)
 {
-    .coupang_partners_banner_bottom {height:300px;}        
+    .coupang_partners_banner_bottom {height:300px !important;}        
 }
 
 @media screen and (min-width:992px)
 {
-    .coupang_partners_banner_bottom {height:200px;}   
+    .coupang_partners_banner_bottom {height:200px !important;}   
+}
+
+.coupang_partners_banner_bottom_message {
+    color:green;    
+    text-align:center;
+    font-size: 12px;    
 }
