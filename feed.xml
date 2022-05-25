@@ -5,9 +5,224 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 May 2022 23:41:05 +0900</pubDate>
-        <lastBuildDate>Tue, 17 May 2022 23:41:05 +0900</lastBuildDate>
+        <pubDate>Thu, 26 May 2022 01:00:15 +0900</pubDate>
+        <lastBuildDate>Thu, 26 May 2022 01:00:15 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>쿠팡이츠 배달파트너 앱 수입내역 금액 오류 상황 정리</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;쿠팡이츠 배달파트너 앱이 한참 전에 업데이트 되면서 주간 수입 내역을 볼 수 있게 되었는데 
+최근에 우연히 상세 내역을 살펴보다 오류를 발견해서 내용을 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;주간-수입-내역&quot;&gt;주간 수입 내역&lt;/h2&gt;
+&lt;p&gt;배달파트너 앱 [내 수입] 메뉴에 들어가면 아래와 같이 주간 수입 내역을 확인할 수 있는데, 표시되는 항목을 다음과 같습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;총 수입&lt;/li&gt;
+  &lt;li&gt;배달 수수료&lt;/li&gt;
+  &lt;li&gt;미션 보너스&lt;/li&gt;
+  &lt;li&gt;원천징수 세액&lt;/li&gt;
+  &lt;li&gt;소득세&lt;/li&gt;
+  &lt;li&gt;지방 소득&lt;/li&gt;
+  &lt;li&gt;원천징수세액 계&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/coupang-eats-delivery-app-my-income.jpg&quot; alt=&quot;쿠팡이츠 배달파트너 앱 수입내역 금액 오류&quot; style=&quot;width: 500px; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;수입-금액-오류-상황&quot;&gt;수입 금액 오류 상황&lt;/h2&gt;
+&lt;p&gt;수입 금액 상세 내역 중에서 원천징수세액 항목을 자세히 보면 뭔가 이상한 것을 확인할 수 있습니다.&lt;br /&gt;
+원천징수세액은 소득세법에 따라 배달파트너의 경우 [특수형태근로종사자]로 분류가 되어 &lt;strong&gt;총 수입의 원천징수세율 3.3%&lt;/strong&gt;가 적용됩니다.&lt;br /&gt;
+그런데 여기서 3.3%는 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;소득세 3% + 주민세(지방 소득세) 0.3%&lt;/code&gt;로 구성되어 있습니다.&lt;/p&gt;
+
+&lt;p&gt;그런데 [국고금 관리법]에는 다음과 같은 내용이 나옵니다.&lt;/p&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;[국고금 관리법] 제47조(국고금의 끝수 계산):&lt;/b&gt; 
+① 국고금의 수입 또는 지출에서 10원 미만의 끝수가 있을 때에는 그 끝수는 계산하지 아니하고, 전액이 10원 미만일 때에도 그 전액을 계산하지 아니한다.
+&lt;/div&gt;
+
+&lt;p&gt;이를 기준으로 원천징수세액과 최종 수입을 계산해 보면 다음과 같습니다.&lt;/p&gt;
+
+&lt;table style=&quot;width:70%&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align:center&quot;&gt;항목&lt;/th&gt;
+      &lt;th style=&quot;text-align:center&quot;&gt;계산식&lt;/th&gt;
+      &lt;th style=&quot;text-align:right&quot;&gt;계산 금액&lt;/th&gt;
+      &lt;th style=&quot;text-align:right&quot;&gt;최종 금액 (10원 미만 절사)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;배달 수수료&lt;/td&gt;
+      &lt;td style=&quot;text-align:right&quot;&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align:right&quot;&gt;&lt;/td&gt;    
+      &lt;td style=&quot;text-align:right&quot;&gt;37,330 원&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;소득세&lt;/td&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;(배달 수수료 * 3%)&lt;/td&gt;
+      &lt;td style=&quot;text-align:right&quot;&gt;1,119.9 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:right&quot;&gt;1,110 원&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;주민세&lt;/td&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;(배달 수수료 * 0.3%)&lt;/td&gt;
+      &lt;td style=&quot;text-align:right&quot;&gt;111.99 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:right&quot;&gt;110 원&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;원천징수 세액&lt;/td&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;(소득세 + 주민세)&lt;/td&gt;   
+      &lt;td style=&quot;text-align:right&quot;&gt;&lt;/td&gt;      
+      &lt;td style=&quot;text-align:right&quot;&gt;1,220 원&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;총 수입&lt;/td&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;(배달 수수료 - 원천징수 세액)&lt;/td&gt;           
+      &lt;td style=&quot;text-align:right&quot;&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align:right&quot;&gt;36,110 원&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;하지만, 배달파트너 앱에서는 전혀 다르게 나와는데 2가지를 비교해보면 다음과 같습니다.&lt;/p&gt;
+
+&lt;table style=&quot;width:50%&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align:center&quot;&gt;항목&lt;/th&gt;
+      &lt;th style=&quot;text-align:right&quot;&gt;계산 금액&lt;/th&gt;
+      &lt;th style=&quot;text-align:right&quot;&gt;배달파트너 앱 금액&lt;/th&gt;      
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;배달 수수료&lt;/td&gt;   
+      &lt;td style=&quot;text-align:right&quot;&gt;37,330 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:right&quot;&gt;37,330 원&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;소득세&lt;/td&gt;            
+      &lt;td style=&quot;text-align:right&quot;&gt;1,110 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:right&quot;&gt;1,107 원&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;주민세&lt;/td&gt;      
+      &lt;td style=&quot;text-align:right&quot;&gt;110 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:right&quot;&gt;124 원&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;원천징수 세액&lt;/td&gt;      
+      &lt;td style=&quot;text-align:right&quot;&gt;1,220 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:right&quot;&gt;1,231 원&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;총 수입&lt;/td&gt;      
+      &lt;td style=&quot;text-align:right&quot;&gt;36,110 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:right&quot;&gt;36,099 원&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;일반적으로 알려진 원천징수 세액 계산법으로 계산한 금액과 배달파트너 앱에 나오는 금액이 다른 매우 심각한 오류 상황입니다.&lt;/p&gt;
+
+&lt;p&gt;그래서 쿠팡이츠 정산팀에 상세 정산내역을 요청했습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;정산-내역서-금액&quot;&gt;정산 내역서 금액&lt;/h2&gt;
+&lt;p&gt;쿠팡이츠 정산팀에 공식 요청해서 받은 정산 내역서의 금액은 다음과 같았습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;정산내역서 신청 방법: &lt;a href=&quot;/life/diary/sidejob-coupang-eats-delivery-income-settlement-history.html&quot; style=&quot;word-break:break-all&quot;&gt;/life/diary/sidejob-coupang-eats-delivery-income-settlement-history.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;정산 내역서를 살펴보면 위에서 제가 일반적으로 알려진 계산 방법으로 계산한 금액과 일치한다는 것을 확인할 수 있습니다.&lt;br /&gt;
+즉, 배달파트너 앱에 나와 있는 금액이 틀렸다는 것입니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/coupang-eats-delivery-income-settlement-history-02.png&quot; alt=&quot;쿠팡이츠 배달파트너 앱 수입내역 금액 오류&quot; style=&quot;width: 718px; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;결론&quot;&gt;결론&lt;/h2&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-3&quot;&gt;
+분명히 일반적으로 알려진 계산 방식으로 계산한 금액과 쿠팡이츠 정산팀에 공식 요청해서 받은 정산내역서 금액이 일치하는 반면, 
+배달파트너 앱에 나와 있는 금액은 전혀 다르다는 것으로 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;결국 배달파트너 앱에 오류가 있다는 것을 확인&lt;/code&gt;할 수 있었습니다.
+&lt;/div&gt;
+
+&lt;p&gt;그렇다면 그 오랜 기간 동안 이런 오류, 그것도 수입, 돈과 관련된 부분에 이렇게 심각한 오류가 있음에도 쿠팡이츠에서는 수정은 커녕 아직 오류가 있다는 사실조차 파악하지 못한 것으로 추측됩니다.&lt;/p&gt;
+
+&lt;p&gt;계좌에 입금된 금액은 정상인지 다들 확인이 필요할 것으로 보이는데, 일단 제 경우에는 입금 금액은 문제가 없는 것으로 보입니다.&lt;br /&gt;
+그렇지만 아무리 계좌에 입금된 문제가 없다고 해도, 공식 배달파트너 앱에서 계속 저런 오류를 방치하는 것은 너무나 심각합니다.&lt;/p&gt;
+
+&lt;p&gt;빨리 수정되길 바랍니다.&lt;/p&gt;
+</description>
+            <pubDate>Fri, 20 May 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/life/diary/sidejob-coupang-eats-delivery-app-my-income-error.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/life/diary/sidejob-coupang-eats-delivery-app-my-income-error.html</guid>
+            
+            <category>coupang</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>쿠팡이츠 배달파트너 수입 정산내역서 신청하는 방법</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;쿠팡이츠 배달파트너를 활동하다보면 통장으로 입금된 수입의 상세한 정산 내역이 궁금해집니다.&lt;br /&gt;
+물론 배달파트너 앱이 업데이트 되면서 주별 수입과 원천징수 세금 내역이 표시되기는 하지만 한눈에 보기도 힘들고 정확한 금액인지 확신하기도 힘들기에 
+가장 정확한 액수는 쿠팡이츠 정산팀에 정산내역서를 요청하면 아래와 같은 자세한 내역을 받아볼 수 있습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;정산내역서-항목&quot;&gt;정산내역서 항목&lt;/h2&gt;
+&lt;p&gt;정산내역서에는 다음과 같은 항목들이 표시됩니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;총 위탁수수료&lt;/li&gt;
+  &lt;li&gt;지급대상액&lt;/li&gt;
+  &lt;li&gt;소득세&lt;/li&gt;
+  &lt;li&gt;주민세&lt;/li&gt;
+  &lt;li&gt;산재보험료&lt;/li&gt;
+  &lt;li&gt;산재보험료 환급&lt;/li&gt;
+  &lt;li&gt;보험료 미공제분&lt;/li&gt;
+  &lt;li&gt;차감금&lt;/li&gt;
+  &lt;li&gt;실 지급액&lt;/li&gt;
+  &lt;li&gt;일별 배송완료 건수와 수입&lt;/li&gt;
+  &lt;li&gt;프로모션 등 추가 지급 내역과 금액&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/coupang-eats-delivery-income-settlement-history.png&quot; alt=&quot;쿠팡이츠 배달파트너 수입 정산내역서 신청해서 받아보는 방법&quot; style=&quot;width: 820px; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;정산내역서-신청-방법&quot;&gt;정산내역서 신청 방법&lt;/h2&gt;
+
+&lt;h3 id=&quot;필요한-정보&quot;&gt;필요한 정보&lt;/h3&gt;
+&lt;p&gt;아래와 같이 이름, 전화번호, 정산기간, 지급일을 정확하게 준비합니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;이름 : 홍길동&lt;/li&gt;
+  &lt;li&gt;전화번호 : 010-1234-5678&lt;/li&gt;
+  &lt;li&gt;정산기간 : 2022.02.01 ~ 2022.02.07&lt;/li&gt;
+  &lt;li&gt;지급일 : 2022.02.14&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;신청방법---1&quot;&gt;신청방법 - 1&lt;/h3&gt;
+&lt;p&gt;첫번째 방법은 정산내역 신청 메일 [&lt;a href=&quot;mailto:edp_pay@coupang.com&quot;&gt;edp_pay@coupang.com&lt;/a&gt;]으로 위에서 설명한 필요한 정보를 적어서 신청을 하면 됩니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;신청방법---2&quot;&gt;신청방법 - 2&lt;/h3&gt;
+&lt;p&gt;두번째 방법은 쿠팡이츠 배달파트너 카카오톡 채널에 안내되어 있는 방법으로 아래 링크의 신청 페이지에 필요한 정보를 입력하는 방법입니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://forms.office.com/pages/responsepage.aspx?id=lo8J4xs2xkep9Kt7r8r_6YsoU40B_EJBmCfM7-21JqBUOE1UWVBVOFU4QU9ZV0hRVENEUFUxTDZYMy4u&quot; style=&quot;word-break:break-all&quot;&gt;https://forms.office.com/pages/responsepage.aspx?id=lo8J4xs2xkep9Kt7r8r_6YsoU40B_EJBmCfM7-21JqBUOE1UWVBVOFU4QU9ZV0hRVENEUFUxTDZYMy4u&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;그런데 얼마전에 위 링크로 신청을 해보았는데 1주일이 넘게 아무런 회신이 없어서 결국 메일로 신청했습니다. 그냥 메일로 신청하는 것이 확실한 듯 합니다.&lt;/p&gt;
+
+</description>
+            <pubDate>Tue, 17 May 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/life/diary/sidejob-coupang-eats-delivery-income-settlement-history.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/life/diary/sidejob-coupang-eats-delivery-income-settlement-history.html</guid>
+            
+            <category>coupang</category>
+            
+            
+        </item>
         
         <item>
             <title>빈껍데기 공작부인 | 카카오페이지 오디오 드라마</title>
@@ -553,138 +768,6 @@
             <guid isPermaLink="true">https://cloudlog.kr/life/bookstore/milk-lies-and-propaganda.html</guid>
             
             <category>book</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>갓파 쿠와 여름방학을 (河童のクゥと夏休み: Summer Days With Coo)</title>
-            <description>&lt;h2 id=&quot;소개&quot;&gt;소개&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;제목: 갓파 쿠와 여름방학을 (Summer Days With Coo)&lt;/li&gt;
-  &lt;li&gt;원제: 河童(かっぱ)のクゥと夏休み(なつやすみ)&lt;/li&gt;
-  &lt;li&gt;감독: 하라 케이이치&lt;/li&gt;
-  &lt;li&gt;출연: 요코카와 다카히로&lt;/li&gt;
-  &lt;li&gt;개봉: 2007 일본, 138분&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div style=&quot;color:#cd6254&quot;&gt;별점: &lt;i class=&quot;fa-solid fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fa-solid fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fa-solid fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fa-solid fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fa-solid fa-star-half-stroke&quot;&gt;&lt;/i&gt;&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/animation/ova/summer-days-with-coo.jpg&quot; alt=&quot;갓파 쿠와 여름방학을 (河童のクゥと夏休み: Summer Days With Coo)&quot; style=&quot;width: 500px; &quot; /&gt;&lt;figcaption&gt;이미지 출처: Daum 영화 소개&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;줄거리&quot;&gt;줄거리&lt;/h2&gt;
-&lt;p&gt;여름방학을 앞둔 어느 날, 초등학생 ‘코이치’는 강가에서 신기한 모양의 돌을 발견한다. 그런데 이 돌에서 환상의 동물 갓파가 깨어나고, ‘코이치’ 가족들은 그에게 ‘쿠’라는 새로운 이름을 붙여준다. 이렇게 한 식구가 된 그들은 즐겁고 신나는 여름날을 보낸다. 하지만 도시 사람들의 눈을 피해 숨어 다녀야 하는 ‘쿠’는 갓파 친구들과 함께했던 자연에서의 삶을 그리워한다.  엄마를 겨우 설득한 ‘코이치’는 ‘쿠’와 함께 대자연으로 여행을 떠나지만, 갓파 친구를 만나지 못한 채 집으로 되돌아온다.&lt;/p&gt;
-
-&lt;p&gt;그런데 이때, 오키나와에서 온 수상한 편지가 집으로 도착하는데…!&lt;br /&gt;
-과연 ‘쿠’는 갓파 친구를 찾을 수 있을까?&lt;/p&gt;
-
-&lt;h2 id=&quot;감상&quot;&gt;감상&lt;/h2&gt;
-&lt;p&gt;오래 전에 본 또 하나의 감동적인 작품이야기를 다시 정리해보려고 합니다.&lt;/p&gt;
-
-&lt;p&gt;잔잔하고, 평온하고, 초여름 시원한 바람처럼 기분을 상쾌하게 하는 그런… 감동이 있는 영화였습니다.&lt;/p&gt;
-
-&lt;p&gt;사람의 눈에 눈물이 맻히게 하는 또 하나의 작품을 오랜만에 만났습니다.&lt;/p&gt;
-
-&lt;p&gt;자세한 감상은 나중에 다시 적기로 하구요… 다만 한가지 아쉬운 것은 마지막에 조금만 더 이야기를 길게 가져갔으면 어떨까 합니다.&lt;/p&gt;
-
-&lt;p&gt;그대로 끝나버린게 너무 아쉬웠습니다. ㅎㅎ&lt;/p&gt;
-
-&lt;h2 id=&quot;비슷한-작품&quot;&gt;비슷한 작품&lt;/h2&gt;
-&lt;p&gt;제가 느끼기에 이런 분위기의 애니중에서 생각나는 것들을 적어보면 다음과 같습니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;귀를 기울이면&lt;/li&gt;
-  &lt;li&gt;바다가 들린다&lt;/li&gt;
-  &lt;li&gt;마법사에게 소중한 것&lt;/li&gt;
-  &lt;li&gt;별의 목소리&lt;/li&gt;
-  &lt;li&gt;구름의 저편 약속의 장소&lt;/li&gt;
-  &lt;li&gt;초속 5센티미터&lt;/li&gt;
-  &lt;li&gt;센과 치히로의 행방불명&lt;/li&gt;
-  &lt;li&gt;시간을 달리는 소녀&lt;/li&gt;
-  &lt;li&gt;아리아 디 애니메이션&lt;/li&gt;
-  &lt;li&gt;아리아 디 내츄럴&lt;/li&gt;
-  &lt;li&gt;아리아 디 오리지널&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-            <pubDate>Tue, 26 Apr 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/animation/ova/summer-days-with-coo.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/animation/ova/summer-days-with-coo.html</guid>
-            
-            <category>movie</category>
-            
-            <category>animation</category>
-            
-            <category>japan</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>とやかく, 四の五の, あべこべ, すれすれ, もぐもぐ</title>
-            <description>&lt;h2 id=&quot;とやかく&quot;&gt;とやかく&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;의미: 이러쿵저러쿵, 이러니저러니&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;예문&quot;&gt;예문&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-- 他人のことを&lt;strong&gt;とやかく&lt;/strong&gt;言うな。
-&lt;/div&gt;
-
-&lt;h2 id=&quot;四の五の-しのごの&quot;&gt;四の五の (しのごの)&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;의미: 이러쿵저러쿵, 이러니저러니&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;예문-1&quot;&gt;예문&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-- &lt;strong&gt;四の五の&lt;/strong&gt;言わないで、早く勉強しなさい。
-&lt;/div&gt;
-
-&lt;h2 id=&quot;あべこべ&quot;&gt;あべこべ&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;의미: 반대로, 거꾸로, 뒤바뀐&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;예문-2&quot;&gt;예문&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-- 先生が学生に&lt;strong&gt;あべこべ&lt;/strong&gt;に教えられる。
-&lt;/div&gt;
-
-&lt;h2 id=&quot;すれすれ&quot;&gt;すれすれ&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;의미: 아슬아슬함, 닿을락말락함, 빠듯함&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;예문-3&quot;&gt;예문&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-- 試験に&lt;strong&gt;すれすれ&lt;/strong&gt;のところで合格しました。&lt;br /&gt;
-- 出発時間に&lt;strong&gt;すれすれ&lt;/strong&gt;で間に合いました。
-&lt;/div&gt;
-
-&lt;h2 id=&quot;もぐもぐ&quot;&gt;もぐもぐ&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;의미: 입을 벌리지 않고 씹는 모양의 우물우물, 입 안에서 중얼거리는 모양의 어물어물&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;예문-4&quot;&gt;예문&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-- 彼はいつも&lt;strong&gt;もぐもぐ&lt;/strong&gt;(と)食べている。&lt;br /&gt;
-- 彼女が何か&lt;strong&gt;もぐもぐ&lt;/strong&gt;(と)言う。
-&lt;/div&gt;
-
-</description>
-            <pubDate>Mon, 25 Apr 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/language/japanese/vocabulary-toyakaku-sinogono-abekobe-suresure-mogumogu.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/vocabulary-toyakaku-sinogono-abekobe-suresure-mogumogu.html</guid>
-            
-            <category>japan</category>
             
             
         </item>
