@@ -5,8 +5,8 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 May 2022 23:17:01 +0900</pubDate>
-        <lastBuildDate>Thu, 26 May 2022 23:17:01 +0900</lastBuildDate>
+        <pubDate>Thu, 26 May 2022 23:49:00 +0900</pubDate>
+        <lastBuildDate>Thu, 26 May 2022 23:49:00 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
         
         <item>
@@ -48,8 +48,8 @@
     &lt;tr&gt;
       &lt;th style=&quot;text-align:center&quot;&gt;항목&lt;/th&gt;
       &lt;th style=&quot;text-align:center&quot;&gt;계산식&lt;/th&gt;
-      &lt;th style=&quot;text-align:right&quot;&gt;계산 금액&lt;/th&gt;
-      &lt;th style=&quot;text-align:right&quot;&gt;최종 금액 (10원 미만 절사)&lt;/th&gt;
+      &lt;th style=&quot;text-align:right&quot;&gt;계산금액&lt;/th&gt;
+      &lt;th style=&quot;text-align:right&quot;&gt;최종금액 (10원 미만 절사)&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -61,13 +61,13 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align:center&quot;&gt;소득세&lt;/td&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;(배달 수수료 * 3%)&lt;/td&gt;
-      &lt;td style=&quot;text-align:right&quot;&gt;1,119.9 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;(배달수수료 * 3%)&lt;/td&gt;
+      &lt;td style=&quot;text-align:right&quot;&gt;1,119.9원&lt;/td&gt;
       &lt;td style=&quot;text-align:right&quot;&gt;1,110 원&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align:center&quot;&gt;주민세&lt;/td&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;(배달 수수료 * 0.3%)&lt;/td&gt;
+      &lt;td style=&quot;text-align:center&quot;&gt;(배달수수료 * 0.3%)&lt;/td&gt;
       &lt;td style=&quot;text-align:right&quot;&gt;111.99 원&lt;/td&gt;
       &lt;td style=&quot;text-align:right&quot;&gt;110 원&lt;/td&gt;
     &lt;/tr&gt;
@@ -79,7 +79,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align:center&quot;&gt;총 수입&lt;/td&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;(배달 수수료 - 원천징수 세액)&lt;/td&gt;           
+      &lt;td style=&quot;text-align:center&quot;&gt;(배달수수료 - 원천징수세액)&lt;/td&gt;           
       &lt;td style=&quot;text-align:right&quot;&gt;&lt;/td&gt;
       &lt;td style=&quot;text-align:right&quot;&gt;36,110 원&lt;/td&gt;
     &lt;/tr&gt;
@@ -104,23 +104,23 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align:center&quot;&gt;소득세&lt;/td&gt;            
-      &lt;td style=&quot;text-align:right&quot;&gt;1,110 원&lt;/td&gt;
-      &lt;td style=&quot;text-align:right&quot;&gt;1,107 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:right;color:red&quot;&gt;1,110 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:right;color:red&quot;&gt;1,107 원&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align:center&quot;&gt;주민세&lt;/td&gt;      
-      &lt;td style=&quot;text-align:right&quot;&gt;110 원&lt;/td&gt;
-      &lt;td style=&quot;text-align:right&quot;&gt;124 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:right;color:red&quot;&gt;110 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:right;color:red&quot;&gt;124 원&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align:center&quot;&gt;원천징수 세액&lt;/td&gt;      
-      &lt;td style=&quot;text-align:right&quot;&gt;1,220 원&lt;/td&gt;
-      &lt;td style=&quot;text-align:right&quot;&gt;1,231 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:right;color:red&quot;&gt;1,220 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:right;color:red&quot;&gt;1,231 원&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td style=&quot;text-align:center&quot;&gt;총 수입&lt;/td&gt;      
-      &lt;td style=&quot;text-align:right&quot;&gt;36,110 원&lt;/td&gt;
-      &lt;td style=&quot;text-align:right&quot;&gt;36,099 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:right;color:red&quot;&gt;36,110 원&lt;/td&gt;
+      &lt;td style=&quot;text-align:right;color:red&quot;&gt;36,099 원&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
