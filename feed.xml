@@ -5,15 +5,15 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 May 2022 01:00:15 +0900</pubDate>
-        <lastBuildDate>Thu, 26 May 2022 01:00:15 +0900</lastBuildDate>
+        <pubDate>Thu, 26 May 2022 23:17:01 +0900</pubDate>
+        <lastBuildDate>Thu, 26 May 2022 23:17:01 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
         
         <item>
-            <title>쿠팡이츠 배달파트너 앱 수입내역 금액 오류 상황 정리</title>
+            <title>쿠팡이츠 배달파트너 앱 수입 정산 내역 금액 오류 상황 정리</title>
             <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
 &lt;p&gt;쿠팡이츠 배달파트너 앱이 한참 전에 업데이트 되면서 주간 수입 내역을 볼 수 있게 되었는데 
-최근에 우연히 상세 내역을 살펴보다 오류를 발견해서 내용을 정리해보겠습니다.&lt;/p&gt;
+최근에 우연히 상세 내역을 살펴보다 정산 금액에 오류를 발견해서 내용을 정리해보겠습니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;주간-수입-내역&quot;&gt;주간 수입 내역&lt;/h2&gt;
 &lt;p&gt;배달파트너 앱 [내 수입] 메뉴에 들어가면 아래와 같이 주간 수입 내역을 확인할 수 있는데, 표시되는 항목을 다음과 같습니다.&lt;/p&gt;
@@ -43,7 +43,7 @@
 
 &lt;p&gt;이를 기준으로 원천징수세액과 최종 수입을 계산해 보면 다음과 같습니다.&lt;/p&gt;
 
-&lt;table style=&quot;width:70%&quot;&gt;
+&lt;table class=&quot;tb-70&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th style=&quot;text-align:center&quot;&gt;항목&lt;/th&gt;
@@ -88,7 +88,7 @@
 
 &lt;p&gt;하지만, 배달파트너 앱에서는 전혀 다르게 나와는데 2가지를 비교해보면 다음과 같습니다.&lt;/p&gt;
 
-&lt;table style=&quot;width:50%&quot;&gt;
+&lt;table class=&quot;tb-50&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th style=&quot;text-align:center&quot;&gt;항목&lt;/th&gt;
@@ -125,7 +125,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;일반적으로 알려진 원천징수 세액 계산법으로 계산한 금액과 배달파트너 앱에 나오는 금액이 다른 매우 심각한 오류 상황입니다.&lt;/p&gt;
+&lt;p&gt;일반적으로 알려진 원천징수 세액 계산법으로 계산한 금액과 배달파트너 앱에 나오는 수입 정산 금액이 다른 매우 심각한 오류 상황입니다.&lt;/p&gt;
 
 &lt;p&gt;그래서 쿠팡이츠 정산팀에 상세 정산내역을 요청했습니다.&lt;/p&gt;
 
