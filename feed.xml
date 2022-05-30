@@ -5,9 +5,148 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 26 May 2022 23:49:00 +0900</pubDate>
-        <lastBuildDate>Thu, 26 May 2022 23:49:00 +0900</lastBuildDate>
+        <pubDate>Tue, 31 May 2022 00:01:11 +0900</pubDate>
+        <lastBuildDate>Tue, 31 May 2022 00:01:11 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>롤알못이 리그오브레전드 LOL MSI2002 결승을 보고 느낀 짤막한 감상</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;부산에서 열린 리그오브레전드 LOL MSI 2002 결승전이 끝났습니다.&lt;br /&gt;
+저는 롤을 플레이 하지는 않고, 눈으로만 경기를 보는 이른바 [&lt;strong&gt;롤알못&lt;/strong&gt;]입니다. &lt;br /&gt;
+이번 MSI 결승을 보고나서 직접 롤을 플레이 하는 롤을 잘아는 분들의 시선이 아니라 롤을 잘 모르는 사람의 시선에서 어떤 느낌이 들었는지 간단하게 정리해보겠습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/lol/league-of-legends-msi2022-poster.png&quot; alt=&quot;롤알못이 리그오브레전드 LOL MSI2002 결승을 보고 느낀 짤막한 감상&quot; style=&quot;width: 845px; max-width: 100%&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;축하&quot;&gt;축하&lt;/h2&gt;
+&lt;p&gt;LCK 스프링이 끝나고 이런 저런 일들로 제대로 준비도 못하고 MSI에 참여해서 준우승을 차지한 T1 선수들 고생 많으셨습니다. 축하드립니다.&lt;br /&gt;
+우승을 차지한 RNG 선수들에게도 축하 인사를 보냅니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;감상&quot;&gt;감상&lt;/h2&gt;
+&lt;p&gt;럼블스테이지 등 예선전말고 결승전에 대한 느낌을 중심으로 감상을 간단히 적어보려고 합니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;t1-패배-원인&quot;&gt;T1 패배 원인&lt;/h3&gt;
+&lt;p&gt;수 많은 전문가분들이 밴픽, 선수별 컨디션, 전술 등 다양한 원인을 잘 분석해주시리라 생각됩니다. 
+그런 전문적인 분석 말고, 롤알못 입장에서 순간적으로 느껴진 느낌을 한마디로 정리하자면 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;너무 착하게, 정직하게, 정해진 순서대로, 모든게 준비된 상태에서&lt;/code&gt; 경기를 하려고 하다 아쉽게 준우승을 차지한 것이 아닌가 생각됩니다.&lt;/p&gt;
+
+&lt;p&gt;LOL 규칙, 대회 규칙에 어긋나지 않는다면 가능한 모든 전략 전술을 검토하고 준비해서, 이길 수 있다는 어떤 방법이라도 사용했어야 하는게 아닌가 싶었습니다.&lt;/p&gt;
+
+&lt;p&gt;CS도 너무 잘먹고, 라인 전도 너무 잘하고, 정식 한타도 너무 잘하기에 너무 준비된 전투, 신사적인 전투만 하려고 했고, 극단적인 전술을 너무 무시한 것이 아닌가 싶었습니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;3연벙&quot;&gt;3연벙&lt;/h3&gt;
+&lt;p&gt;그러면서 생각난 것이 예전 스타리그에서 임요환 선수가 홍진호 선수를 상대하면서 사용했던 3연속 벙커링을 사용했던 경기였습니다.&lt;br /&gt;
+이런 저런 논란도 있기는 했지만, 어쨌거나 벙커링도 너무나 극단적인 전술이기는 하지만, 스타크래프트에서 흔히 사용되던 전술이었습니다. 
+물론 공식 대회에서 3번 연속이나 사용할 거라고는 아무도 생각지 못한 충격적인 상황이었습니다.&lt;/p&gt;
+
+&lt;p&gt;하지만, 임요환 선수는 아무도 예상치 못한 전술로 승리를 했고, 설령 홍진호 선수가 한번 정도 막았다고 해도 엄청난 심리적 충격으로 승리하기는 쉽지 않았을 거라 생각되었습니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;인베-카운터-정글&quot;&gt;인베, 카운터 정글&lt;/h3&gt;
+&lt;p&gt;실제로 이번 MSI2002 결승에서도 RNG는 극초반 인베와 카운터 정글로 생긴 차이를 굴리고 굴려 결국 2경기를 승리했습니다.&lt;br /&gt;
+마지막 5경기에서는 연속 미드 다이브로 아리를 잡으면서 승기를 굳혀갔었고요.&lt;/p&gt;
+
+&lt;p&gt;사실 이번 결승 뿐만 아니라, 그리고 T1 뿐만 아니라 LCK 팀들의 전체적인 분위기가 라인전과 운영을 통한 압도적인 차이로 승기를 굳히는 스타일이 주류인 것으로 느껴집니다.
+라인전과 운영을 너무 잘하니까 장점을 극대화 시켜 승리로 이어가겠다는 전략은 충분히 좋다고 생각됩니다.&lt;/p&gt;
+
+&lt;p&gt;하지만, 다른 지역은 어떤 이유인지는 확실하지 않지만, 극단적인 전술이나 중후반 한타로 경기를 뒤집는 등의 전략을 매우 자주 사용하는 것으로 보입니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;결론&quot;&gt;결론&lt;/h2&gt;
+&lt;p&gt;이제는 너무나 신사적인 선비 같은 전략만 추구하지 말고, 때로는 3연벙처럼 &lt;strong&gt;3연속 인베, 3연속 카운터 정글, 3연속 다이브 같은 전술도 보여주면서&lt;/strong&gt; T1은 어떤 전술을 보여줄지 알 수 없게 만들어서 상대팀을 혼란스럽게 하면서 압도적으로 승리하는 모습을 보여주길 기대합니다.&lt;/p&gt;
+</description>
+            <pubDate>Sun, 29 May 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/lol/league-of-legends-msi2002-final-review.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/lol/league-of-legends-msi2002-final-review.html</guid>
+            
+            <category>lol</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>삼성 에어컨 (AS-K410) 리모콘 고장 교체 후기</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;조금 오래된 벽걸이형 에어컨 삼성 AS-K410 모델을 사용하고 있는데, 예전에 갑자기 몇 몇 버튼이 작동하지 않아서 서비스센터에 갈까 고민하다가 쿠팡에 호환용 리모콘이 있는지 확인해보았습니다.&lt;/p&gt;
+
+&lt;p&gt;다행히 삼성 에어컨 전용 리모콘이 판매되고 있어서 교체했는데 기능까지 업그레이드 되면서 너무 만족스러웠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;새-리모콘&quot;&gt;새 리모콘&lt;/h2&gt;
+&lt;p&gt;이번에 새로 구매한 리모콘입니다. 왼쪽에는 상태표시창이 있고 오른쪽에 여러가지 에어컨에서 사용할 수 있는 기능의 버튼들이 모여 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/samsung-air-conditioner-remote-controller-change-01.jpg&quot; alt=&quot;삼성 에어컨 (AS-K410) 리모콘 고장 교체 후기&quot; style=&quot;width: 500px; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;예전-리모콘&quot;&gt;예전 리모콘&lt;/h2&gt;
+&lt;p&gt;이것은 예전에 사용하던 리모콘입니다. 상하바람, 터보, 1시간 예약, 온도조절, 냉방, 송풍, 바람세기, 그리고 운전, 정지 버튼만 있는 형태였습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/samsung-air-conditioner-remote-controller-change-02.jpg&quot; alt=&quot;삼성 에어컨 (AS-K410) 리모콘 고장 교체 후기&quot; style=&quot;width: 500px; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;새-리모콘-기능&quot;&gt;새 리모콘 기능&lt;/h2&gt;
+&lt;p&gt;그에 비해 이번에 새로 구매한 리모콘은 정말 많은 기능이 있습니다.
+우선, 예전에는 현재 온도 바람세기 등을 에어컨의 불빛을 보면서 예상해야 하는 무척 불편한 상태였습니다.&lt;/p&gt;
+
+&lt;p&gt;하지만 새로운 리모콘은 상태표시창에서 냉난방, 희망온도, 바람세기, 예약시간 등이 모두 표시되기에 편리합니다.&lt;/p&gt;
+
+&lt;p&gt;그리고 구형 리모콘은 예약이 1시간 밖에 되지 않았습니다.
+하지만 신형 리모콘은 30분 단위로 24시간 까지 다양하게 예약이 가능해서 무척 편리합니다.&lt;/p&gt;
+
+&lt;p&gt;사실 이 예약 기능이 업그레이드 되는 것만으로도 새로운 리모콘으로 교체할 가치는 충분하다고 생각됩니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/samsung-air-conditioner-remote-controller-change-03.jpg&quot; alt=&quot;삼성 에어컨 (AS-K410) 리모콘 고장 교체 후기&quot; style=&quot;width: 500px; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;신구-리모콘-비교&quot;&gt;신,구 리모콘 비교&lt;/h2&gt;
+&lt;p&gt;신형, 구형 리모콘을 함께 나란히 놓아보면 차이가 확실히 나타납니다.
+게다가 신형 리모콘의 경우 운전,정지 버튼이 야광이라서 어두운 곳에서도 쉽게 찾을 수 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/samsung-air-conditioner-remote-controller-change-05.jpg&quot; alt=&quot;삼성 에어컨 (AS-K410) 리모콘 고장 교체 후기&quot; style=&quot;width: 500px; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;새-리모콘-개봉&quot;&gt;새 리모콘 개봉&lt;/h2&gt;
+
+&lt;p&gt;리모콘 구매했을 때 리모콘이 들어 있는 포장입니다.&lt;/p&gt;
+
+&lt;p&gt;신형 삼성 에어컨 리모컨은 NOTTOO 라는 업체에서 만든 480H 모델입니다.&lt;/p&gt;
+
+&lt;p&gt;홈페이지는 &lt;a href=&quot;http://www.nottoo.com/&quot; target=&quot;_blank&quot; style=&quot;work-break:break-all&quot;&gt;http://www.nottoo.com/&lt;/a&gt; 입니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/samsung-air-conditioner-remote-controller-change-04.jpg&quot; alt=&quot;삼성 에어컨 (AS-K410) 리모콘 고장 교체 후기&quot; style=&quot;width: 500px; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;구매한-곳&quot;&gt;구매한 곳&lt;/h2&gt;
+&lt;p&gt;저는 쿠팡에서 구매했는데, 로켓배송 상품들은 현재 일시품절이고, 일반 배송 상품들은 많이 있습니다.&lt;/p&gt;
+
+&lt;p&gt;가격은 배송료 포함해서 7~8천원으로 위에서 나온 새로운 기능들을 생각하면 기존 리모콘이 고장나지 않았더라도 충분히 교체할 가치는 있어 보입니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/samsung-air-conditioner-remote-controller-change-06.jpg&quot; alt=&quot;삼성 에어컨 (AS-K410) 리모콘 고장 교체 후기&quot; style=&quot;width: 845px; max-width: 100%&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;상품-상세-소개&quot;&gt;상품 상세 소개&lt;/h2&gt;
+
+&lt;p&gt;쿠팡 상품소개에 나온 내용입니다.&lt;/p&gt;
+
+&lt;p&gt;사용 가능 모델은 다음과 같다고 합니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;95년도(벽걸이) 이후 생산된 삼성에어컨&lt;/li&gt;
+  &lt;li&gt;98년도(스탠드) 이후 생산된 삼성에어컨&lt;/li&gt;
+  &lt;li&gt;2000년도 이후 생산된 시스템/천장형 에어컨&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;물론 일부 소량 생산 모렐 등은 호환이 안되는 경우도 있다고 합니다.
+특히, 기존 사용하던 리모컨과 비슷한 모양이면 호환된다고 생각하면 될 듯합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/samsung-air-conditioner-remote-controller-change-07.jpg&quot; alt=&quot;삼성 에어컨 (AS-K410) 리모콘 고장 교체 후기&quot; style=&quot;width: 500px; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;제품-구매-링크&quot;&gt;제품 구매 링크&lt;/h2&gt;
+&lt;div style=&quot;text-align:center&quot;&gt;
+&lt;iframe src=&quot;https://coupa.ng/ccJC2t&quot; width=&quot;120&quot; height=&quot;240&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; referrerpolicy=&quot;unsafe-url&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://coupa.ng/ccJC25&quot; width=&quot;120&quot; height=&quot;240&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; referrerpolicy=&quot;unsafe-url&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://coupa.ng/ccJC4a&quot; width=&quot;120&quot; height=&quot;240&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; referrerpolicy=&quot;unsafe-url&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;coupang_partners_banner_bottom_message&quot;&gt;&quot;이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.&quot;&lt;/div&gt;
+</description>
+            <pubDate>Mon, 23 May 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/life/diary/samsung-air-conditioner-remote-controller-change.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/life/diary/samsung-air-conditioner-remote-controller-change.html</guid>
+            
+            <category>coupang</category>
+            
+            
+        </item>
         
         <item>
             <title>쿠팡이츠 배달파트너 앱 수입 정산 내역 금액 오류 상황 정리</title>
@@ -133,7 +272,7 @@
 &lt;p&gt;쿠팡이츠 정산팀에 공식 요청해서 받은 정산 내역서의 금액은 다음과 같았습니다.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;정산내역서 신청 방법: &lt;a href=&quot;/life/diary/sidejob-coupang-eats-delivery-income-settlement-history.html&quot; style=&quot;word-break:break-all&quot;&gt;/life/diary/sidejob-coupang-eats-delivery-income-settlement-history.html&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;정산내역서 신청 방법: &lt;a href=&quot;/life/diary/sidejob-coupang-eats-delivery-income-settlement-history.html&quot; style=&quot;word-break:break-all&quot;&gt;https://cloudlog.kr/life/diary/sidejob-coupang-eats-delivery-income-settlement-history.html&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;정산 내역서를 살펴보면 위에서 제가 일반적으로 알려진 계산 방법으로 계산한 금액과 일치한다는 것을 확인할 수 있습니다.&lt;br /&gt;
@@ -626,148 +765,6 @@
             <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/grammer-dehanawokuziku-mixyakugaagaru.html</guid>
             
             <category>japan</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>吹く vs 噴く ,吹き出す vs 噴き出す | 일본어 공부</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;이번에는 [吹き出す] vs [噴き出す], [吹く] vs [噴く] 즉, 동일하게 [ふく]로 읽는 한자 [吹] vs [噴] 두가지의 의미를 비교해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;吹く-吹き出す&quot;&gt;吹く, 吹き出す&lt;/h2&gt;
-
-&lt;h3 id=&quot;의미&quot;&gt;의미&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
-⁃ 바람이 일거나 기체가 움직임을 일으킨다. &lt;br /&gt;
-⁃ (입김이나 숨을) 내뿜다. &lt;br /&gt;
-⁃ 무언가가 안쪽에서 바깥으로 나오다.
-&lt;/div&gt;
-
-&lt;h3 id=&quot;예문&quot;&gt;예문&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-⁃ 明日は明日の風が&lt;strong&gt;吹く&lt;/strong&gt;。&lt;br /&gt;
-⁃ 笛を&lt;strong&gt;吹く&lt;/strong&gt;。&lt;br /&gt;
-⁃ 芽が&lt;strong&gt;吹く&lt;/strong&gt;。&lt;br /&gt;
-⁃ 汗が&lt;strong&gt;吹き出す&lt;/strong&gt;。&lt;br /&gt;
-⁃ 息を&lt;strong&gt;吹き出す&lt;/strong&gt;。&lt;br /&gt;
-⁃ 木が芽を&lt;strong&gt;吹き出す&lt;/strong&gt;。
-&lt;/div&gt;
-
-&lt;h2 id=&quot;噴く-噴き出す&quot;&gt;噴く, 噴き出す&lt;/h2&gt;
-
-&lt;h3 id=&quot;의미-1&quot;&gt;의미&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
-⁃ 무언가가 &lt;strong&gt;힘차게, 기세 좋게&lt;/strong&gt; 밖으로 뿜어져 나오는 것.&lt;br /&gt;
-⁃ 여기서 중요한 것은 힘차게, 기세 좋게라는 것으로 吹く에 비해 사용 범위가 넓지 않습니다.
-&lt;/div&gt;
-
-&lt;h3 id=&quot;예문-1&quot;&gt;예문&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-⁃ 火山が煙を&lt;strong&gt;噴く&lt;/strong&gt;。&lt;br /&gt;
-⁃ 蒸気を&lt;strong&gt;噴く&lt;/strong&gt;。&lt;br /&gt;
-⁃ 鉄砲が火を&lt;strong&gt;噴く&lt;/strong&gt;。&lt;br /&gt;
-⁃ 街のあちこちに温泉ががあって、蒸気を&lt;strong&gt;噴き出して&lt;/strong&gt;いる。&lt;br /&gt;
-⁃ 傷から血が&lt;strong&gt;噴き出した&lt;/strong&gt;。&lt;br /&gt;
-⁃ 猛烈な勢いで大量の水が&lt;strong&gt;噴き出し&lt;/strong&gt;始めた。
-&lt;/div&gt;
-
-</description>
-            <pubDate>Sun, 01 May 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/language/japanese/vocabulary-huku-hukidasu.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/vocabulary-huku-hukidasu.html</guid>
-            
-            <category>japan</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>우유의 역습 | 당신이 몰랐던 우유에 관한 거짓말 그리고 선전</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;우유의 역습 - 당신이 몰랐던 우유에 관한 거짓말이라는 도발적인 제목의 책을 오래전 우연히 보게되었습니다.&lt;/p&gt;
-
-&lt;p&gt;그동안 너무나 당연하게 생각했던 우유는 완전 식품?? 우유를 먹어야 칼슘을 섭취할 수 있다? 우유를 먹어야 골다공증이 예방된다?? 
-등등의 이 모든 통념을 뒤집은 과학적인 조사와 분석… 이 책을 보면서 엄청난 배신감이 들었습니다.&lt;/p&gt;
-
-&lt;p&gt;무엇이든 과하면 좋지 않기 마련인데 이제껏 들어왔던 얘기는 우유는 아무리 많이 먹어도 부족하다라는 이야기가 대부분이었죠.
-학창시절에는 매일 우유 1잔씩 의무적으로 먹어야 했던 기억도 있고요.&lt;/p&gt;
-
-&lt;p&gt;아래 목차만 봐도 지금까지의 편견에 의문이 생깁니다.&lt;/p&gt;
-
-&lt;p&gt;물론 &lt;strong&gt;이 책의 내용이 100% 올바른 사실이라고 확신할 수는 없을 겁니다&lt;/strong&gt;. 다만 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;지금까지 너무 한쪽으로 치우친 주장만 주입 받았던 상황에서 반대쪽 주장도 들어봐야 올바른 판단이 가능&lt;/code&gt;하겠지요.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/bookstore/milk-lies-and-propaganda.jpg&quot; alt=&quot;프랑스의 유명 저널리스트인 저자 티에라 수카르가 쓴 완전식품 우유에 관한 치명적인 진실을 파헤치는 건강서 우유의 역습&quot; style=&quot;width: 458px; &quot; /&gt;&lt;figcaption&gt;이미지 출처: 교보문고 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;목차&quot;&gt;목차&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;한때 우유를 마셨던 자의 고백&lt;/li&gt;
-  &lt;li&gt;무엇에 대해 그리고 누구에 대해 말하고 있는지 알기 위한 몇 가지 숫자&lt;/li&gt;
-  &lt;li&gt;우유는 완전식품인가&lt;/li&gt;
-  &lt;li&gt;어떻게 우유가 완전식품이라고 믿게 만들었을까&lt;/li&gt;
-  &lt;li&gt;밀키웨이에서 온 침략자들&lt;/li&gt;
-  &lt;li&gt;어떻게 칼슘은 아무리 많이 먹어도 지나치지 않다고 믿게 만들었을까&lt;/li&gt;
-  &lt;li&gt;유제품이 골다공증을 예방해주지 않는다는 증거&lt;/li&gt;
-  &lt;li&gt;골다공증이 유행하는 이유&lt;/li&gt;
-  &lt;li&gt;프랑스인 500만이 앓고 있는 소리 없는 유행병&lt;/li&gt;
-  &lt;li&gt;암을 부르는 우유의 단백질&lt;/li&gt;
-  &lt;li&gt;우유에 들어 있는 발암 촉진 물질&lt;/li&gt;
-  &lt;li&gt;우유를 피하면 암 발병 위험이 낮아진다&lt;/li&gt;
-  &lt;li&gt;우유를 먹으면 날씬해진다고?&lt;/li&gt;
-  &lt;li&gt;우유, 소아질환의 원인으로 의심받다&lt;/li&gt;
-  &lt;li&gt;비만, 당뇨병과 심근경색에는 우유가 해결책?&lt;/li&gt;
-  &lt;li&gt;칼슘은 얼마나 필요할까?&lt;/li&gt;
-  &lt;li&gt;우유를 마시지 않고도 골다공증을 예방하는 방법&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;인상적이었던-내용&quot;&gt;인상적이었던 내용&lt;/h2&gt;
-
-&lt;h3 id=&quot;한때-우유를-마셨던-자의-고백&quot;&gt;한때 우유를 마셨던 자의 고백&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;“유제품이 가진 것으로 여겨지는 효능은 우유 자체는 아무런 공이 없고 우유를 발효시키는 박테리아, 즉 락토바실러스 덕분이다”&lt;/li&gt;
-  &lt;li&gt;“식사를 즐겁게 만들어주는 요구르트와 치즈, 우유에 대해서는 나도 찬성이다”&lt;/li&gt;
-  &lt;li&gt;“유제품을 소화해내고 면역계가 거부 반응을 보이지 않는다면 하루에 하나쯤 먹는다고 해서 해가 될거라고는 생각하지 않는다.”&lt;/li&gt;
-  &lt;li&gt;“그러니까 즐거움을 위해서 먹는다면 괜찮지만 의무적으로 먹지 말라는 것이다.”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;어떻게-칼슘은-아무리-많이-먹어도-지나치지-않다고-믿게-만들었을까&quot;&gt;어떻게 칼슘은 아무리 많이 먹어도 지나치지 않다고 믿게 만들었을까&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;“문제의 골량 획득에 대한 우유 칼슘의 역할즐 증명하는데 기여할 예정이었던 CALEUR 연구는 완전히 실패했다.”&lt;/li&gt;
-  &lt;li&gt;“칼슘 섭취와 요골에서 확인된 골량은 전혀 혹는 거의 상관이 없는 것으로 드러났다.”&lt;/li&gt;
-  &lt;li&gt;“아시아와 아프리카 국가들은 골밀도는 서양에 비해서 늦지만 골다공증은 더 적게 발생한다. 이는 철저한 채식주의자들에서도 관찰된 사실이다.”&lt;/li&gt;
-  &lt;li&gt;“조사에서 스웨덴인의 미국인과 비슷한 수준이었고, 프랑스인과 일본인보다는 높은 편이었다. 그런데 스웨덴은 골다공성 골절 세계기록을 보유한 국가이다.”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;구매-url&quot;&gt;구매 url&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;교보문고
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&amp;amp;ejkGb=KOR&amp;amp;barcode=9788992525664&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all;&quot;&gt;https://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&amp;amp;ejkGb=KOR&amp;amp;barcode=9788992525664&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;yes24
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.yes24.com/Product/Goods/3578256&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all;&quot;&gt;http://www.yes24.com/Product/Goods/3578256&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;알라딘
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4796210&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all;&quot;&gt;https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=4796210&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-            <pubDate>Wed, 27 Apr 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/bookstore/milk-lies-and-propaganda.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/bookstore/milk-lies-and-propaganda.html</guid>
-            
-            <category>book</category>
             
             
         </item>
