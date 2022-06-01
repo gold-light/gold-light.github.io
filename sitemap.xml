@@ -2,7 +2,37 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2022-06-01T19:58:43+09:00</lastmod>
+    <lastmod>2022-06-02T00:22:29+09:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/game/diablo-immortal/diablo-immortal-performance-resource-download.html</loc>
+  
+    <lastmod>2022-06-02T00:00:00+09:00</lastmod>
+    
+      
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/game/diablo-immortal/diablo-immortal-account-logout.html</loc>
+  
+    <lastmod>2022-06-01T00:00:00+09:00</lastmod>
+    
+      
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/game/diablo-immortal/diablo-immortal-character-change.html</loc>
+  
+    <lastmod>2022-06-01T00:00:00+09:00</lastmod>
+    
+      
   </url>
   
   
@@ -519,6 +549,8 @@
   
   
   
+  
+  
   <url>
     <loc>https://cloudlog.kr/category/game/ragnarok.html</loc>
   
@@ -615,6 +647,14 @@
   
   <url>
     <loc>https://cloudlog.kr/category/life/diary.html</loc>
+  
+       
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/category/game/diablo-immortal.html</loc>
   
        
   </url>
