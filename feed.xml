@@ -5,8 +5,8 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 31 May 2022 00:10:49 +0900</pubDate>
-        <lastBuildDate>Tue, 31 May 2022 00:10:49 +0900</lastBuildDate>
+        <pubDate>Wed, 01 Jun 2022 19:21:11 +0900</pubDate>
+        <lastBuildDate>Wed, 01 Jun 2022 19:21:11 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
         
         <item>
@@ -57,6 +57,65 @@
             <guid isPermaLink="true">https://cloudlog.kr/game/lol/league-of-legends-msi2002-final-review.html</guid>
             
             <category>lol</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>쿠팡이츠 배달파트너 앱 수입 정산 오류 문의 결과</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;얼마 전 쿠팡이츠 배달파트너 앱 수입내역에 원천징수 세금 계산 오류로 정산 금액이 일치하지 않는다는 글을 올린 적이 있습니다.&lt;br /&gt;
+그 내용을 쿠팡이츠에 공식 문의를 했는데 회신이 와서 어떤 내용인지 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;수입-정산-금액-오류&quot;&gt;수입 정산 금액 오류&lt;/h2&gt;
+&lt;p&gt;원천징수 세액 3.3%에 대한 계산이 잘못되면서 전체 수입 정산 금액 표기에 문제가 있었던 상황은 아래 글에서 자세히 확인할 수 있습니다.&lt;/p&gt;
+
+&lt;section class=&quot;blog blog-block&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm-12 col-md-12&quot;&gt;  
+    
+            &lt;div class=&quot;blog-post-small&quot;&gt;
+            &lt;img src=&quot;/images/diary/coupang-eats-delivery-app-my-income.jpg&quot; /&gt;
+            &lt;div class=&quot;title&quot;&gt;&lt;i class=&quot; fa-solid fa-file-invoice-dollar  fa-xl&quot;&gt;&lt;/i&gt; 
+            &lt;a href=&quot;/life/diary/sidejob-coupang-eats-delivery-app-my-income-error.html&quot;&gt;쿠팡이츠 배달파트너 앱 수입 정산 내역 금액 오류 상황 정리&lt;/a&gt;&lt;/div&gt;
+            &lt;p&gt;개요 쿠팡이츠 배달파트너 앱이 한참 전에 업데이트 되면서 주간 수입 내역을 볼 수 있게 되었는데 최근에 우연히 상세 내역을 살펴보다 정산 금액에 오류를 발견해서 내용을 정리해보겠습니다. 주간 수입 내역 배달파트너 앱 [내 수입] 메뉴에 들어가면 아래와 같이 주간 수입 내역을...&lt;/p&gt;
+            &lt;/div&gt;  
+       
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;mb-30&quot;&gt;&lt;/div&gt; 
+&lt;/section&gt;
+
+&lt;h2 id=&quot;문의-결과&quot;&gt;문의 결과&lt;/h2&gt;
+&lt;p&gt;처음에는 쿠팡이츠 정산팀에 문의를 했는데 정산내역 외에 앱 오류 등의 문제는 다른 곳에 문의하라고 해서 다시 한번 문의를 했고 회신온 메일 내용은 아래와 같습니다.&lt;/p&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+안녕하세요 파트너님, 쿠팡이츠 입니다. &lt;br /&gt;
+
+앱상 표기오류는 인지하고 있으나 개발팀에서 업무 순위에 따라 작업을 진행하고 있음에 따라 언제 수정이 될지는 정확히 알기 어렵습니다. &lt;br /&gt;
+
+지금 당장 해결하기 어렵다는 점 양해 부탁드리며 정산내역서 요청시 정확한 금액 확인이 가능합니다. &lt;br /&gt;
+
+불편을 끼쳐 드려 죄송합니다. 감사합니다. &lt;br /&gt;
+
+쿠팡이츠 드림.
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/coupang-eats-delivery-app-my-income-error-inquiry-01.png&quot; alt=&quot;쿠팡이츠 배달파트너 앱 수입내역 금액 오류 문의 결과&quot; style=&quot;width: 845px; max-width: 100%&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;결론&quot;&gt;결론&lt;/h2&gt;
+&lt;p&gt;회신 내용을 자세히 보면 오류는 이미 알고 있지만, 업무 우선 순위에 밀려서 언제 수정될지 알 수 없다는 내용이었습니다.&lt;br /&gt;
+업무 우선 순위가 있다는 것은 이해할 수 있지만, 과연 이 문제가, 수입 정산 내역 표기 오류가 그저 그런 문제, 별로 중요하지 않은 문제인지는 납득하기 어렵네요.&lt;/p&gt;
+
+&lt;p&gt;돈과 관련된 매우 민감한 문제를 이렇게 방치한다는 것이 올바른 대처인지 잘 이해가  되지 않네요.&lt;/p&gt;
+
+&lt;p&gt;가능한 빨리 수정되길 바랍니다.&lt;/p&gt;
+</description>
+            <pubDate>Fri, 27 May 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/life/diary/coupang-eats-delivery-app-my-income-error-inquiry.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/life/diary/coupang-eats-delivery-app-my-income-error-inquiry.html</guid>
+            
+            <category>coupang</category>
             
             
         </item>
@@ -293,6 +352,26 @@
 그렇지만 아무리 계좌에 입금된 문제가 없다고 해도, 공식 배달파트너 앱에서 계속 저런 오류를 방치하는 것은 너무나 심각합니다.&lt;/p&gt;
 
 &lt;p&gt;빨리 수정되길 바랍니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;쿠팡이츠-문의-결과&quot;&gt;쿠팡이츠 문의 결과&lt;/h2&gt;
+&lt;p&gt;그 이후에 쿠팡이츠 측에 문의를 했는데 당장은 오류 수정이 어렵다는 회신이 왔는데 아래 글에서 자세히 확인할 수 있습니다.&lt;/p&gt;
+
+&lt;section class=&quot;blog blog-block&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm-12 col-md-12&quot;&gt;  
+    
+            &lt;div class=&quot;blog-post-small&quot;&gt;
+            &lt;img src=&quot;/images/diary/coupang-eats-delivery-app-my-income-error-inquiry-02.png&quot; /&gt;
+            &lt;div class=&quot;title&quot;&gt;&lt;i class=&quot; fa-solid fa-file-invoice-dollar  fa-xl&quot;&gt;&lt;/i&gt; 
+            &lt;a href=&quot;/life/diary/coupang-eats-delivery-app-my-income-error-inquiry.html&quot;&gt;쿠팡이츠 배달파트너 앱 수입 정산 오류 문의 결과&lt;/a&gt;&lt;/div&gt;
+            &lt;p&gt;개요 얼마 전 쿠팡이츠 배달파트너 앱 수입내역에 원천징수 세금 계산 오류로 정산 금액이 일치하지 않는다는 글을 올린 적이 있습니다. 그 내용을 쿠팡이츠에 공식 문의를 했는데 회신이 와서 어떤 내용인지 정리해보겠습니다. 수입 정산 금액 오류 원천징수 세액 3.3%에 대한 계산이 잘못되면서...&lt;/p&gt;
+            &lt;/div&gt;  
+       
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;mb-30&quot;&gt;&lt;/div&gt; 
+&lt;/section&gt;
+
 </description>
             <pubDate>Fri, 20 May 2022 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/life/diary/sidejob-coupang-eats-delivery-app-my-income-error.html</link>
@@ -715,54 +794,6 @@
             <pubDate>Tue, 03 May 2022 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/life/language/japanese/kanzi-yomikata-iti-itsu-hito.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/kanzi-yomikata-iti-itsu-hito.html</guid>
-            
-            <category>japan</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>出端を挫く, 脈が上がる 의미 | 일본어 공부</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;이번에는 [&lt;strong&gt;出端を挫く&lt;/strong&gt;(ではなをくじく)] vs [&lt;strong&gt;脈が上がる&lt;/strong&gt;(みゃくがあがる)] 두가지 표현의 의미를 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;出端を挫くではなをくじく&quot;&gt;出端を挫く(ではなをくじく)&lt;/h2&gt;
-
-&lt;h3 id=&quot;의미&quot;&gt;의미&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
-⁃ &lt;strong&gt;出端(ではな)&lt;/strong&gt;는 나가는 순간, 일의 시작을 의미합니다. &lt;br /&gt;
-⁃ &lt;strong&gt;挫く(くじく)&lt;/strong&gt;는 관절을 삐다, 기세를 꺽다라는 뜻을 가지고 있습니다. &lt;br /&gt;
-⁃ 그래서 &lt;strong&gt;出端を挫く&lt;/strong&gt;(ではなをくじく)는 &lt;strong&gt;초반에, 초장에 기세를 꺽다, 콧대를 꺽다&lt;/strong&gt;라는 표현이 됩니다.
-&lt;/div&gt;
-
-&lt;h3 id=&quot;예문&quot;&gt;예문&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-⁃ 試合相手の&lt;strong&gt;出端を挫く&lt;/strong&gt;。&lt;br /&gt;
-⁃ 初戦に破れて&lt;strong&gt;出端を挫かれて&lt;/strong&gt;しまった。&lt;br /&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;脈が上がるみゃくがあがる&quot;&gt;脈が上がる(みゃくがあがる)&lt;/h2&gt;
-
-&lt;h3 id=&quot;의미-1&quot;&gt;의미&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
-⁃ &lt;strong&gt;脈&lt;/strong&gt;(みゃく)는 맥 즉, 맥박을 뜻합니다. &lt;br /&gt;
-⁃ &lt;strong&gt;上がる&lt;/strong&gt;(あがる)는 많은 뜻이 있지만, 여기서는 어떤 &lt;strong&gt;동작이나 상태가 마지막 단계에 이른다&lt;/strong&gt;는 뜻입니다. &lt;br /&gt;
-⁃ 그래서 &lt;strong&gt;脈が上がる&lt;/strong&gt;(みゃくがあがる)는 맥박이 다했다 즉, &lt;strong&gt;목숨이 다했다, 숨이 끊어졌다, 죽었다&lt;/strong&gt;는 뜻이 됩니다.
-&lt;/div&gt;
-
-&lt;h3 id=&quot;예문-1&quot;&gt;예문&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-⁃ 患者の手を取ると、すでに&lt;strong&gt;脈が上がって&lt;/strong&gt;いた。&lt;br /&gt;
-&lt;/div&gt;
-
-</description>
-            <pubDate>Mon, 02 May 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/language/japanese/grammer-dehanawokuziku-mixyakugaagaru.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/grammer-dehanawokuziku-mixyakugaagaru.html</guid>
             
             <category>japan</category>
             

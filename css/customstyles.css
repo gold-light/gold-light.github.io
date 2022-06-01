@@ -1323,6 +1323,7 @@ img.docimage{
 
 
 .mb-60{margin-bottom:60px}
+.mb-30{margin-bottom:30px}
 
 .blog-item-wrapper .blog-item-text{padding:20px}
 .blog-item-wrapper .blog-item-text h3 a{color:#444;font-size:18px}
@@ -1343,6 +1344,15 @@ img.docimage{
 .blog-post h3 a{color:#444}
 .blog-post h3 a:hover{color:#EB586F}
 .blog-post p{font-family:"Rubik",sans-serif;font-weight:400;font-size:14px;line-height:25px;color:#444;letter-spacing:0px;margin-bottom:10px}
+
+.blog-post-small{margin-bottom:15px;border-bottom:1px solid #EFEFEF; vertical-align: middle;}
+.blog-post-small img{width:150px;height:150px;margin:0 10px 0 0;float:left;vertical-align: middle;object-fit:cover}
+.blog-post-small a{color:#444;font-family:"Montserrat",sans-serif;font-weight:700;letter-spacing:0px;padding-top:10px;font-size:18px}
+.blog-post-small a:hover{color:#EB586F}
+.blog-post-small .title{padding-top:10px;}
+.blog-post-small p{font-family:"Rubik",sans-serif;font-weight:400;font-size:14px;line-height:25px;color:#444;letter-spacing:0px;margin-top:10px;margin-bottom:10px}
+.blog-post-small .post-date{font-size:12px}
+.blog-post-small:last-child{border:none}
 
 .about-sidebar-widget,
 .categories-sidebar-widget,
