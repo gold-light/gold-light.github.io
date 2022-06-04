@@ -5,9 +5,84 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jun 2022 00:22:29 +0900</pubDate>
-        <lastBuildDate>Thu, 02 Jun 2022 00:22:29 +0900</lastBuildDate>
+        <pubDate>Sat, 04 Jun 2022 23:33:25 +0900</pubDate>
+        <lastBuildDate>Sat, 04 Jun 2022 23:33:25 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로 이모탈 클라이언트 설치 용량, 시스템 요구사항 정리</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;디아블로 이모탈 (Diablo Immortal) PC 버전과 모바일 iOS, Android 버전의 클라이언트 설치 사이즈와 시스템 요구사항에 대해 정리해보겠습니다&lt;/p&gt;
+
+&lt;h2 id=&quot;클라이언트-설치-사이즈&quot;&gt;클라이언트 설치 사이즈&lt;/h2&gt;
+
+&lt;h3 id=&quot;pc-버전&quot;&gt;PC 버전&lt;/h3&gt;
+&lt;p&gt;PC버전의 클라이언트 사이즈는 설치 화면에서 &lt;strong&gt;26.80GB&lt;/strong&gt;인 것으로 확인됩니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo-immortal/diablo-immortal-client-size-pc.jpg&quot; alt=&quot;디아블로 이모탈 (Diablo Immortal) PC버전 클라이언트 사이즈&quot; style=&quot;width: 845px; max-width: 100%&quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;ios-버전&quot;&gt;iOS 버전&lt;/h3&gt;
+&lt;p&gt;아이폰 등의 클라이언트 사이즈는 초기 설치 사이즈 &lt;strong&gt;3.57GB&lt;/strong&gt; + 이후 리소스 업데이트 사이즈 &lt;strong&gt;8.83GB&lt;/strong&gt; = &lt;strong&gt;12.40GB&lt;/strong&gt; 정도 이며 앞으로 계속 업데이트가 되면 늘어날 것으로 예상됩니다.&lt;br /&gt;
+확인하는 방법은 아이폰 &lt;strong&gt;[설정] - [일반] - [iPhone 저장 공간] - [Immortal]&lt;/strong&gt;에 들어가시면 확인 가능합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo-immortal/diablo-immortal-client-size-ios.jpg&quot; alt=&quot;디아블로 이모탈 (Diablo Immortal) PC버전 클라이언트 사이즈&quot; style=&quot;width: 845px; max-width: 100%&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;시스템-요구사항&quot;&gt;시스템 요구사항&lt;/h2&gt;
+
+&lt;h3 id=&quot;pc-버전-1&quot;&gt;PC 버전&lt;/h3&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo-immortal/diablo-immortal-system-requirements-pc.jpg&quot; alt=&quot;디아블로 이모탈 (Diablo Immortal) PC버전 클라이언트 사이즈&quot; style=&quot;width: 845px; max-width: 100%&quot; /&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;최소-사양&quot;&gt;최소 사양&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;OS: Windows® 7 / Windows® 8 / Windows® 10 / Windows® 11 (64-bit)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;CPU: Intel® Core™ i3 또는 AMD™ FX-8100&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;비디오카드: NVIDIA® GeForce® GTX 460, ATI Radeon™ HD 6850 또는 Intel® HD Graphics 530&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;RAM: 4GB RAM&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;인터넷: 광대역 인터넷 연결&lt;/li&gt;
+  &lt;li&gt;해상도: 1920 x 1080 최소 디스플레이 해상도&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;권장-사양&quot;&gt;권장 사양&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;OS: Windows® 10 / Windows® 11 (64-bit)&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CPU: Intel® Core™ i5 또는 AMD Ryzen™ 5&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;비디오카드: NVIDIA® GeForce® GTX 770 또는 AMD Radeon™ RX 470&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;RAM: 8GB RAM&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;인터넷: 광대역 인터넷 연결&lt;/li&gt;
+  &lt;li&gt;해상도: 1920 x 1080 최소 디스플레이 해상도&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ios&quot;&gt;iOS&lt;/h3&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo-immortal/diablo-immortal-system-requirements-ios.jpg&quot; alt=&quot;디아블로 이모탈 (Diablo Immortal) PC버전 클라이언트 사이즈&quot; style=&quot;width: 845px; max-width: 100%&quot; /&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;최소-사양-1&quot;&gt;최소 사양&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;하드웨어: iPhone 6s 이상&lt;/li&gt;
+  &lt;li&gt;OS: iOS 11 이상&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;android&quot;&gt;Android&lt;/h3&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo-immortal/diablo-immortal-system-requirements-aos.jpg&quot; alt=&quot;디아블로 이모탈 (Diablo Immortal) PC버전 클라이언트 사이즈&quot; style=&quot;width: 845px; max-width: 100%&quot; /&gt;&lt;/figure&gt;
+
+&lt;h4 id=&quot;최소-사양-2&quot;&gt;최소 사양&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;OS: Android 5.0 이상&lt;/li&gt;
+  &lt;li&gt;CPU: Snapdragon 660 / Exynos 9611 이상&lt;/li&gt;
+  &lt;li&gt;비디오카드: Adreno 512 / Mali-G72 MP3 이상&lt;/li&gt;
+  &lt;li&gt;RAM: 2GB RAM 이상&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <pubDate>Fri, 03 Jun 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo-immortal/diablo-immortal-client-size-system-requirements.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo-immortal/diablo-immortal-client-size-system-requirements.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로 이모탈 초반에 게임이 버벅대는 이유 - 리소스 다운로드</title>
@@ -649,109 +724,6 @@
             <category>comics</category>
             
             <category>novel</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>피크민 블룸 (Pikmin Bloom) 친구 초대 코드 - WGFNROFND</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;피크민 블룸 (Pikmin Bloom)은 포켓몬고(Pokemon Go)와 인그레스(Ingress)를 제작한 나이앤틱(Niantic)에서 
-닌텐도의 게임큐브, Wii용 게임 피크민(Pikmin)을 이용해 제작한 모바일 위치기반 증강현실(AR) 게임입니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;친구-초대-코드---wgfnrofnd&quot;&gt;친구 초대 코드 - WGFNROFND&lt;/h2&gt;
-&lt;p&gt;피크민 블룸 계정을 처음 만들때 친구 초대코드를 입력할 수 있습니다.&lt;br /&gt;
-친구 초대코드를 입력하면 [&lt;strong&gt;꽃잎 20장과 정수 10개&lt;/strong&gt;]를 받을 수 있습니다.&lt;/p&gt;
-
-&lt;p&gt;제가 드리는 초대코드는 [ &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WGFNROFND&lt;/code&gt; ] 입니다.&lt;/p&gt;
-
-&lt;p&gt;보상은 튜토리얼을 완료한 후에 지급되고 자동적으로 친구로 등록되는데, 
-계속 친구 리스트 등록되어 있는 것이 부담스러우시면 보상을 받은 후에 친구 삭제를 하면 되겠죠.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/pikmin-bloom/pikmin-bloom-friend-invite-code-01.png&quot; alt=&quot;Niantic의 새로운 AR 게임, 피크민 블룸 (Pikmin Bloom) 친구 초대 코드(WGFNROFND)&quot; style=&quot;width: 600px; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;다운로드-경로&quot;&gt;다운로드 경로&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Apple App Store: &lt;a href=&quot;https://apps.apple.com/app/id1556357398&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all;&quot;&gt;https://apps.apple.com/app/id1556357398&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Google PlayStore: &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all;&quot;&gt;https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;홈페이지: &lt;a href=&quot;https://pikminbloom.onelink.me/pWSt/refer&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all;&quot;&gt;https://pikminbloom.onelink.me/pWSt/refer&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;보상-정보&quot;&gt;보상 정보&lt;/h2&gt;
-&lt;p&gt;친구 초대로 가입하게 될 때 서로 받게 되는 보상 정보는 다음과 같습니다.&lt;/p&gt;
-
-&lt;h3 id=&quot;초대받은-유저가-받는-보상&quot;&gt;초대받은 유저가 받는 보상&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;꽃잎 20장과 정수 10개&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;초대한-유저가-받는-보상&quot;&gt;초대한 유저가 받는 보상&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;처음 다섯 명까지 초대할 때마다: 추가 슬롯 1개&lt;/li&gt;
-  &lt;li&gt;이후 여섯 명부터 초대할 때마다: 정수 20개&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;초대-코드-공유하는-방법&quot;&gt;초대 코드 공유하는 방법&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;[프로필]을 탭합니다.&lt;/li&gt;
-  &lt;li&gt;좌측 상단의 [친구]를 탭합니다.&lt;/li&gt;
-  &lt;li&gt;우측 상단의 [초대]를 탭합니다.&lt;/li&gt;
-  &lt;li&gt;[코드 공유]를 탭한 후, 원하는 방법으로 초대 코드를 공유합니다.&lt;/li&gt;
-  &lt;li&gt;초대 코드를 복사하고 공유를 합니다.&lt;/li&gt;
-  &lt;li&gt;초대 코드를 변경하고 싶은 경우에는 새로고침 버튼을 탭하면 됩니다.&lt;/li&gt;
-  &lt;li&gt;초대받은 유저가 초대 코드를 사용하여 게임 튜토리얼을 완료한 후에 보상이 지급됩니다. 또한 초대받은 유저는 자동으로 친구로 등록됩니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;자주-물어보는-질문-faq&quot;&gt;자주 물어보는 질문 (FAQ)&lt;/h2&gt;
-&lt;p&gt;피크민 블룸 도움말에 있는 친구초대 관련한 FAQ를 대신 소개합니다.&lt;/p&gt;
-
-&lt;h3 id=&quot;하나의-추천-코드를-사용해서-여러-명의-유저를-초대할-수도-있나요&quot;&gt;하나의 추천 코드를 사용해서 여러 명의 유저를 초대할 수도 있나요?&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;추천 코드의 사용 유저 수에는 제한이 없습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;내-초대-코드를-변경한-다음에는-예전-코드가-효력을-잃게-되나요&quot;&gt;내 초대 코드를 변경한 다음에는 예전 코드가 효력을 잃게 되나요?&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;예전에 사용한 초대 코드는 효력을 읽습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;내-초대-코드를-사용해서-어떤-유저가-앱을-시작했는데-나는-보상을-받지-못했어요-왜-그런가요&quot;&gt;내 초대 코드를 사용해서 어떤 유저가 앱을 시작했는데, 나는 보상을 받지 못했어요. 왜 그런가요?&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;다음과 같은 이유를 생각해볼 수 있습니다. 초대받은 유저는 초대 코드를 재입력할 수 없다는 사실을 기억하세요.&lt;/li&gt;
-  &lt;li&gt;초대받은 유저가 초대 코드 입력을 깜박했어요.&lt;/li&gt;
-  &lt;li&gt;초대받은 유저가 다른 유저의 초대 코드를 사용했어요.&lt;/li&gt;
-  &lt;li&gt;초대받은 유저가 튜토리얼을 완료해서 자신의 보상을 수령하지 않았어요.&lt;/li&gt;
-  &lt;li&gt;초대하는 유저나 초대받는 유저의 친구 목록이 가득 찼어요(아래의 안내 참고).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;초대하는-유저나-초대받는-유저의-친구-목록에-빈자리가-없으면-어떻게-되나요&quot;&gt;초대하는 유저나 초대받는 유저의 친구 목록에 빈자리가 없으면 어떻게 되나요?&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;초대하는 유저나 초대받는 유저의 친구 목록에 빈자리가 없을 경우(Niantic의 모든 앱에 걸쳐, 최대 수인 400명에 도달한 경우), 다음 설명을 참고하세요.&lt;/li&gt;
-  &lt;li&gt;초대하는 유저와 초대받는 유저는 자동적으로 친구로 등록되지 않습니다.&lt;/li&gt;
-  &lt;li&gt;초대하는 유저는 보상을 받지 못합니다.  초대받는 유저는 보상을 받습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;ingress-pokémon-go-등의-기타-niantic-앱에서-이미-친구-사이인데요-그래도-보상을-받을-수-있나요&quot;&gt;Ingress, Pokémon GO 등의 기타 Niantic 앱에서 이미 친구 사이인데요. 그래도 보상을 받을 수 있나요?&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;초대받는 유저가 Pikmin Bloom을 처음으로 플레이한다면, 둘 다 보상을 받을 수 있습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;보상-아이템의-최대-소지량을-초과해서도-보상을-받을-수-있나요&quot;&gt;보상 아이템의 최대 소지량을 초과해서도 보상을 받을 수 있나요?&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;아니요.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;게임-스샷&quot;&gt;게임 스샷&lt;/h2&gt;
-&lt;p&gt;플레이 시작한지 이틀째 게임 스샷입니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/pikmin-bloom/pikmin-bloom-friend-invite-code-02.png&quot; alt=&quot;Niantic의 새로운 AR 게임, 피크민 블룸 (Pikmin Bloom) 친구 초대 코드(WGFNROFND)&quot; style=&quot;width: 394px; &quot; /&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Sun, 08 May 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/ar/pikmin-bloom-friend-invite-code.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/ar/pikmin-bloom-friend-invite-code.html</guid>
-            
-            <category>ar</category>
             
             
         </item>
