@@ -5,9 +5,56 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 07 Jun 2022 00:30:50 +0900</pubDate>
-        <lastBuildDate>Tue, 07 Jun 2022 00:30:50 +0900</lastBuildDate>
+        <pubDate>Tue, 07 Jun 2022 23:54:47 +0900</pubDate>
+        <lastBuildDate>Tue, 07 Jun 2022 23:54:47 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로 이모탈 공식 추천 빌드 확인하는 방법</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;디아블로 이모탈에는 개발팀에서 공식 추천하는 빌드를 각 직업별로 3개씩 공개하고 있습니다.&lt;br /&gt;
+스킬, 장비, 보석 등 각각의 구성으로 좋은 빌드를 PVE 2개, PVP 1개 이렇게 공개하고 있는데, 주기적으로 변경할 수도 있다고 합니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;추천-빌드-위치&quot;&gt;추천 빌드 위치&lt;/h2&gt;
+&lt;p&gt;게임 화면 오른쪽 상단에 있는 [&lt;strong&gt;인벤토리&lt;/strong&gt;] 버튼을 터치합니다. 또는 PC 버전에서는 단축키 [I]를 입력합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo-immortal/diablo-immortal-menu-inventory.jpg&quot; alt=&quot;디아블로 이모탈 (Diablo Immortal)에서 알려주는 공식 추천 빌드 확인하는 방법&quot; style=&quot;width: 845px; max-width: 100%&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;[인벤토리] 화면 왼쪽 아래쪽에 있는 [추천 빌드] 아이콘을 터치 합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo-immortal/diablo-immortal-inventory.jpg&quot; alt=&quot;디아블로 이모탈 (Diablo Immortal)에서 알려주는 공식 추천 빌드 확인하는 방법&quot; style=&quot;width: 845px; max-width: 100%&quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;추천-빌드-1&quot;&gt;추천 빌드 1&lt;/h3&gt;
+&lt;p&gt;추천 빌드 1은 PVE용 빌드입니다.&lt;br /&gt;
+성기사의 경우 [악몽의 군마]라는 이름으로 [신성화] - [규탄] - [능지처참] 스킬을 사용하게 되어 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo-immortal/diablo-immortal-recommended-build-01.jpg&quot; alt=&quot;디아블로 이모탈 (Diablo Immortal)에서 알려주는 공식 추천 빌드 확인하는 방법&quot; style=&quot;width: 845px; max-width: 100%&quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;추천-빌드-2&quot;&gt;추천 빌드 2&lt;/h3&gt;
+&lt;p&gt;추천 빌드 2도 PVE용 빌드입니다.&lt;br /&gt;
+성기사의 경우 [정의의 심판]이라는 이름으로 [눈부신 방패] - [심판] - [휩쓸기 공격] 스킬을 사용하게 되어 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo-immortal/diablo-immortal-recommended-build-02.jpg&quot; alt=&quot;디아블로 이모탈 (Diablo Immortal)에서 알려주는 공식 추천 빌드 확인하는 방법&quot; style=&quot;width: 845px; max-width: 100%&quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;추천-빌드-3&quot;&gt;추천 빌드 3&lt;/h3&gt;
+&lt;p&gt;추천 빌드 3은 PVP용 빌드입니다.&lt;br /&gt;
+성기사의 경우 [가차 없는 추적]이라는 이름으로 [회전 방패] - [천벌의 검] - [방패 돌진] 스킬을 사용하게 되어 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo-immortal/diablo-immortal-recommended-build-03.jpg&quot; alt=&quot;디아블로 이모탈 (Diablo Immortal)에서 알려주는 공식 추천 빌드 확인하는 방법&quot; style=&quot;width: 845px; max-width: 100%&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;보상&quot;&gt;보상&lt;/h2&gt;
+&lt;p&gt;각 추천 빌드별로 필요한 스킬이나 아이템들을 모으면 아래와 같이 골드를 보상으로 받을 수 있습니다.&lt;/p&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo-immortal/diablo-immortal-recommended-build-04.jpg&quot; alt=&quot;디아블로 이모탈 (Diablo Immortal)에서 알려주는 공식 추천 빌드 확인하는 방법&quot; style=&quot;width: 845px; max-width: 100%&quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Mon, 06 Jun 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo-immortal/diablo-immortal-recommended-builds.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo-immortal/diablo-immortal-recommended-builds.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로 이모탈 주무기, 보조무기가 구분됩니다</title>
@@ -501,182 +548,6 @@
             <pubDate>Mon, 23 May 2022 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/life/diary/samsung-air-conditioner-remote-controller-change.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/life/diary/samsung-air-conditioner-remote-controller-change.html</guid>
-            
-            <category>coupang</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>쿠팡이츠 배달파트너 앱 수입 정산 내역 금액 오류 상황 정리</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;쿠팡이츠 배달파트너 앱이 한참 전에 업데이트 되면서 주간 수입 내역을 볼 수 있게 되었는데 
-최근에 우연히 상세 내역을 살펴보다 정산 금액에 오류를 발견해서 내용을 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;주간-수입-내역&quot;&gt;주간 수입 내역&lt;/h2&gt;
-&lt;p&gt;배달파트너 앱 [내 수입] 메뉴에 들어가면 아래와 같이 주간 수입 내역을 확인할 수 있는데, 표시되는 항목을 다음과 같습니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;총 수입&lt;/li&gt;
-  &lt;li&gt;배달 수수료&lt;/li&gt;
-  &lt;li&gt;미션 보너스&lt;/li&gt;
-  &lt;li&gt;원천징수 세액&lt;/li&gt;
-  &lt;li&gt;소득세&lt;/li&gt;
-  &lt;li&gt;지방 소득&lt;/li&gt;
-  &lt;li&gt;원천징수세액 계&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/coupang-eats-delivery-app-my-income.jpg&quot; alt=&quot;쿠팡이츠 배달파트너 앱 수입내역 금액 오류&quot; style=&quot;width: 500px; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;수입-금액-오류-상황&quot;&gt;수입 금액 오류 상황&lt;/h2&gt;
-&lt;p&gt;수입 금액 상세 내역 중에서 원천징수세액 항목을 자세히 보면 뭔가 이상한 것을 확인할 수 있습니다.&lt;br /&gt;
-원천징수세액은 소득세법에 따라 배달파트너의 경우 [특수형태근로종사자]로 분류가 되어 &lt;strong&gt;총 수입의 원천징수세율 3.3%&lt;/strong&gt;가 적용됩니다.&lt;br /&gt;
-그런데 여기서 3.3%는 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;소득세 3% + 주민세(지방 소득세) 0.3%&lt;/code&gt;로 구성되어 있습니다.&lt;/p&gt;
-
-&lt;p&gt;그런데 [국고금 관리법]에는 다음과 같은 내용이 나옵니다.&lt;/p&gt;
-
-&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;[국고금 관리법] 제47조(국고금의 끝수 계산):&lt;/b&gt; 
-① 국고금의 수입 또는 지출에서 10원 미만의 끝수가 있을 때에는 그 끝수는 계산하지 아니하고, 전액이 10원 미만일 때에도 그 전액을 계산하지 아니한다.
-&lt;/div&gt;
-
-&lt;p&gt;이를 기준으로 원천징수세액과 최종 수입을 계산해 보면 다음과 같습니다.&lt;/p&gt;
-
-&lt;table class=&quot;tb-70&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align:center&quot;&gt;항목&lt;/th&gt;
-      &lt;th style=&quot;text-align:center&quot;&gt;계산식&lt;/th&gt;
-      &lt;th style=&quot;text-align:right&quot;&gt;계산금액&lt;/th&gt;
-      &lt;th style=&quot;text-align:right&quot;&gt;최종금액 (10원 미만 절사)&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;배달 수수료&lt;/td&gt;
-      &lt;td style=&quot;text-align:right&quot;&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align:right&quot;&gt;&lt;/td&gt;    
-      &lt;td style=&quot;text-align:right&quot;&gt;37,330 원&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;소득세&lt;/td&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;(배달수수료 * 3%)&lt;/td&gt;
-      &lt;td style=&quot;text-align:right&quot;&gt;1,119.9원&lt;/td&gt;
-      &lt;td style=&quot;text-align:right&quot;&gt;1,110 원&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;주민세&lt;/td&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;(배달수수료 * 0.3%)&lt;/td&gt;
-      &lt;td style=&quot;text-align:right&quot;&gt;111.99 원&lt;/td&gt;
-      &lt;td style=&quot;text-align:right&quot;&gt;110 원&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;원천징수 세액&lt;/td&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;(소득세 + 주민세)&lt;/td&gt;   
-      &lt;td style=&quot;text-align:right&quot;&gt;&lt;/td&gt;      
-      &lt;td style=&quot;text-align:right&quot;&gt;1,220 원&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;총 수입&lt;/td&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;(배달수수료 - 원천징수세액)&lt;/td&gt;           
-      &lt;td style=&quot;text-align:right&quot;&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align:right&quot;&gt;36,110 원&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;하지만, 배달파트너 앱에서는 전혀 다르게 나와는데 2가지를 비교해보면 다음과 같습니다.&lt;/p&gt;
-
-&lt;table class=&quot;tb-50&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align:center&quot;&gt;항목&lt;/th&gt;
-      &lt;th style=&quot;text-align:right&quot;&gt;계산 금액&lt;/th&gt;
-      &lt;th style=&quot;text-align:right&quot;&gt;배달파트너 앱 금액&lt;/th&gt;      
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;배달 수수료&lt;/td&gt;   
-      &lt;td style=&quot;text-align:right&quot;&gt;37,330 원&lt;/td&gt;
-      &lt;td style=&quot;text-align:right&quot;&gt;37,330 원&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;소득세&lt;/td&gt;            
-      &lt;td style=&quot;text-align:right;color:red&quot;&gt;1,110 원&lt;/td&gt;
-      &lt;td style=&quot;text-align:right;color:red&quot;&gt;1,107 원&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;주민세&lt;/td&gt;      
-      &lt;td style=&quot;text-align:right;color:red&quot;&gt;110 원&lt;/td&gt;
-      &lt;td style=&quot;text-align:right;color:red&quot;&gt;124 원&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;원천징수 세액&lt;/td&gt;      
-      &lt;td style=&quot;text-align:right;color:red&quot;&gt;1,220 원&lt;/td&gt;
-      &lt;td style=&quot;text-align:right;color:red&quot;&gt;1,231 원&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align:center&quot;&gt;총 수입&lt;/td&gt;      
-      &lt;td style=&quot;text-align:right;color:red&quot;&gt;36,110 원&lt;/td&gt;
-      &lt;td style=&quot;text-align:right;color:red&quot;&gt;36,099 원&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;일반적으로 알려진 원천징수 세액 계산법으로 계산한 금액과 배달파트너 앱에 나오는 수입 정산 금액이 다른 매우 심각한 오류 상황입니다.&lt;/p&gt;
-
-&lt;p&gt;그래서 쿠팡이츠 정산팀에 상세 정산내역을 요청했습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;정산-내역서-금액&quot;&gt;정산 내역서 금액&lt;/h2&gt;
-&lt;p&gt;쿠팡이츠 정산팀에 공식 요청해서 받은 정산 내역서의 금액은 다음과 같았습니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;정산내역서 신청 방법: &lt;a href=&quot;/life/diary/sidejob-coupang-eats-delivery-income-settlement-history.html&quot; style=&quot;word-break:break-all&quot;&gt;https://cloudlog.kr/life/diary/sidejob-coupang-eats-delivery-income-settlement-history.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;정산 내역서를 살펴보면 위에서 제가 일반적으로 알려진 계산 방법으로 계산한 금액과 일치한다는 것을 확인할 수 있습니다.&lt;br /&gt;
-즉, 배달파트너 앱에 나와 있는 금액이 틀렸다는 것입니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/coupang-eats-delivery-income-settlement-history-02.png&quot; alt=&quot;쿠팡이츠 배달파트너 앱 수입내역 금액 오류&quot; style=&quot;width: 718px; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;결론&quot;&gt;결론&lt;/h2&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-3&quot;&gt;
-분명히 일반적으로 알려진 계산 방식으로 계산한 금액과 쿠팡이츠 정산팀에 공식 요청해서 받은 정산내역서 금액이 일치하는 반면, 
-배달파트너 앱에 나와 있는 금액은 전혀 다르다는 것으로 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;결국 배달파트너 앱에 오류가 있다는 것을 확인&lt;/code&gt;할 수 있었습니다.
-&lt;/div&gt;
-
-&lt;p&gt;그렇다면 그 오랜 기간 동안 이런 오류, 그것도 수입, 돈과 관련된 부분에 이렇게 심각한 오류가 있음에도 쿠팡이츠에서는 수정은 커녕 아직 오류가 있다는 사실조차 파악하지 못한 것으로 추측됩니다.&lt;/p&gt;
-
-&lt;p&gt;계좌에 입금된 금액은 정상인지 다들 확인이 필요할 것으로 보이는데, 일단 제 경우에는 입금 금액은 문제가 없는 것으로 보입니다.&lt;br /&gt;
-그렇지만 아무리 계좌에 입금된 문제가 없다고 해도, 공식 배달파트너 앱에서 계속 저런 오류를 방치하는 것은 너무나 심각합니다.&lt;/p&gt;
-
-&lt;p&gt;빨리 수정되길 바랍니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;쿠팡이츠-문의-결과&quot;&gt;쿠팡이츠 문의 결과&lt;/h2&gt;
-&lt;p&gt;그 이후에 쿠팡이츠 측에 문의를 했는데 당장은 오류 수정이 어렵다는 회신이 왔는데 아래 글에서 자세히 확인할 수 있습니다.&lt;/p&gt;
-
-&lt;section class=&quot;blog blog-block&quot;&gt;
-    &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm-12 col-md-12&quot;&gt;  
-    
-            &lt;div class=&quot;blog-post-small&quot;&gt;
-            &lt;img src=&quot;/images/diary/coupang-eats-delivery-app-my-income-error-inquiry-02.png&quot; /&gt;
-            &lt;div class=&quot;title&quot;&gt;&lt;i class=&quot; fa-solid fa-file-invoice-dollar  fa-xl&quot;&gt;&lt;/i&gt; 
-            &lt;a href=&quot;/life/diary/coupang-eats-delivery-app-my-income-error-inquiry.html&quot;&gt;쿠팡이츠 배달파트너 앱 수입 정산 오류 문의 결과&lt;/a&gt;&lt;/div&gt;
-            &lt;p&gt;개요 얼마 전 쿠팡이츠 배달파트너 앱 수입내역에 원천징수 세금 계산 오류로 정산 금액이 일치하지 않는다는 글을 올린 적이 있습니다. 그 내용을 쿠팡이츠에 공식 문의를 했는데 회신이 와서 어떤 내용인지 정리해보겠습니다....&lt;/p&gt;
-            &lt;a href=&quot;/life/diary/coupang-eats-delivery-app-my-income-error-inquiry.html&quot; class=&quot;link-url&quot;&gt;&lt;span class=&quot;label label-warning&quot;&gt;Read More&lt;/span&gt;&lt;/a&gt;
-            &lt;/div&gt;  
-       
-    &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;mb-30&quot;&gt;&lt;/div&gt; 
-&lt;/section&gt;
-
-</description>
-            <pubDate>Fri, 20 May 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/diary/sidejob-coupang-eats-delivery-app-my-income-error.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/diary/sidejob-coupang-eats-delivery-app-my-income-error.html</guid>
             
             <category>coupang</category>
             
