@@ -72,6 +72,17 @@
 
 
 {
+"title": "사이트 내부 문서 링크하기 | Jekyll",
+"tags": "markdownjekyll",
+"keywords": "programming, markdown, 지킬, 루비",
+"url": "/programming/jekyll/jekyll-include-internal-post-page.html",
+"summary": "Jekyll로 만드는 사이트에서 내부 문서를 링크하는 방법에 대해 정리해보았습니다"
+}
+,
+
+
+
+{
 "title": "Jekyll robots.txt 템플릿 수정하기 | Ruby 3.0",
 "tags": "markdownjekyll",
 "keywords": "programming, markdown, 지킬, 루비",
