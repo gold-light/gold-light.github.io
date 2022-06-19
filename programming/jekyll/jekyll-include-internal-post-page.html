@@ -620,7 +620,7 @@ first.md 파일 소스코드에 아래와 같이 <code class="language-plaintext
 <p>위에서 본 include_doc.html 소스중에서 나머지는 그냥 html, css 코드이니 원하는대로 설정하면 되고 아래의 코드가 핵심이니 자세히 살펴 보겠습니다.</p>
 
 <h4 id="지정한-문서-정보-배열에-저장">지정한 문서 정보 배열에 저장</h4>
-<p>이 코드는 사이트의 전체 포스트 중에서 <strong>permalink 속성 정보가 파라미터 file로 넘어온 문서만 docs 변수에 배열로 저장</strong>합니다.</p>
+<p>이 코드는 liquid의 문법 중에서 where 필터를 이용해서 사이트의 전체 포스트 중에서 <strong>permalink 속성 정보가 파라미터 file로 넘어온 문서만 docs 변수에 배열로 저장</strong>합니다.</p>
 <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{%</span><span class="w"> </span><span class="nt">assign</span><span class="w"> </span><span class="nv">docs</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">site</span><span class="p">.</span><span class="nv">posts</span><span class="w"> </span><span class="p">|</span><span class="w"> </span><span class="nf">where</span><span class="p">:</span><span class="s2">"permalink"</span><span class="p">,</span><span class="w"> </span><span class="nv">include</span><span class="p">.</span><span class="nv">file</span><span class="w"> </span><span class="p">%}</span>
 </code></pre></div></div>
 
@@ -682,8 +682,11 @@ first.md 파일 소스코드에 아래와 같이 <code class="language-plaintext
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy;2022 Copyright 2022 @CLOUDLOG.KR. All rights reserved. <br />
-               Built with <a href="https://jekyllrb-ko.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Jekyll</a> & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> <br />
-<span>Page last updated:</span> 2022-06-14<br/> Site last generated: 2022-06-15 <br />
+               Built with <a href="https://jekyllrb-ko.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Jekyll</a> 
+               & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
+               & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
+               
+<span>Page last updated:</span> 2022-06-14<br/> Site last generated: 2022-06-19 <br />
 
                 </div>
             </div>
