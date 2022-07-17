@@ -2,7 +2,17 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2022-06-23T23:49:52+09:00</lastmod>
+    <lastmod>2022-07-17T23:21:17+09:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/life/diary/gsretail-gs25-pre-order-launch-box-lost.html</loc>
+  
+    <lastmod>2022-07-17T00:00:00+09:00</lastmod>
+    
+      
   </url>
   
   
@@ -462,6 +472,16 @@
   
   
   <url>
+    <loc>https://cloudlog.kr/programming/php/php-array-search-column.html</loc>
+
+    <lastmod>2022-06-23T00:00:00+09:00</lastmod>
+    
+       
+  </url>
+  
+  
+  
+  <url>
     <loc>https://cloudlog.kr/programming/jekyll/jekyll-include-internal-post-page.html</loc>
 
     <lastmod>2022-06-14T00:00:00+09:00</lastmod>
@@ -484,7 +504,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-robots-txt-edit.html</loc>
+    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-xml-edit.html</loc>
 
     <lastmod>2022-04-10T00:00:00+09:00</lastmod>
     
@@ -494,7 +514,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-xml-edit.html</loc>
+    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-robots-txt-edit.html</loc>
 
     <lastmod>2022-04-10T00:00:00+09:00</lastmod>
     
@@ -647,13 +667,13 @@
   
   
   
-  
-  
   <url>
     <loc>https://cloudlog.kr/category/game/ragnarok.html</loc>
   
        
   </url>
+  
+  
   
   
   
