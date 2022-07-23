@@ -4,25 +4,27 @@
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="윈도우(Windows) 사용할 때 유용한 유틸, 설정 그리고 각 종 명령어를 모아봤습니다.">
-<meta name="keywords" content="windows,  Programming, OS, Windows, Util, Config, Util, Command">
+<meta name="description" content="GS25 편의점에 예약주문으로 구매한 도시락이 매장에 입고되지 않고 사라진 사건을 처리 결과를 정리했습니다.">
+<meta name="keywords" content="coupang,  GSRetail, 지에스리테일, 지에스25, Convenience Store">
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="윈도우 유용한 유틸, 설정, 명령어 모음" />
+<meta property="og:title" content="GS25 편의점 예약주문 도시락 분실-실종 사건 처리 결과" />
 <meta property="og:locale" content="ko_KR" />
-<meta property="og:description" content="윈도우(Windows) 사용할 때 유용한 유틸, 설정 그리고 각 종 명령어를 모아봤습니다." />
-<link rel="canonical" href="https://cloudlog.kr/programming/os/windows-command-util-config.html" />
-<meta property="og:url" content="https://cloudlog.kr/programming/os/windows-command-util-config.html" />
+<meta property="og:description" content="GS25 편의점에 예약주문으로 구매한 도시락이 매장에 입고되지 않고 사라진 사건을 처리 결과를 정리했습니다." />
+<link rel="canonical" href="https://cloudlog.kr/life/diary/gsretail-gs25-pre-order-launch-box-lost-result.html" />
+<meta property="og:url" content="https://cloudlog.kr/life/diary/gsretail-gs25-pre-order-launch-box-lost-result.html" />
 <meta property="og:site_name" content="Simple Life Cloud Log" />
+<meta property="og:image" content="https://cloudlog.kr/images/diary/gsretail-gs25-pre-order-launch-box-lost-result-01.png" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2022-05-01T00:00:00+09:00" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="윈도우 유용한 유틸, 설정, 명령어 모음" />
+<meta property="article:published_time" content="2022-07-19T00:00:00+09:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://cloudlog.kr/images/diary/gsretail-gs25-pre-order-launch-box-lost-result-01.png" />
+<meta property="twitter:title" content="GS25 편의점 예약주문 도시락 분실-실종 사건 처리 결과" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"윈도우(Windows) 사용할 때 유용한 유틸, 설정 그리고 각 종 명령어를 모아봤습니다.","headline":"윈도우 유용한 유틸, 설정, 명령어 모음","url":"https://cloudlog.kr/programming/os/windows-command-util-config.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-07-19T00:00:00+09:00","datePublished":"2022-07-19T00:00:00+09:00","description":"GS25 편의점에 예약주문으로 구매한 도시락이 매장에 입고되지 않고 사라진 사건을 처리 결과를 정리했습니다.","headline":"GS25 편의점 예약주문 도시락 분실-실종 사건 처리 결과","image":"https://cloudlog.kr/images/diary/gsretail-gs25-pre-order-launch-box-lost-result-01.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://cloudlog.kr/life/diary/gsretail-gs25-pre-order-launch-box-lost-result.html"},"url":"https://cloudlog.kr/life/diary/gsretail-gs25-pre-order-launch-box-lost-result.html"}</script>
 <!-- End Jekyll SEO tag -->
 
-<title>윈도우 유용한 유틸, 설정, 명령어 모음 | Cloud Log</title>
+<title>GS25 편의점 예약주문 도시락 분실-실종 사건 처리 결과 | Cloud Log</title>
 <link rel="stylesheet" href="/css/syntax.css">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -71,11 +73,11 @@
 
 
     <script>
-        $(document).ready(function() {
+        $(document).ready(function(e) {
             // Initialize navgoco with default options
-            $("#mysidebar").navgoco({
+            $("#mysidebar1").navgoco({
                 caretHtml: '',
-                accordion: true,
+                accordion: false,
                 openClass: 'active', // open
                 save: false, // leave false or nav highlighting doesn't work right
                 cookie: {
@@ -88,6 +90,7 @@
                     easing: 'swing'
                 }
             });
+            $("#mysidebar1").navgoco('toggle', true);            
 
             $("#collapseAll").click(function(e) {
                 e.preventDefault();
@@ -188,7 +191,7 @@
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
                                 dataSource: '/search.json',
-                                searchResultTemplate: '<li><a href="{url}" title="윈도우 유용한 유틸, 설정, 명령어 모음">{title}</a></li>',
+                                searchResultTemplate: '<li><a href="{url}" title="GS25 편의점 예약주문 도시락 분실-실종 사건 처리 결과">{title}</a></li>',
                     noResultsText: 'No results found.',
                             limit: 10,
                             fuzzy: true,
@@ -215,170 +218,117 @@
             <div class="col-md-3" id="tg-sb-sidebar">
                 
 
-<ul id="mysidebar" class="nav">
-  <li class="sidebarTitle">Programming 1.0</li>
-  
-  
-  
-  <li>
-      <a title="PHP" href="#">PHP</a>
-      <ul>
-          
-          
-          
-          <li><a title="PHP SQL Injection 방지 코드" href="/programming/php/php-sql-injection-function.html">PHP SQL Injection 방지 코드</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="윤년 계산 하는 방법" href="/programming/php/php-leap-year-with-asp.html">윤년 계산 하는 방법</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="배열검색 array_search, array_column" href="/programming/php/php-array-search-column.html">배열검색 array_search, array_column</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="PHPExcel 최신판 PhpSpreadsheet" href="/programming/php/php-phpspreadsheet-introduce.html">PHPExcel 최신판 PhpSpreadsheet</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="PhpSpreadsheet 행 높이 설정하기" href="/programming/php/php-phpspreadsheet-row-height.html">PhpSpreadsheet 행 높이 설정하기</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="PhpSpreadsheet 셀 서식 문자 지정" href="/programming/php/php-phpspreadsheet-cell-datatype-string.html">PhpSpreadsheet 셀 서식 문자 지정</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="PhpSpreadsheet ERR-INVALID-RESPONSE 오류" href="/programming/php/php-phpspreadsheet-err-invalid-response.html">PhpSpreadsheet ERR-INVALID-RESPONSE 오류</a></li>
-          
-          
-          
-          
-      </ul>
-   </li>
-  
-  
-  
-  <li>
-      <a title="API" href="#">API</a>
-      <ul>
-          
-          
-          
-          <li><a title="UniPass 오픈API" href="/programming/api/api-unipass-openapi-introduce.html">UniPass 오픈API</a></li>
-          
-          
-          
-          
-      </ul>
-   </li>
-  
-  
-  
-  <li>
-      <a title="AWS" href="#">AWS</a>
-      <ul>
-          
-          
-          
-          <li><a title="AWS bitnami LAMP 설정하기" href="/programming/aws/aws-bitnami-lamp-setting-guide.html">AWS bitnami LAMP 설정하기</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="S3 cli RequestTimeTooSkewed 에러" href="/programming/aws/aws-s3-cli-time-different-error-troubleshooting.html">S3 cli RequestTimeTooSkewed 에러</a></li>
-          
-          
-          
-          
-      </ul>
-   </li>
-  
-  
-  
-  <li>
-      <a title="Jekyll" href="#">Jekyll</a>
-      <ul>
-          
-          
-          
-          <li><a title="jekyll 4.x jekyll-extract-element 오류" href="/programming/jekyll/jekyll-extract-element-nokogiri-error.html">jekyll 4.x jekyll-extract-element 오류</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="Jekyll robots.txt 템플릿 수정, Ruby 3" href="/programming/jekyll/jekyll-sitemap-gem-robots-txt-edit.html">Jekyll robots.txt 템플릿 수정, Ruby 3</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="Jekyll sitemap.xml 템플릿 수정, Ruby 3" href="/programming/jekyll/jekyll-sitemap-gem-xml-edit.html">Jekyll sitemap.xml 템플릿 수정, Ruby 3</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="사이트 내부 문서 링크하기 | Jekyll" href="/programming/jekyll/jekyll-include-internal-post-page.html">사이트 내부 문서 링크하기 | Jekyll</a></li>
-          
-          
-          
-          
-      </ul>
-   </li>
-  
-  
-  
-  <li>
-      <a title="OS" href="#">OS</a>
-      <ul>
-          
-          
-          
-          <li><a title="맥OS 카탈리나(Catalina) 기타볼륨" href="/programming/os/os-macos-catalina-other-volume.html">맥OS 카탈리나(Catalina) 기타볼륨</a></li>
-          
-          
-          
-          
-          
-          
-          <li class="active"><a title="윈도우 유용한 유틸, 설정, 명령어 모음" href="/programming/os/windows-command-util-config.html">윈도우 유용한 유틸, 설정, 명령어 모음</a></li>
-          
-          
-          
-          
-      </ul>
-   </li>
-  
-  
-  
 
+<ul id="mysidebar" class="nav">
+  <li class="sidebarTitle">Life Post 1.0</li>
   
+  
+  
+  
+  
+  <li>
+      <a title="드라마" href="/category/life/drama.html">드라마</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="한국" href="/category/life/drama-korea.html">ㄴ한국 </a></li>
+          
+          
+          
+          
+          
+          
+          
+          <li><a title="일본" href="/category/life/drama-japan.html">ㄴ일본 </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+  
+  
+  
+  <li>
+      <a title="애니메이션" href="/category/life/animation.html">애니메이션</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="OVA" href="/category/life/animation-ova.html">ㄴOVA </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+  
+  
+  
+  <li>
+      <a title="책방" href="/category/life/bookstore.html">책방</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="웹툰, 웹소설" href="/category/life/web-comics-novel.html">ㄴ웹툰, 웹소설 </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+  
+  
+  
+  <li>
+      <a title="외국어" href="/category/life/language.html">외국어</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="일본어" href="/category/life/japanese.html">ㄴ일본어 </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+  
+  
+  
+  <li>
+      <a title="생활정보" href="/category/life/diary.html">생활정보</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="생활정보" href="/category/life/diary.html">ㄴ생활정보 </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+   
+
+   
 
   
   
@@ -488,12 +438,11 @@
   
 
 
-  
-    <!-- if you aren't using the accordion, uncomment this block:
-       <p class="external">
-           <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
-       </p>
-    -->
+      
+    <!--p class="external">
+        <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+    </p-->
+      
 </ul>
 
 <!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
@@ -507,20 +456,21 @@
 
         <!-- Content Column -->
         <div class="col-md-9" id="tg-sb-content">
-            <div class="post-header-no">
-   <h1 class="post-title-main-no">윈도우 유용한 유틸, 설정, 명령어 모음</h1>
-</div>
+            <article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+
+    <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">GS25 편의점 예약주문 도시락 분실-실종 사건 처리 결과</h1>
+        <p class="post-meta">        
+        <time datetime="2022-07-19T00:00:00+09:00" itemprop="datePublished"><span class="label label-info">2022-07-19</span></time> 
+        <span class="label label-primary">life / diary</span>
+        </p>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
 
 
-
-<div class="post-content">
-
-   
-    <div class="summary">윈도우(Windows) 사용할 때 유용한 유틸, 설정 그리고 각 종 명령어를 모아봤습니다.</div>
-   
-
-    
-    
+        
+        
 <!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
 <script>
 $( document ).ready(function() {
@@ -552,29 +502,93 @@ $("#toc_onoff").click(function() {
 
 
 
+        
+
+        <h1 id="gs25-도시락-문제">GS25 도시락 문제</h1>
+
+<p>지난 번에 올렸던 GS25 예약주문 도시락 분실 사태 처리 과정에  대해 정리해보겠습니다.</p>
+
+<section class="blog blog-block">
+    <div class="row">
+    <div class="col-sm-12 col-md-12">  
     
+            <div class="blog-post-small">
+            <img src="/images/diary/gsretail-gs25-pre-order-launch-box-lost-01.png" />
+            <div class="title"><i class=" fa-solid fa-bowl-rice  fa-xl"></i> 
+            <a href="/life/diary/gsretail-gs25-pre-order-launch-box-lost.html">GS25 편의점 예약주문 도시락 분실-실종 사건 고발</a></div>
+            <p>도시락 분실 사건 개요 가끔 편의점 도시락을 사먹고 있었는데, 종종 맛있는 도시락이 없어서 아무거나 골랐던 기억이 있어서 이번에는 편의점 앱에서 도시락을 예약주문해서 먹어보려고 했습니다. 그런데, 어찌된 일인지 제가 예약주문한 도시락이...</p>
+            <a href="/life/diary/gsretail-gs25-pre-order-launch-box-lost.html" class="link-url"><span class="label label-warning">Read More</span></a>
+            </div>  
+       
+    </div>
+    </div>
+    <div class="mb-30"></div> 
+</section>
 
+<p>지난 7월 15일에 문제가 발생하고 4일째 7월 18일에 다시 한번 고객센터에 전화를 했으나 아직도 담당부서에서 원인을 찾고 있다는 이야기만 들을 수 있었습니다.</p>
 
-    
+<p>그리고 5일째인 7월 19일 화요일 드디어 고객센터에서 연락이 왔습니다. 전화로 이런 저런 내용을 이야기했지만 아래 스샷에 있는 메일 내용처럼 간단했는데 정리해보면 다음과 같습니다.</p>
 
-   <h2 id="제어판">제어판</h2>
-<p><code class="language-plaintext highlighter-rouge">윈도우 10 작업 표시줄 검색 창</code>에 [<strong>제어판</strong>]이라고 입력하면 됩니다.</p>
-
-<h2 id="path-설정">PATH 설정</h2>
-<p><code class="language-plaintext highlighter-rouge">윈도우 10 작업 표시줄 검색 창</code>에 [<strong>고급 시스템 설정 보기</strong>]라고 입력한 후 나타나는 팝업에서 아래쪽 [<strong>환경변수</strong>] 버튼을 클릭하면 됩니다.</p>
-
-<h2 id="시작프로그램-관리">시작프로그램 관리</h2>
 <ul>
-  <li><strong>작업표시줄</strong>에서 [마우스 오른쪽 클릭] - <strong>[작업관리자</strong>]에서 [<strong>시작 프로그램</strong>] 메뉴에서 관리할 수 있습니다.</li>
-  <li>키보드의 <code class="language-plaintext highlighter-rouge">[Windows 키] + [R]</code>에서 실행할 명령어 입력 칸에 [<strong>msconfig</strong>]를 입력하고 확인 버튼을 클릭하면 나타나는 [<strong>시스템 구성</strong>] 팝업에서 [<strong>시작 프로그램</strong>] 메뉴를 확인하시면 됩니다.</li>
+  <li>도시락 배송 과정에 문제가 있었다.</li>
+  <li>문제가 있어서 죄송하다.</li>
+  <li>재발주나 환불 중에서 원하는 방법으로 처리해주겠다.</li>
+  <li>환불을 하게 될 경우 1~2주 정도 시간이 걸린다.</li>
 </ul>
 
+<figure><img class="docimage" src="/images/diary/gsretail-gs25-pre-order-launch-box-lost-result-01.png" alt="GS25 편의점에 예약주문으로 구매한 도시락이 매장에 입고되지 않고 사라진 사건을 처리 결과 정리" style="width: 845px; max-width: 100%" /></figure>
 
-    <div class="tags">
+<h2 id="고객센터-담당자의-불쾌한-태도">고객센터 담당자의 불쾌한 태도</h2>
+
+<p>일단 연락온 고객센터 담당자의 태도가 매우 불쾌했습니다.
+전반적인 분위기가 “문제가 있었는데, 미안하다. 그러니 환불해주겠다. 끝” 이런 느낌이었습니다.</p>
+
+<p><strong>진심으로 미안한 마음도 없고, 완전 기계적인 말투에, 좀 더 자세한 원인을 물어보려고 해도 귀찮은 듯 대충 둘러대는 느낌이었습니다.
+재발 방지 대책을 물어봐도 앞으로 조심하겠다는 이야기뿐, 특별한 대책도 없고, 진심으로 재발 방지를 위해 노력하겠다는 마음도 느껴지지 않았습니다.</strong></p>
+
+<p>게다가 환불만 해주면 다 해결되는 것처럼 얘기하는 태도에 어의가 없었습니다.
+도시락이 사라진 당일의 황당함과 저녁 식사를 제대로 못한 점, 4일간이나 문제가 해결되지 않아서 발생한 스트레스, 마음 고생에 대해서 보상은 커녕 미안하다는 말조차 없다는 것이 너무나 불쾌했습니다.</p>
+
+<p>제가 마치 종종 있을 수 있는 사소한 문제를 크게 키우는 진상 고객인 것처럼 대하는 태도로 느껴져서 이대로 넘어가서는 안되겠다고 생각하고 있었습니다.</p>
+
+<h2 id="물류센터-담당자의-사과">물류센터 담당자의 사과</h2>
+
+<p>그러던 와중에 도시락 관련 담당을 하고 있는 물류센터 GS리테일 인천주류에서 담당자가 연락이 왔습니다.
+죄송하다는 사과와 함께 도시락이 분실된 경위에 대해 자세히 알려주었는데, 정리해보면 다음과 같습니다.</p>
+
+<div class="bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-3">
+⁃ 예약주문 도시락은 별도의 바코드와 예약주문 스티커가 부착된다. <br />
+⁃ 예약주문 전용 바코드가 부착된 제품은 일반 고객에게는 판매할 수 없도록 결제가 되지 않는 시스템이다. <br />
+⁃ 도시락 생산 후 예약주문 바코드가 아닌 일반 바코드를 부착하고, 예약주문 스티커도 부착되지 않았다. <br />
+⁃ 그 상태로 매장으로 입고 되면서 일반 제품으로 판매가 되었다. <br />
+</div>
+
+<p>참으로 황당하기 그지 없는 이유로 도시락이 사라졌네요.</p>
+
+<p>그럼에도 불구하고, 물류센터 담당자의 원인에 대한 자세한 설명과 진심으로 죄송해하는 말투에 앞선 고객센터 담당자 때문에 생긴 불쾌함이 사라졌습니다.</p>
+
+<h2 id="gs25에-대한-요구사항">GS25에 대한 요구사항</h2>
+
+<p>앞으로 같은 문제가 발생하지 않도록 하려면 이런 문제를 고쳐야 하지 않을까 하는 내용을 정리해보겠습니다.</p>
+
+<div class="bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-3">
+⁃ 주문 내역서와 출고 제품에 대한 2중, 3중의 검증 절차 <br />
+⁃ 예약주문 제품의 매장 입고 알람 메시지는 실제로 매장에 입고 되었을 경우에만 발송 <br />
+⁃ 수령 시간까지 제품이 입고 되지 않았을 경우 미입고 안내 메시지 발송 <br />
+⁃ 미입고 안내 메시지는 고객뿐만 아니라 담당자와 매장 점장에게도  <br />
+⁃ 즉시 대책을 마련해서 고객과  <br />
+</div>
+
+
+    </div>
+
+     <div class="tags">
         
         <b>Tags: </b>
         
         
+        
+        <a href="/tag/tag-coupang.html" class="btn btn-default navbar-btn cursorNorm" role="button">coupang</a>
         
         
         
@@ -582,14 +596,22 @@ $("#toc_onoff").click(function() {
 
 
 
+</article>
 
 
 
+<!-- 본문 하단 - cloudlog -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6199737337936118"
+     data-ad-slot="7488484889"
+     data-ad-format="auto"
+     data-full-width-responsive="true">
+</ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
-
-
-
-</div>
 
 <hr class="shaded"/>
 
@@ -601,7 +623,7 @@ $("#toc_onoff").click(function() {
                & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
                & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
                
-<span>Page last updated:</span> 2022-05-01<br/> Site last generated: 2022-07-23 <br />
+<span>Page last updated:</span> 2022-07-19<br/> Site last generated: 2022-07-23 <br />
 
                 </div>
             </div>

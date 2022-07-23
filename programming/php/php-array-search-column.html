@@ -240,6 +240,13 @@
           
           
           
+          <li class="active"><a title="배열검색 array_search, array_column" href="/programming/php/php-array-search-column.html">배열검색 array_search, array_column</a></li>
+          
+          
+          
+          
+          
+          
           <li><a title="PHPExcel 최신판 PhpSpreadsheet" href="/programming/php/php-phpspreadsheet-introduce.html">PHPExcel 최신판 PhpSpreadsheet</a></li>
           
           
@@ -552,7 +559,7 @@ $("#toc_onoff").click(function() {
 
    <h2 id="개요">개요</h2>
 <p>PHP에서 배열에 들어 있는 값을 검색하거나 인덱스를 찾아야 할 때 사용하는 함수가 <strong>array_search</strong> 입니다.<br />
-array_search 사용법을 1차원 배열과 2차원 배열</p>
+array_search 사용법을 1차원 배열과 2차원 배열 각각의 경우에 대해 살펴보겠습니다.</p>
 
 <h2 id="1차원-배열-검색">1차원 배열 검색</h2>
 <p>1차원 배열에서는 간단하게 array_search(검색할 값, 배열) 형식으로 검색할 수 있고, 검색할 값의 인덱스가 리턴됩니다.</p>
@@ -570,6 +577,25 @@ array_search 사용법을 1차원 배열과 2차원 배열</p>
     <span class="k">echo</span><span class="p">(</span><span class="s2">"&lt;br /&gt;"</span><span class="p">);</span>
     <span class="k">echo</span><span class="p">(</span><span class="nv">$idx_search_02</span><span class="p">);</span>
     <span class="k">echo</span><span class="p">(</span><span class="s2">"&lt;br /&gt;"</span><span class="p">);</span>
+
+<span class="cp">?&gt;</span>
+</code></pre></div></div>
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// 결과</span>
+    <span class="mi">2</span>
+    <span class="n">graphic</span>
+</code></pre></div></div>
+
+<h3 id="비교-연산자">비교 연산자</h3>
+
+<div class="bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-3">
+array_search 함수는 일치하는 값이 없을 때 false를 반환합니다. <br />
+그런데 이때 반환 값을 비교해야 할 때는 <strong>==</strong>가 아닌 <strong>===</strong>를 사용해야 합니다. <br />
+아래 예에서 살펴보면 101 값을 검색하면 반환되는 값은 첫번째 값이므로 인덱스 0을 반환하게 됩니다. <br />
+그래서 if ($idx_search_03 <strong>==</strong> false) 이렇게 비교하면 값이 참이 되어 버립니다. <br />
+그러므로 올바르게 비교하려면 if ($idx_search_03 <strong>===</strong> false) 이렇게 해야 합니다.
+</div>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
 
     <span class="nv">$idx_search_03</span> <span class="o">=</span> <span class="nb">array_search</span><span class="p">(</span><span class="mi">101</span><span class="p">,</span> <span class="nv">$arr_test_01</span><span class="p">);</span>
     
@@ -594,10 +620,6 @@ array_search 사용법을 1차원 배열과 2차원 배열</p>
     <span class="k">echo</span><span class="p">(</span><span class="s2">"&lt;br /&gt;"</span><span class="p">);</span>
 
     <span class="cm">/*
-    결과
-    2
-    graphic
-
     FALSE
     TRUE
     */</span>
@@ -645,6 +667,17 @@ array_search 사용법을 1차원 배열과 2차원 배열</p>
 
 <span class="cp">?&gt;</span>
 </code></pre></div></div>
+
+<p><code class="language-plaintext highlighter-rouge">array_column</code> 함수는 지정한 column의 데이터만 별도로 분리해서 배열에 저장합니다.</p>
+
+<p>여기서는 [name] column의 데이터만 따로 분리한 배열을 저장했으므로 다음과 같은 데이터가 들어 있습니다.</p>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="k">array</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span> <span class="p">{</span> <span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">=&gt;</span> <span class="nf">string</span><span class="p">(</span><span class="mi">9</span><span class="p">)</span> <span class="s2">"김철구"</span> <span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">=&gt;</span> <span class="nf">string</span><span class="p">(</span><span class="mi">9</span><span class="p">)</span> <span class="s2">"홍길동"</span> <span class="p">[</span><span class="mi">2</span><span class="p">]</span><span class="o">=&gt;</span> <span class="nf">string</span><span class="p">(</span><span class="mi">9</span><span class="p">)</span> <span class="s2">"이지은"</span> <span class="p">}</span>
+</code></pre></div></div>
+
+<p>여기서 array_search 함수로 [홍길동]이라는 값을 검색하면 <strong>인덱스 값은 1</strong>이 되고</p>
+
+<p><strong>$arr_user_info[$idx_search_04][“id”]</strong>에서 인덱스값 1을 지정하면 name이 홍길동인 데이터의 <strong>id가 hong</strong> 이라는 것을 확인할 수 있습니다.</p>
 
 
     <div class="tags">
@@ -694,7 +727,7 @@ array_search 사용법을 1차원 배열과 2차원 배열</p>
                & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
                & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
                
-<span>Page last updated:</span> 2022-06-23<br/> Site last generated: 2022-07-17 <br />
+<span>Page last updated:</span> 2022-06-23<br/> Site last generated: 2022-07-23 <br />
 
                 </div>
             </div>
