@@ -1,0 +1,3878 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="네이버 클라우드 플랫폼 (Ncloud) 자격증 NCA 시험 대비 핵심 내용을 요약 정리해보았습니다.">
+<meta name="keywords" content="cloudncloud,  Cloud, 클라우드, NCP, 네이버 클라우드 플랫폼, NCP, NCE, 시험문제, 예상문제">
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="네이버 클라우드 (Ncloud) 자격증 NCA 시험 대비 핵심 요약, 예상문제" />
+<meta property="og:locale" content="ko_KR" />
+<meta property="og:description" content="네이버 클라우드 플랫폼 (Ncloud) 자격증 NCA 시험 대비 핵심 내용을 요약 정리해보았습니다." />
+<link rel="canonical" href="https://cloudlog.kr/programming/ncloud/nca-short-answer-question.html" />
+<meta property="og:url" content="https://cloudlog.kr/programming/ncloud/nca-short-answer-question.html" />
+<meta property="og:site_name" content="Simple Life Cloud Log" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-07-23T00:00:00+09:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="네이버 클라우드 (Ncloud) 자격증 NCA 시험 대비 핵심 요약, 예상문제" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"네이버 클라우드 플랫폼 (Ncloud) 자격증 NCA 시험 대비 핵심 내용을 요약 정리해보았습니다.","headline":"네이버 클라우드 (Ncloud) 자격증 NCA 시험 대비 핵심 요약, 예상문제","url":"https://cloudlog.kr/programming/ncloud/nca-short-answer-question.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+<title>네이버 클라우드 (Ncloud) 자격증 NCA 시험 대비 핵심 요약, 예상문제 | Cloud Log</title>
+<link rel="stylesheet" href="/css/syntax.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+<link href="/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="/fontawesome/css/v4.7.css" rel="stylesheet">
+<link rel="stylesheet" href="/css/modern-business.css">
+<!-- Latest compiled and minified CSS -->
+<!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"-->
+<!--link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"-->
+<link rel="stylesheet" href="/css/customstyles.css">
+<link rel="stylesheet" href="/css/boxshadowproperties.css">
+<!-- most color styles are extracted out to here -->
+<link rel="stylesheet" href="/css/theme-blue.css">
+
+
+
+<script src="/js/jquery.341.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script-->
+
+<script src="/js/jquery.cookie.141.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script-->
+<script src="/js/jquery.navgoco.min.js"></script>
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="/js/bootstrap.341.min.js"></script>
+<!--script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script-->
+<!--script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script-->
+<!-- Anchor.js -->
+<script src="/js/anchor.420.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js"></script-->
+<script src="/js/toc.js"></script>
+<script src="/js/customscripts.js"></script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6199737337936118" crossorigin="anonymous"></script>
+
+<link rel="shortcut icon" href="/images/favicon.ico">
+
+
+<link rel="alternate" type="application/rss+xml" title="Simple Life Cloud Log" href="https://cloudlog.kr/feed.xml">
+
+
+
+    <script>
+        $(document).ready(function() {
+            // Initialize navgoco with default options
+            $("#mysidebar").navgoco({
+                caretHtml: '',
+                accordion: true,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
+
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', true);
+            });
+
+        });
+
+    </script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+        });
+    </script>
+    
+
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container topnavlinks">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="fa fa-home fa-lg navbar-brand" href="/">&nbsp;<span class="projectTitle"> Simple Life Cloud Log</span></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <!-- toggle sidebar button -->
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on fa-lg"></i> 카테고리</a></li>
+                <!-- entries without drop-downs appear here -->
+
+
+
+
+                
+                
+                
+                <li><a href="/programming/php/php-sql-injection-function.html">프로그래밍</a></li>
+                
+                
+                
+                <li><a href="/category/game/mobile.html">게임</a></li>
+                
+                
+                
+                <li><a href="/category/life/animation.html">애니메이션</a></li>
+                
+                
+                
+                <li><a href="/category/life/drama.html">드라마</a></li>
+                
+                
+                
+                <li><a href="/category/life/bookstore.html">책방</a></li>
+                
+                
+                
+                <li><a href="/category/life/japanese.html">일본어</a></li>
+                
+                
+                
+                <!-- entries with drop-downs appear here -->
+                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+                
+                
+                                
+                <!--comment out this block if you want to hide search-->
+                <li>
+                    <!--start search-->
+                    <div id="search-demo-container">
+                        <input type="text" id="search-input" placeholder="search...">
+                        <ul id="results-container"></ul>
+                    </div>
+                    <script src="/js/jekyll-search.js"></script>
+                    <script>
+                            SimpleJekyllSearch.init({
+                                searchInput: document.getElementById('search-input'),
+                                resultsContainer: document.getElementById('results-container'),
+                                dataSource: '/search.json',
+                                searchResultTemplate: '<li><a href="{url}" title="네이버 클라우드 (Ncloud) 자격증 NCA 시험 대비 핵심 요약, 예상문제">{title}</a></li>',
+                    noResultsText: 'No results found.',
+                            limit: 10,
+                            fuzzy: true,
+                    })
+                    </script>
+                    <!--end search-->
+                </li>
+            </ul>
+        </div>
+        </div>
+        <!-- /.container -->
+</nav>
+
+
+
+<!-- Page Content -->
+<div class="container">
+  <div id="main">
+    <!-- Content Row -->
+    <div class="row">
+        
+        
+            <!-- Sidebar Column -->
+            <div class="col-md-3" id="tg-sb-sidebar">
+                
+
+<ul id="mysidebar" class="nav">
+  <li class="sidebarTitle">Programming 1.0</li>
+  
+  
+  
+  <li>
+      <a title="PHP" href="#">PHP</a>
+      <ul>
+          
+          
+          
+          <li><a title="PHP SQL Injection 방지 코드" href="/programming/php/php-sql-injection-function.html">PHP SQL Injection 방지 코드</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="윤년 계산 하는 방법" href="/programming/php/php-leap-year-with-asp.html">윤년 계산 하는 방법</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="배열검색 array_search, array_column" href="/programming/php/php-array-search-column.html">배열검색 array_search, array_column</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PHPExcel 최신판 PhpSpreadsheet" href="/programming/php/php-phpspreadsheet-introduce.html">PHPExcel 최신판 PhpSpreadsheet</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 행 높이 설정하기" href="/programming/php/php-phpspreadsheet-row-height.html">PhpSpreadsheet 행 높이 설정하기</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 셀 서식 문자 지정" href="/programming/php/php-phpspreadsheet-cell-datatype-string.html">PhpSpreadsheet 셀 서식 문자 지정</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet ERR-INVALID-RESPONSE 오류" href="/programming/php/php-phpspreadsheet-err-invalid-response.html">PhpSpreadsheet ERR-INVALID-RESPONSE 오류</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="API" href="#">API</a>
+      <ul>
+          
+          
+          
+          <li><a title="UniPass 오픈API" href="/programming/api/api-unipass-openapi-introduce.html">UniPass 오픈API</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="AWS" href="#">AWS</a>
+      <ul>
+          
+          
+          
+          <li><a title="AWS bitnami LAMP 설정하기" href="/programming/aws/aws-bitnami-lamp-setting-guide.html">AWS bitnami LAMP 설정하기</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="S3 cli RequestTimeTooSkewed 에러" href="/programming/aws/aws-s3-cli-time-different-error-troubleshooting.html">S3 cli RequestTimeTooSkewed 에러</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="Ncloud" href="#">Ncloud</a>
+      <ul>
+          
+          
+          
+          <li class="active"><a title="Ncloud 자격증 NCA 대비 핵심 요약" href="/programming/ncloud/nca-short-answer-question.html">Ncloud 자격증 NCA 대비 핵심 요약</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="Jekyll" href="#">Jekyll</a>
+      <ul>
+          
+          
+          
+          <li><a title="jekyll 4.x jekyll-extract-element 오류" href="/programming/jekyll/jekyll-extract-element-nokogiri-error.html">jekyll 4.x jekyll-extract-element 오류</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Jekyll robots.txt 템플릿 수정, Ruby 3" href="/programming/jekyll/jekyll-sitemap-gem-robots-txt-edit.html">Jekyll robots.txt 템플릿 수정, Ruby 3</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Jekyll sitemap.xml 템플릿 수정, Ruby 3" href="/programming/jekyll/jekyll-sitemap-gem-xml-edit.html">Jekyll sitemap.xml 템플릿 수정, Ruby 3</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="사이트 내부 문서 링크하기 | Jekyll" href="/programming/jekyll/jekyll-include-internal-post-page.html">사이트 내부 문서 링크하기 | Jekyll</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="OS" href="#">OS</a>
+      <ul>
+          
+          
+          
+          <li><a title="맥OS 카탈리나(Catalina) 기타볼륨" href="/programming/os/os-macos-catalina-other-volume.html">맥OS 카탈리나(Catalina) 기타볼륨</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="윈도우 유용한 유틸, 설정, 명령어 모음" href="/programming/os/windows-command-util-config.html">윈도우 유용한 유틸, 설정, 명령어 모음</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+
+  
+
+  
+  
+  
+  <li>
+      <a title="Tag archives" href="#">Tag archives</a>
+      <ul>
+          
+          
+          
+          <li><a title="Tag archives overview" href="/tag/tag-archives_overview.html">Tag archives overview</a></li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Game Tag pages" href="#">Game Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Ragnarok pages" href="/tag/tag-ragnarok.html">Ragnarok pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="LostArk pages" href="/tag/tag-lostark.html">LostArk pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Alien pages" href="/tag/tag-alien.html">Alien pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Diablo pages" href="/tag/tag-diablo.html">Diablo pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Life Tag pages" href="#">Life Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Drama pages" href="/tag/tag-drama.html">Drama pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Ramantic pages" href="/tag/tag-romantic.html">Ramantic pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Programming Tag pages" href="#">Programming Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="PHP pages" href="/tag/tag-php.html">PHP pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="AWS pages" href="/tag/tag-aws.html">AWS pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Linux pages" href="/tag/tag-linux.html">Linux pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="API pages" href="/tag/tag-api.html">API pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+
+
+  
+    <!-- if you aren't using the accordion, uncomment this block:
+       <p class="external">
+           <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+       </p>
+    -->
+</ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+
+
+            </div>
+            
+        
+
+        <!-- Content Column -->
+        <div class="col-md-9" id="tg-sb-content">
+            <div class="post-header-no">
+   <h1 class="post-title-main-no">네이버 클라우드 (Ncloud) 자격증 NCA 시험 대비 핵심 요약, 예상문제</h1>
+</div>
+
+
+
+<div class="post-content">
+
+   
+    <div class="summary">네이버 클라우드 플랫폼 (Ncloud) 자격증 NCA 시험 대비 핵심 내용을 요약 정리해보았습니다.</div>
+   
+
+    
+    
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+});
+
+$("#toc_onoff").click(function() {  
+        $("#toc").toggle();
+        $("#tg-toc-icon").toggleClass('fa-toggle-on');
+        $("#tg-toc-icon").toggleClass('fa-toggle-off');
+
+});
+
+});
+</script>
+
+<p><span class="label label-warning" style="cursor:pointer" id="toc_onoff"><i id="tg-toc-icon" class="fas fa-toggle-on"></i> ToC on/off</span></p>
+<div id="toc"></div>
+
+
+
+    
+
+
+    
+
+   <h2 id="개요">개요</h2>
+<p>네이버 클라우드 플랫폼 기반의 기술자격증은 NCA (NAVER CLOUD PLATFORM Certified Associate), NCP (NAVER CLOUD PLATFORM Certified Professional), NCE (NAVER CLOUD PLATFORM Certified Expert)의 3단계로 구성되어 있는데, 그 중에서 가장 기초 단계의 자격증인 NCA 자격증 시험을 준비하면서 공부했던 내용을 시험 날짜를 몇일 앞두고 마지막으로 정리해보려고 합니다.</p>
+
+<p>원래 이렇게 핵심 내용을 정리하는 과정 자체도 시험 준비에 도움이 되기 때문에, 마치 시험 문제의 예상 문제를 뽑아 보는 것 같은 느낌으로 단답형 주관식처럼 정리해보았습니다. (실제 시험은 객관식입니다.)</p>
+
+<h2 id="자격증-상세-내용">자격증 상세 내용</h2>
+<p>네이버 클라우드 플랫폼에서 공개하고 있는 NCA 자격증 대한 상세 설명을 정리해보겠습니다.</p>
+
+<h3 id="nca">NCA</h3>
+<p>클라우드에 대한 기본적인 이해가 있고 네이버 클라우드 플랫폼을 이용한 인프라 구성이 가능한 수준을 나타낸다고 합니다.<br />
+1개 시험(시험코드 100)으로 구성되어 있으며, 시험코드 별 해당 과목은 다음과 같다고 합니다.</p>
+
+<ul>
+  <li>Overview</li>
+  <li>Compute/Storage/Database</li>
+  <li>Network/Media</li>
+</ul>
+
+<h2 id="핵심-내용---예상-문제">핵심 내용 - 예상 문제</h2>
+<p>문제와 답으로 구성했는데 답은 우선은 감추어 두었고, 문제를 클릭하면 아래쪽으로 답이 나타납니다.</p>
+
+<div class="panel-group" id="accordion">
+    
+	   
+         
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse187">SSD Server가 보장하는 기본 IOPS는 얼마인가요?</a>
+            </h4>
+        </div>
+        <div id="collapse187" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                4,000 IOPS
+                <br /><br /><span style="font-size:15px">- 설명: 표준서버보다 10~20배 이상의 고성능 I/O를 제공하는 SSD가 장착된 서버</span>
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse186">이미지 프로세싱 / 렌더링 / 과학 연산 / 머신 러닝 등 고성능 연산처리에 최적화된 서버는?</a>
+            </h4>
+        </div>
+        <div id="collapse186" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                GPU Server
+                <br /><br /><span style="font-size:15px">- 설명: 현재는 콘솔에서 생성제한된 상태 - 이용하려면 고객센터로 연락해야 함</span>
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse185">단독으로 제공된 서버 위에서 하나의 클라우드 서버만을 생성해 제공하는 서비스의 서버는?</a>
+            </h4>
+        </div>
+        <div id="collapse185" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                VDS (Virtual Dedicated Server)
+                <br /><br /><span style="font-size:15px">- 설명: 물리 서버 제공 방식이지만 클라우드 서비스 형태로 제공되기 때문에 일반 서버처럼 기존의 네이버 클라우드 플랫폼 서비스와 연동해 서비스를 이용할 수 있음.</span>
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse184">물리 서버를 가상화 환경 없이 단독으로 제공하는 서비스의 서버는?</a>
+            </h4>
+        </div>
+        <div id="collapse184" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Bare Metal Server
+                <br /><br /><span style="font-size:15px">- 설명: 물리 서버를 단독으로 제공하는 방식이지만 클라우드 서비스 형태로 사용할 수 있기 때문에 일반 클라우드 서버처럼 네이버 클라우드 플랫폼의 다양한 서비스와 연동하여 이용할 수 있습니다.</span>
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse183">방대한 양의 데이터를 분석하여 정보를 생산하고 복잡한 연산을 빠르게 해결하기 위한 대규모 컴퓨팅 서비스의 서버는?</a>
+            </h4>
+        </div>
+        <div id="collapse183" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                High Performance Computing
+                <br /><br /><span style="font-size:15px">- 설명: 네이버 클라우드 플랫폼의 전용 HPC 인프라를 이용하여 구성이 가능할 뿐 아니라, 고객이 소유하고 있는 On-Premise 기반의 자원을 이용한 Hybrid 형태의 HPC 환경 구축도 가능. 금융권, 증권사에서 많이 사용함</span>
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse182">100 TB 규모의 스토리지 용량을 가진 전용 어플라이언스를 통해 대용량 데이터를 이전하게 해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse182" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Data Teleporter
+                <br /><br /><span style="font-size:15px">- 설명: 어플라이언스 장비는 기본적으로 고객이 직접 수령하고 반납하는 것을 원칙으로 함.</span>
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse181">네이버 클라우드 Load Balancer가 지원하는 부하 분산 방식은?</a>
+            </h4>
+        </div>
+        <div id="collapse181" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Round Robin, Least Connection, Source IP Hash
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse180">외부에 있는 고객의 네트워크와 네이버 클라우드 플랫폼에 있는 네트워크를 <strong>암호화된 터널링 통신</strong>으로 연결하여 서비스를 구성할 수 있게 해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse180" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                IPsec VPN
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse179">비공인 IP를 가진 다수의 서버를 인터넷 상의 공인 IP를 가진 고객의 호스트와 연결해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse179" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                NAT Gateway
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse178">DNS 기반의 다양한 방법을 통해 네트워크 트래픽을 안정적으로 로드 밸런싱하는 GSLB 상품은?</a>
+            </h4>
+        </div>
+        <div id="collapse178" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Global Route Manager
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse177">Cloud DB for MySQL의 자동백업 데이터는 최대 몇일까지 보관되나요?</a>
+            </h4>
+        </div>
+        <div id="collapse177" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                최대 30일까지 보관
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse176">Cloud DB for Redis의 자동백업 데이터는 최대 몇일까지 보관되나요?</a>
+            </h4>
+        </div>
+        <div id="collapse176" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                최대 7일까지 보관
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse175">Cloud DB for Redis의 Shard 구성은 최소 몇개~ 최대 몇개까지 구성 가능한가요?</a>
+            </h4>
+        </div>
+        <div id="collapse175" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                동일 스펙으로 최소 3개부터 ~ 최대 10개까지 구성 가능
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse174">Cloud DB for Redis의 Shard 구성에서 각 Shard당 Slave Node는 최대 몇개까지 가능한가요?</a>
+            </h4>
+        </div>
+        <div id="collapse174" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                최대 4개까지 구성 가능
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse173">Cloud DB for MSSQL의 자동백업 데이터는 최대 몇일까지 보관되나요?</a>
+            </h4>
+        </div>
+        <div id="collapse173" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                최대 30일까지 보관
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse172">Cloud DB for MSSQL의 읽기 가능 슬레이브는 최대 몇대까지 가능한가요?</a>
+            </h4>
+        </div>
+        <div id="collapse172" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                최대 5대
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse171">Classic 환경에서 이용 가능한 Cloud DB for MSSQL의 버전은?</a>
+            </h4>
+        </div>
+        <div id="collapse171" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                MSSQL 2016 Standard edition
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse170">VPC 환경에서 이용 가능한 Cloud DB for MSSQL의 버전은?</a>
+            </h4>
+        </div>
+        <div id="collapse170" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                MSSQL 2019 Standard edition
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse169">MySQL의 기본 포트는?</a>
+            </h4>
+        </div>
+        <div id="collapse169" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                3306 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse168">CUBRID의 기본 포트는?</a>
+            </h4>
+        </div>
+        <div id="collapse168" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                8001 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse167">Redis의 기본포트는?</a>
+            </h4>
+        </div>
+        <div id="collapse167" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                6379 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse166">PostgreSQL의 기본포트는?</a>
+            </h4>
+        </div>
+        <div id="collapse166" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                5432 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse165">MariaDB의 기본포트는?</a>
+            </h4>
+        </div>
+        <div id="collapse165" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                3306 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse164">개인정보 등 중요 정보 자원을 보안이 한층 강화된 별도 Zone에서 관리하게 해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse164" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Secure Zone
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse163">모든 고객에게 기본으로 제공되는 무료 보안 서비스?</a>
+            </h4>
+        </div>
+        <div id="collapse163" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Basic Security
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse162">IP 주소/포트 기반 필터링 기능으로 서버로의 네트워크 접근을 관리하는 Security 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse162" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                ACG(Access Control Group)
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse161">바이너리 위·변조, 메모리 변조, 후킹, 디바이스 환경 조작 등 모바일 애플리케이션 실행 중 발생할 수 있는 보안 위협을 탐지하는 Security 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse161" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                App Safer
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse160">회원이 개발한 웹사이트가 해킹 또는 다른 보안문제로 인해 악성코드를 배포하는지 검사하는 Security 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse160" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Site Safer
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse159">고객의 웹 사이트에 업/다운로드 되는 파일의 악성코드 여부를 손쉽게 검사할 수 있는 Security 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse159" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                File Safer
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse158">IDS, Anti-DDos, Anti-Virus, IPS, WAF와 같은 다양한 보안 상품들을 이용하여 제공되는 Security 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse158" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Security Monitoring
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse157">외부에서 기업 내부 네트워크에 접속할 때 암호화된 터널링 통신 구축을 위한 Security 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse157" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                SSL VPN
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse156">Security Monitoring에서 제공되는 대표적인 보안상품은?</a>
+            </h4>
+        </div>
+        <div id="collapse156" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                IDS, Anti-DDos, Anti-Virus, IPS, WAF
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse155">고객의 웹 서비스에 대한 주요 취약점을 자동으로 진단하는 Security 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse155" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Web Security Checker
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse154">서버의 운영체제 및 WAS의 보안 설정이 올바르게 되어 있는지 점검하는 Security 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse154" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                System Security Checker
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse153">System Security Checker에서 WAS 취약점 진단 대상은?</a>
+            </h4>
+        </div>
+        <div id="collapse153" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Apache, Tomcat, NginX
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse152">모바일 앱의 정보 유출 위험을 비롯하여 잠재적인 보안 취약점에 대응할 수 있도록 점검하는 Security 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse152" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                App Security Checker
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse151">고객이 보안 인증이나 규제에 대응하는 데 필요한 사항들을 알기 쉽게 정리한 가이드를 제공하는 Security 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse151" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Compliance Guide
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse150">고객의 중요 정보 암호화에 사용된 키를 고객이 설정한 보안 정책에 따라 엄격히 관리하고 안전하게 보호할 수 있게 해주는 Security 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse150" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Key Management Service
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse149">SSL 인증서의 손쉬운 등록 및 관리를 할 수 있게 해주는 Security 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse149" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Certificate Manager
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse148">사람의 목소리를 텍스트로 바꾸어주는 가장 뛰어난 한국어 음성 인식률을 가진 음성 인식 API 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse148" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                CLOVA Speech Recognition(CSR)
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse147">얼굴과 관련된 다양한 정보를 제공하는 얼굴 인식 API 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse147" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                CLOVA Face Recognition(CFR)
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse146">고품질 음성 합성 기술로 다양하고 자연스러운 목소리 제공하는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse146" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                CLOVA Voice
+                <br /><br /><span style="font-size:15px">- 설명: CSS(Clova Speech Synthesis)/CPV(Clova Premium Voice) 서비스를 통합하여 CLOVA Voice 서비스를 새롭게 출시</span>
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse145">사용자의 질문 의도를 이해하여 고객 대응 등을 자동으로 할 수 있게 해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse145" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                CLOVA Chatbot
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse144">인쇄물 상의 글자와 이미지를 디지털 데이터로 자동으로 추출하는 기술을 제공하는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse144" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                CLOVA OCR
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse143">입력한 텍스트를 인공신경망 기반 번역 알고리즘을 통해 여러 나라의 언어로 자동 번역해주는 API 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse143" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Papago NMT
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse142">현행 로마자 표기법에 맞춰 한글 이름을 로마자로 변환해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse142" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Papago Korean Name Romanizer
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse141">대표적인 딥 러닝 프레임워크와 머신러닝 패키지들이 설치된 서버(GPU 선택 가능)를 제공하는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse141" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                TensorFlow Server
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse140">주요 신체 영역을 인식하여 좌표 정보를 제공하는 포즈 인식 API 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse140" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Pose Estimation
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse139">이미지 속 사람 및 자동차 등의 객체를 탐지하고 위치 식별을 위한 API 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse139" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Object Detection
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse138">Papago NMT에서 한번에 입력할 수 있는 최대 글자 수는?</a>
+            </h4>
+        </div>
+        <div id="collapse138" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                띄어쓰기 포함 5,000자
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse137">Pose Estimation에서 제공하는 신체부위 좌표 개수는?</a>
+            </h4>
+        </div>
+        <div id="collapse137" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                18개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse136">고객 서버에서 질의한 IP 주소에 대하여 지역정보 DB를 검색하고 해당 지역의 정보를 고객 서버로 전달하는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse136" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                GeoLocation
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse135">최고 수준의 지도 서비스를 제공하는 네이버 지도 API 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse135" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Map
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse134">이미지를 보여주거나 오디오를 들려주고 정답을 맞추게 하는 방식으로 사람과 컴퓨터를 판별하여 어뷰징을 방지하는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse134" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                CAPTCHA
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse133">길고 복잡한 URL을 간단하고 짧게 바꿔주는 API 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse133" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                nShortURL
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse132">서비스에 SMS, PUSH 등을 통한 메시지 알림 기능을 구현하게 해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse132" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Simple &amp; Easy Notification Service
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse131">API를 손쉽게 관리하고 모니터링할 수 있는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse131" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                API Gateway
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse130">네이버 통합검색 서비스로 조회된 결과에 대한 통계 API 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse130" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Search Trend
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse129">개인화 콘텐츠 메일을 빠르고 안정적으로 전송할 수 있는 서비스 즉, 대용량 메일 발송 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse129" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Cloud Outbound Mailer
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse128">분산 서비스 및 시스템의 성능 분석/진단/추적 플랫폼 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse128" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Pinpoint
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse127">국내 시장 점유율 1위 WAS(Web Application Server) 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse127" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                JEUS
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse126">국내 대표 차세대 웹서버 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse126" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                WebtoB
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse125">미디어 원본 파일을 모바일, PC 등 다양한 디바이스에서 다양한 화질로 시청할 수 있도록 변환해주는 클라우드 기반의 미디어 변환 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse125" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                VOD Transcoder
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse124">원본 이미지를 모바일, 태블릿, PC 등 다양한 기기의 해상도에 맞게 손쉽게 리사이징 할 수 있는 클라우드 기반의 실시간 이미지 변환 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse124" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Image Optimizer
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse123">실시간 라이브 방송 서비스에 필요한 모든 기능을 제공하는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse123" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Live Station
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse122">MP4 영상 파일을 활용하여 손쉽게 VOD 스트리밍 서비스를 구현하게 해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse122" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                VOD Station
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse121">웹 페이지 응답 속도와 세부 콘텐츠 오류 발생 여부를 주기적으로 모니터링하여 고객의 웹 서비스가 좋은 품질로 제공될 수 있도록 지원하는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse121" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Web service Monitoring System
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse120">고객이 사용하는 서버에서 발생되는 네트워크 Packet 정보를 OpenFlow 기술을 사용하여 분석, 정보 제공하는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse120" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Network Traffic Monitoring
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse119">네이버 클라우드에서 발생한 계정 활동 로그를 자동으로 수집해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse119" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Cloud Activity Tracer
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse118">네이버 클라우드 내 모든 리소스(Resource)들을 통합적으로 관리할 수 있는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse118" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Resource Manager
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse117">클라우드 환경의 성능/운영 지표를 통합 관리하고, 장애 발생 시 담당자에게 신속히 전달할 수 있는 모니터링 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse117" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Cloud Insight
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse116">네이버 클라우드 자체 운영 노하우를 바탕으로 사용자에게 다양한 카테고리별 점검 리포트를 제공해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse116" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Cloud Advisor
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse115">네이버 클라우드의 여러 서비스에서 발생하는 다양한 로그들을 한 곳에 모아 저장하고 손쉽게 분석해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse115" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Cloud Log Analytics
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse114">서비스 페이지(PC 웹 또는 모바일 웹)에 접속하는 실사용자 데이터를 수집하여 국가, 브라우저, Device별로 웹페이지의 속도 데이터와 PV count를 분석해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse114" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Real User Analytics(RUA)
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse113">서비스 운영 시 발생하는 애플리케이션 로그를 쉽고 빠르게 저장하고 분석해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse113" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Effective Log Search &amp; Analytics
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse112">HBase , Spark , Hive, Presto 등의 오픈소스 기반 완전 관리형 클라우드 분석 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse112" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Cloud Hadoop
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse111">홈페이지 내의 검색 기능을 쉽고 빠르게 구현해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse111" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Cloud Search
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse110">고객의 행동 데이터를 다각도로 이해함으로써 마케팅 효과를 향상시키고, 온라인 비즈니스를 효율적으로 운영할 수 있게 해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse110" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Data Analytics Service
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse109">이벤트/데이터 스트리밍 처리를 위한 오픈소스 Apache Kafka 클러스터를 손쉽게 배포, 운영 및 확장 가능한 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse109" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Cloud Data Streaming Service
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse108">Jenkins에서 사용하는 포트번호는?</a>
+            </h4>
+        </div>
+        <div id="collapse108" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                18080 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse107">개발에 필요한 소스코드와 파일들을 안전하게 저장하고 관리할 수 있는 프라이빗 Git 리파지토리 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse107" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                SourceCommit
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse106">코드 컴파일 및 테스트를 포함한 소스코드 컴파일 그리고 컴포넌트 패키징을 한번에 지원하는 관리형 소스 코드 빌드 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse106" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                SourceBuild
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse105">새로 작성되거나 업데이트 된 소스들을 자동으로 서버에 배포하고 적용해주는 자동화 배포 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse105" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                SourceDeploy
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse104">SourceCommit, SourceBuild, SourceDeploy 상품을 통합하여 리파지토리, 빌드, 배포로 이어지는 소프트웨어 출시 프로세스를 자동화하는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse104" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                SourcePipeline
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse103">네이버가 운영하는 데이터센터 환경과 클라우드 환경의 여러 IT 자원들을 통합하여 이용하고 운영할 수 있게 해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse103" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Hybrid Cloud Hosting
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse102">데이터 센터 환경과 네이버 클라우드 플랫폼을 전용 사설 네트워크로 연결할 수 있는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse102" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Cloud Connect
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse101">VMware의 솔루션과 네이버 클라우드의 인프라 기술을 통합하여, 쉽고 빠르게 엔터프라이즈 클라우드 서비스를 제공하는 상품은?</a>
+            </h4>
+        </div>
+        <div id="collapse101" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                VMware on Ncloud
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse100">VMware on Ncloud가 속한 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse100" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Hybrid &amp; Private Cloud
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse99">CDN 연동이 필수인 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse99" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Live Station, VOD Station
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse98">Object Storage 연동이 필수인 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse98" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                CLOVA Speech, CLOVA Dubbing, VOD Transcoder, VOD Station, Video Player, Image Optimizer, SourceBuild, Cloud Hadoop
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse97">백업 서비스의 보관 주기는?</a>
+            </h4>
+        </div>
+        <div id="collapse97" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                최소 7일부터 최대 24주
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse96">사용자의 웹사이트에 검색 기능을 제공하는 상품으로 네이버 형태소 분석 처리기를 기반으로 만들어진 상품은?</a>
+            </h4>
+        </div>
+        <div id="collapse96" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Cloud Search
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse95">다음은 Auto Scaling의 어떤 항목일까요? <br />"새로운 서버가 생성되었다고 해도, Init-Script 실행이나 업데이트 설치 등의 이유로 실제 서비스를 수행할 수 있을 정도로 준비되기까지는 시간이 소요될 수 있습니다. 이것은 실제 Scaling이 수행 중이거나 수행 완료된 이후에 모니터링 이벤트 알람이 발생하더라도 무시하도록 설정한 기간입니다."</a>
+            </h4>
+        </div>
+        <div id="collapse95" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                쿨다운
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse94">네이버클라우드 로드밸런서에서 제공하는 로드 분배 알고리즘은?</a>
+            </h4>
+        </div>
+        <div id="collapse94" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Round Robin, Least Connection, Source IP Hash
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse93">Cloud DB for MySQL 생성 시 자동 생성되는 항목은 어떤 것이 있나요?</a>
+            </h4>
+        </div>
+        <div id="collapse93" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Private Domain, Cloud DB ACG
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse92">리눅스에서 네트웍 트래픽을 확인할 수 있는 명령어는?</a>
+            </h4>
+        </div>
+        <div id="collapse92" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                netstat -i, ifconfig
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse91">네이버 클라우드에서 서버를 계정당 최대 몇 대까지 생성할 수 있나요?</a>
+            </h4>
+        </div>
+        <div id="collapse91" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                50대
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse90">네이버 클라우드 Classic 환경에서 ACG는 몇개까지 생성할 수 있나요?</a>
+            </h4>
+        </div>
+        <div id="collapse90" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                100개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse89">네이버 클라우드 VPC 환경에서 ACG는 몇개까지 생성할 수 있나요?</a>
+            </h4>
+        </div>
+        <div id="collapse89" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                500개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse88">네이버 클라우드에서 VPC는 계정당 최대 몇개까지 생성할 수 있나요?</a>
+            </h4>
+        </div>
+        <div id="collapse88" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                3개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse87">Object Storage에 콘솔을 이용해 업로드 할 수 있는 파일의 최대 사이즈는 얼마인가요?</a>
+            </h4>
+        </div>
+        <div id="collapse87" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                2G
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse86">Object Storage에 API를 이용해 업로드 할 수 있는 파일의 최대 사이즈는 얼마인가요?</a>
+            </h4>
+        </div>
+        <div id="collapse86" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                10TB
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse85">MSSQL에서 사용하는 포트번호는?</a>
+            </h4>
+        </div>
+        <div id="collapse85" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                1433 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse84">Node.js Express에서 사용하는 포트 번호는?</a>
+            </h4>
+        </div>
+        <div id="collapse84" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                3000 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse83">네이버 클라우드 Classic 환경에서 AutoScaling 적용이 가능한 서버타입은?</a>
+            </h4>
+        </div>
+        <div id="collapse83" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Compact, Standard
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse82">네이버 클라우드 VPC 환경에서 AutoScaling 적용이 가능한 서버타입은?</a>
+            </h4>
+        </div>
+        <div id="collapse82" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                High-CPU, Standard, High-Memory
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse81">Redis DB가 사용하는 포트 번호는?</a>
+            </h4>
+        </div>
+        <div id="collapse81" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                6379 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse80">PostgreSQL이 사용하는 포트 번호는?</a>
+            </h4>
+        </div>
+        <div id="collapse80" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                5432 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse79">Classic 환경 SSL VPN에서 기본으로 제공하는 외부 접속용 ID는 최대 몇개인가요?</a>
+            </h4>
+        </div>
+        <div id="collapse79" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                10개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse78">Classic 환경에서 ACG당 최대 몇개의 규칙을 설정할 수 있나요?</a>
+            </h4>
+        </div>
+        <div id="collapse78" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                100개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse77">Classic 환경에서 각 서버는 최대 몇개의 ACG에 중복 포함될 수 있나요?</a>
+            </h4>
+        </div>
+        <div id="collapse77" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                5개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse76">VPC 환경에서 ACG는 NIC당 최대 몇개까지 가능한가요?</a>
+            </h4>
+        </div>
+        <div id="collapse76" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                3개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse75">VPC 환경에서 ACG는 Inboud/Outbound 각각 최대 몇개의 규칙을 생성할 수 있나요?</a>
+            </h4>
+        </div>
+        <div id="collapse75" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                각각 50개, 합쳐서 100개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse74">네이버 클라우드에서 포트포워딩을 설정할 때 설정 가능한 포트 범위는?</a>
+            </h4>
+        </div>
+        <div id="collapse74" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                1024~65534
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse73">네이버 클라우드에서 스토리지를 추가할 수 없는 서버는?</a>
+            </h4>
+        </div>
+        <div id="collapse73" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Micro Type Server, Bare Metal Server, Application Launcher Server
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse72">네이버 클라우드에서 서버당 최대 몇개까지의 스토리지를 추가할 수 있나요?</a>
+            </h4>
+        </div>
+        <div id="collapse72" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                기본 1개 + 추가 15개 = 전체 16개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse71">네이버 클라우드에서 서버당 추가 가능한 스토리지의 최대 용량은?</a>
+            </h4>
+        </div>
+        <div id="collapse71" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                2,000GB
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse70">네이버 클라우드에서 스토리지 크기를 변경할 때 확장 가능한 최대 디스크 크기는 얼마인가요?</a>
+            </h4>
+        </div>
+        <div id="collapse70" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                2TB
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse69">Classic 환경에서 Private Subnet은 Zone당 몇개까지 생성할 수 있나요?</a>
+            </h4>
+        </div>
+        <div id="collapse69" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                1개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse68">Classic 환경에서 Private Subnet을 생성할 때 설정가능한 IP대역은?</a>
+            </h4>
+        </div>
+        <div id="collapse68" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                192.168.0.0/16 내에서 /24 단위
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse67">네이버 클라우드에서 AutoScaling 적용이 가능한 최대 디스크 사이즈는?</a>
+            </h4>
+        </div>
+        <div id="collapse67" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                총 150GB이하
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse66">네이버 클라우드에서 고객별 생성 가능한 Auto Scaling Group 최대 수는?</a>
+            </h4>
+        </div>
+        <div id="collapse66" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                100개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse65">네이버 클라우드에서 고객별 생성 가능한 Auto Scaling Launch Configuration 최대 수는?</a>
+            </h4>
+        </div>
+        <div id="collapse65" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                100개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse64">네이버 클라우드에서 Auto Scaling Group당 생성 가능한 스케줄(Scheduled Action) 최대 수는?</a>
+            </h4>
+        </div>
+        <div id="collapse64" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                100개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse63">네이버 클라우드에서 Auto Scaling Group당 생성 가능한 Scaling Policy 최대 수는?</a>
+            </h4>
+        </div>
+        <div id="collapse63" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                10개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse62">네이버 클라우드에서 Auto Scaling Group당 생성 가능한 최대 서버 수는?</a>
+            </h4>
+        </div>
+        <div id="collapse62" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                30개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse61">네이버 클라우드에서 Auto Scaling Group당 연결 가능한 Load Balancer 최대 수는?</a>
+            </h4>
+        </div>
+        <div id="collapse61" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                10개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse60">Object Storage에서 기본으로 설정된 버킷의 최대 수량은?</a>
+            </h4>
+        </div>
+        <div id="collapse60" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                1,000개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse59">Object Storage에서 Lifecycle Management를 설정할 때 관리 대상이 되는 오브젝트의 이름을 결정하는 방식은?</a>
+            </h4>
+        </div>
+        <div id="collapse59" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                접두어 방식
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse58">Archive Storage에 콘솔을 이용해 업로드 할 수 있는 파일의 최대 사이즈는 얼마인가요?</a>
+            </h4>
+        </div>
+        <div id="collapse58" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                2GB
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse57">Archive Storage에 API를 이용해 업로드 할 수 있는 파일의 최대 사이즈는 얼마인가요?</a>
+            </h4>
+        </div>
+        <div id="collapse57" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                5GB
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse56">네이버 클라우드 NAS 볼륨의 최소 용량은?</a>
+            </h4>
+        </div>
+        <div id="collapse56" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                500GB
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse55">네이버 클라우드 NAS 볼륨의 최대 용량은?</a>
+            </h4>
+        </div>
+        <div id="collapse55" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                10,000GB
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse54">네이버 클라우드 NAS 볼륨을 확장할 때 설정 단위 용량은?</a>
+            </h4>
+        </div>
+        <div id="collapse54" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                100GB
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse53">네이버 클라우드에서 백업을 설정하는 방법은?</a>
+            </h4>
+        </div>
+        <div id="collapse53" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                백업은 신청서를 다운 받아서 고객센터로 제출을 해야 설정이 됩니다.
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse52">Cloud DB for MySQL의 데이터 스토리지 최대 용량은?</a>
+            </h4>
+        </div>
+        <div id="collapse52" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                6,000GB
+                <br /><br /><span style="font-size:15px">- 설명: 기본 10GB부터 10GB 단위로 최대 6000GB까지 자동 증가</span>
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse51">Cloud DB for MySQL은 Master 서버 1개 당 Slave 서버를 최대 몇개까지 생성 가능한가요?</a>
+            </h4>
+        </div>
+        <div id="collapse51" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                10개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse50">Cloud DB for MySQL의 백업 파일의 보관 기간은?</a>
+            </h4>
+        </div>
+        <div id="collapse50" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                1일 ~ 30일
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse49">Cloud DB for MySQL의 모니터링 정보는 최대 몇일까지 확인 가능한가요?</a>
+            </h4>
+        </div>
+        <div id="collapse49" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                최근 60일
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse48">Cloud DB for MySQL에서 백업 파일을 Object Storage로 보내기 할 수 있는 최대 업로드 사이즈는?</a>
+            </h4>
+        </div>
+        <div id="collapse48" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                5TB
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse47">Cloud DB for MySQL에 연결할 수 있는 로드밸런서는?</a>
+            </h4>
+        </div>
+        <div id="collapse47" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Classic Load Balancer, Network Load Balancer, Network Proxy Load Balancer
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse46">Cloud DB for MSSQL의 데이터 스토리지 최대 용량은?</a>
+            </h4>
+        </div>
+        <div id="collapse46" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                2TB
+                <br /><br /><span style="font-size:15px">- 설명: 기본 100GB가 자동 할당되며, 10GB 단위로 2TB까지 자동 증가</span>
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse45">Cloud DB for MSSQL의 백업 파일의 보관 기간은?</a>
+            </h4>
+        </div>
+        <div id="collapse45" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                1일 ~ 30일
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse44">Cloud DB for MSSQL의 모니터링 정보는 최대 몇일까지 확인 가능한가요?</a>
+            </h4>
+        </div>
+        <div id="collapse44" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                최근 4주
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse43">Cloud DB for Redis의 모니터링 정보는 최대 몇일까지 확인 가능한가요?</a>
+            </h4>
+        </div>
+        <div id="collapse43" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                최근 4주
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse42">Cloud DB for Redis의 백업 파일의 보관 기간은?</a>
+            </h4>
+        </div>
+        <div id="collapse42" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                최대 7일
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse41">Cloud DB for Redis의 생성 가능한 샤드 개수는?</a>
+            </h4>
+        </div>
+        <div id="collapse41" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                3~10개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse40">Mongo DB가 사용하는 포트 번호는?</a>
+            </h4>
+        </div>
+        <div id="collapse40" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                27017 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse39">VPC 환경에서 제공 가능한 Deny-Allow Group의 개수는?</a>
+            </h4>
+        </div>
+        <div id="collapse39" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                VPC당 4개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse38">VPC 환경에서 Deny-Allow Group에 등록 가능한 IP의 최대 수량은?</a>
+            </h4>
+        </div>
+        <div id="collapse38" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                100개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse37">Global DNS에서 A레코드의 TTL은 얼마인가요?</a>
+            </h4>
+        </div>
+        <div id="collapse37" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                300초
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse36">Global DNS에서 NS레코드의 TTL은 얼마인가요?</a>
+            </h4>
+        </div>
+        <div id="collapse36" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                86400초
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse35">요청한 콘텐츠가 CDN 캐시 서버에 없어서 원본 서버로부터 콘텐츠를 전송받은 후 서버에 저장하는 경우를 뜻하는 말은?</a>
+            </h4>
+        </div>
+        <div id="collapse35" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                MISS
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse34">접속자가 요청한 콘텐츠가 유효한 형태로 CDN 캐시 서버에 있어 접속자의 요청에 대해서 바로 응답할 때를 뜻하는 말은?</a>
+            </h4>
+        </div>
+        <div id="collapse34" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                HIT
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse33">원본 서버 응답 헤더에 Set-Cookie 헤더가 있거나, Cache-Control 헤더에 private, no-cache, max-age=0 등의 내용이 있는 경우 CDN 서버에서 캐싱하지 않고 접속자에게 전달하는 것을 뜻하는 말은?</a>
+            </h4>
+        </div>
+        <div id="collapse33" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                BYPASS
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse32">CDN+에서 고객 보유 도메인은 최대 몇개까지 지원하나요?</a>
+            </h4>
+        </div>
+        <div id="collapse32" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                10개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse31">Global CDN에서 고객 보유 도메인은 최대 몇개까지 지원하나요?</a>
+            </h4>
+        </div>
+        <div id="collapse31" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                50개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse30">CDN+에서 모니터링 데이터를 조회할 수 있는 기간은?</a>
+            </h4>
+        </div>
+        <div id="collapse30" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                2일 ~ 3개월
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse29">Global CDN에서 모니터링 데이터를 조회할 수 있는 기간은?</a>
+            </h4>
+        </div>
+        <div id="collapse29" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                1일 ~ 3개월
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse28">Classic Load Balancer에 바인드 할 수 있는 서버 대수는?</a>
+            </h4>
+        </div>
+        <div id="collapse28" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                최대 50대
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse27">Classic Load Balancer에  추가할 수 있는 프로토콜 개수는?</a>
+            </h4>
+        </div>
+        <div id="collapse27" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                최대 20개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse26">App Safer에 업로드 할 수 있는 APK의 최대 사이즈는?</a>
+            </h4>
+        </div>
+        <div id="collapse26" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                100MB
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse25">File Safer에서 지원하는 Hash 알고리즘은?</a>
+            </h4>
+        </div>
+        <div id="collapse25" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                MD5, SHA-1
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse24">VPC 환경 SSL VPN에서 기본으로 제공하는 외부 접속용 ID는 최대 몇개인가요?</a>
+            </h4>
+        </div>
+        <div id="collapse24" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                500개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse23">System Security Checker에서 검사하는 웹서버는?</a>
+            </h4>
+        </div>
+        <div id="collapse23" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Apache, Tomcat, Nginx
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse22">Security Monitoring Basic에서 제공하는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse22" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                IDS, Anti-Virus
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse21">Simple &amp; Easy Notification Service는 프로젝트를 최대 몇개까지 생성할 수 있나요?</a>
+            </h4>
+        </div>
+        <div id="collapse21" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                10개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse20">Cloud Log Analytics의 기본 제공되는 최대 저장 용량은?</a>
+            </h4>
+        </div>
+        <div id="collapse20" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                100GB
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse19">Cloud Log Analytics의 데이터 보관 기간은?</a>
+            </h4>
+        </div>
+        <div id="collapse19" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                30일
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse18">Real User Analytics(RUA) 지표 중에서 페이지를 요청한 후, 데이터를 받기 위해 서버와의 연결이 맺어지기까지의 시간을 뜻하는 것은?</a>
+            </h4>
+        </div>
+        <div id="collapse18" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Network
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse17">Real User Analytics(RUA) 지표 중에서 페이지를 요청한 후, 웹서버에서 첫 번째 정보를 수신하기까지 브라우저가 대기하는 시간을 뜻하는 것은?</a>
+            </h4>
+        </div>
+        <div id="collapse17" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                TTFB
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse16">Real User Analytics(RUA) 지표 중에서 페이지를 요청한 후, HTML 문서가 준비되어 분석되기까지의 시간을 뜻하는 것은?</a>
+            </h4>
+        </div>
+        <div id="collapse16" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                DomContentLoaded
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse15">Real User Analytics(RUA) 지표 중에서 페이지를 요청한 후, HTML 페이지가 화면에 로딩이 완료되기까지의 시간을 뜻하는 것은?</a>
+            </h4>
+        </div>
+        <div id="collapse15" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Browser Load Time
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse14">Real User Analytics(RUA) 지표 중에서 웹 서버가 브라우저의 요청에 응답하는데 걸리는 시간을 뜻하는 것은?</a>
+            </h4>
+        </div>
+        <div id="collapse14" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Server Response
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse13">Real User Analytics(RUA) 지표 중에서 브라우저가 HTML을 파싱하고 해석하는데 걸리는 시간을 뜻하는 것은?</a>
+            </h4>
+        </div>
+        <div id="collapse13" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Dom Processing
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse12">Real User Analytics(RUA) 지표 중에서 브라우저가 HTML을 표현하고 JavaScript를 실행하면서 페이지를 구성하는 하위 이미지를 로딩하는데 걸리는 시간을 뜻하는 것은?</a>
+            </h4>
+        </div>
+        <div id="collapse12" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Page Rendering
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse11">Cloud Hadoop 클러스터에서 외부 접속을 위한 Gateway용 노드를 뜻하는 것은?</a>
+            </h4>
+        </div>
+        <div id="collapse11" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                엣지노드
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse10">Cloud Hadoop 클러스터의 작업자노드를 최초 생성할 때 몇개까지 가능한가요?</a>
+            </h4>
+        </div>
+        <div id="collapse10" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                2개~8개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse9">Cloud Data Streaming Service 클러스터 설정에서 Kafka Broker의 포트 번호는?</a>
+            </h4>
+        </div>
+        <div id="collapse9" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                9092 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse8">Cloud Data Streaming Service 클러스터 설정에서 Kafka Broker TLS의 포트 번호는?</a>
+            </h4>
+        </div>
+        <div id="collapse8" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                9093 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse7">Cloud Data Streaming Service 클러스터 설정에서 Zookeeper의 포트 번호는?</a>
+            </h4>
+        </div>
+        <div id="collapse7" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                2181 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse6">Cloud Data Streaming Service 클러스터 설정에서 CMAK의 포트 번호는?</a>
+            </h4>
+        </div>
+        <div id="collapse6" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                9000 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse5">Elasticsearch의 HTTP 포트 번호는?</a>
+            </h4>
+        </div>
+        <div id="collapse5" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                9200 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse4">Elasticsearch에서 Kibana의 HTTP 포트 번호는?</a>
+            </h4>
+        </div>
+        <div id="collapse4" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                5601 Port
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse3">Elasticsearch의 데이터 노드 개수는 최초에 몇개까지 설정 가능한가요?</a>
+            </h4>
+        </div>
+        <div id="collapse3" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                3~10개
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse2">Image Optimizer 서비스가 반드시 연계해야 하는 상품은?</a>
+            </h4>
+        </div>
+        <div id="collapse2" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Object Storage, Cloud Log Analytics, CDN+
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+        
+    <!-- /.panel -->
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 class="panel-title">
+                <a class="noCrossRef accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapse1">네이버 클라우드 내 리소스에 대한 액세스를 제어할 수 있는 기한 제한이 있는 임시 Access Key를 생성해주는 서비스는?</a>
+            </h4>
+        </div>
+        <div id="collapse1" class="panel-collapse collapse noCrossRef">
+            <div class="panel-body">
+                Secure Token Service(STS)
+                
+            </div>
+        </div>
+    </div>                    
+    <!-- /.panel -->
+    
+    
+</div>
+
+
+    <div class="tags">
+        
+        <b>Tags: </b>
+        
+        
+        
+        
+        
+        
+        
+    </div>
+
+
+
+<!-- 본문 하단 - cloudlog -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6199737337936118"
+     data-ad-slot="7488484889"
+     data-ad-format="auto"
+     data-full-width-responsive="true">
+</ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<hr class="shaded"/>
+
+<footer>
+            <div class="row">
+                <div class="col-lg-12 footer">
+               &copy;2022 Copyright 2022 @CLOUDLOG.KR. All rights reserved. <br />
+               Built with <a href="https://jekyllrb-ko.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Jekyll</a> 
+               & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
+               & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
+               
+<span>Page last updated:</span> 2022-07-23<br/> Site last generated: 2022-07-24 <br />
+
+                </div>
+            </div>
+</footer>
+
+
+
+
+
+
+        </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+</div>
+<!-- /#main -->
+</div>
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JNK63BTKXN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JNK63BTKXN');
+</script>
+
+
+
+
+
+<!-- Naver Analytics -->
+<script src="//wcs.naver.net/wcslog.js"></script>
+<script>
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "1352844e1f81670";
+if(window.wcs) {
+  wcs_do();
+}
+</script>
+
+
+</body>
+</html>
+
+

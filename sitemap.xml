@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2022-07-23T22:39:33+09:00</lastmod>
+    <lastmod>2022-07-24T21:06:30+09:00</lastmod>
   </url>
   
   
@@ -482,6 +482,16 @@
   
   
   <url>
+    <loc>https://cloudlog.kr/programming/ncloud/nca-short-answer-question.html</loc>
+
+    <lastmod>2022-07-23T00:00:00+09:00</lastmod>
+    
+       
+  </url>
+  
+  
+  
+  <url>
     <loc>https://cloudlog.kr/programming/php/php-array-search-column.html</loc>
 
     <lastmod>2022-06-23T00:00:00+09:00</lastmod>
@@ -675,8 +685,6 @@
   
   
   
-  
-  
   <url>
     <loc>https://cloudlog.kr/category/game/ragnarok.html</loc>
   
@@ -704,6 +712,8 @@
   
        
   </url>
+  
+  
   
   
   
