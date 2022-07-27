@@ -926,7 +926,6 @@ span.soft {
 @media only screen and (min-width: 900px), only screen and (min-device-width: 900px) {
     .col-md-9 img {
         max-width: 850px;
-        max-height: 700px;
     }
 }
 
