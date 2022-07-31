@@ -2,7 +2,17 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2022-07-27T12:30:30+09:00</lastmod>
+    <lastmod>2022-07-31T17:00:32+09:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity.html</loc>
+  
+    <lastmod>2022-07-30T00:00:00+09:00</lastmod>
+    
+      
   </url>
   
   
@@ -368,7 +378,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/life/drama/korea/april-first-week-drama-review.html</loc>
+    <loc>https://cloudlog.kr/life/language/japanese/grammer-difference-zanngixyou-yakinn.html</loc>
   
     <lastmod>2022-04-09T00:00:00+09:00</lastmod>
     
@@ -378,7 +388,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/life/language/japanese/grammer-difference-zanngixyou-yakinn.html</loc>
+    <loc>https://cloudlog.kr/life/drama/korea/april-first-week-drama-review.html</loc>
   
     <lastmod>2022-04-09T00:00:00+09:00</lastmod>
     
@@ -398,7 +408,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/life/language/japanese/grammer-difference-zunihairarenai-zunihaokanai.html</loc>
+    <loc>https://cloudlog.kr/life/language/japanese/grammer-difference-teyamanai-tekanawanai.html</loc>
   
     <lastmod>2022-04-03T00:00:00+09:00</lastmod>
     
@@ -408,7 +418,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/life/language/japanese/grammer-difference-teyamanai-tekanawanai.html</loc>
+    <loc>https://cloudlog.kr/life/language/japanese/grammer-difference-zunihairarenai-zunihaokanai.html</loc>
   
     <lastmod>2022-04-03T00:00:00+09:00</lastmod>
     
