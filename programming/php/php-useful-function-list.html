@@ -4,27 +4,25 @@
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="[환혼] 마의 이선생이 혼을 옮겨 다니다 오늘의 웹툰에 출연하는 나강남 작가로 살아가고 있는 모습을 확인했습니다.">
-<meta name="keywords" content="drama,  Drama, Alchemy of Souls, Todays Webtoon">
+<meta name="description" content="PHP로 개발할 때 자주 쓰는 유용한 함수들을 정리해보겠습니다.">
+<meta name="keywords" content="php,  programming, php, function">
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="[환혼] 마의 이선생 혼을 옮겨 다니며 웹툰 작가로 살아가고 있네요" />
+<meta property="og:title" content="PHP 자주쓰는 유용한 함수 모음" />
 <meta property="og:locale" content="ko_KR" />
-<meta property="og:description" content="[환혼] 마의 이선생이 혼을 옮겨 다니다 오늘의 웹툰에 출연하는 나강남 작가로 살아가고 있는 모습을 확인했습니다." />
-<link rel="canonical" href="https://cloudlog.kr/life/drama/korea/tvn-alchemy-of-souls-master-lee.html" />
-<meta property="og:url" content="https://cloudlog.kr/life/drama/korea/tvn-alchemy-of-souls-master-lee.html" />
+<meta property="og:description" content="PHP로 개발할 때 자주 쓰는 유용한 함수들을 정리해보겠습니다." />
+<link rel="canonical" href="https://cloudlog.kr/programming/php/php-useful-function-list.html" />
+<meta property="og:url" content="https://cloudlog.kr/programming/php/php-useful-function-list.html" />
 <meta property="og:site_name" content="Simple Life Cloud Log" />
-<meta property="og:image" content="https://cloudlog.kr/images/drama/korea/tvn-alchemy-of-souls-master-lee.jpg" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2022-08-06T00:00:00+09:00" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="https://cloudlog.kr/images/drama/korea/tvn-alchemy-of-souls-master-lee.jpg" />
-<meta property="twitter:title" content="[환혼] 마의 이선생 혼을 옮겨 다니며 웹툰 작가로 살아가고 있네요" />
+<meta property="article:published_time" content="2022-08-12T00:00:00+09:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="PHP 자주쓰는 유용한 함수 모음" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-08-06T00:00:00+09:00","datePublished":"2022-08-06T00:00:00+09:00","description":"[환혼] 마의 이선생이 혼을 옮겨 다니다 오늘의 웹툰에 출연하는 나강남 작가로 살아가고 있는 모습을 확인했습니다.","headline":"[환혼] 마의 이선생 혼을 옮겨 다니며 웹툰 작가로 살아가고 있네요","image":"https://cloudlog.kr/images/drama/korea/tvn-alchemy-of-souls-master-lee.jpg","mainEntityOfPage":{"@type":"WebPage","@id":"https://cloudlog.kr/life/drama/korea/tvn-alchemy-of-souls-master-lee.html"},"url":"https://cloudlog.kr/life/drama/korea/tvn-alchemy-of-souls-master-lee.html"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"PHP로 개발할 때 자주 쓰는 유용한 함수들을 정리해보겠습니다.","headline":"PHP 자주쓰는 유용한 함수 모음","url":"https://cloudlog.kr/programming/php/php-useful-function-list.html"}</script>
 <!-- End Jekyll SEO tag -->
 
-<title>[환혼] 마의 이선생 혼을 옮겨 다니며 웹툰 작가로 살아가고 있네요 | Cloud Log</title>
+<title>PHP 자주쓰는 유용한 함수 모음 | Cloud Log</title>
 <link rel="stylesheet" href="/css/syntax.css">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -73,11 +71,11 @@
 
 
     <script>
-        $(document).ready(function(e) {
+        $(document).ready(function() {
             // Initialize navgoco with default options
-            $("#mysidebar1").navgoco({
+            $("#mysidebar").navgoco({
                 caretHtml: '',
-                accordion: false,
+                accordion: true,
                 openClass: 'active', // open
                 save: false, // leave false or nav highlighting doesn't work right
                 cookie: {
@@ -90,7 +88,6 @@
                     easing: 'swing'
                 }
             });
-            $("#mysidebar1").navgoco('toggle', true);            
 
             $("#collapseAll").click(function(e) {
                 e.preventDefault();
@@ -191,7 +188,7 @@
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
                                 dataSource: '/search.json',
-                                searchResultTemplate: '<li><a href="{url}" title="[환혼] 마의 이선생 혼을 옮겨 다니며 웹툰 작가로 살아가고 있네요">{title}</a></li>',
+                                searchResultTemplate: '<li><a href="{url}" title="PHP 자주쓰는 유용한 함수 모음">{title}</a></li>',
                     noResultsText: 'No results found.',
                             limit: 10,
                             fuzzy: true,
@@ -218,117 +215,207 @@
             <div class="col-md-3" id="tg-sb-sidebar">
                 
 
-
 <ul id="mysidebar" class="nav">
-  <li class="sidebarTitle">Life Post 1.0</li>
-  
-  
+  <li class="sidebarTitle">Programming 1.0</li>
   
   
   
   <li>
-      <a title="드라마" href="/category/life/drama.html">드라마</a>
+      <a title="PHP" href="#">PHP</a>
       <ul>
           
           
           
-          
-          <li><a title="한국" href="/category/life/drama-korea.html">ㄴ한국 </a></li>
-          
+          <li><a title="PHP SQL Injection 방지 코드" href="/programming/php/php-sql-injection-function.html">PHP SQL Injection 방지 코드</a></li>
           
           
           
           
           
           
-          <li><a title="일본" href="/category/life/drama-japan.html">ㄴ일본 </a></li>
+          <li class="active"><a title="PHP 자주 쓰는 함수 모음" href="/programming/php/php-useful-function-list.html">PHP 자주 쓰는 함수 모음</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="윤년 계산 하는 방법" href="/programming/php/php-leap-year-with-asp.html">윤년 계산 하는 방법</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="배열검색 array_search, array_column" href="/programming/php/php-array-search-column.html">배열검색 array_search, array_column</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PHPExcel 최신판 PhpSpreadsheet" href="/programming/php/php-phpspreadsheet-introduce.html">PHPExcel 최신판 PhpSpreadsheet</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 행 높이 설정하기" href="/programming/php/php-phpspreadsheet-row-height.html">PhpSpreadsheet 행 높이 설정하기</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 셀 서식 문자 지정" href="/programming/php/php-phpspreadsheet-cell-datatype-string.html">PhpSpreadsheet 셀 서식 문자 지정</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet ERR-INVALID-RESPONSE 오류" href="/programming/php/php-phpspreadsheet-err-invalid-response.html">PhpSpreadsheet ERR-INVALID-RESPONSE 오류</a></li>
           
           
           
           
       </ul>
    </li>
-   
-   
   
   
   
   <li>
-      <a title="애니메이션" href="/category/life/animation.html">애니메이션</a>
+      <a title="API" href="#">API</a>
       <ul>
           
           
           
-          
-          <li><a title="OVA" href="/category/life/animation-ova.html">ㄴOVA </a></li>
+          <li><a title="UniPass 오픈API" href="/programming/api/api-unipass-openapi-introduce.html">UniPass 오픈API</a></li>
           
           
           
           
       </ul>
    </li>
-   
-   
   
   
   
   <li>
-      <a title="책방" href="/category/life/bookstore.html">책방</a>
+      <a title="AWS" href="#">AWS</a>
       <ul>
           
           
           
+          <li><a title="AWS bitnami LAMP 설정하기" href="/programming/aws/aws-bitnami-lamp-setting-guide.html">AWS bitnami LAMP 설정하기</a></li>
           
-          <li><a title="웹툰, 웹소설" href="/category/life/web-comics-novel.html">ㄴ웹툰, 웹소설 </a></li>
+          
+          
+          
+          
+          
+          <li><a title="S3 cli RequestTimeTooSkewed 에러" href="/programming/aws/aws-s3-cli-time-different-error-troubleshooting.html">S3 cli RequestTimeTooSkewed 에러</a></li>
           
           
           
           
       </ul>
    </li>
-   
-   
   
   
   
   <li>
-      <a title="외국어" href="/category/life/language.html">외국어</a>
+      <a title="Ncloud" href="#">Ncloud</a>
       <ul>
           
           
           
+          <li><a title="Ncloud 자격증 NCA 대비 핵심 요약" href="/programming/ncloud/nca-short-answer-question.html">Ncloud 자격증 NCA 대비 핵심 요약</a></li>
           
-          <li><a title="일본어" href="/category/life/japanese.html">ㄴ일본어 </a></li>
+          
+          
+          
+          
+          
+          <li><a title="NCA 자격증 합격 후기와 출제 경향" href="/programming/ncloud/ncloud-nca-certification-pass-review.html">NCA 자격증 합격 후기와 출제 경향</a></li>
           
           
           
           
       </ul>
    </li>
-   
-   
   
   
   
   <li>
-      <a title="생활정보" href="/category/life/diary.html">생활정보</a>
+      <a title="Jekyll" href="#">Jekyll</a>
       <ul>
           
           
           
+          <li><a title="jekyll 4.x jekyll-extract-element 오류" href="/programming/jekyll/jekyll-extract-element-nokogiri-error.html">jekyll 4.x jekyll-extract-element 오류</a></li>
           
-          <li><a title="생활정보" href="/category/life/diary.html">ㄴ생활정보 </a></li>
+          
+          
+          
+          
+          
+          <li><a title="Jekyll robots.txt 템플릿 수정, Ruby 3" href="/programming/jekyll/jekyll-sitemap-gem-robots-txt-edit.html">Jekyll robots.txt 템플릿 수정, Ruby 3</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Jekyll sitemap.xml 템플릿 수정, Ruby 3" href="/programming/jekyll/jekyll-sitemap-gem-xml-edit.html">Jekyll sitemap.xml 템플릿 수정, Ruby 3</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="사이트 내부 문서 링크하기 | Jekyll" href="/programming/jekyll/jekyll-include-internal-post-page.html">사이트 내부 문서 링크하기 | Jekyll</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Jekyll Liquid 언어 사용법" href="/programming/jekyll/jekyll-liquid-language.html">Jekyll Liquid 언어 사용법</a></li>
           
           
           
           
       </ul>
    </li>
-   
-   
-   
+  
+  
+  
+  <li>
+      <a title="OS" href="#">OS</a>
+      <ul>
+          
+          
+          
+          <li><a title="맥OS 카탈리나(Catalina) 기타볼륨" href="/programming/os/os-macos-catalina-other-volume.html">맥OS 카탈리나(Catalina) 기타볼륨</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="윈도우 유용한 유틸, 설정, 명령어 모음" href="/programming/os/windows-command-util-config.html">윈도우 유용한 유틸, 설정, 명령어 모음</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
 
-   
+  
 
   
   
@@ -438,11 +525,12 @@
   
 
 
-      
-    <!--p class="external">
-        <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
-    </p-->
-      
+  
+    <!-- if you aren't using the accordion, uncomment this block:
+       <p class="external">
+           <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+       </p>
+    -->
 </ul>
 
 <!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
@@ -456,62 +544,122 @@
 
         <!-- Content Column -->
         <div class="col-md-9" id="tg-sb-content">
-            <article class="post" itemscope itemtype="https://schema.org/BlogPosting">
-
-    <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">[환혼] 마의 이선생 혼을 옮겨 다니며 웹툰 작가로 살아가고 있네요</h1>
-        <p class="post-meta">        
-        <time datetime="2022-08-06T00:00:00+09:00" itemprop="datePublished"><span class="label label-info">2022-08-06</span></time> 
-        <span class="label label-primary">life / drama / drama-korea</span>
-        </p>
-    </header>
-
-    <div class="post-content" itemprop="articleBody">
+            <div class="post-header-no">
+   <h1 class="post-title-main-no">PHP 자주쓰는 유용한 함수 모음</h1>
+</div>
 
 
-        
 
-        <h2 id="환혼-마의-이선생">[환혼] 마의 이선생</h2>
-<p>tvN 토일 드라마 [환혼]에 등장하는 인물.</p>
+<div class="post-content">
 
-<p>본명은 이철이며 <strong>송림을 세운 서경 선생의 직계제자</strong>이며, 사시사철 삼베로 된 마의만 입고 다닌다 하여 마의 이선생이라 불린다고 합니다.</p>
+   
+    <div class="summary">PHP로 개발할 때 자주 쓰는 유용한 함수들을 정리해보겠습니다.</div>
+   
 
-<p>그런 이선생이 지금의 모습이 된 것은 술법이 매우 높은 경지에 올라 환수의 경지를 시험해보려고 일종의 유체이탈을 한 상태였는데, 
-제자인 허염이 그런 스승이 죽은 것으로 알고 화장을 해버려 어쩔 수 없이 근처에 동사한 어린 아이 몸에 들어갔기 때문이라고 합니다.</p>
+    
+    
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
 
-<p>즉, 마의 이선생은 얼음돌을 이용한 부정한 사술로 환혼을 한 것이 아니라 술법을 매우 높은 경지로 익혀 스스로 유체이탈과 혼을 옮겨 다닐 수 있게 되었습니다.</p>
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
 
-<p>그렇게 수없이 많은 횟수로 혼을 옮겨 다니면서 <strong>마의 이선생이 지금 현재는 웹툰 작가로 살고 있다</strong>는 소식을 듣고 찾아봤습니다.</p>
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
 
-<figure><img class="docimage" src="/images/drama/korea/tvn-alchemy-of-souls-master-lee.jpg" alt="tvn 토일 드라마 [환혼] 마의 이선생" style="width: 845px; max-width: 100%; " /><figcaption>사진 출처: tvN 환혼 홈페이지</figcaption></figure>
+  $(window).scrollTop(scroll_target - 10);
+  return false
+});
 
-<h2 id="오늘의-웹툰-나강남-작가">[오늘의 웹툰] 나강남 작가</h2>
-<p>SBS 금토 드라마 [오늘의 웹툰] 등장인물.</p>
+$("#toc_onoff").click(function() {  
+        $("#toc").toggle();
+        $("#tg-toc-icon").toggleClass('fa-toggle-on');
+        $("#tg-toc-icon").toggleClass('fa-toggle-off');
 
-<p><strong>네온의 대표 작품 [구미호 공주]의 웹툰 작가</strong>이며 진저툰 시절부터 장만철, 석지형과 계속 의리를 지켜오고 있다고 합니다. 진저툰에서 연재하던 대 히트작 [구미호 공주]가 네온으로 넘어오면서 네온의 웹툰 서비스가 빠르게 자리를 잡게 되었다고 합니다.</p>
+});
 
-<p>하지만 그의 ‘관종’ 여자친구 지한슬은 마감 스트레스에 시달리는 강남을 더 괴롭히는데… 웹툰 작업에 열중하는 강남이 자신에게 소홀하다며 한창 마감 중에 갑자기 집을 나가기 일쑤며, 그러면 나강남은 웹툰 작업을 하지 못하고 여자친구가 돌아오기를 기다리는데, 그런 그녀를 찾아오는 것이 강남의 담당 편집자들의 주요 업무가 되었을 정도라고 합니다.</p>
+});
+</script>
 
-<figure><img class="docimage" src="/images/drama/korea/sbs-todays-webtoon-artist-nagangnam.jpg" alt="SBS 금토 드라마 [오늘의 웹툰] 나강남 작가" style="width: 845px; max-width: 100%; " /><figcaption>사진 출처: SBS 오늘의 웹툰 홈페이지</figcaption></figure>
+<p><span class="label label-warning" style="cursor:pointer" id="toc_onoff"><i id="tg-toc-icon" class="fas fa-toggle-on"></i> ToC on/off</span></p>
+<div id="toc"></div>
 
 
-    </div>
 
-     <div class="tags">
+    
+
+
+    
+
+   <h2 id="개요">개요</h2>
+<p>PHP로 개발할 때 자주 찾아보게 되는 함수들을 정리해보았습니다.</p>
+
+<h2 id="date">Date</h2>
+<p>날짜와 시간 관련 함수들입니다.</p>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
+    <span class="c1">// 해당달($nowMonth) 의 1일의 타임스탬프 얻기</span>
+    <span class="nv">$unix_time_stamp</span> <span class="o">=</span> <span class="nb">mktime</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="nv">$nowMonth</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="nv">$nowYear</span><span class="p">);</span>
+    
+    <span class="c1">// 해당달($nowMonth) 의 요일을 숫자로 얻어오기</span>
+    <span class="nv">$firstday_week_num</span> <span class="o">=</span> <span class="nb">date</span><span class="p">(</span><span class="n">w</span><span class="p">,</span><span class="nv">$intTimeStamp</span><span class="p">);</span>           
+    
+    <span class="c1">// 해당달($nowMonth) 의 총일자수</span>
+    <span class="nv">$month_total_day</span> <span class="o">=</span> <span class="nb">date</span><span class="p">(</span><span class="n">t</span><span class="p">,</span><span class="nv">$intTimeStamp</span><span class="p">);</span>    
+<span class="cp">?&gt;</span>
+</code></pre></div></div>
+
+<h2 id="배열">배열</h2>
+<p>배열과 관련된 함수들입니다.</p>
+
+<h3 id="array_search">array_search</h3>
+<p>배열에서 데이터 검색할 때 사용합니다.</p>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
+    <span class="nv">$idx_search_01</span> <span class="o">=</span> <span class="nb">array_search</span><span class="p">(</span><span class="mi">303</span><span class="p">,</span> <span class="nv">$arr_test_01</span><span class="p">);</span>
+    <span class="nv">$idx_search_02</span> <span class="o">=</span> <span class="nb">array_search</span><span class="p">(</span><span class="s2">"nvidia"</span><span class="p">,</span> <span class="nv">$arr_test_02</span><span class="p">);</span>
+
+    <span class="nv">$idx_search_04</span> <span class="o">=</span> <span class="nb">array_search</span><span class="p">(</span><span class="s2">"홍길동"</span><span class="p">,</span> <span class="nb">array_column</span><span class="p">(</span><span class="nv">$arr_user_info</span><span class="p">,</span> <span class="s2">"name"</span><span class="p">));</span>
+<span class="cp">?&gt;</span>
+</code></pre></div></div>
+
+<h3 id="array_column">array_column</h3>
+<p>배열에서 열(column) 기준으로 검색할 때 사용하며, 단독으로 사용하기 보다는 주로 array_search 함수와 함께 사용합니다.</p>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
+    <span class="nv">$idx_search_04</span> <span class="o">=</span> <span class="nb">array_search</span><span class="p">(</span><span class="s2">"홍길동"</span><span class="p">,</span> <span class="nb">array_column</span><span class="p">(</span><span class="nv">$arr_user_info</span><span class="p">,</span> <span class="s2">"name"</span><span class="p">));</span>
+<span class="cp">?&gt;</span>
+</code></pre></div></div>
+
+<h3 id="이차원-배열-값-변경하기">이차원 배열 값 변경하기</h3>
+<p>이차원 배열에서 특정 문자열을 다른 문자열로 바꾸는 방법입니다.</p>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
+    <span class="k">for</span> <span class="p">(</span><span class="nv">$i</span><span class="o">=</span><span class="mi">1</span><span class="p">;</span> <span class="nv">$i</span><span class="o">&lt;=</span><span class="nb">count</span><span class="p">(</span><span class="nv">$sheetData</span><span class="p">);</span> <span class="nv">$i</span><span class="o">++</span><span class="p">)</span>
+    <span class="p">{</span>
+        <span class="k">foreach</span> <span class="p">(</span><span class="nv">$sheetData</span><span class="p">[</span><span class="nv">$i</span><span class="p">]</span> <span class="k">as</span> <span class="nv">$key</span><span class="o">=&gt;</span><span class="nv">$val</span><span class="p">)</span>
+        <span class="p">{</span>
+            <span class="nv">$sheetData</span><span class="p">[</span><span class="nv">$i</span><span class="p">][</span><span class="nv">$key</span><span class="p">]</span> <span class="o">=</span> <span class="nb">str_replace</span><span class="p">(</span><span class="s2">"search_text"</span><span class="p">,</span> <span class="s2">"replace_text"</span><span class="p">,</span> <span class="nv">$sheetData</span><span class="p">[</span><span class="nv">$i</span><span class="p">][</span><span class="nv">$key</span><span class="p">]);</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+<span class="cp">?&gt;</span>
+</code></pre></div></div>
+
+
+    <div class="tags">
         
         <b>Tags: </b>
         
         
         
-        <a href="/tag/tag-drama.html" class="btn btn-default navbar-btn cursorNorm" role="button">drama</a>
+        <a href="/tag/tag-php.html" class="btn btn-default navbar-btn cursorNorm" role="button">php</a>
         
         
         
     </div>
-
-
-
-</article>
 
 
 
@@ -532,36 +680,9 @@
 
 
 
-<div class="mb-30">&nbsp;</div>
-<div class="home">
-    <div class="col-md-12">
-        <ul class="list-style list-unstyled arrow-list arrow-list-three pl-0">
-         
-            
-            <li>
-            <i class="fa-solid fa-caret-right"></i> <time>2022-08-11</time><a href="/life/drama/korea/mbc-big-mouth-identity-leejongsuk-yuna.html">[MBC 빅마우스] 이종석과 윤아가 빅마우스가 될 수 없는 이유</a>
-            </li>  
-             
-            <li>
-            <i class="fa-solid fa-caret-right"></i> <time>2022-08-08</time><a href="/life/drama/korea/tvn-alchemy-of-souls-soi.html">[환혼] 사기꾼 소이가 혼을 옮겨 도박장에서 커피를 팔고 있네요</a>
-            </li>  
-             
-            <li>
-            <i class="fa-solid fa-caret-right"></i> <time>2022-08-06</time><a href="/life/drama/korea/tvn-alchemy-of-souls-master-lee.html">[환혼] 마의 이선생 혼을 옮겨 다니며 웹툰 작가로 살아가고 있네요</a>
-            </li>  
-             
-            <li>
-            <i class="fa-solid fa-caret-right"></i> <time>2022-08-03</time><a href="/life/drama/korea/ena-extraordinary-attorney-woo-mother-father-in-law.html">[이상한 변호사 우영우] 11화 우영우-이준호 커플 벌써 상견례?</a>
-            </li>  
-             
-            <li>
-            <i class="fa-solid fa-caret-right"></i> <time>2022-07-30</time><a href="/life/drama/korea/mbc-big-mouth-identity.html">[MBC 빅마우스] 천재사기꾼 빅마우스의 정체를 예상해보겠습니다.</a>
-            </li>  
-                      
-        </ul>
-    </div>
+
+
 </div>
-<div class="mb-30">&nbsp;</div>
 
 <hr class="shaded"/>
 
@@ -573,7 +694,7 @@
                & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
                & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
                
-<span>Page last updated:</span> 2022-08-06<br/> Site last generated: 2022-08-15 <br />
+<span>Page last updated:</span> 2022-08-12<br/> Site last generated: 2022-08-15 <br />
 
                 </div>
             </div>

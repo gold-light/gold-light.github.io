@@ -83,6 +83,17 @@
 
 
 {
+"title": "Jekyll Liquid 언어 사용법",
+"tags": "seo",
+"keywords": "search, engine, optimization, tip",
+"url": "/programming/jekyll/jekyll-liquid-language.html",
+"summary": "Jekyll에서 사용하는 Ruby 기본의 템플릿 언어 Liquid 사용법을 간단하게 정리해보았습니다."
+}
+,
+
+
+
+{
 "title": "Jekyll robots.txt 템플릿 수정하기 | Ruby 3.0",
 "tags": "markdownjekyll",
 "keywords": "programming, markdown, 지킬, 루비",
@@ -116,6 +127,17 @@
 "keywords": "Cloud, 클라우드, NCP, 네이버 클라우드 플랫폼, NCP, NCE, 시험문제, 예상문제",
 "url": "/programming/ncloud/nca-short-answer-question.html",
 "summary": "네이버 클라우드 플랫폼 (Ncloud) 자격증 NCA 시험 대비 핵심 내용을 요약 정리해보았습니다."
+}
+,
+
+
+
+{
+"title": "네이버 클라우드 (Ncloud) 자격증 NCA 합격 후기, 시험문제 출제 경향",
+"tags": "cloudncloud",
+"keywords": "Cloud, 클라우드, NCP, 네이버 클라우드 플랫폼, NCP, NCE, 시험문제, 예상문제",
+"url": "/programming/ncloud/ncloud-nca-certification-pass-review.html",
+"summary": "네이버 클라우드 플랫폼 (Ncloud) 자격증 NCA 시험 합격 후기와 시험문제 출제 경향을 정리해보았습니다."
 }
 ,
 
@@ -206,6 +228,17 @@
 "keywords": "php, programming",
 "url": "/programming/php/php-sql-injection-function.html",
 "summary": "PHP SQL Injection 방지 코드, 지정된 형식의 문자만 입력 받는 함수입니다"
+}
+,
+
+
+
+{
+"title": "PHP 자주쓰는 유용한 함수 모음",
+"tags": "php",
+"keywords": "programming, php, function",
+"url": "/programming/php/php-useful-function-list.html",
+"summary": "PHP로 개발할 때 자주 쓰는 유용한 함수들을 정리해보겠습니다."
 }
 ,
 

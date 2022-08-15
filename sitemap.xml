@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2022-08-13T23:46:09+09:00</lastmod>
+    <lastmod>2022-08-15T18:44:49+09:00</lastmod>
   </url>
   
   
@@ -552,6 +552,36 @@
   
   
   <url>
+    <loc>https://cloudlog.kr/programming/jekyll/jekyll-liquid-language.html</loc>
+
+    <lastmod>2022-08-14T00:00:00+09:00</lastmod>
+    
+       
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/programming/ncloud/ncloud-nca-certification-pass-review.html</loc>
+
+    <lastmod>2022-08-13T00:00:00+09:00</lastmod>
+    
+       
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/programming/php/php-useful-function-list.html</loc>
+
+    <lastmod>2022-08-12T00:00:00+09:00</lastmod>
+    
+       
+  </url>
+  
+  
+  
+  <url>
     <loc>https://cloudlog.kr/programming/ncloud/nca-short-answer-question.html</loc>
 
     <lastmod>2022-07-23T00:00:00+09:00</lastmod>
@@ -684,7 +714,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/os/os-macos-catalina-other-volume.html</loc>
+    <loc>https://cloudlog.kr/programming/aws/aws-bitnami-lamp-setting-guide.html</loc>
 
     <lastmod>2021-11-13T00:00:00+09:00</lastmod>
     
@@ -694,7 +724,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/aws/aws-bitnami-lamp-setting-guide.html</loc>
+    <loc>https://cloudlog.kr/programming/os/os-macos-catalina-other-volume.html</loc>
 
     <lastmod>2021-11-13T00:00:00+09:00</lastmod>
     
@@ -749,12 +779,6 @@
   
   
   
-  
-  
-  
-  
-  
-  
   <url>
     <loc>https://cloudlog.kr/category/game/ragnarok.html</loc>
   
@@ -777,11 +801,15 @@
   
   
   
+  
+  
   <url>
     <loc>https://cloudlog.kr/category/game/pcgame.html</loc>
   
        
   </url>
+  
+  
   
   
   
@@ -821,6 +849,8 @@
   
   
   
+  
+  
   <url>
     <loc>https://cloudlog.kr/category/life/japanese.html</loc>
   
@@ -828,6 +858,12 @@
   </url>
   
   
+  
+  <url>
+    <loc>https://cloudlog.kr/category/life/web-comics-novel.html</loc>
+  
+       
+  </url>
   
   
   
@@ -898,12 +934,6 @@
   </url>
   
   
-  
-  <url>
-    <loc>https://cloudlog.kr/category/life/web-comics-novel.html</loc>
-  
-       
-  </url>
   
   
   
