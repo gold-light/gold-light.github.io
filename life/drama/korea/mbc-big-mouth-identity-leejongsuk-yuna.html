@@ -470,6 +470,39 @@
 
 
         
+        
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+});
+
+$("#toc_onoff").click(function() {  
+        $("#toc").toggle();
+        $("#tg-toc-icon").toggleClass('fa-toggle-on');
+        $("#tg-toc-icon").toggleClass('fa-toggle-off');
+
+});
+
+});
+</script>
+
+<p><span class="label label-warning" style="cursor:pointer" id="toc_onoff"><i id="tg-toc-icon" class="fas fa-toggle-on"></i> ToC on/off</span></p>
+<div id="toc"></div>
+
+
+
+        
 
         <h2 id="이종석과-임윤아">이종석과 임윤아</h2>
 <p>MBC 금토 드라마 빅마우스에서 진짜 천재 사기꾼 빅마우스가 누구인지 갈 수록 관심이 많아지고 있습니다.</p>
@@ -508,6 +541,29 @@
 
 <figure><img class="docimage" src="/images/drama/korea/mbc-big-mouth-identity-poster-01.jpg" alt="[MBC 빅마우스] 이종석과 윤아가 절대 빅마우스가 될 수 없는 이유" style="width: 845px; max-width: 100%; " /><figcaption>사진 출처: MBC 드라마 빅마우스 홈페이지</figcaption></figure>
 
+<h2 id="몬테크리스토-백작">몬테크리스토 백작</h2>
+<p>지난 7화에서 박창호가 아래 스샷처럼 휴대폰을 몰래 숨겨 들여오는데 사용한 책이 있습니다.</p>
+<figure><img class="docimage" src="/images/drama/korea/mbc-big-mouth-monte-cristo-01.jpg" alt="[MBC 빅마우스] 이종석과 윤아가 절대 빅마우스가 될 수 없는 이유 - 몬테크리스토 백작" style="width: 845px; max-width: 100%; " /><figcaption>사진 출처: MBC 드라마 빅마우스 홈페이지</figcaption></figure>
+
+<p>그 책을 찾아보니 몬테크리스토 백작이라는 책이었습니다.</p>
+<figure><img class="docimage" src="/images/drama/korea/mbc-big-mouth-monte-cristo-02.jpg" alt="[MBC 빅마우스] 이종석과 윤아가 절대 빅마우스가 될 수 없는 이유 - 몬테크리스토 백작" style="width: 845px; max-width: 100%; " /><figcaption>사진 출처: 온라인서점 알라딘 홈페이지</figcaption></figure>
+
+<h3 id="줄거리">줄거리</h3>
+<p>소설 [몬테크리스토 백작]은 온라인서점 알라딘의 책소개를 살펴보면 다음과 같은 줄거리라고 합니다.</p>
+
+<p>[주인공은 아름다운 처녀 메르세데스와 미래를 약속하고, 아담한 정원을 소유한 젊은 선원이었다. 파라옹 호를 타고 마르세유로 돌아오는 순간, 그는 억울한 누명을 쓰고 무기수가 되어 이프 성채의 가장 깊숙한 곳에 처박힌다. 마침내 어두운 지하 감옥에서 탈출, 몬테크리스토 섬의 보물을 손에 넣은 뒤에는 막강한 재력가가 되어 자신을 지옥에 처넣은 자들에게 복수하기 시작한다. 스스로 ‘몬테크리스토 백작’이 된 그는 신비로운 후광을 두르고 상류 사교계에 나타난다. 또 다른 정체성을 숨길 수 있는 새 이름으로 신드바드라는 이름을 사용하기도 한다. 그의 하인들에게 그는 세상에서 가장 고귀한 나라의 가장 높은 결정권자이다. 이제 냉혹한 복수가 시작됐다. 그리고 시대를 넘어 모든 이에게 최고의 카타르시스를 안겨준다. ]</p>
+
+<p>즉, 행복한 삶을 살고 있던 주인공이, 억울한 누명을 쓰고 감옥에 갖혔다가 탈출한 후에 누명을 씌운 자들에게 복수를 하는 내용입니다.<br />
+이런 내용의 책을 주인공인 박창호가 들고 있었다는 것은 작가님이 박창호는 몬테크리스토 백작 같은 삶을 살고 있다는 것을 슬쩍 알려주는 것이라 생각됩니다.</p>
+
+<p>그래서 제 생각을 정리하면 다음과 같습니다.</p>
+
+<ul>
+  <li>박창호는 빅마우스가 아니다.</li>
+  <li>고미호도 빅마우스가 아니다.</li>
+  <li>고미호 아버지도 빅마우스가 아니다.</li>
+  <li>박창호에게 빅마우스의 누명을 씌운 것은 빅마우스가 아니다.</li>
+</ul>
 
     </div>
 
@@ -553,6 +609,10 @@
          
             
             <li>
+            <i class="fa-solid fa-caret-right"></i> <time>2022-08-20</time><a href="/life/drama/korea/mbc-big-mouth-identity-why-become-big-mouse.html">[빅마우스] 정체, 그리고 빅마우스는 왜 빅마우스가 되었을까?</a>
+            </li>  
+             
+            <li>
             <i class="fa-solid fa-caret-right"></i> <time>2022-08-11</time><a href="/life/drama/korea/mbc-big-mouth-identity-leejongsuk-yuna.html">[MBC 빅마우스] 이종석과 윤아가 빅마우스가 될 수 없는 이유</a>
             </li>  
              
@@ -567,15 +627,11 @@
             <li>
             <i class="fa-solid fa-caret-right"></i> <time>2022-08-03</time><a href="/life/drama/korea/ena-extraordinary-attorney-woo-mother-father-in-law.html">[이상한 변호사 우영우] 11화 우영우-이준호 커플 벌써 상견례?</a>
             </li>  
-             
-            <li>
-            <i class="fa-solid fa-caret-right"></i> <time>2022-07-30</time><a href="/life/drama/korea/mbc-big-mouth-identity.html">[MBC 빅마우스] 천재사기꾼 빅마우스의 정체를 예상해보겠습니다.</a>
-            </li>  
                       
         </ul>
     </div>
 </div>
-<div class="mb-30">&nbsp;</div>
+<div class="mb-10">&nbsp;</div>
 
 <hr class="shaded"/>
 
@@ -587,7 +643,7 @@
                & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
                & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
                
-<span>Page last updated:</span> 2022-08-11<br/> Site last generated: 2022-08-15 <br />
+<span>Page last updated:</span> 2022-08-20<br/> Site last generated: 2022-08-21 <br />
 
                 </div>
             </div>
