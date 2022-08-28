@@ -5,9 +5,81 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Aug 2022 16:43:56 +0900</pubDate>
-        <lastBuildDate>Sun, 21 Aug 2022 16:43:56 +0900</lastBuildDate>
+        <pubDate>Sun, 28 Aug 2022 23:43:28 +0900</pubDate>
+        <lastBuildDate>Sun, 28 Aug 2022 23:43:28 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>히트2 (Hit 2) 아이템 분해하는 방법</title>
+            <description>&lt;h2 id=&quot;아이템-분해-기능&quot;&gt;아이템 분해 기능&lt;/h2&gt;
+&lt;p&gt;넥슨이 얼마 전에 공개한 모바일 RPG게임 히트2를 플레이 하다보니 아이템 분해 기능을 찾지 못해 살짝 고생했습니다.&lt;/p&gt;
+
+&lt;p&gt;보통 아이템을 분해하려면 해당 아이템을 선택하고 분해 버튼이나 메뉴를 선택하면 분해를 할 수 있게 되는데, 히트2에는 그런 UI의 편의성이 전혀 없습니다.&lt;/p&gt;
+
+&lt;p&gt;겨우겨우 아이템 분해하는 방법을 찾았는데, 혹시나 저 처럼 고생하시는 분이 있을까봐 정리해보 았습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;분해-방법&quot;&gt;분해 방법&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;일단 가방을 선택하고 아이템 리스트 아래쪽에 보시면 아래 스샷처럼 아이템 분해 아이콘이 있습니다.&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;사실 잘 보이지도 않고, 마우스를 올려보기 전까지는 아이템 분해 버튼인지 잘 확인도 안되는게 좀 안타깝습니다.&lt;/p&gt;
+
+&lt;p&gt;아무튼 [&lt;strong&gt;아이템 분해&lt;/strong&gt;] 버튼을 클릭하면 분해할 수 있는 아이템 리스트가 나타나는데 분해할 아이템을 전부 클릭해서 선택하고 [&lt;strong&gt;분해&lt;/strong&gt;] 버튼을 클릭하면 됩니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-item-dismantle-01.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 아이템 분해하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;자동-선택-설정&quot;&gt;자동 선택 설정&lt;/h2&gt;
+&lt;p&gt;아이템 분해할 때는 미리 지정한 아이템 종류는 자동으로 선택되게 할 수 있는데, 아래와 같이 [&lt;strong&gt;자동 설정&lt;/strong&gt;]에서 미리 지정할 수 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-item-dismantle-02.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 아이템 분해하는 방법&quot; style=&quot;width: 607px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;게임-소개&quot;&gt;게임 소개&lt;/h2&gt;
+&lt;p&gt;히트2에서 공개한 게임소개를 가져와봤는데 한번 살펴보겠습니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-당신의-부름에-응답한-히트의-영웅들&quot;&gt;1. 당신의 부름에 응답한 히트의 영웅들&lt;/h3&gt;
+
+&lt;p&gt;하이엔드 비쥬얼로 재탄생한 키키와 새로운 동료들!&lt;br /&gt;
+다음 세대를 위해 준비된 광활한 오픈 월드에서 더욱 생동감 넘치는 비주얼로 돌아온 히트를 만나보세요.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-시그니쳐-스킬로-재탄생한-히트의-오리진-액션&quot;&gt;2. 시그니쳐 스킬로 재탄생한 히트의 오리진 액션&lt;/h3&gt;
+
+&lt;p&gt;각각의 매력이 뚜렷한 6종의 클래스가 펼치는 전투의 향연!&lt;br /&gt;
+광활한 필드 곳곳을 수놓는 화려한 스킬과 치열한 전투는 히트2에서도 계속됩니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-서버-오픈-시점부터-시작되는-치열한-공성전&quot;&gt;3. 서버 오픈 시점부터 시작되는 치열한 공성전&lt;/h3&gt;
+
+&lt;p&gt;누구나 참여할 수 있고, 언제든 시작되는 명예로운 전투!&lt;br /&gt;
+모험가님의 협동과 경쟁에 따라 특별한 이벤트와 함께 왕좌의 주인을 결정할 공성전이 바로 시작됩니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-전장을-뒤흔드는-조율자의-제단&quot;&gt;4. 전장을 뒤흔드는 조율자의 제단&lt;/h3&gt;
+
+&lt;p&gt;당신이 선택한 필드와 월드의 규칙!&lt;br /&gt;
+그 규칙 위에서 새롭게 쓰여지는 월드의 역사! 다채롭게 변화하는 전투 양상과 레이드를 경험해보세요.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-붉은-회오리가-불면-눈을-뜨는-에덴의-변이체&quot;&gt;5. 붉은 회오리가 불면 눈을 뜨는 에덴의 변이체&lt;/h3&gt;
+
+&lt;p&gt;시시각각 에르바덴을 위기에 빠뜨리는 미지의 공격!&lt;br /&gt;
+한 순간도 긴장을 놓을 수 없는 월드의 변화와 위협에 맞서 위기에 빠진 세계를 구원해주세요.&lt;/p&gt;
+
+&lt;h2 id=&quot;히트2-공식-채널&quot;&gt;히트2 공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;히트2 공식 사이트 : &lt;a href=&quot;https://hit2.nexon.com&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://hit2.nexon.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;히트2 카카오톡 공식 채널 : &lt;a href=&quot;http://pf.kakao.com/_vxfxkeb&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://pf.kakao.com/_vxfxkeb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Sat, 27 Aug 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/mobile/hit2-item-dismantle-howto.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/mobile/hit2-item-dismantle-howto.html</guid>
+            
+            <category>mobile</category>
+            
+            
+        </item>
         
         <item>
             <title>[빅마우스] 정체, 그리고 빅마우스는 왜 빅마우스가 되었을까?</title>
@@ -601,93 +673,6 @@
             <pubDate>Tue, 19 Jul 2022 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/life/diary/gsretail-gs25-pre-order-launch-box-lost-result.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/life/diary/gsretail-gs25-pre-order-launch-box-lost-result.html</guid>
-            
-            <category>coupang</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>GS25 편의점 예약주문 도시락 분실-실종 사건 고발</title>
-            <description>&lt;h2 id=&quot;도시락-분실-사건-개요&quot;&gt;도시락 분실 사건 개요&lt;/h2&gt;
-&lt;p&gt;가끔 편의점 도시락을 사먹고 있었는데, 종종 맛있는 도시락이 없어서 아무거나 골랐던 기억이 있어서 이번에는 편의점 앱에서 도시락을 예약주문해서 먹어보려고 했습니다.&lt;/p&gt;
-
-&lt;p&gt;그런데, 어찌된 일인지 제가 예약주문한 도시락이 GS25 편의점 매장에 없었고, 편의점 근무자와 점장도 어찌된 일인지 모르는 상황에서 돈만 날리게 될 것 같은 상황을 겪어서 황당하고 억울한 내용을 적어보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;예약주문&quot;&gt;예약주문&lt;/h2&gt;
-&lt;p&gt;GS25 편의점 앱인 [THE POP] 앱에는 아래와 같이 예약주문 화면이 있습니다.&lt;br /&gt;
-도시락 뿐만 아니라, 김밥, 샌드위치, 샐러드, 편스토랑 메뉴까지 다양한 상품을 예약주문할 수 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/gsretail-gs25-pre-order-launch-box-lost-01.png&quot; alt=&quot;GS25 편의점에 예약주문으로 구매한 도시락이 매장에 입고되지 않고 사라진 사건을 고발&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;수령시간-지정&quot;&gt;수령시간 지정&lt;/h2&gt;
-&lt;p&gt;예약주문을 할 경우 대략 2일후 부터 주문가능한데 아래와 같이 몇시에 수령할 것인지를 선택할 수 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/gsretail-gs25-pre-order-launch-box-lost-02.png&quot; alt=&quot;GS25 편의점에 예약주문으로 구매한 도시락이 매장에 입고되지 않고 사라진 사건을 고발&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;주문완료&quot;&gt;주문완료&lt;/h2&gt;
-&lt;p&gt;GS25는 예약주문을 하면서 결제까지 완료하면 아래와 같이 [나만의 냉장고]에 구매한 도시락이 들어가 있습니다.&lt;br /&gt;
-예약구매 정보에는 [수령시간], [수령점포], [유통기한], [보관일시] 등의 정보가 적혀 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/gsretail-gs25-pre-order-launch-box-lost-03.png&quot; alt=&quot;GS25 편의점에 예약주문으로 구매한 도시락이 매장에 입고되지 않고 사라진 사건을 고발&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;사건-발생&quot;&gt;사건 발생&lt;/h2&gt;
-&lt;p&gt;저는 예약주문한 도시락의 수령시간을 [7월 15일 20시 ~ 22시]로 지정했고, 19시경에 지정한 편의점 매장에 도시락이 입고 되었으니 찾아가라는 알림 문자가 도착했습니다.&lt;br /&gt;
-그래서 20시 30분 경에 지정한 편의점 매장에 찾아갔습니다.  하지만, 도시락을 찾지 못했고, 편의점 근무자분이 뒤쪽 창고까지 찾아봤지만 없었습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/gsretail-gs25-pre-order-launch-box-lost-08.png&quot; alt=&quot;GS25 편의점에 예약주문으로 구매한 도시락이 매장에 입고되지 않고 사라진 사건을 고발&quot; style=&quot;width: 336px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;p&gt;편의점 근무자 뿐만 아니라 점장님과도 연락이 되어서 상품 입고 내역서까지 확인했지만, 입고된 기록 자체가 없다는 황당한 이야기를 듣게 되었습니다.&lt;/p&gt;
-
-&lt;p&gt;결국 다음 날에 되면서 아래와 같이 수령기간이 1일 지났다는 메시지가 표시되기까지 했습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/gsretail-gs25-pre-order-launch-box-lost-04.png&quot; alt=&quot;GS25 편의점에 예약주문으로 구매한 도시락이 매장에 입고되지 않고 사라진 사건을 고발&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;p&gt;그래서 고객센터에 전화해서 문의를 해보려고 해도 평일 9시~18시 외에는 고객센터가 근무를 하지 않으면서 어디 물어볼곳도 없었습니다.&lt;/p&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-3&quot;&gt;그런데 다른 상품과 다르게 도시락 같은 상품들은 수령기간을 연장할 수도 없고, 유통기한이 지나면 수령할 수도 없게 됩니다.&lt;/div&gt;
-
-&lt;p&gt;그렇다면 &lt;strong&gt;유통기한인 7월 16일 20시 이후가 되면 돈을 지불했음에도 도시락을 수령할 수 없고, 주말이라 고객센터 연락도 되지 않고, 결국 돈만 버리고, 도시락은 구경도 못해보는 상황&lt;/strong&gt;이 되어 버렸습니다.&lt;/p&gt;
-
-&lt;p&gt;결국 아래와 같이 대체 도시락이 왜 사라진 것인지 이유도 모른채 도시락은 기한 만료로 사라졌습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/gsretail-gs25-pre-order-launch-box-lost-07.png&quot; alt=&quot;GS25 편의점에 예약주문으로 구매한 도시락이 매장에 입고되지 않고 사라진 사건을 고발&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;원인-추측&quot;&gt;원인 추측&lt;/h2&gt;
-&lt;p&gt;아니 대체 왜 이런 일이 일어났는지 황당하기 그지 없습니다.&lt;/p&gt;
-
-&lt;p&gt;분명 결제까지 하고 예약주문한 도시락이 편의점 매장에 도착했다는 알림 메시지는 왔는데 실제 편의점 매장에는 입고 되지 않았다면 도시락은 어디로 갔을까요?&lt;/p&gt;
-
-&lt;p&gt;왜 GS25, GS Retail은 돈만 받고 도시락이 사라졌는데 연락도 주지 않는 것일까요?&lt;/p&gt;
-
-&lt;p&gt;예약주문 도시락은 평일 오전에 입고되는 것이 규칙이라고 하는데 그렇다면 금요일 오전에 입고 되었어야 합니다.&lt;/p&gt;
-
-&lt;p&gt;혹시 배송 과정에서 문제가 생겼다면 금요일 하루 동안 충분히 고객에게 연락할 수 있었을 텐데 아무런 연락도 없었고, 환불도 없었습니다.&lt;/p&gt;
-
-&lt;p&gt;대체 왜 이러는 걸까요? 설마 돈만 받고 도시락은 주지 않는 사기를 친 건가요? GS25가?&lt;/p&gt;
-
-&lt;h2 id=&quot;이후-대책&quot;&gt;이후 대책&lt;/h2&gt;
-&lt;p&gt;일단 GS Retail 홈페이지에 문의를 해두기는 했습니다만, 월요일 이후에 연락이 오겠지요.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;과연 GS측에서 자신들의 잘못을 인정까요?&lt;/li&gt;
-  &lt;li&gt;과연 무슨 문제가 생겼는지 설명은 해줄까요?&lt;/li&gt;
-  &lt;li&gt;설마 수령기간이 지났으니 환불 불가라는 답변이 올까요?&lt;/li&gt;
-  &lt;li&gt;아니면 그냥 실수였다고 하면서 딱 도시락 가격만 환불해주고 끝내는건 아닐까요?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;이런 GS25 예약주문 도시락 분실-실종 사건때문에 제가 버린 시간, 돈, 그리고 이 문제를 해결하려고 뛰어 다니는 동안 밥도 제대로 먹지 못하고 스트레스 받는 것에 대한 보상은 해줄 것인가요?&lt;/p&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
-여러분은 부디 이런 일이 생기지 않도록 가능하면 예약주문하지 마시고, 직접 방문해서 구입하시길 추천 드립니다. &lt;br /&gt;
-꼭 예약주문해야 한다면 가능하면 CU 같은 다른 편의점 이용을 적극 고려해보시기 바랍니다. &lt;br /&gt;
-그것도 어렵다면 도시락이 입고 되지 않고 사라지더라도 고객센터와 전화 연락이 가능한 시간대에 수령하는 것으로 하시길 추천 드립니다. &lt;br /&gt;
-&lt;/div&gt;
-
-</description>
-            <pubDate>Sun, 17 Jul 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/diary/gsretail-gs25-pre-order-launch-box-lost.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/diary/gsretail-gs25-pre-order-launch-box-lost.html</guid>
             
             <category>coupang</category>
             
