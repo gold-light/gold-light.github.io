@@ -2,7 +2,17 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2022-08-31T22:33:41+09:00</lastmod>
+    <lastmod>2022-09-04T20:49:46+09:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity.html</loc>
+  
+    <lastmod>2022-09-03T00:00:00+09:00</lastmod>
+    
+      
   </url>
   
   
@@ -28,7 +38,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-leejongsuk-yuna.html</loc>
+    <loc>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-why-become-big-mouse.html</loc>
   
     <lastmod>2022-08-20T00:00:00+09:00</lastmod>
     
@@ -38,7 +48,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-why-become-big-mouse.html</loc>
+    <loc>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-leejongsuk-yuna.html</loc>
   
     <lastmod>2022-08-20T00:00:00+09:00</lastmod>
     
@@ -71,16 +81,6 @@
     <loc>https://cloudlog.kr/life/drama/korea/ena-extraordinary-attorney-woo-mother-father-in-law.html</loc>
   
     <lastmod>2022-08-03T00:00:00+09:00</lastmod>
-    
-      
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity.html</loc>
-  
-    <lastmod>2022-07-30T00:00:00+09:00</lastmod>
     
       
   </url>
