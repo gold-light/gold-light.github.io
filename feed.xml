@@ -5,9 +5,95 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Sep 2022 00:13:47 +0900</pubDate>
-        <lastBuildDate>Mon, 05 Sep 2022 00:13:47 +0900</lastBuildDate>
+        <pubDate>Sat, 10 Sep 2022 16:54:48 +0900</pubDate>
+        <lastBuildDate>Sat, 10 Sep 2022 16:54:48 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>ずれる vs ゆがむ vs ねじれる vs それる | 일본어 공부</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;이번에는 [ずれる] vs [ゆがむ], [ねじれる] vs [それる] 네 단어의 의미를 비교해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;ずれる&quot;&gt;ずれる&lt;/h2&gt;
+
+&lt;h3 id=&quot;의미&quot;&gt;의미&lt;/h3&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
+⁃ (위치가) 어긋나다. &lt;br /&gt;
+⁃ (시간 등이) 어긋나다. &lt;br /&gt;
+⁃ 빗나가다.
+&lt;/div&gt;
+
+&lt;h3 id=&quot;예문&quot;&gt;예문&lt;/h3&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
+⁃ 昨日買ったサングラスが、鼻の形に合わないのか、&lt;strong&gt;ずれて&lt;/strong&gt;困る。&lt;br /&gt;
+⁃ あなたのネクタイが&lt;strong&gt;ずれて&lt;/strong&gt;いる。&lt;br /&gt;
+⁃ あの人の認識が&lt;strong&gt;ずれて&lt;/strong&gt;いる。&lt;br /&gt;
+⁃ その時計は時間が10分&lt;strong&gt;ずれて&lt;/strong&gt;いる。&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;ゆがむ-歪む&quot;&gt;ゆがむ (歪む)&lt;/h2&gt;
+
+&lt;h3 id=&quot;의미-1&quot;&gt;의미&lt;/h3&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
+⁃ (모양이) 비뚤어지다. &lt;br /&gt;
+⁃ (마음·행실이) 바르지 못하다. &lt;br /&gt;
+⁃ 일그러지다.
+&lt;/div&gt;
+
+&lt;h3 id=&quot;예문-1&quot;&gt;예문&lt;/h3&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
+⁃ あまりの痛さに顔が&lt;strong&gt;歪む&lt;/strong&gt;。&lt;br /&gt;
+⁃ 画面が&lt;strong&gt;歪む&lt;/strong&gt;。&lt;br /&gt;
+⁃ &lt;strong&gt;ゆがんだ&lt;/strong&gt;根性。&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;ねじれる-捻じれる捩じれる&quot;&gt;ねじれる (捻じれる、捩じれる)&lt;/h2&gt;
+
+&lt;h3 id=&quot;의미-2&quot;&gt;의미&lt;/h3&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
+⁃ (성질이) 비뚤어지다. &lt;br /&gt;
+⁃ (가늘고 긴 것이) 꼬이다. &lt;br /&gt;
+⁃ 비틀어지다.
+&lt;/div&gt;
+
+&lt;h3 id=&quot;예문-2&quot;&gt;예문&lt;/h3&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
+⁃ 紐が&lt;strong&gt;ねじれる&lt;/strong&gt;。&lt;br /&gt;
+⁃ 上司との関係が&lt;strong&gt;ねじれて&lt;/strong&gt;しまった。&lt;br /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;それる-逸れる&quot;&gt;それる (逸れる)&lt;/h2&gt;
+
+&lt;h3 id=&quot;의미-3&quot;&gt;의미&lt;/h3&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
+⁃ 빗나가다. &lt;br /&gt;
+⁃ 가락이 안 맞다. &lt;br /&gt;
+⁃ 뜻하지 않은 방향을 향해 가다.
+&lt;/div&gt;
+
+&lt;h3 id=&quot;예문-3&quot;&gt;예문&lt;/h3&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
+⁃ 話が本筋から&lt;strong&gt;それる&lt;/strong&gt;.。&lt;br /&gt;
+⁃ 歌うたの音程おんていが&lt;strong&gt;逸れる&lt;/strong&gt;。&lt;br /&gt;
+&lt;/div&gt;
+
+</description>
+            <pubDate>Thu, 08 Sep 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/life/language/japanese/vocabulary-zureru-yugamu-nezireru-soreru.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/vocabulary-zureru-yugamu-nezireru-soreru.html</guid>
+            
+            <category>japan</category>
+            
+            
+        </item>
         
         <item>
             <title>[소녀시대] 2022년 15주년 앨범, 드라마, 영화 리스트</title>
@@ -107,10 +193,11 @@
         </item>
         
         <item>
-            <title>히트2 (Hit 2) 계시의 탑 1층 여명회 정예수사 위치 정보</title>
-            <description>&lt;h2 id=&quot;계시의-탑-1층-여명회-정예수사-위치&quot;&gt;계시의 탑 1층 여명회 정예수사 위치&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;테라가드 영주의 지령서&lt;/strong&gt;] 퀘스트를 진행하다보면 [&lt;strong&gt;계시의 탑&lt;/strong&gt;] 던전 1층에서 [&lt;strong&gt;여명회 정예수사&lt;/strong&gt;]를 처치하라는 퀘스트가 나오는데 다른 몬스터보다 [&lt;strong&gt;여명회 정예수사&lt;/strong&gt;]의 위치를 찾기가 쉽지 않습니다.  1층을 돌아다니며 찾아봤더니 여러 군데가 있었는데 2곳만 정리해보겠습니다.&lt;/p&gt;
+            <title>히트2 (Hit 2) 계시의 탑 여명회 정예수사 위치 정보</title>
+            <description>&lt;h2 id=&quot;여명회-정예수사-헤매이는-여명회-정예수사-위치&quot;&gt;여명회 정예수사, 헤매이는 여명회 정예수사 위치&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;테라가드 영주의 지령서&lt;/strong&gt;] 퀘스트를 진행하다보면 [&lt;strong&gt;계시의 탑&lt;/strong&gt;] 던전 1층에서 [&lt;strong&gt;여명회 정예수사&lt;/strong&gt;]를 처치하라 또는 [&lt;strong&gt;계시의 탑&lt;/strong&gt;] 던전 2층에서 [&lt;strong&gt;헤매이는 여명회 정예수사&lt;/strong&gt;]를 처치하라는 퀘스트가 나오는데 다른 몬스터보다 [&lt;strong&gt;여명회 정예수사&lt;/strong&gt;], [&lt;strong&gt;헤매이는 여명회 정예수사&lt;/strong&gt;]의 위치를 찾기가 쉽지 않습니다.  1층과 2층을 돌아다니며 찾아봤더니 여러 군데가 있었는데 몇 곳만 정리해보겠습니다.&lt;/p&gt;
 
+&lt;h2 id=&quot;1층-여명회-정예수사&quot;&gt;1층 여명회 정예수사&lt;/h2&gt;
 &lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-2&quot;&gt;우선, &lt;strong&gt;1층 한가운데&lt;/strong&gt;에 있습니다.&lt;/div&gt;
 
 &lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-01.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
@@ -122,6 +209,15 @@
 &lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-2&quot;&gt;다음으로, &lt;strong&gt;5시 정도의 위치&lt;/strong&gt;에도 있습니다.&lt;/div&gt;
 
 &lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-03.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;2층-헤매이는-여명회-정예수사&quot;&gt;2층 헤매이는 여명회 정예수사&lt;/h2&gt;
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-2&quot;&gt;&lt;strong&gt;헤매이는 여명회 정예수사는 2층 한가운데&lt;/strong&gt;에 있습니다.&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-05.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;[&lt;strong&gt;헤매이는 여명회 정예수사&lt;/strong&gt;] 몬스터는 이렇게 생겼습니다.&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-06.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;계시의-탑-정보&quot;&gt;계시의 탑 정보&lt;/h2&gt;
 &lt;p&gt;과거 세라핌들이 여신의 계시를 받았던 성소&lt;/p&gt;
@@ -624,68 +720,6 @@
             <pubDate>Sat, 30 Jul 2022 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity.html</guid>
-            
-            <category>drama</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[이상한 변호사 우영우] SBS같은 공중파에서 방영했다면 달라졌을 스토리 예상</title>
-            <description>&lt;h2 id=&quot;이상한-변호사-우영우-방송사-변경&quot;&gt;이상한 변호사 우영우 방송사 변경&lt;/h2&gt;
-&lt;p&gt;들리는 얘기로는 [이상한 변호사 우영우]는 원래 SBS에서 방영할 예정이었다고 합니다. 그런데 이런 저런 이유로 SBS에서 편성이 취소되면서 ENA와 계약을 하게 되었고, 
-브랜드 리뉴얼로 태어난 신생 채널인 ENA는 신생 채널답게 채널의 입지를 다지기 위해 200억 정도의 거금을 투자했을 것으로 추정된다고 합니다.&lt;/p&gt;
-
-&lt;p&gt;그러다 보니 보통의 드라마들에게서 나오는 PPL도 없고, 누구나 예상 가능한 소위 막장 스토리도 없는 것이 [이상한 변호사 우영우]의 아주 큰 강점이라 매력이 되었습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/ena-extraordinary-attorney-woo-bus.jpg&quot; alt=&quot;&quot; style=&quot;width: 655px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;바뀌었을지도-모르는-드라마-스토리&quot;&gt;바뀌었을지도 모르는 드라마 스토리&lt;/h2&gt;
-&lt;p&gt;[이상한 변호사 우영우]가 SBS 같은 공중파에서 방송되었다면 이런 식으로 스토리가 바뀌지 않았을까 하는 생각에 재미로 만들어봤습니다.&lt;br /&gt;
-말 그대로 재미로 적어본 이야기니 너무 심각하게 받아들이지 않으시길 바랍니다.&lt;/p&gt;
-
-&lt;h3 id=&quot;스토리---1&quot;&gt;스토리 - 1&lt;/h3&gt;
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-3&quot;&gt;
-⁃ 14회 후반부에 아버지에게 태수미가 어머니라는 충격적인 사실을 들은 우영우는 집을 뛰쳐나가게 됩니다. &lt;br /&gt;
-⁃ 14회 마지막 장면에 혼란한 마음으로 정신 없이 골목길을 달려가던 우영우는 교통사고를 당하게 됩니다. &lt;br /&gt;
-⁃ 병원에 실려간 우영우는 많은 검사와 함께 응급수술을 받게 됩니다. &lt;br /&gt;
-⁃ 응급수술로 목숨은 구했지만, 몸속 장기가 많이 다쳐 심장이나 간, 또는 신장을 이식해야 하는 상황이 됩니다. &lt;br /&gt;
-⁃ 장기이식을 위해 아버지가 조직 검사를 받았지만 맞지 않았고, 아버지는 할 수 없이 태수미를 찾아갑니다. &lt;br /&gt;
-⁃ 태수미의 조직 검사 결과 장기이식이 가능하다는 결과가 나옵니다. &lt;br /&gt;
-⁃ 병원에서는 가능한 빠른 날짜로 수술 날짜를 잡았는데 하필 그날이 태수미의 장관 후보자 청문회 날과 겹치게 됩니다. &lt;br /&gt;
-⁃ 15회 마지막 장면에 우영우의 수술과 청문회가 함께 열리는 날 태수미는 굳은 결심을 하고 집을 나서게 됩니다. &lt;br /&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;스토리---2&quot;&gt;스토리 - 2&lt;/h3&gt;
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-3&quot;&gt;
-⁃ 아버지에게 태수미가 어머니라는 충격적인 사실을 들은 우영우는 집을 뛰쳐나가게 됩니다. &lt;br /&gt;
-⁃ 혼란한 마음으로 정신 없이 골목길을 달려가던 우영우는 교통사고를 당하게 됩니다. &lt;br /&gt;
-⁃ 병원에 실려간 우영우는 많은 검사와 함께 응급수술을 받게 됩니다. &lt;br /&gt;
-⁃ 하지만, 특이한 혈액형으로 보관중이던 혈액이 부족해 급하게 아버지가 수혈해야 하는 상황이 됩니다. &lt;br /&gt;
-⁃ 간호사가 아버지를 수혈을 위해 데려가려 했지만, 아버지는 갑자기 병원 밖으로 도망칩니다. &lt;br /&gt;
-⁃ 병원에서는 근처 병원에서 빌려온 혈액팩으로 겨우 수술을 진행하고 있지만, 언제 어떻게 될지 모르는 상황이 됩니다. &lt;br /&gt;
-⁃ 그러던 중 아버지가 태수미를 데리고 병원에 도착해 수혈을 하고, 무사히 수술은 끝나게 됩니다. &lt;br /&gt;
-⁃ 딸이 위험한데 도대체 어디 갔다 왔냐는 담당 의사의 말에 아버지 대답하길 [사실 전 영우의 친아버지가 아닙니다] &lt;br /&gt;
-⁃ 사실은 대학시절 태수미를 짝사랑 하던 영우 아버지는 태수미가 미혼모가 될 것이 두려워 자신이 키우게 된 것입니다.  &lt;br /&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;스토리---3&quot;&gt;스토리 - 3&lt;/h3&gt;
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-3&quot;&gt;
-⁃ 우영우와 이준호는 드디어 사귀기로 합니다. &lt;br /&gt;
-⁃ 그렇게 달달한 연애를 하던 중 밖에서 데이트하는 장면을 이준호 어머니가 발견합니다. &lt;br /&gt;
-⁃ 이준호는 어머니의 연락을 받고 집으로 가게 되고, 사귀고 있는 사람이 있음을 밝힙니다. &lt;br /&gt;
-⁃ 하지만, 이준호 어머니는 연애를 그만두라고 합니다. 특히 그 아이와의 연애는 절대 안된다고 합니다. &lt;br /&gt;
-⁃ 이준호는 집에게 받을 수 있는 모든 것을 포기하고, 집을 나와 내 인생을 살겠다는데 연애까지 간섭하냐고 반발합니다. &lt;br /&gt;
-⁃ 아들의 뜻을 꺾을 수 없다는 것을 느낀 어머니는 이렇게 얘기합니다. [그 애는 네 누나야!] &lt;br /&gt;
-⁃ 충격과 혼란에 빠진 이준호는 술에 취해 밤늦게 우영우를 만나 그만 헤어지자며 눈물만 흘립니다. &lt;br /&gt;
-⁃ 술에 취해 잠이 든 이준호의 휴대폰으로 이준호 어머니의 전화가 걸려와 우영우가 대신 받게 됩니다. &lt;br /&gt;
-⁃ 전화로 들려오는 목소리는 우영우도 들어본 목소리였습니다. [준호야!] [혹시… 태수미 변호사님?] &lt;br /&gt;
-&lt;/div&gt;
-
-</description>
-            <pubDate>Wed, 27 Jul 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/drama/korea/ena-extraordinary-attorney-other-story.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/drama/korea/ena-extraordinary-attorney-other-story.html</guid>
             
             <category>drama</category>
             

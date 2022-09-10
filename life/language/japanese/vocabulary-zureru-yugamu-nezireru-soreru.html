@@ -4,25 +4,25 @@
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법입니다">
-<meta name="keywords" content="awss3,  programming, 아마존">
+<meta name="description" content="일본어 단어 ずれる vs ゆがむ vs ねじれる vs それる 차이점을 비교해보겠습니다">
+<meta name="keywords" content="japan,  japanese, vocabulary">
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법" />
+<meta property="og:title" content="ずれる vs ゆがむ vs ねじれる vs それる 일본어 공부" />
 <meta property="og:locale" content="ko_KR" />
-<meta property="og:description" content="AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법입니다" />
-<link rel="canonical" href="https://cloudlog.kr/programming/aws/aws-s3-cli-time-different-error-troubleshooting.html" />
-<meta property="og:url" content="https://cloudlog.kr/programming/aws/aws-s3-cli-time-different-error-troubleshooting.html" />
+<meta property="og:description" content="일본어 단어 ずれる vs ゆがむ vs ねじれる vs それる 차이점을 비교해보겠습니다" />
+<link rel="canonical" href="https://cloudlog.kr/life/language/japanese/vocabulary-zureru-yugamu-nezireru-soreru.html" />
+<meta property="og:url" content="https://cloudlog.kr/life/language/japanese/vocabulary-zureru-yugamu-nezireru-soreru.html" />
 <meta property="og:site_name" content="Simple Life Cloud Log" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2022-02-22T00:00:00+09:00" />
+<meta property="article:published_time" content="2022-09-08T00:00:00+09:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법" />
+<meta property="twitter:title" content="ずれる vs ゆがむ vs ねじれる vs それる 일본어 공부" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법입니다","headline":"AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법","url":"https://cloudlog.kr/programming/aws/aws-s3-cli-time-different-error-troubleshooting.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-09-08T00:00:00+09:00","datePublished":"2022-09-08T00:00:00+09:00","description":"일본어 단어 ずれる vs ゆがむ vs ねじれる vs それる 차이점을 비교해보겠습니다","headline":"ずれる vs ゆがむ vs ねじれる vs それる 일본어 공부","mainEntityOfPage":{"@type":"WebPage","@id":"https://cloudlog.kr/life/language/japanese/vocabulary-zureru-yugamu-nezireru-soreru.html"},"url":"https://cloudlog.kr/life/language/japanese/vocabulary-zureru-yugamu-nezireru-soreru.html"}</script>
 <!-- End Jekyll SEO tag -->
 
-<title>AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법 | Cloud Log</title>
+<title>ずれる vs ゆがむ vs ねじれる vs それる | 일본어 공부 | Cloud Log</title>
 <link rel="stylesheet" href="/css/syntax.css">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -71,11 +71,11 @@
 
 
     <script>
-        $(document).ready(function() {
+        $(document).ready(function(e) {
             // Initialize navgoco with default options
-            $("#mysidebar").navgoco({
+            $("#mysidebar1").navgoco({
                 caretHtml: '',
-                accordion: true,
+                accordion: false,
                 openClass: 'active', // open
                 save: false, // leave false or nav highlighting doesn't work right
                 cookie: {
@@ -88,6 +88,7 @@
                     easing: 'swing'
                 }
             });
+            $("#mysidebar1").navgoco('toggle', true);            
 
             $("#collapseAll").click(function(e) {
                 e.preventDefault();
@@ -188,7 +189,7 @@
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
                                 dataSource: '/search.json',
-                                searchResultTemplate: '<li><a href="{url}" title="AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법">{title}</a></li>',
+                                searchResultTemplate: '<li><a href="{url}" title="ずれる vs ゆがむ vs ねじれる vs それる | 일본어 공부">{title}</a></li>',
                     noResultsText: 'No results found.',
                             limit: 10,
                             fuzzy: true,
@@ -215,207 +216,117 @@
             <div class="col-md-3" id="tg-sb-sidebar">
                 
 
-<ul id="mysidebar" class="nav">
-  <li class="sidebarTitle">Programming 1.0</li>
-  
-  
-  
-  <li>
-      <a title="PHP" href="#">PHP</a>
-      <ul>
-          
-          
-          
-          <li><a title="PHP SQL Injection 방지 코드" href="/programming/php/php-sql-injection-function.html">PHP SQL Injection 방지 코드</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="PHP 자주 쓰는 함수 모음" href="/programming/php/php-useful-function-list.html">PHP 자주 쓰는 함수 모음</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="윤년 계산 하는 방법" href="/programming/php/php-leap-year-with-asp.html">윤년 계산 하는 방법</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="배열검색 array_search, array_column" href="/programming/php/php-array-search-column.html">배열검색 array_search, array_column</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="PHPExcel 최신판 PhpSpreadsheet" href="/programming/php/php-phpspreadsheet-introduce.html">PHPExcel 최신판 PhpSpreadsheet</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="PhpSpreadsheet 행 높이 설정하기" href="/programming/php/php-phpspreadsheet-row-height.html">PhpSpreadsheet 행 높이 설정하기</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="PhpSpreadsheet 셀 서식 문자 지정" href="/programming/php/php-phpspreadsheet-cell-datatype-string.html">PhpSpreadsheet 셀 서식 문자 지정</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="PhpSpreadsheet ERR-INVALID-RESPONSE 오류" href="/programming/php/php-phpspreadsheet-err-invalid-response.html">PhpSpreadsheet ERR-INVALID-RESPONSE 오류</a></li>
-          
-          
-          
-          
-      </ul>
-   </li>
-  
-  
-  
-  <li>
-      <a title="API" href="#">API</a>
-      <ul>
-          
-          
-          
-          <li><a title="UniPass 오픈API" href="/programming/api/api-unipass-openapi-introduce.html">UniPass 오픈API</a></li>
-          
-          
-          
-          
-      </ul>
-   </li>
-  
-  
-  
-  <li>
-      <a title="AWS" href="#">AWS</a>
-      <ul>
-          
-          
-          
-          <li><a title="AWS bitnami LAMP 설정하기" href="/programming/aws/aws-bitnami-lamp-setting-guide.html">AWS bitnami LAMP 설정하기</a></li>
-          
-          
-          
-          
-          
-          
-          <li class="active"><a title="S3 cli RequestTimeTooSkewed 에러" href="/programming/aws/aws-s3-cli-time-different-error-troubleshooting.html">S3 cli RequestTimeTooSkewed 에러</a></li>
-          
-          
-          
-          
-      </ul>
-   </li>
-  
-  
-  
-  <li>
-      <a title="Ncloud" href="#">Ncloud</a>
-      <ul>
-          
-          
-          
-          <li><a title="Ncloud 자격증 NCA 대비 핵심 요약" href="/programming/ncloud/nca-short-answer-question.html">Ncloud 자격증 NCA 대비 핵심 요약</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="NCA 자격증 합격 후기와 출제 경향" href="/programming/ncloud/ncloud-nca-certification-pass-review.html">NCA 자격증 합격 후기와 출제 경향</a></li>
-          
-          
-          
-          
-      </ul>
-   </li>
-  
-  
-  
-  <li>
-      <a title="Jekyll" href="#">Jekyll</a>
-      <ul>
-          
-          
-          
-          <li><a title="jekyll 4.x jekyll-extract-element 오류" href="/programming/jekyll/jekyll-extract-element-nokogiri-error.html">jekyll 4.x jekyll-extract-element 오류</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="Jekyll robots.txt 템플릿 수정, Ruby 3" href="/programming/jekyll/jekyll-sitemap-gem-robots-txt-edit.html">Jekyll robots.txt 템플릿 수정, Ruby 3</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="Jekyll sitemap.xml 템플릿 수정, Ruby 3" href="/programming/jekyll/jekyll-sitemap-gem-xml-edit.html">Jekyll sitemap.xml 템플릿 수정, Ruby 3</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="사이트 내부 문서 링크하기 | Jekyll" href="/programming/jekyll/jekyll-include-internal-post-page.html">사이트 내부 문서 링크하기 | Jekyll</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="Jekyll Liquid 언어 사용법" href="/programming/jekyll/jekyll-liquid-language.html">Jekyll Liquid 언어 사용법</a></li>
-          
-          
-          
-          
-      </ul>
-   </li>
-  
-  
-  
-  <li>
-      <a title="OS" href="#">OS</a>
-      <ul>
-          
-          
-          
-          <li><a title="맥OS 카탈리나(Catalina) 기타볼륨" href="/programming/os/os-macos-catalina-other-volume.html">맥OS 카탈리나(Catalina) 기타볼륨</a></li>
-          
-          
-          
-          
-          
-          
-          <li><a title="윈도우 유용한 유틸, 설정, 명령어 모음" href="/programming/os/windows-command-util-config.html">윈도우 유용한 유틸, 설정, 명령어 모음</a></li>
-          
-          
-          
-          
-      </ul>
-   </li>
-  
-  
-  
 
+<ul id="mysidebar" class="nav">
+  <li class="sidebarTitle">Life Post 1.0</li>
   
+  
+  
+  
+  
+  <li>
+      <a title="드라마" href="/category/life/drama.html">드라마</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="한국" href="/category/life/drama-korea.html">ㄴ한국 </a></li>
+          
+          
+          
+          
+          
+          
+          
+          <li><a title="일본" href="/category/life/drama-japan.html">ㄴ일본 </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+  
+  
+  
+  <li>
+      <a title="애니메이션" href="/category/life/animation.html">애니메이션</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="OVA" href="/category/life/animation-ova.html">ㄴOVA </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+  
+  
+  
+  <li>
+      <a title="책방" href="/category/life/bookstore.html">책방</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="웹툰, 웹소설" href="/category/life/web-comics-novel.html">ㄴ웹툰, 웹소설 </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+  
+  
+  
+  <li>
+      <a title="외국어" href="/category/life/language.html">외국어</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="일본어" href="/category/life/japanese.html">ㄴ일본어 </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+  
+  
+  
+  <li>
+      <a title="생활정보" href="/category/life/diary.html">생활정보</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="생활정보" href="/category/life/diary.html">ㄴ생활정보 </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+   
+
+   
 
   
   
@@ -525,12 +436,11 @@
   
 
 
-  
-    <!-- if you aren't using the accordion, uncomment this block:
-       <p class="external">
-           <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
-       </p>
-    -->
+      
+    <!--p class="external">
+        <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+    </p-->
+      
 </ul>
 
 <!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
@@ -544,20 +454,21 @@
 
         <!-- Content Column -->
         <div class="col-md-9" id="tg-sb-content">
-            <div class="post-header-no">
-   <h1 class="post-title-main-no">AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법</h1>
-</div>
+            <article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+
+    <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">ずれる vs ゆがむ vs ねじれる vs それる | 일본어 공부</h1>
+        <p class="post-meta">        
+        <time datetime="2022-09-08T00:00:00+09:00" itemprop="datePublished"><span class="label label-info">2022-09-08</span></time> 
+        <span class="label label-primary">life / language / japanese</span>
+        </p>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
 
 
-
-<div class="post-content">
-
-   
-    <div class="summary">AWS S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법입니다</div>
-   
-
-    
-    
+        
+        
 <!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
 <script>
 $( document ).ready(function() {
@@ -589,79 +500,100 @@ $("#toc_onoff").click(function() {
 
 
 
-    
+        
+
+        <h2 id="개요">개요</h2>
+<p>이번에는 [ずれる] vs [ゆがむ], [ねじれる] vs [それる] 네 단어의 의미를 비교해보겠습니다.</p>
+
+<h2 id="ずれる">ずれる</h2>
+
+<h3 id="의미">의미</h3>
+
+<div class="bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2">
+⁃ (위치가) 어긋나다. <br />
+⁃ (시간 등이) 어긋나다. <br />
+⁃ 빗나가다.
+</div>
+
+<h3 id="예문">예문</h3>
+
+<div class="bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1">
+⁃ 昨日買ったサングラスが、鼻の形に合わないのか、<strong>ずれて</strong>困る。<br />
+⁃ あなたのネクタイが<strong>ずれて</strong>いる。<br />
+⁃ あの人の認識が<strong>ずれて</strong>いる。<br />
+⁃ その時計は時間が10分<strong>ずれて</strong>いる。<br />
+</div>
+
+<h2 id="ゆがむ-歪む">ゆがむ (歪む)</h2>
+
+<h3 id="의미-1">의미</h3>
+
+<div class="bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2">
+⁃ (모양이) 비뚤어지다. <br />
+⁃ (마음·행실이) 바르지 못하다. <br />
+⁃ 일그러지다.
+</div>
+
+<h3 id="예문-1">예문</h3>
+
+<div class="bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1">
+⁃ あまりの痛さに顔が<strong>歪む</strong>。<br />
+⁃ 画面が<strong>歪む</strong>。<br />
+⁃ <strong>ゆがんだ</strong>根性。<br />
+</div>
+
+<h2 id="ねじれる-捻じれる捩じれる">ねじれる (捻じれる、捩じれる)</h2>
+
+<h3 id="의미-2">의미</h3>
+
+<div class="bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2">
+⁃ (성질이) 비뚤어지다. <br />
+⁃ (가늘고 긴 것이) 꼬이다. <br />
+⁃ 비틀어지다.
+</div>
+
+<h3 id="예문-2">예문</h3>
+
+<div class="bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1">
+⁃ 紐が<strong>ねじれる</strong>。<br />
+⁃ 上司との関係が<strong>ねじれて</strong>しまった。<br />
+</div>
+
+<h2 id="それる-逸れる">それる (逸れる)</h2>
+
+<h3 id="의미-3">의미</h3>
+
+<div class="bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2">
+⁃ 빗나가다. <br />
+⁃ 가락이 안 맞다. <br />
+⁃ 뜻하지 않은 방향을 향해 가다.
+</div>
+
+<h3 id="예문-3">예문</h3>
+
+<div class="bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1">
+⁃ 話が本筋から<strong>それる</strong>.。<br />
+⁃ 歌うたの音程おんていが<strong>逸れる</strong>。<br />
+</div>
 
 
-    
+    </div>
 
-   <h2 id="개요">개요</h2>
-<p>aws의 s3를 이용하면서 aws cli를 이용해 접근하는 경우가 있습니다.
-이럴 때 간혹 오류가 발생하는데 제가 최근에 겪었던 원인에 대해 알아보고 해결 방법을 찾아보겠습니다.</p>
-
-<h2 id="s3-cli">S3 cli</h2>
-<p>저는 DB서버에서 DB백업을 주기적으로 하면서 백업된 파일을 s3에 보관하는 이중백업을 설정해두었습니다.</p>
-
-<p>aws cli를 이용해서 s3로 백업하는 명령어는 대략 다음과 같습니다.</p>
-
-<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># Linux</span>
-~# aws s3 <span class="nb">sync</span> /backup/dbback/ s3://db.back/db_back
-
-<span class="c"># Windows</span>
- <span class="o">&gt;</span> aws s3 <span class="nb">sync </span>D:<span class="se">\D</span>BBack s3://db.back/
-</code></pre></div></div>
-
-<h2 id="오류-상황">오류 상황</h2>
-<p>그런데 한동안 바빠서 서버에 신경을 쓰지 못했다가 오래간만에 들어갔더니 s3로 백업된 데이터가 하나도 없는 것이었습니다.</p>
-
-<p>무슨일인지 궁금해서 이리저리 찾아보다가 s3로 백업하는 명령어를 직접 입력해보았더니 아래와 같은 메시지가 떴습니다.</p>
-
-<div class="alert alert-danger" role="alert"><i class="fa fa-exclamation-circle"></i> <b>A client error (RequestTimeTooSkewed) occurred when calling the ListObjects operation:</b> The difference between the request time and the current time is too large.</div>
-
-<h2 id="오류-원인">오류 원인</h2>
-<p>그동안 s3를 이용하면서 오류가 한번도 없었기에 순간 살짝 당황했는데 오류 메시지를 자세히 살펴보니 해답이 있었습니다.</p>
-
-<p>우선 핵심 단어인 RequestTimeTooSkewed 를 잘 분석해보면 Request Time Too Skewed 로 나누어 볼 수 있습니다.
-요청 시간이 너무 어긋나 있다. 왜곡되었다. 이렇게 볼 수 있습니다.</p>
-
-<p>그리고, 그 아래에 좀 더 자세한 메시지가 있습니다.</p>
-
-<p><code class="language-plaintext highlighter-rouge">The difference between the request time and the current time is too large.</code></p>
-
-<p>즉, 요청한 시간(the request time)과 현재 시간(the current time)의 차이가 너무 크다라고 해석할 수 있겠습니다.</p>
-
-<div class="bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-2">결국 디비서버에서 aws s3로 요청한 시간과 현재시간(또는 aws s3의 시간) 사이에 차이가 커서 비정상적인 접근이라고 판단하는 것으로 보였습니다. 그래서 혹시나 해서 서버 시간을 살펴봤더니 실제 시간보다 15분 정도나 차이가 나는 것을 발견했습니다.</div>
-
-<h2 id="해결-방법">해결 방법</h2>
-<p>분명 서버에서 시간을 자동으로 동기화 하도록 설정해두었는데 무슨 일인지 차이가 생겼더군요. 그래서 <strong>서버 시간을 수동으로 동기화</strong>하고 나서 명령을 실행하니 문제가 없이 잘 작동했습니다.</p>
-
-<p>이래서 서버 관리는 아무리 바빠도 주기적으로 해야 한다는 것을 다시 한번 뼈저리게 느꼈습니다.</p>
-
-<h2 id="참고-문서">참고 문서</h2>
-<p>실제로 aws s3 오류 메시지 도움말에 보면 잘 나옵니다.</p>
-
-<p><a href="https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/API/ErrorResponses.html" target="_blank" style="word-break:break-all;">https://docs.aws.amazon.com/ko_kr/AmazonS3/latest/API/ErrorResponses.html</a></p>
-
-<p>해당 항목을 살펴보니 이렇게 서버 시간과 너무 차이가 커서 오류로 판단하는 경우라고 확인되었습니다.</p>
-
-<div class="bs-callout-v2 bs-callout-v2-danger bs-callout-v2-level-3">RequestTimeTooSkewed : The difference between the request time and the server’s time is too large. : 403 Forbidden : Client</div>
-
-
-
-    <div class="tags">
+     <div class="tags">
         
         <b>Tags: </b>
         
         
         
-        <a href="/tag/tag-aws.html" class="btn btn-default navbar-btn cursorNorm" role="button">aws</a>
-        
-        
-        
-        <a href="/tag/tag-s3.html" class="btn btn-default navbar-btn cursorNorm" role="button">s3</a>
+        <a href="/tag/tag-japan.html" class="btn btn-default navbar-btn cursorNorm" role="button">japan</a>
         
         
         
     </div>
+
+
+
+</article>
 
 
 
@@ -682,9 +614,16 @@ $("#toc_onoff").click(function() {
 
 
 
-
-
+<div class="mb-30">&nbsp;</div>
+<div class="home">
+    <div class="col-md-12">
+        <ul class="list-style list-unstyled arrow-list arrow-list-three pl-0">
+         
+                     
+        </ul>
+    </div>
 </div>
+<div class="mb-10">&nbsp;</div>
 
 <hr class="shaded"/>
 
@@ -696,7 +635,7 @@ $("#toc_onoff").click(function() {
                & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
                & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
                
-<span>Page last updated:</span> 2022-02-22<br/> Site last generated: 2022-09-10 <br />
+<span>Page last updated:</span> 2022-09-08<br/> Site last generated: 2022-09-10 <br />
 
                 </div>
             </div>
