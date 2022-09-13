@@ -1,0 +1,825 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Jekyll의 인기 테마 중에서 비지니스, 홈페이지용으로 사용되는 Helium 테마를 간단히 소개해보겠습니다.">
+<meta name="keywords" content="markdownjekyll,  programming, markdown, 지킬, 루비">
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Jekyll Helium 테마 소개" />
+<meta property="og:locale" content="ko_KR" />
+<meta property="og:description" content="Jekyll의 인기 테마 중에서 비지니스, 홈페이지용으로 사용되는 Helium 테마를 간단히 소개해보겠습니다." />
+<link rel="canonical" href="https://cloudlog.kr/programming/jekyll/jekyll-helium-theme-introduce.html" />
+<meta property="og:url" content="https://cloudlog.kr/programming/jekyll/jekyll-helium-theme-introduce.html" />
+<meta property="og:site_name" content="Simple Life Cloud Log" />
+<meta property="og:image" content="https://cloudlog.kr/images/programming/jekyll/jekyll-helium-theme-setting-01.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-09-11T00:00:00+09:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://cloudlog.kr/images/programming/jekyll/jekyll-helium-theme-setting-01.png" />
+<meta property="twitter:title" content="Jekyll Helium 테마 소개" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Jekyll의 인기 테마 중에서 비지니스, 홈페이지용으로 사용되는 Helium 테마를 간단히 소개해보겠습니다.","headline":"Jekyll Helium 테마 소개","image":"https://cloudlog.kr/images/programming/jekyll/jekyll-helium-theme-setting-01.png","url":"https://cloudlog.kr/programming/jekyll/jekyll-helium-theme-introduce.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+<title>Jekyll Helium 테마 소개 | Cloud Log</title>
+<link rel="stylesheet" href="/css/syntax.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+<link href="/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="/fontawesome/css/v4.7.css" rel="stylesheet">
+<link rel="stylesheet" href="/css/modern-business.css">
+<!-- Latest compiled and minified CSS -->
+<!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"-->
+<!--link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"-->
+<link rel="stylesheet" href="/css/customstyles.css">
+<link rel="stylesheet" href="/css/boxshadowproperties.css">
+<!-- most color styles are extracted out to here -->
+<link rel="stylesheet" href="/css/theme-blue.css">
+
+
+
+<script src="/js/jquery.341.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script-->
+
+<script src="/js/jquery.cookie.141.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script-->
+<script src="/js/jquery.navgoco.min.js"></script>
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="/js/bootstrap.341.min.js"></script>
+<!--script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script-->
+<!--script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script-->
+<!-- Anchor.js -->
+<script src="/js/anchor.420.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js"></script-->
+<script src="/js/toc.js"></script>
+<script src="/js/customscripts.js"></script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6199737337936118" crossorigin="anonymous"></script>
+
+<link rel="shortcut icon" href="/images/favicon.ico">
+
+
+<link rel="alternate" type="application/rss+xml" title="Simple Life Cloud Log" href="https://cloudlog.kr/feed.xml">
+
+
+
+    <script>
+        $(document).ready(function() {
+            // Initialize navgoco with default options
+            $("#mysidebar").navgoco({
+                caretHtml: '',
+                accordion: true,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
+
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', true);
+            });
+
+        });
+
+    </script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+        });
+    </script>
+    
+
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container topnavlinks">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="fa fa-home fa-lg navbar-brand" href="/">&nbsp;<span class="projectTitle"> Simple Life Cloud Log</span></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <!-- toggle sidebar button -->
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on fa-lg"></i> 카테고리</a></li>
+                <!-- entries without drop-downs appear here -->
+
+
+
+
+                
+                
+                
+                <li><a href="/programming/php/php-sql-injection-function.html">프로그래밍</a></li>
+                
+                
+                
+                <li><a href="/category/game/mobile.html">게임</a></li>
+                
+                
+                
+                <li><a href="/category/life/animation.html">애니메이션</a></li>
+                
+                
+                
+                <li><a href="/category/life/drama.html">드라마</a></li>
+                
+                
+                
+                <li><a href="/category/life/bookstore.html">책방</a></li>
+                
+                
+                
+                <li><a href="/category/life/japanese.html">일본어</a></li>
+                
+                
+                
+                <!-- entries with drop-downs appear here -->
+                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+                
+                
+                                
+                <!--comment out this block if you want to hide search-->
+                <li>
+                    <!--start search-->
+                    <div id="search-demo-container">
+                        <input type="text" id="search-input" placeholder="search...">
+                        <ul id="results-container"></ul>
+                    </div>
+                    <script src="/js/jekyll-search.js"></script>
+                    <script>
+                            SimpleJekyllSearch.init({
+                                searchInput: document.getElementById('search-input'),
+                                resultsContainer: document.getElementById('results-container'),
+                                dataSource: '/search.json',
+                                searchResultTemplate: '<li><a href="{url}" title="Jekyll Helium 테마 소개">{title}</a></li>',
+                    noResultsText: 'No results found.',
+                            limit: 10,
+                            fuzzy: true,
+                    })
+                    </script>
+                    <!--end search-->
+                </li>
+            </ul>
+        </div>
+        </div>
+        <!-- /.container -->
+</nav>
+
+
+
+<!-- Page Content -->
+<div class="container">
+  <div id="main">
+    <!-- Content Row -->
+    <div class="row">
+        
+        
+            <!-- Sidebar Column -->
+            <div class="col-md-3" id="tg-sb-sidebar">
+                
+
+<ul id="mysidebar" class="nav">
+  <li class="sidebarTitle">Programming 1.0</li>
+  
+  
+  
+  <li>
+      <a title="PHP" href="#">PHP</a>
+      <ul>
+          
+          
+          
+          <li><a title="PHP SQL Injection 방지 코드" href="/programming/php/php-sql-injection-function.html">PHP SQL Injection 방지 코드</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PHP 자주 쓰는 함수 모음" href="/programming/php/php-useful-function-list.html">PHP 자주 쓰는 함수 모음</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="윤년 계산 하는 방법" href="/programming/php/php-leap-year-with-asp.html">윤년 계산 하는 방법</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="배열검색 array_search, array_column" href="/programming/php/php-array-search-column.html">배열검색 array_search, array_column</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PHPExcel 최신판 PhpSpreadsheet" href="/programming/php/php-phpspreadsheet-introduce.html">PHPExcel 최신판 PhpSpreadsheet</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 행 높이 설정하기" href="/programming/php/php-phpspreadsheet-row-height.html">PhpSpreadsheet 행 높이 설정하기</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 셀 서식 문자 지정" href="/programming/php/php-phpspreadsheet-cell-datatype-string.html">PhpSpreadsheet 셀 서식 문자 지정</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet ERR-INVALID-RESPONSE 오류" href="/programming/php/php-phpspreadsheet-err-invalid-response.html">PhpSpreadsheet ERR-INVALID-RESPONSE 오류</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="API" href="#">API</a>
+      <ul>
+          
+          
+          
+          <li><a title="UniPass 오픈API" href="/programming/api/api-unipass-openapi-introduce.html">UniPass 오픈API</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="AWS" href="#">AWS</a>
+      <ul>
+          
+          
+          
+          <li><a title="AWS bitnami LAMP 설정하기" href="/programming/aws/aws-bitnami-lamp-setting-guide.html">AWS bitnami LAMP 설정하기</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="S3 cli RequestTimeTooSkewed 에러" href="/programming/aws/aws-s3-cli-time-different-error-troubleshooting.html">S3 cli RequestTimeTooSkewed 에러</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="Ncloud" href="#">Ncloud</a>
+      <ul>
+          
+          
+          
+          <li><a title="Ncloud 자격증 NCA 대비 핵심 요약" href="/programming/ncloud/nca-short-answer-question.html">Ncloud 자격증 NCA 대비 핵심 요약</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="NCA 자격증 합격 후기와 출제 경향" href="/programming/ncloud/ncloud-nca-certification-pass-review.html">NCA 자격증 합격 후기와 출제 경향</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="Jekyll" href="#">Jekyll</a>
+      <ul>
+          
+          
+          
+          <li><a title="jekyll 4.x jekyll-extract-element 오류" href="/programming/jekyll/jekyll-extract-element-nokogiri-error.html">jekyll 4.x jekyll-extract-element 오류</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Jekyll robots.txt 템플릿 수정, Ruby 3" href="/programming/jekyll/jekyll-sitemap-gem-robots-txt-edit.html">Jekyll robots.txt 템플릿 수정, Ruby 3</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Jekyll sitemap.xml 템플릿 수정, Ruby 3" href="/programming/jekyll/jekyll-sitemap-gem-xml-edit.html">Jekyll sitemap.xml 템플릿 수정, Ruby 3</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="사이트 내부 문서 링크하기 | Jekyll" href="/programming/jekyll/jekyll-include-internal-post-page.html">사이트 내부 문서 링크하기 | Jekyll</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Jekyll Liquid 언어 사용법" href="/programming/jekyll/jekyll-liquid-language.html">Jekyll Liquid 언어 사용법</a></li>
+          
+          
+          
+          
+          
+          
+          <li class="active"><a title="Helium 테마 소개" href="/programming/jekyll/jekyll-helium-theme-introduce.html">Helium 테마 소개</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="OS" href="#">OS</a>
+      <ul>
+          
+          
+          
+          <li><a title="맥OS 카탈리나(Catalina) 기타볼륨" href="/programming/os/os-macos-catalina-other-volume.html">맥OS 카탈리나(Catalina) 기타볼륨</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="윈도우 유용한 유틸, 설정, 명령어 모음" href="/programming/os/windows-command-util-config.html">윈도우 유용한 유틸, 설정, 명령어 모음</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+
+  
+
+  
+  
+  
+  <li>
+      <a title="Tag archives" href="#">Tag archives</a>
+      <ul>
+          
+          
+          
+          <li><a title="Tag archives overview" href="/tag/tag-archives_overview.html">Tag archives overview</a></li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Game Tag pages" href="#">Game Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Ragnarok pages" href="/tag/tag-ragnarok.html">Ragnarok pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="LostArk pages" href="/tag/tag-lostark.html">LostArk pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Alien pages" href="/tag/tag-alien.html">Alien pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Diablo pages" href="/tag/tag-diablo.html">Diablo pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Life Tag pages" href="#">Life Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Drama pages" href="/tag/tag-drama.html">Drama pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Ramantic pages" href="/tag/tag-romantic.html">Ramantic pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Programming Tag pages" href="#">Programming Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="PHP pages" href="/tag/tag-php.html">PHP pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="AWS pages" href="/tag/tag-aws.html">AWS pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Linux pages" href="/tag/tag-linux.html">Linux pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="API pages" href="/tag/tag-api.html">API pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+
+
+  
+    <!-- if you aren't using the accordion, uncomment this block:
+       <p class="external">
+           <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+       </p>
+    -->
+</ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+
+
+            </div>
+            
+        
+
+        <!-- Content Column -->
+        <div class="col-md-9" id="tg-sb-content">
+            <div class="post-header-no">
+   <h1 class="post-title-main-no">Jekyll Helium 테마 소개</h1>
+</div>
+
+
+
+<div class="post-content">
+
+   
+    <div class="summary">Jekyll의 인기 테마 중에서 비지니스, 홈페이지용으로 사용되는 Helium 테마를 간단히 소개해보겠습니다.</div>
+   
+
+    
+    
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+});
+
+$("#toc_onoff").click(function() {  
+        $("#toc").toggle();
+        $("#tg-toc-icon").toggleClass('fa-toggle-on');
+        $("#tg-toc-icon").toggleClass('fa-toggle-off');
+
+});
+
+});
+</script>
+
+<p><span class="label label-warning" style="cursor:pointer" id="toc_onoff"><i id="tg-toc-icon" class="fas fa-toggle-on"></i> ToC on/off</span></p>
+<div id="toc"></div>
+
+
+
+    
+
+
+    
+
+   <h2 id="개요">개요</h2>
+<p>Jekyll에서 사용하는 여러 종류의 테마 중에서 비지니스용 (회사 홈페이지, 랜딩 페이지) 테마에서 인기 순위 상위권을 차지하는 Helium 테마를 소개해보려고 합니다.</p>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-helium-theme-setting-01.png" alt="Jekyll의 인기 테마 중에서 비지니스, 홈페이지용으로 사용되는 Helium 테마를 간단히 소개해보겠습니다" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="구성-요소">구성 요소</h2>
+<p>Helium 테마의 특징적인 구성 요소들을 정리해보면 다음과 같습니다.</p>
+
+<p>저는 이 중에서 100개 이상의 다양한 UI 블럭이 Helium 테마를 선택해야 하는 가장 큰 장점이 아닐까 생각합니다.</p>
+
+<h3 id="메인-요소">메인 요소</h3>
+<ul>
+  <li>Bootstrap 4</li>
+  <li>Font Awesome</li>
+  <li>100개 이상의 다양한 UI 블럭</li>
+  <li>반응형 디자인</li>
+</ul>
+
+<h3 id="jekyll-특화-요소">Jekyll 특화 요소</h3>
+<ul>
+  <li>Jekyll 3.x 이상, Github 지원</li>
+  <li>SEO 최적화</li>
+  <li>Google Analytics 지원</li>
+  <li>Google AdSense 지원</li>
+  <li>Disqus comments 지원</li>
+</ul>
+
+<h3 id="기타-요소">기타 요소</h3>
+<ul>
+  <li>블로그 페이지 샘플</li>
+  <li>랜딩 페이지 샘플</li>
+  <li>테그 페이지</li>
+  <li>슬라이딩 배너 지원</li>
+  <li>Emoji 지원</li>
+</ul>
+
+<h2 id="메인-화면-예시">메인 화면 예시</h2>
+
+<h3 id="슬라이딩-배너">슬라이딩 배너</h3>
+<p>홈페이지 상단에 노출되는 슬라이딩 배너를 이렇게 표시할 수 있습니다.</p>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-helium-theme-setting-01.png" alt="Jekyll의 인기 테마 중에서 비지니스, 홈페이지용으로 사용되는 Helium 테마를 간단히 소개해보겠습니다" style="width: 845px; max-width: 100%; " /></figure>
+
+<h3 id="사업-영역">사업 영역</h3>
+<p>아래와 같은 형식으로 사업 영역을 소개할 수 있고, 고정 배너도 표시할 수 있습니다.</p>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-helium-theme-setting-02.png" alt="Jekyll의 인기 테마 중에서 비지니스, 홈페이지용으로 사용되는 Helium 테마를 간단히 소개해보겠습니다" style="width: 845px; max-width: 100%; " /></figure>
+
+<h3 id="서비스-지표">서비스 지표</h3>
+<p>서비스 소개나 서비스 지표를 아래와 같은 형식으로 표시할 수 있습니다.</p>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-helium-theme-setting-03.png" alt="Jekyll의 인기 테마 중에서 비지니스, 홈페이지용으로 사용되는 Helium 테마를 간단히 소개해보겠습니다" style="width: 845px; max-width: 100%; " /></figure>
+
+<h3 id="직원-소개와-푸터">직원 소개와 푸터</h3>
+<p>회사 직원이나 프로젝트 멤버를 소개하는 영역과 푸터 표시는 아래와 같이 할 수 있습니다.</p>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-helium-theme-setting-04.png" alt="Jekyll의 인기 테마 중에서 비지니스, 홈페이지용으로 사용되는 Helium 테마를 간단히 소개해보겠습니다" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="ui-블럭">UI 블럭</h2>
+<p>위에서도 설명 했듯이 Helium 테마는 100개 이상의 UI 블럭을 제공하고 있는데 종류별로 살펴보면 아래와 같습니다.</p>
+
+<h3 id="ui-블럭-1">UI 블럭 1</h3>
+<ul>
+  <li>Header</li>
+  <li>Sliders</li>
+  <li>Navigations</li>
+  <li>Typography</li>
+  <li>Buttons</li>
+  <li>Labels / Alerts</li>
+</ul>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-helium-theme-setting-05.png" alt="Jekyll의 인기 테마 중에서 비지니스, 홈페이지용으로 사용되는 Helium 테마를 간단히 소개해보겠습니다" style="width: 845px; max-width: 100%; " /></figure>
+
+<h3 id="ui-블럭-2">UI 블럭 2</h3>
+<ul>
+  <li>Progress Bars</li>
+  <li>Tabs / Accordionss</li>
+  <li>Tables</li>
+  <li>Cards</li>
+  <li>Team</li>
+  <li>List</li>
+</ul>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-helium-theme-setting-06.png" alt="Jekyll의 인기 테마 중에서 비지니스, 홈페이지용으로 사용되는 Helium 테마를 간단히 소개해보겠습니다" style="width: 845px; max-width: 100%; " /></figure>
+
+<h3 id="ui-블럭-3">UI 블럭 3</h3>
+<ul>
+  <li>Pricing</li>
+  <li>About Us</li>
+  <li>Services</li>
+  <li>Features</li>
+  <li>Portfolio</li>
+  <li>Blog</li>
+</ul>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-helium-theme-setting-07.png" alt="Jekyll의 인기 테마 중에서 비지니스, 홈페이지용으로 사용되는 Helium 테마를 간단히 소개해보겠습니다" style="width: 845px; max-width: 100%; " /></figure>
+
+<h3 id="ui-블럭-4">UI 블럭 4</h3>
+<ul>
+  <li>Footers</li>
+  <li>Maps</li>
+  <li>Contact</li>
+</ul>
+
+<figure><img class="docimage" src="/images/programming/jekyll/jekyll-helium-theme-setting-08.png" alt="Jekyll의 인기 테마 중에서 비지니스, 홈페이지용으로 사용되는 Helium 테마를 간단히 소개해보겠습니다" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="다운로드">다운로드</h2>
+<p>Helium 테마는 아래 경로에서 다운로드 받을 수 있습니다.</p>
+
+<ul>
+  <li><a href="https://github.com/heliumjk/heliumjk.github.io" target="_blank" style="work-break:break-all">https://github.com/heliumjk/heliumjk.github.io</a></li>
+</ul>
+
+<h2 id="미리보기">미리보기</h2>
+<p>Helium 테마 미리보기는 아래 경로에서 확인할 수 있습니다.</p>
+
+<ul>
+  <li><a href="https://heliumjk.github.io" target="_blank" style="work-break:break-all">https://heliumjk.github.io</a></li>
+</ul>
+
+
+    <div class="tags">
+        
+        <b>Tags: </b>
+        
+        
+        
+        <a href="/tag/tag-markdown.html" class="btn btn-default navbar-btn cursorNorm" role="button">markdown</a>
+        
+        
+        
+        <a href="/tag/tag-jekyll.html" class="btn btn-default navbar-btn cursorNorm" role="button">jekyll</a>
+        
+        
+        
+    </div>
+
+
+
+<!-- 본문 하단 - cloudlog -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6199737337936118"
+     data-ad-slot="7488484889"
+     data-ad-format="auto"
+     data-full-width-responsive="true">
+</ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<hr class="shaded"/>
+
+<footer>
+            <div class="row">
+                <div class="col-lg-12 footer">
+               &copy;2022 Copyright 2022 @CLOUDLOG.KR. All rights reserved. <br />
+               Built with <a href="https://jekyllrb-ko.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Jekyll</a> 
+               & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
+               & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
+               
+<span>Page last updated:</span> 2022-09-11<br/> Site last generated: 2022-09-13 <br />
+
+                </div>
+            </div>
+</footer>
+
+
+
+
+
+
+        </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+</div>
+<!-- /#main -->
+</div>
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JNK63BTKXN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JNK63BTKXN');
+</script>
+
+
+
+
+
+<!-- Naver Analytics -->
+<script src="//wcs.naver.net/wcslog.js"></script>
+<script>
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "1352844e1f81670";
+if(window.wcs) {
+  wcs_do();
+}
+</script>
+
+
+</body>
+</html>
+
+
