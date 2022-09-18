@@ -60,6 +60,8 @@
 
 
 
+
+
 {
 "title": "jekyll 4.x jekyll-extract-element, nokogiri 버전 오류 해결 방법",
 "tags": "markdownjekyll",
@@ -337,6 +339,36 @@
 
 
 {
+"title": "히트2(Hit 2) 새벽부터 서버 포화, 서버 접속 대기 현상은 왜? 작업장 때문?",
+"tags": "mobile",
+"keywords": "모바일게임, Mobile Game, Monster",
+"url": "/game/hit2/game-server-connection-waiting-time.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "히트2(Hit 2) 떠돌이 고블린 주술사, 발타르 만드라고드라, 배회하는 모험가 망령 위치 정보",
+"tags": "mobile",
+"keywords": "모바일게임, Mobile Game, Monster",
+"url": "/game/hit2/hit2-dungeon-monster-position-info-2nd.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "히트2 (Hit 2) 계시의 탑 여명회 정예수사 위치 정보",
+"tags": "mobile",
+"keywords": "모바일게임, Mobile Game, Monster",
+"url": "/game/hit2/hit2-dungeon-monster-position-info.html",
+"summary": ""
+}
+,
+
+
+{
 "title": "히트2(Hit 2) 떠돌이 고블린 주술사, 발타르 만드라고드라, 배회하는 모험가 망령 위치 정보",
 "tags": "mobile",
 "keywords": "모바일게임, Mobile Game, Monster",
@@ -351,6 +383,16 @@
 "tags": "japan",
 "keywords": "japanese, vocabulary",
 "url": "/life/language/japanese/vocabulary-zureru-yugamu-nezireru-soreru.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "히트2 (Hit 2) 아이템 분해하는 방법",
+"tags": "mobile",
+"keywords": "모바일게임, Mobile Game, Item Dismantle",
+"url": "/game/hit2/hit2-item-dismantle-howto.html",
 "summary": ""
 }
 ,

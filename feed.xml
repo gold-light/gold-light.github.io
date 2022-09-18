@@ -5,9 +5,180 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 13 Sep 2022 21:40:35 +0900</pubDate>
-        <lastBuildDate>Tue, 13 Sep 2022 21:40:35 +0900</lastBuildDate>
+        <pubDate>Mon, 19 Sep 2022 00:05:44 +0900</pubDate>
+        <lastBuildDate>Mon, 19 Sep 2022 00:05:44 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>히트2(Hit 2) 새벽부터 서버 포화, 서버 접속 대기 현상은 왜? 작업장 때문?</title>
+            <description>&lt;h2 id=&quot;서버-포화&quot;&gt;서버 포화&lt;/h2&gt;
+&lt;p&gt;인기 많은 게임은 보통 서버가 포화상태가 되고, 접속 대기열이 생기는 것이 일반적이기는 합니다.&lt;br /&gt;
+하지만, 대부분 유저 접속이 많은 시간대에 한정되고, 새벽이나 아침에는 서버 접속이 원할한게 일반적인데 넥슨의 히트2는 그렇지 않아서 상당히 의문이 듭니다.&lt;/p&gt;
+
+&lt;p&gt;평일은 학생들 학원이 끝나고, 직장인들 퇴근 시간 이후에 접속 대기가 생기고, 주말에는 점심즈음부터 접속이 어려워지는데, 히트2는 일요일 새벽부터 접속 대기가 생기고 있습니다.&lt;/p&gt;
+
+&lt;p&gt;아래와 같이 일요일 오전 8시인데도 대부분의 서버가 포화 상태로 나타납니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/hit2/nexon-hit2-game-server-connection-waiting-time-01.jpg&quot; alt=&quot;히트2(Hit 2)는 작업장을 안 잡는가? 못 잡는가? - 서버 접속 대기&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/hit2/nexon-hit2-game-server-connection-waiting-time-02.jpg&quot; alt=&quot;히트2(Hit 2)는 작업장을 안 잡는가? 못 잡는가? - 서버 접속 대기&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;접속-대기&quot;&gt;접속 대기&lt;/h3&gt;
+&lt;p&gt;이처럼 아침 일찍부터 접속하지 못하는 상황이 발생하고 있습니다.&lt;/p&gt;
+
+&lt;p&gt;대체 이런 이유가 무엇일까 생각해봤는데, 아무래도 작업장 캐릭터 때문이 아닐까하는 추측이 듭니다.&lt;/p&gt;
+
+&lt;p&gt;히트2가 자동사냥과 방치모드가 있기 때문에 다른 게임들보다 더 심한게 아닐까 싶은데, 실제로 게임에 접속해보면 여러 캐릭터가 한곳에 모여서 자동사냥하는 모습을 쉽게 볼 수 있습니다.&lt;/p&gt;
+
+&lt;p&gt;그렇다면 넥슨에서는 작업장을 못 잡는 걸까요? 아니면 안 잡는 걸까요?  만약 작업장 캐릭터가 결제까지 하면서 게임을 하고 있다면 잡기 쉽지는 않을 것 같기도 합니다.&lt;/p&gt;
+
+&lt;p&gt;뭐 어쨌거나 서버에 접속은 하게 해주셔야죠.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/hit2/nexon-hit2-game-server-connection-waiting-time-03.jpg&quot; alt=&quot;히트2(Hit 2)는 작업장을 안 잡는가? 못 잡는가? - 서버 접속 대기&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;히트2-공식-채널&quot;&gt;히트2 공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;히트2 공식 사이트 : &lt;a href=&quot;https://hit2.nexon.com&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://hit2.nexon.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;히트2 카카오톡 공식 채널 : &lt;a href=&quot;http://pf.kakao.com/_vxfxkeb&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://pf.kakao.com/_vxfxkeb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Sun, 18 Sep 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/hit2/game-server-connection-waiting-time.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/hit2/game-server-connection-waiting-time.html</guid>
+            
+            <category>mobile</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>히트2(Hit 2) 떠돌이 고블린 주술사, 발타르 만드라고드라, 배회하는 모험가 망령 위치 정보</title>
+            <description>&lt;h2 id=&quot;배회하는-모험가-망령-배회하는-탐험가-망령-위치&quot;&gt;배회하는 모험가 망령, 배회하는 탐험가 망령 위치&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;위치: [테라가드] - [&lt;strong&gt;인테라 사막&lt;/strong&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;배회하는-모험가-망령&quot;&gt;배회하는 모험가 망령&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;획득 가능 아이템: 숙련가의 보주, 수련생의 보주&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;배회하는-탐험가-망령&quot;&gt;배회하는 탐험가 망령&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;획득 가능 아이템: 사파이어 반지, 오래된 반지&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-07.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 떠돌이 고블린 주술사, 발타르 만드라고드라, 배회하는 모험가 망령 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;떠돌이-고블린-주술사-떠돌이-고블린-정예-주술사-위치&quot;&gt;떠돌이 고블린 주술사, 떠돌이 고블린 정예 주술사 위치&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;위치: [테라가드] - [&lt;strong&gt;무너진 신전 터&lt;/strong&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;떠돌이-고블린-주술사&quot;&gt;떠돌이 고블린 주술사&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;획득 가능 아이템: 아마란스 스태프, 오닉스 글러브, 나무 스태프&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;떠돌이-고블린-정예-주술사&quot;&gt;떠돌이 고블린 정예 주술사&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;획득 가능 아이템: 베일 로브, 재스퍼 벨트, 나무 스태프&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-09.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 떠돌이 고블린 주술사, 발타르 만드라고드라, 배회하는 모험가 망령 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;발타르-만드라고드라-위치&quot;&gt;발타르 만드라고드라 위치&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;위치: [테라가드] - [&lt;strong&gt;무너진 신전 터&lt;/strong&gt;]&lt;/li&gt;
+  &lt;li&gt;획득 가능 아이템: 숙련가의 보주, 낡은 보주&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-08.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 떠돌이 고블린 주술사, 발타르 만드라고드라, 배회하는 모험가 망령 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;히트2-공식-채널&quot;&gt;히트2 공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;히트2 공식 사이트 : &lt;a href=&quot;https://hit2.nexon.com&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://hit2.nexon.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;히트2 카카오톡 공식 채널 : &lt;a href=&quot;http://pf.kakao.com/_vxfxkeb&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://pf.kakao.com/_vxfxkeb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Sun, 11 Sep 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/hit2/hit2-dungeon-monster-position-info-2nd.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/hit2/hit2-dungeon-monster-position-info-2nd.html</guid>
+            
+            <category>mobile</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>히트2 (Hit 2) 계시의 탑 여명회 정예수사 위치 정보</title>
+            <description>&lt;h2 id=&quot;여명회-정예수사-헤매이는-여명회-정예수사-위치&quot;&gt;여명회 정예수사, 헤매이는 여명회 정예수사 위치&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;테라가드 영주의 지령서&lt;/strong&gt;] 퀘스트를 진행하다보면 [&lt;strong&gt;계시의 탑&lt;/strong&gt;] 던전 1층에서 [&lt;strong&gt;여명회 정예수사&lt;/strong&gt;]를 처치하라 또는 [&lt;strong&gt;계시의 탑&lt;/strong&gt;] 던전 2층에서 [&lt;strong&gt;헤매이는 여명회 정예수사&lt;/strong&gt;]를 처치하라는 퀘스트가 나오는데 다른 몬스터보다 [&lt;strong&gt;여명회 정예수사&lt;/strong&gt;], [&lt;strong&gt;헤매이는 여명회 정예수사&lt;/strong&gt;]의 위치를 찾기가 쉽지 않습니다.  1층과 2층을 돌아다니며 찾아봤더니 여러 군데가 있었는데 몇 곳만 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;1층-여명회-정예수사&quot;&gt;1층 여명회 정예수사&lt;/h2&gt;
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-2&quot;&gt;우선, &lt;strong&gt;1층 한가운데&lt;/strong&gt;에 있습니다.&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-01.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;[&lt;strong&gt;여명회 정예수사&lt;/strong&gt;] 몬스터는 이렇게 생겼습니다.&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-02.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-2&quot;&gt;다음으로, &lt;strong&gt;5시 정도의 위치&lt;/strong&gt;에도 있습니다.&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-03.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;2층-헤매이는-여명회-정예수사&quot;&gt;2층 헤매이는 여명회 정예수사&lt;/h2&gt;
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-2&quot;&gt;&lt;strong&gt;헤매이는 여명회 정예수사는 2층 한가운데&lt;/strong&gt;에 있습니다.&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-05.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;[&lt;strong&gt;헤매이는 여명회 정예수사&lt;/strong&gt;] 몬스터는 이렇게 생겼습니다.&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-06.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;계시의-탑-정보&quot;&gt;계시의 탑 정보&lt;/h2&gt;
+&lt;p&gt;과거 세라핌들이 여신의 계시를 받았던 성소&lt;/p&gt;
+
+&lt;p&gt;탑을 관리하던 세라핌들이 사라지고 공허의 힘이 그 빈자리를 채웠습니다.&lt;br /&gt;
+위험이 도사리고 있다는 걸 알면서도 지상에서 여신의 힘이 가장 강하게 깃들었던 장소이니만큼, 모두가 사라진 여신이 남긴 힘을 쫓아 계시의 탑을 찾고 있습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;초기화: 매주 수요일 오전 5시&lt;/li&gt;
+  &lt;li&gt;기본시간: 7시간&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-04.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;히트2-공식-채널&quot;&gt;히트2 공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;히트2 공식 사이트 : &lt;a href=&quot;https://hit2.nexon.com&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://hit2.nexon.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;히트2 카카오톡 공식 채널 : &lt;a href=&quot;http://pf.kakao.com/_vxfxkeb&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://pf.kakao.com/_vxfxkeb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Fri, 09 Sep 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/hit2/hit2-dungeon-monster-position-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/hit2/hit2-dungeon-monster-position-info.html</guid>
+            
+            <category>mobile</category>
+            
+            
+        </item>
         
         <item>
             <title>히트2(Hit 2) 떠돌이 고블린 주술사, 발타르 만드라고드라, 배회하는 모험가 망령 위치 정보</title>
@@ -155,6 +326,78 @@
             <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/vocabulary-zureru-yugamu-nezireru-soreru.html</guid>
             
             <category>japan</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>히트2 (Hit 2) 아이템 분해하는 방법</title>
+            <description>&lt;h2 id=&quot;아이템-분해-기능&quot;&gt;아이템 분해 기능&lt;/h2&gt;
+&lt;p&gt;넥슨이 얼마 전에 공개한 모바일 RPG게임 히트2를 플레이 하다보니 아이템 분해 기능을 찾지 못해 살짝 고생했습니다.&lt;/p&gt;
+
+&lt;p&gt;보통 아이템을 분해하려면 해당 아이템을 선택하고 분해 버튼이나 메뉴를 선택하면 분해를 할 수 있게 되는데, 히트2에는 그런 UI의 편의성이 전혀 없습니다.&lt;/p&gt;
+
+&lt;p&gt;겨우겨우 아이템 분해하는 방법을 찾았는데, 혹시나 저 처럼 고생하시는 분이 있을까봐 정리해보 았습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;분해-방법&quot;&gt;분해 방법&lt;/h2&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;일단 가방을 선택하고 아이템 리스트 아래쪽에 보시면 아래 스샷처럼 아이템 분해 아이콘이 있습니다.&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;사실 잘 보이지도 않고, 마우스를 올려보기 전까지는 아이템 분해 버튼인지 잘 확인도 안되는게 좀 안타깝습니다.&lt;/p&gt;
+
+&lt;p&gt;아무튼 [&lt;strong&gt;아이템 분해&lt;/strong&gt;] 버튼을 클릭하면 분해할 수 있는 아이템 리스트가 나타나는데 분해할 아이템을 전부 클릭해서 선택하고 [&lt;strong&gt;분해&lt;/strong&gt;] 버튼을 클릭하면 됩니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-item-dismantle-01.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 아이템 분해하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;자동-선택-설정&quot;&gt;자동 선택 설정&lt;/h2&gt;
+&lt;p&gt;아이템 분해할 때는 미리 지정한 아이템 종류는 자동으로 선택되게 할 수 있는데, 아래와 같이 [&lt;strong&gt;자동 설정&lt;/strong&gt;]에서 미리 지정할 수 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-item-dismantle-02.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 아이템 분해하는 방법&quot; style=&quot;width: 607px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;게임-소개&quot;&gt;게임 소개&lt;/h2&gt;
+&lt;p&gt;히트2에서 공개한 게임소개를 가져와봤는데 한번 살펴보겠습니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-당신의-부름에-응답한-히트의-영웅들&quot;&gt;1. 당신의 부름에 응답한 히트의 영웅들&lt;/h3&gt;
+
+&lt;p&gt;하이엔드 비쥬얼로 재탄생한 키키와 새로운 동료들!&lt;br /&gt;
+다음 세대를 위해 준비된 광활한 오픈 월드에서 더욱 생동감 넘치는 비주얼로 돌아온 히트를 만나보세요.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-시그니쳐-스킬로-재탄생한-히트의-오리진-액션&quot;&gt;2. 시그니쳐 스킬로 재탄생한 히트의 오리진 액션&lt;/h3&gt;
+
+&lt;p&gt;각각의 매력이 뚜렷한 6종의 클래스가 펼치는 전투의 향연!&lt;br /&gt;
+광활한 필드 곳곳을 수놓는 화려한 스킬과 치열한 전투는 히트2에서도 계속됩니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-서버-오픈-시점부터-시작되는-치열한-공성전&quot;&gt;3. 서버 오픈 시점부터 시작되는 치열한 공성전&lt;/h3&gt;
+
+&lt;p&gt;누구나 참여할 수 있고, 언제든 시작되는 명예로운 전투!&lt;br /&gt;
+모험가님의 협동과 경쟁에 따라 특별한 이벤트와 함께 왕좌의 주인을 결정할 공성전이 바로 시작됩니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-전장을-뒤흔드는-조율자의-제단&quot;&gt;4. 전장을 뒤흔드는 조율자의 제단&lt;/h3&gt;
+
+&lt;p&gt;당신이 선택한 필드와 월드의 규칙!&lt;br /&gt;
+그 규칙 위에서 새롭게 쓰여지는 월드의 역사! 다채롭게 변화하는 전투 양상과 레이드를 경험해보세요.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-붉은-회오리가-불면-눈을-뜨는-에덴의-변이체&quot;&gt;5. 붉은 회오리가 불면 눈을 뜨는 에덴의 변이체&lt;/h3&gt;
+
+&lt;p&gt;시시각각 에르바덴을 위기에 빠뜨리는 미지의 공격!&lt;br /&gt;
+한 순간도 긴장을 놓을 수 없는 월드의 변화와 위협에 맞서 위기에 빠진 세계를 구원해주세요.&lt;/p&gt;
+
+&lt;h2 id=&quot;히트2-공식-채널&quot;&gt;히트2 공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;히트2 공식 사이트 : &lt;a href=&quot;https://hit2.nexon.com&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://hit2.nexon.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;히트2 카카오톡 공식 채널 : &lt;a href=&quot;http://pf.kakao.com/_vxfxkeb&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://pf.kakao.com/_vxfxkeb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Wed, 07 Sep 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/hit2/hit2-item-dismantle-howto.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/hit2/hit2-item-dismantle-howto.html</guid>
+            
+            <category>mobile</category>
             
             
         </item>
@@ -461,214 +704,6 @@
             <pubDate>Sat, 20 Aug 2022 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-why-become-big-mouse.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-why-become-big-mouse.html</guid>
-            
-            <category>drama</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[MBC 빅마우스] 이종석과 윤아가 빅마우스가 될 수 없는 이유</title>
-            <description>&lt;h2 id=&quot;이종석과-임윤아&quot;&gt;이종석과 임윤아&lt;/h2&gt;
-&lt;p&gt;MBC 금토 드라마 빅마우스에서 진짜 천재 사기꾼 빅마우스가 누구인지 갈 수록 관심이 많아지고 있습니다.&lt;/p&gt;
-
-&lt;p&gt;그 와중에 지난 번에 빅마우스로 예상되는 등장인물 TOP 5를 뽑아봤는데, 그때 마지막에 살짝 얘기했던 이종석(박창호 역)과 임윤아(고미호 역)에 대해서 살짝 정리해보려고 합니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;mbc-빅마우스-천재사기꾼-빅마우스-정체-예상&quot;&gt;[MBC 빅마우스] 천재사기꾼 빅마우스 정체 예상&lt;/h2&gt;
-
-&lt;section class=&quot;blog blog-block&quot;&gt;
-    &lt;div class=&quot;row&quot;&gt;
-    &lt;div class=&quot;col-sm-12 col-md-12&quot;&gt;  
-    
-            &lt;div class=&quot;blog-post-small&quot;&gt;
-            &lt;img src=&quot;/images/drama/korea/mbc-big-mouth-01.png&quot; /&gt;
-            &lt;div class=&quot;title&quot;&gt;&lt;i class=&quot; fa-solid fa-tv  fa-xl&quot;&gt;&lt;/i&gt; 
-            &lt;a href=&quot;/life/drama/korea/mbc-big-mouth-identity.html&quot;&gt;[MBC 빅마우스] 천재사기꾼 빅마우스의 정체를 예상해보겠습니다.&lt;/a&gt;&lt;/div&gt;
-            &lt;p&gt;빅마우스 MBC 금토 드라마 빅마우스는 승률 10%의 [빅마우스 (Big Mouth: 떠벌이)]로 놀림당하는 생계형 변호사가 우연히 맡게 된 살인 사건에 휘말려 하루아침에 희대의 천재 사기꾼 [빅마우스(Big Mouse)]가 되어 살아남기 위해, 가족을...&lt;/p&gt;
-            &lt;a href=&quot;/life/drama/korea/mbc-big-mouth-identity.html&quot; class=&quot;link-url&quot;&gt;&lt;span class=&quot;label label-warning&quot;&gt;Read More&lt;/span&gt;&lt;/a&gt;
-            &lt;/div&gt;  
-       
-    &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;mb-30&quot;&gt;&lt;/div&gt; 
-&lt;/section&gt;
-
-&lt;p&gt;분명, 이종석이나 임윤아가 빅마우스라면 엄청난 반전, 정말 재밌는 드라마가 될지도 모릅니다.  이런 캐릭터 설정은 영화나 넷플릭스 같은 OTT 채널에서는 매우 효과적일 거라 생각합니다.&lt;/p&gt;
-
-&lt;p&gt;하지만, &lt;strong&gt;[공중파에서 수 많은 사기 범죄, 그리고 폭행, 살인 등의 극악한 범죄를 저지르는 범죄자가 주인공인 드라마가 방송될 가능성은 거의 없다]&lt;/strong&gt;고 생각합니다. 
-물론 0%는 아닐겁니다.&lt;/p&gt;
-
-&lt;p&gt;세상은 많이 변했고, 그런 범죄자가 주인공으로 나온다고 해서 범죄미화에 넘어갈 시청자도 없겠지만, 그럼에도 OCN, tvN 등의 채널에서는 가능하더라도 KBS, MBC, SBS 등에서는 범죄자가 주인공인 드라마가 방송되기는 쉽지 않을 것으로 예상됩니다.&lt;/p&gt;
-
-&lt;p&gt;그렇기 때문에 이종석(박창호 역)과 임윤아(고미호 역)는 빅마우스가 아니다에 한표 던지겠습니다.&lt;/p&gt;
-
-&lt;p&gt;그렇지만, 이종석(박창호 역)과 임윤아(고미호 역) 같은 인물이 빅마우스가 되는 영화나 OTT 드라마가 제작되면 재밌을 것 같습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/mbc-big-mouth-identity-poster-01.jpg&quot; alt=&quot;[MBC 빅마우스] 이종석과 윤아가 절대 빅마우스가 될 수 없는 이유&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: MBC 드라마 빅마우스 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;몬테크리스토-백작&quot;&gt;몬테크리스토 백작&lt;/h2&gt;
-&lt;p&gt;지난 7화에서 박창호가 아래 스샷처럼 휴대폰을 몰래 숨겨 들여오는데 사용한 책이 있습니다.&lt;/p&gt;
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/mbc-big-mouth-monte-cristo-01.jpg&quot; alt=&quot;[MBC 빅마우스] 이종석과 윤아가 절대 빅마우스가 될 수 없는 이유 - 몬테크리스토 백작&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: MBC 드라마 빅마우스 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;p&gt;그 책을 찾아보니 몬테크리스토 백작이라는 책이었습니다.&lt;/p&gt;
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/mbc-big-mouth-monte-cristo-02.jpg&quot; alt=&quot;[MBC 빅마우스] 이종석과 윤아가 절대 빅마우스가 될 수 없는 이유 - 몬테크리스토 백작&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: 온라인서점 알라딘 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;줄거리&quot;&gt;줄거리&lt;/h3&gt;
-&lt;p&gt;소설 [몬테크리스토 백작]은 온라인서점 알라딘의 책소개를 살펴보면 다음과 같은 줄거리라고 합니다.&lt;/p&gt;
-
-&lt;p&gt;[주인공은 아름다운 처녀 메르세데스와 미래를 약속하고, 아담한 정원을 소유한 젊은 선원이었다. 파라옹 호를 타고 마르세유로 돌아오는 순간, 그는 억울한 누명을 쓰고 무기수가 되어 이프 성채의 가장 깊숙한 곳에 처박힌다. 마침내 어두운 지하 감옥에서 탈출, 몬테크리스토 섬의 보물을 손에 넣은 뒤에는 막강한 재력가가 되어 자신을 지옥에 처넣은 자들에게 복수하기 시작한다. 스스로 ‘몬테크리스토 백작’이 된 그는 신비로운 후광을 두르고 상류 사교계에 나타난다. 또 다른 정체성을 숨길 수 있는 새 이름으로 신드바드라는 이름을 사용하기도 한다. 그의 하인들에게 그는 세상에서 가장 고귀한 나라의 가장 높은 결정권자이다. 이제 냉혹한 복수가 시작됐다. 그리고 시대를 넘어 모든 이에게 최고의 카타르시스를 안겨준다. ]&lt;/p&gt;
-
-&lt;p&gt;즉, 행복한 삶을 살고 있던 주인공이, 억울한 누명을 쓰고 감옥에 갖혔다가 탈출한 후에 누명을 씌운 자들에게 복수를 하는 내용입니다.&lt;br /&gt;
-이런 내용의 책을 주인공인 박창호가 들고 있었다는 것은 작가님이 박창호는 몬테크리스토 백작 같은 삶을 살고 있다는 것을 슬쩍 알려주는 것이라 생각됩니다.&lt;/p&gt;
-
-&lt;p&gt;그래서 제 생각을 정리하면 다음과 같습니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;박창호는 빅마우스가 아니다.&lt;/li&gt;
-  &lt;li&gt;고미호도 빅마우스가 아니다.&lt;/li&gt;
-  &lt;li&gt;고미호 아버지도 빅마우스가 아니다.&lt;/li&gt;
-  &lt;li&gt;박창호에게 빅마우스의 누명을 씌운 것은 빅마우스가 아니다.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-            <pubDate>Thu, 11 Aug 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-leejongsuk-yuna.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-leejongsuk-yuna.html</guid>
-            
-            <category>drama</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[환혼] 사기꾼 소이가 혼을 옮겨 도박장에서 커피를 팔고 있네요</title>
-            <description>&lt;h2 id=&quot;환혼-사기꾼-소이&quot;&gt;[환혼] 사기꾼 소이&lt;/h2&gt;
-&lt;p&gt;tvN 토일 드라마 [환혼]에 등장하는 인물.&lt;/p&gt;
-
-&lt;p&gt;떠돌이 소매치기 사기꾼으로 도망 다니던 중 사리촌에서 무덕이에게 도움을 받은 인연이 있었습니다.&lt;br /&gt;
-무덕이가 사라진 후에도 계속 사기를 치고 다니다가 진무에게 발탁되어, 진요원의 잃어버린 첫째딸 진부연 역할을 하게 됩니다.&lt;/p&gt;
-
-&lt;p&gt;계속 나쁜 짓만 해 와서 그런지 혼을 옮겨 다니다 현시대에 와서도 불법 도박장에서 커피를 팔고 있는 모습을 확인했습니다.&lt;/p&gt;
-
-&lt;p&gt;소이야 다음 생에는 부디 착한 일을 하길 바란다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/tvn-alchemy-of-souls-soi.jpg&quot; alt=&quot;tvN 토일 드라마 [환혼] 사기꾼 소이&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: 배우 서혜원 인스타그램&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;이상한-변호사-우영우-11회-커피장&quot;&gt;[이상한 변호사 우영우] 11회 커피장&lt;/h2&gt;
-&lt;p&gt;ENA 수목 드라마 [이상한 변호사 우영우] 등장인물.&lt;/p&gt;
-
-&lt;p&gt;[이상한 변호사 우영우] 11회 [소금군, 후추양, 간장변호사]편은 불법 도박장에서 도박자금으로 3명이 함께 산 로또 1등 당첨금을 나누어 가져야 하는가에 대한 내용이었습니다.&lt;br /&gt;
-이때 함께 나누어 가지기로 약속했다는 이야기를 들었다며 재판에서 증언을 한 사람이 바로 도박장에서 커피를 판매하고 있는 커피장이었습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/ena-extraordinary-attorney-woo-coffee.jpg&quot; alt=&quot;ENA 수목 드라마 [이상한 변호사 우영우] 커피장&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: 배우 서혜원 인스타그램&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;배우-서혜원&quot;&gt;배우 서혜원&lt;/h2&gt;
-&lt;p&gt;소이와 커피장의 역할을 한 배우 서혜원은 [스타베이스 매니지먼트 그룹] 소속의 배우로 [환혼], [이상한 변호사 우영우] 외에도 다양한 작품에 출연했었습니다.&lt;/p&gt;
-
-&lt;p&gt;@@ 서혜원 인스타그램: &lt;a href=&quot;https://www.instagram.com/s_wisdom_1/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.instagram.com/s_wisdom_1/&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;환혼: 소이 역&lt;/li&gt;
-  &lt;li&gt;이상한 변호사 우영우: 커피장 역&lt;/li&gt;
-  &lt;li&gt;붉은 단심: 향이 역&lt;/li&gt;
-  &lt;li&gt;사내 맞선: 조유정 역&lt;/li&gt;
-  &lt;li&gt;너의 밤이 되어줄게: 정바른 역&lt;/li&gt;
-  &lt;li&gt;알고있지만,: 출연&lt;/li&gt;
-  &lt;li&gt;이 구역의 미친 X: 도믿녀 역&lt;/li&gt;
-  &lt;li&gt;여신강림: 지희 역&lt;/li&gt;
-  &lt;li&gt;번외수사: 나정민 역&lt;/li&gt;
-  &lt;li&gt;웰컴2라이프: 반지 역&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;사내-맞선-조유정-이사&quot;&gt;[사내 맞선] 조유정 이사&lt;/h2&gt;
-&lt;p&gt;조유정은 마린기획 이사이며, 진영서와 사촌지간입니다.&lt;br /&gt;
-어릴 적엔 영서와 제법 친했던 시절도 있었지만, 사춘기를 지나 점점 예뻐지는 영서와 비교되며 점차 멀어지게 되었습니다.&lt;/p&gt;
-
-&lt;p&gt;남자에게 인기 많은 영서를 은근 부러워하며 그녀를 벤치마킹해놓고는 취향이 겹친다며 불쾌한 척 합니다.
-그 와중에 영서와 마찬가지로 GO푸드 강태무 사장의 비서실장 차성훈에게 빠지게 됩니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/sbs-business-proposal-joyujeong.jpg&quot; alt=&quot;SBS 월화 드라마 [사내 맞선] 조유정 이사&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: 배우 서혜원 인스타그램&lt;/figcaption&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Mon, 08 Aug 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/drama/korea/tvn-alchemy-of-souls-soi.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/drama/korea/tvn-alchemy-of-souls-soi.html</guid>
-            
-            <category>drama</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[환혼] 마의 이선생 혼을 옮겨 다니며 웹툰 작가로 살아가고 있네요</title>
-            <description>&lt;h2 id=&quot;환혼-마의-이선생&quot;&gt;[환혼] 마의 이선생&lt;/h2&gt;
-&lt;p&gt;tvN 토일 드라마 [환혼]에 등장하는 인물.&lt;/p&gt;
-
-&lt;p&gt;본명은 이철이며 &lt;strong&gt;송림을 세운 서경 선생의 직계제자&lt;/strong&gt;이며, 사시사철 삼베로 된 마의만 입고 다닌다 하여 마의 이선생이라 불린다고 합니다.&lt;/p&gt;
-
-&lt;p&gt;그런 이선생이 지금의 모습이 된 것은 술법이 매우 높은 경지에 올라 환수의 경지를 시험해보려고 일종의 유체이탈을 한 상태였는데, 
-제자인 허염이 그런 스승이 죽은 것으로 알고 화장을 해버려 어쩔 수 없이 근처에 동사한 어린 아이 몸에 들어갔기 때문이라고 합니다.&lt;/p&gt;
-
-&lt;p&gt;즉, 마의 이선생은 얼음돌을 이용한 부정한 사술로 환혼을 한 것이 아니라 술법을 매우 높은 경지로 익혀 스스로 유체이탈과 혼을 옮겨 다닐 수 있게 되었습니다.&lt;/p&gt;
-
-&lt;p&gt;그렇게 수없이 많은 횟수로 혼을 옮겨 다니면서 &lt;strong&gt;마의 이선생이 지금 현재는 웹툰 작가로 살고 있다&lt;/strong&gt;는 소식을 듣고 찾아봤습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/tvn-alchemy-of-souls-master-lee.jpg&quot; alt=&quot;tvn 토일 드라마 [환혼] 마의 이선생&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: tvN 환혼 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;오늘의-웹툰-나강남-작가&quot;&gt;[오늘의 웹툰] 나강남 작가&lt;/h2&gt;
-&lt;p&gt;SBS 금토 드라마 [오늘의 웹툰] 등장인물.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;네온의 대표 작품 [구미호 공주]의 웹툰 작가&lt;/strong&gt;이며 진저툰 시절부터 장만철, 석지형과 계속 의리를 지켜오고 있다고 합니다. 진저툰에서 연재하던 대 히트작 [구미호 공주]가 네온으로 넘어오면서 네온의 웹툰 서비스가 빠르게 자리를 잡게 되었다고 합니다.&lt;/p&gt;
-
-&lt;p&gt;하지만 그의 ‘관종’ 여자친구 지한슬은 마감 스트레스에 시달리는 강남을 더 괴롭히는데… 웹툰 작업에 열중하는 강남이 자신에게 소홀하다며 한창 마감 중에 갑자기 집을 나가기 일쑤며, 그러면 나강남은 웹툰 작업을 하지 못하고 여자친구가 돌아오기를 기다리는데, 그런 그녀를 찾아오는 것이 강남의 담당 편집자들의 주요 업무가 되었을 정도라고 합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/sbs-todays-webtoon-artist-nagangnam.jpg&quot; alt=&quot;SBS 금토 드라마 [오늘의 웹툰] 나강남 작가&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: SBS 오늘의 웹툰 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Sat, 06 Aug 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/drama/korea/tvn-alchemy-of-souls-master-lee.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/drama/korea/tvn-alchemy-of-souls-master-lee.html</guid>
-            
-            <category>drama</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[이상한 변호사 우영우] 11화 우영우-이준호 커플 벌써 상견례?</title>
-            <description>&lt;h2 id=&quot;11화-우영우-이준호-커플-벌써-상견례&quot;&gt;11화 우영우-이준호 커플 벌써 상견례?&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;이상한 변호사 우영우 (Extraordinary Attorney Woo)&lt;/strong&gt;]에서 설마 영우-준호 커플이 벌써 시어머니와 장인을 만나는 듯한 느낌이 들게하는 장면이 연출되어 정리해봤습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;시어머니에게-연애-상담&quot;&gt;시어머니에게 연애 상담?&lt;/h2&gt;
-&lt;p&gt;우영우가 한선영 대표와 단둘이 엘리베이터에 탑승하게 됩니다.&lt;br /&gt;
-한선영 대표는 요즘 고민 같은거 있느냐고 물었고, 우영우는 고민은 있지만 개인적인 것이라 말씀드릴 수 없다고 일단 거절합니다.&lt;br /&gt;
-그러자 한선영 대표는 한바다 소속 변호사의 고민은 한바다 전체의 고민이며, 대표인 자신의 고민이기도 하다면서 얘기해보라고 합니다.&lt;br /&gt;
-결국 우영우는 키스할 때 앞니가 부딪히지 않으려면 입을 벌려야 하는데 그 상태에서는 숨을 쉬기가 어렵다. 
-키스를 하면서도 동시에 숨을 쉴 수 있는 방법은 없는지 그게 고민이라고 이야기 합니다.&lt;/p&gt;
-
-&lt;p&gt;이 장면을 굳이 배치한 이유가 이준호가 한선영 대표의 아들이고, 나중에 이준호가 어머니에게 여자친구를 소개할 때를 대비한 암시가 아닐까 하는 생각이 들었습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/ena-extraordinary-attorney-woo-mother-father-in-law-01.png&quot; alt=&quot;[이상한 변호사 우영우] 11화에서 우영우-이준호 커플이 시어머니와 장인을 만나는 듯한 장면이 연출&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: ENA 유튜브 채널&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;장인에게-키스하는-모습을-들키다&quot;&gt;장인에게 키스하는 모습을 들키다&lt;/h2&gt;
-&lt;p&gt;일을 마치고 이준호가 우영우를 집까지 바래다 주면서 [변호사님 전용 포옹의자가 되어 줄께요]라는 달달한 멘트를 던지며 제대로된 키스를 할 때 
-쓰레기를 버리나 나오던 우영우 아버지가 계단 위에서 키스 장면을 목격하게 됩니다.&lt;/p&gt;
-
-&lt;p&gt;이 장면도 위에서 나온 한선영 대표에게 키스에 관한 얘기 즉, 연애 상담을 한 장면과 교차해서 보여줌으로써 시어머니와 장인이 될 사람과 만나는 장면을 연상하게 만드는 장치가 아닐까 생각이 듭니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;이준호가-한선영-대표의-아들이어야-하는-이유&quot;&gt;이준호가 한선영 대표의 아들이어야 하는 이유&lt;/h2&gt;
-&lt;p&gt;이준호는 누구의 아들이냐, 태수미의 아들 또는 한선영 대표의 아들이 아니냐 하는 이야기가 많이 있지만, 태수미 아들의 가능성은 매우 희박하고, 한선영 대표의 아들일 가능성이 높다고 생각합니다.&lt;/p&gt;
-
-&lt;p&gt;아니 오히려 저는 한선영 대표의 아들이어야 한다고 생각합니다.&lt;/p&gt;
-
-&lt;p&gt;그 이유는 &lt;strong&gt;자신과 직접적인 관계가 없을 때는 편견없이 장애인을 대할 수 있지만, 막상 자신의 문제가 되었을 때에도 그 마음 변하지 않고 똑 같이 대할 수 있는 사람이 얼마나 될까 하는 이야기를 작가님이 얘기하고 싶어할 것 같습니다&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;즉, 다른 사람들과 달리 장애인에 대한 차별 없이 능력을 위주로 보며 우영우를 채용할 정도로 열린 사고를 가진 한선영 대표이지만, 
-&lt;strong&gt;막상 자신의 아들이 우영우랑 사귄다는 이야기를 들었을 때 즉, 장애인이 가족이 될 수 있는 상황이 되었을 때에도 고민하지 않고 그대로 받아들일 것인가에 대한 에피소드&lt;/strong&gt;를 풀어나가지 않을까 하는 생각도 듭니다.&lt;/p&gt;
-</description>
-            <pubDate>Wed, 03 Aug 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/drama/korea/ena-extraordinary-attorney-woo-mother-father-in-law.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/drama/korea/ena-extraordinary-attorney-woo-mother-father-in-law.html</guid>
             
             <category>drama</category>
             
