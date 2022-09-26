@@ -236,6 +236,17 @@
 
 
 {
+"title": "Form Request 파라미터 설정 여부 확인하는 PHP 함수",
+"tags": "php",
+"keywords": "programming, php, function",
+"url": "/programming/php/php-request-variables-isset-parameter.html",
+"summary": "HTML Form으로 Request 변수를 전달할 때 설정이 되어 있는지 확인하는 PHP 함수를 만들어봤습니다.'"
+}
+,
+
+
+
+{
 "title": "PHP SQL Injection 방지 코드",
 "tags": "phpsql_injection",
 "keywords": "php, programming",

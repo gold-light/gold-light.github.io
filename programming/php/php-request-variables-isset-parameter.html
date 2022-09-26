@@ -4,24 +4,25 @@
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="">
-<meta name="keywords" content=" ">
+<meta name="description" content="HTML Form으로 Request 변수를 전달할 때 설정이 되어 있는지 확인하는 PHP 함수를 만들어봤습니다.'">
+<meta name="keywords" content="php,  programming, php, function">
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="Page Not Found" />
+<meta property="og:title" content="Form Request 파라미터 설정 여부 확인하는 PHP 함수" />
 <meta property="og:locale" content="ko_KR" />
-<meta property="og:description" content="Simple Life Cloud Log Blog" />
-<link rel="canonical" href="https://cloudlog.kr/404.html" />
-<meta property="og:url" content="https://cloudlog.kr/404.html" />
+<meta property="og:description" content="HTML Form으로 Request 변수를 전달할 때 설정이 되어 있는지 확인하는 PHP 함수를 만들어봤습니다.’" />
+<link rel="canonical" href="https://cloudlog.kr/programming/php/php-request-variables-isset-parameter.html" />
+<meta property="og:url" content="https://cloudlog.kr/programming/php/php-request-variables-isset-parameter.html" />
 <meta property="og:site_name" content="Simple Life Cloud Log" />
-<meta property="og:type" content="website" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-09-23T00:00:00+09:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Page Not Found" />
+<meta property="twitter:title" content="Form Request 파라미터 설정 여부 확인하는 PHP 함수" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Simple Life Cloud Log Blog","headline":"Page Not Found","url":"https://cloudlog.kr/404.html"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"HTML Form으로 Request 변수를 전달할 때 설정이 되어 있는지 확인하는 PHP 함수를 만들어봤습니다.’","headline":"Form Request 파라미터 설정 여부 확인하는 PHP 함수","url":"https://cloudlog.kr/programming/php/php-request-variables-isset-parameter.html"}</script>
 <!-- End Jekyll SEO tag -->
 
-<title>Page Not Found | Cloud Log</title>
+<title>Form Request 파라미터 설정 여부 확인하는 PHP 함수 | Cloud Log</title>
 <link rel="stylesheet" href="/css/syntax.css">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -187,7 +188,7 @@
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
                                 dataSource: '/search.json',
-                                searchResultTemplate: '<li><a href="{url}" title="Page Not Found">{title}</a></li>',
+                                searchResultTemplate: '<li><a href="{url}" title="Form Request 파라미터 설정 여부 확인하는 PHP 함수">{title}</a></li>',
                     noResultsText: 'No results found.',
                             limit: 10,
                             fuzzy: true,
@@ -253,7 +254,7 @@
           
           
           
-          <li><a title="Form Request 파라미터 설정 여부 확인" href="/programming/php/php-request-variables-isset-parameter.html">Form Request 파라미터 설정 여부 확인</a></li>
+          <li class="active"><a title="Form Request 파라미터 설정 여부 확인" href="/programming/php/php-request-variables-isset-parameter.html">Form Request 파라미터 설정 여부 확인</a></li>
           
           
           
@@ -558,7 +559,7 @@
         <!-- Content Column -->
         <div class="col-md-9" id="tg-sb-content">
             <div class="post-header-no">
-   <h1 class="post-title-main-no">Page Not Found</h1>
+   <h1 class="post-title-main-no">Form Request 파라미터 설정 여부 확인하는 PHP 함수</h1>
 </div>
 
 
@@ -566,20 +567,175 @@
 <div class="post-content">
 
    
+    <div class="summary">HTML Form으로 Request 변수를 전달할 때 설정이 되어 있는지 확인하는 PHP 함수를 만들어봤습니다.'</div>
+   
+
+    
+    
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+});
+
+$("#toc_onoff").click(function() {  
+        $("#toc").toggle();
+        $("#tg-toc-icon").toggleClass('fa-toggle-on');
+        $("#tg-toc-icon").toggleClass('fa-toggle-off');
+
+});
+
+});
+</script>
+
+<p><span class="label label-warning" style="cursor:pointer" id="toc_onoff"><i id="tg-toc-icon" class="fas fa-toggle-on"></i> ToC on/off</span></p>
+<div id="toc"></div>
+
+
 
     
 
 
     
 
-   <p>Sorry, but the page you were trying to view does not exist. Try searching for it or looking at the URL to see if it looks correct.</p>
+   <h2 id="개요">개요</h2>
+<p>웹페이지를 만들다 보면 &lt;form&gt; 태그로 여러가지 Request 파라미터를 전송하게 됩니다.<br />
+이때 파라미터를 전송 받은 페이지에서 파라미터가 전송되었는지 즉, 변수가 설정되어 있는지 확인하는 작업이 필요한 경우가 있는데 
+PHP에서 좀 더 쉽게 확인할 수 있는 함수를 만들어봤습니다.</p>
+
+<h2 id="전송하는-html-페이지">전송하는 HTML 페이지</h2>
+<p>아래와 같이 파라미터를 전송하는 HTML 페이지가 있다고 가정해보겠습니다.</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;form</span> <span class="na">action=</span><span class="s">"input_insert.php"</span> <span class="na">method=</span><span class="s">"post"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;input</span> <span class="na">type=</span><span class="s">"text"</span> <span class="na">id=</span><span class="s">"param_1"</span> <span class="na">name=</span><span class="s">"param_1"</span> <span class="na">value=</span><span class="s">"value_1"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;input</span> <span class="na">type=</span><span class="s">"text"</span> <span class="na">id=</span><span class="s">"param_2"</span> <span class="na">name=</span><span class="s">"param_2"</span> <span class="na">value=</span><span class="s">"value_2"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;input</span> <span class="na">type=</span><span class="s">"text"</span> <span class="na">id=</span><span class="s">"param_3"</span> <span class="na">name=</span><span class="s">"param_3"</span> <span class="na">value=</span><span class="s">"value_3"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;input</span> <span class="na">type=</span><span class="s">"text"</span> <span class="na">id=</span><span class="s">"param_4"</span> <span class="na">name=</span><span class="s">"param_4"</span> <span class="na">value=</span><span class="s">"value_4"</span><span class="nt">&gt;</span>
+  <span class="nt">&lt;input</span> <span class="na">type=</span><span class="s">"text"</span> <span class="na">id=</span><span class="s">"param_5"</span> <span class="na">name=</span><span class="s">"param_5"</span> <span class="na">value=</span><span class="s">"value_5"</span><span class="nt">&gt;</span>
+<span class="nt">&lt;/form&gt;</span>
+</code></pre></div></div>
+
+<h2 id="전송받는-php-페이지">전송받는 PHP 페이지</h2>
+<p>이때 파라미터를 전송 받은 페이지에서 파라미터가 전송되었는지 확인하는 작업이 필요한 경우가 있습니다.
+파라미터가 전송되지 않았는데 <strong>$param_val = $_POST[$param]</strong> 이렇게 값을 변수에 저장하려고하면 오류가 발생하게 됩니다.<br />
+그러므로 미리 파라미터가 설정되어 있는지 확인하고, 설정되어 있으면 그때 값을 변수에 저장하는 순서로 진행하게 됩니다.</p>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
+  <span class="k">if</span> <span class="p">(</span><span class="k">isset</span><span class="p">(</span><span class="nv">$_POST</span><span class="p">[</span><span class="nv">$param</span><span class="p">]))</span>
+  <span class="p">{</span>
+    <span class="nv">$param_val</span> <span class="o">=</span> <span class="nv">$_POST</span><span class="p">[</span><span class="nv">$param</span><span class="p">];</span>
+  <span class="p">}</span>
+<span class="cp">?&gt;</span>
+</code></pre></div></div>
+
+<h3 id="함수-사용-예시">함수 사용 예시</h3>
+<p>그런데 파라미터가 1~2개일 때는 괜찮지만, 개수가 늘어나면 코드만 불필요하게 늘어나는 느낌이 들게 됩니다.<br />
+그래서 파라미터가 여러 개일 때 확인하는 함수를 만들었습니다.</p>
+
+<p>사용 방법 예시 아래와 같습니다.</p>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
+  <span class="nv">$arr_param</span> <span class="o">=</span> <span class="k">array</span> <span class="p">(</span><span class="s2">"param_1"</span><span class="p">,</span> <span class="s2">"param_2"</span><span class="p">,</span> <span class="s2">"param_3"</span><span class="p">,</span> <span class="s2">"param_4"</span><span class="p">,</span> <span class="s2">"param_5"</span><span class="p">);</span>
+	
+  <span class="k">if</span> <span class="p">(</span><span class="nf">param_isset_post</span><span class="p">(</span><span class="nv">$arr_param</span><span class="p">))</span>
+  <span class="p">{</span>
+    <span class="c1">//5개의 파라미터가 모두 존재할 경우에만 코드 실행</span>
+  <span class="p">}</span>
+<span class="cp">?&gt;</span>
+</code></pre></div></div>
+
+<p>파라미터의 이름을 배열에 넣어서 전달하고 함수에서는 전달 받은 파라미터 중에서 1개라도 존재하지 않을 경우 false 값을 리턴하도록 구성했습니다.</p>
+
+<p>그러므로 반드시 전달되어야 하는 파라미터들을 확인해야 하는 경우에 사용하시면 되겠습니다.</p>
+
+<p>만약, 전달되었을 때와 전달되지 않았을 때에 각각 다르게 처리해야 하는 경우에는 사용하시면 안되고 별도로 확인하는 과정을 거치셔야 합니다.</p>
+
+<h2 id="get-파라미터-확인-함수">GET 파라미터 확인 함수</h2>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
+  <span class="c1">// GET 파라미터 체크</span>
+  <span class="k">function</span> <span class="n">param_isset_get</span> <span class="p">(</span><span class="nv">$arr_param</span><span class="p">)</span>
+  <span class="p">{</span>
+    <span class="nv">$chk_param_isset</span> <span class="o">=</span> <span class="kc">false</span><span class="p">;</span>
+    <span class="k">foreach</span> <span class="p">(</span><span class="nv">$arr_param</span> <span class="k">as</span> <span class="nv">$param</span><span class="p">)</span>
+    <span class="p">{</span>
+        <span class="k">if</span> <span class="p">(</span><span class="k">isset</span><span class="p">(</span><span class="nv">$_GET</span><span class="p">[</span><span class="nv">$param</span><span class="p">]))</span>
+        <span class="p">{</span>
+            <span class="nv">$chk_param_isset</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
+        <span class="p">}</span>
+        <span class="k">else</span>
+        <span class="p">{</span>
+            <span class="nv">$chk_param_isset</span> <span class="o">=</span> <span class="kc">false</span><span class="p">;</span>
+            <span class="k">break</span><span class="p">;</span>
+        <span class="p">}</span>
+    <span class="p">}</span>
+
+    <span class="k">return</span> <span class="nv">$chk_param_isset</span><span class="p">;</span>
+ <span class="p">}</span>
+<span class="cp">?&gt;</span>
+</code></pre></div></div>
+
+<h2 id="post-파라미터-확인-함수">POST 파라미터 확인 함수</h2>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
+  <span class="c1">// POST 파라미터 체크</span>
+  <span class="k">function</span> <span class="n">param_isset_post</span><span class="p">(</span><span class="nv">$arr_param</span><span class="p">)</span>
+  <span class="p">{</span>
+    <span class="nv">$chk_param_isset</span> <span class="o">=</span> <span class="kc">false</span><span class="p">;</span>
+    <span class="k">foreach</span> <span class="p">(</span><span class="nv">$arr_param</span> <span class="k">as</span> <span class="nv">$param</span><span class="p">)</span>
+    <span class="p">{</span>
+      <span class="k">if</span> <span class="p">(</span><span class="k">isset</span><span class="p">(</span><span class="nv">$_POST</span><span class="p">[</span><span class="nv">$param</span><span class="p">]))</span>
+      <span class="p">{</span>
+        <span class="nv">$chk_param_isset</span> <span class="o">=</span> <span class="kc">true</span><span class="p">;</span>
+      <span class="p">}</span>
+      <span class="k">else</span>
+      <span class="p">{</span>
+        <span class="nv">$chk_param_isset</span> <span class="o">=</span> <span class="kc">false</span><span class="p">;</span>
+        <span class="k">break</span><span class="p">;</span>
+      <span class="p">}</span>
+    <span class="p">}</span>
+
+    <span class="k">return</span> <span class="nv">$chk_param_isset</span><span class="p">;</span>
+  <span class="p">}</span>
+<span class="cp">?&gt;</span>
+</code></pre></div></div>
 
 
     <div class="tags">
         
+        <b>Tags: </b>
+        
+        
+        
+        <a href="/tag/tag-php.html" class="btn btn-default navbar-btn cursorNorm" role="button">php</a>
+        
+        
+        
     </div>
 
 
+
+<!-- 본문 하단 - cloudlog -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6199737337936118"
+     data-ad-slot="7488484889"
+     data-ad-format="auto"
+     data-full-width-responsive="true">
+</ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 
@@ -600,7 +756,7 @@
                & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
                & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
                
- Site last generated: 2022-09-27 <br />
+<span>Page last updated:</span> 2022-09-23<br/> Site last generated: 2022-09-27 <br />
 
                 </div>
             </div>
