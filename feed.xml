@@ -5,9 +5,125 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 Nov 2022 23:18:11 +0900</pubDate>
-        <lastBuildDate>Wed, 09 Nov 2022 23:18:11 +0900</lastBuildDate>
+        <pubDate>Sun, 11 Dec 2022 18:49:24 +0900</pubDate>
+        <lastBuildDate>Sun, 11 Dec 2022 18:49:24 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>히트2(Hit 2) 레벨 50 공격력, 민첩, 방어력 능력치 정보</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;히트2에서는 캐릭터 레벨 50이 되면 대량의 능력치 상승이 이루어지게 되는데 어느 정도 상승하는지 정리해보려고 합니다.&lt;br /&gt;
+우선, 능력치 상승은 크게 2가지로 나눌 수 있습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;레벨업에 따른 능력치 상승&lt;/li&gt;
+  &lt;li&gt;50레벨에 획득할 수 있는 영웅 클래스 능력치&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;레벨-49-능력치&quot;&gt;레벨 49 능력치&lt;/h2&gt;
+&lt;p&gt;레벨 50이 되었을 때 어느 정도 능력치의 상승이 있는지 살펴보기 위해 먼저 레벨 49일때의 능력치를 정리해보겠습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;공격력: 202&lt;/li&gt;
+  &lt;li&gt;민첩: 115&lt;/li&gt;
+  &lt;li&gt;방어력: 152&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/hit2/nexon-hit2-level-50-status-01.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2)에서 레벨 50을 달성 시 대폭 상승하는 공격력, 민첩, 방어력 등의 능력치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;스탯-정보&quot;&gt;스탯 정보&lt;/h3&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/hit2/nexon-hit2-level-50-status-02.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2)에서 레벨 50을 달성 시 대폭 상승하는 공격력, 민첩, 방어력 등의 능력치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;상세-스탯&quot;&gt;상세 스탯&lt;/h3&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/hit2/nexon-hit2-level-50-status-03.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2)에서 레벨 50을 달성 시 대폭 상승하는 공격력, 민첩, 방어력 등의 능력치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;레벨-50-능력치&quot;&gt;레벨 50 능력치&lt;/h2&gt;
+&lt;p&gt;기다리고 기다리던 레벨 50을 드디어 달성했습니다.&lt;br /&gt;
+레벨 50이 되면 아래와 같이 기본 능력치의 상승폭이 이전 레벨업에 비해 매우 큽니다.&lt;/p&gt;
+
+&lt;p&gt;그 중에서도 최소 피해량이 대폭 늘어났네요.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;기본 공격력: &lt;span style=&quot;color:#92E03A&quot;&gt;&lt;i class=&quot;fa-solid fa-caret-up&quot;&gt;&lt;/i&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;최소 피해량: &lt;span style=&quot;color:#92E03A&quot;&gt;&lt;i class=&quot;fa-solid fa-caret-up&quot;&gt;&lt;/i&gt;17&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;방어력: &lt;span style=&quot;color:#92E03A&quot;&gt;&lt;i class=&quot;fa-solid fa-caret-up&quot;&gt;&lt;/i&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;명중: &lt;span style=&quot;color:#92E03A&quot;&gt;&lt;i class=&quot;fa-solid fa-caret-up&quot;&gt;&lt;/i&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;절대 회피: &lt;span style=&quot;color:#92E03A&quot;&gt;&lt;i class=&quot;fa-solid fa-caret-up&quot;&gt;&lt;/i&gt;1&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;최대 HP: &lt;span style=&quot;color:#92E03A&quot;&gt;&lt;i class=&quot;fa-solid fa-caret-up&quot;&gt;&lt;/i&gt;120&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;최대 MP: &lt;span style=&quot;color:#92E03A&quot;&gt;&lt;i class=&quot;fa-solid fa-caret-up&quot;&gt;&lt;/i&gt;60&lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;물약 회복률: &lt;span style=&quot;color:#92E03A&quot;&gt;&lt;i class=&quot;fa-solid fa-caret-up&quot;&gt;&lt;/i&gt;4%&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/hit2/nexon-hit2-level-50-status-04.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2)에서 레벨 50을 달성 시 대폭 상승하는 공격력, 민첩, 방어력 등의 능력치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;스탯-정보-1&quot;&gt;스탯 정보&lt;/h3&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/hit2/nexon-hit2-level-50-status-05.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2)에서 레벨 50을 달성 시 대폭 상승하는 공격력, 민첩, 방어력 등의 능력치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;상세-스탯-1&quot;&gt;상세 스탯&lt;/h3&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/hit2/nexon-hit2-level-50-status-06.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2)에서 레벨 50을 달성 시 대폭 상승하는 공격력, 민첩, 방어력 등의 능력치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;영웅-클래스&quot;&gt;영웅 클래스&lt;/h2&gt;
+&lt;p&gt;저는 활을 주로 사용하기 때문에 레벨 50에 받는 영웅 클래스는 [&lt;strong&gt;플라멘&lt;/strong&gt;]을 선택했습니다.&lt;br /&gt;
+[&lt;strong&gt;플라멘&lt;/strong&gt;]의 기본 능력치를 살펴보면 다음과 같습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;무력: 19&lt;/li&gt;
+  &lt;li&gt;인내: 23&lt;/li&gt;
+  &lt;li&gt;활력: 19&lt;/li&gt;
+  &lt;li&gt;총명: 14&lt;/li&gt;
+  &lt;li&gt;명중: 5&lt;/li&gt;
+  &lt;li&gt;공격 속도: 100%&lt;/li&gt;
+  &lt;li&gt;시전 속도: 50%&lt;/li&gt;
+  &lt;li&gt;스킬 강화: 스트롱 샷 +1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/hit2/nexon-hit2-level-50-status-07.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2)에서 레벨 50을 달성 시 대폭 상승하는 공격력, 민첩, 방어력 등의 능력치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;레벨-50--영웅-클래스-능력치&quot;&gt;레벨 50 + 영웅 클래스 능력치&lt;/h2&gt;
+&lt;p&gt;최종적으로 레벨 50 후에 영웅 클래스까지 변신한 후에 확인할 수 있는 능력치는 다음과 같습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;공격력: 209&lt;/li&gt;
+  &lt;li&gt;민첩: 118&lt;/li&gt;
+  &lt;li&gt;방어력: 157&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/hit2/nexon-hit2-level-50-status-08.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2)에서 레벨 50을 달성 시 대폭 상승하는 공격력, 민첩, 방어력 등의 능력치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;스탯-정보-2&quot;&gt;스탯 정보&lt;/h3&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/hit2/nexon-hit2-level-50-status-09.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2)에서 레벨 50을 달성 시 대폭 상승하는 공격력, 민첩, 방어력 등의 능력치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;상세-스탯-2&quot;&gt;상세 스탯&lt;/h3&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/hit2/nexon-hit2-level-50-status-10.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2)에서 레벨 50을 달성 시 대폭 상승하는 공격력, 민첩, 방어력 등의 능력치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;최종-능력치-변화&quot;&gt;최종 능력치 변화&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;공격력: 202 &lt;i class=&quot;fa-solid fa-right-long&quot;&gt;&lt;/i&gt; 209 (&lt;span style=&quot;color:#92E03A&quot;&gt;&lt;i class=&quot;fa-solid fa-caret-up&quot;&gt;&lt;/i&gt;7&lt;/span&gt;)&lt;/li&gt;
+  &lt;li&gt;민첩: 115 &lt;i class=&quot;fa-solid fa-right-long&quot;&gt;&lt;/i&gt; 118 (&lt;span style=&quot;color:#92E03A&quot;&gt;&lt;i class=&quot;fa-solid fa-caret-up&quot;&gt;&lt;/i&gt;3&lt;/span&gt;)&lt;/li&gt;
+  &lt;li&gt;방어력: 152 &lt;i class=&quot;fa-solid fa-right-long&quot;&gt;&lt;/i&gt; 157 (&lt;span style=&quot;color:#92E03A&quot;&gt;&lt;i class=&quot;fa-solid fa-caret-up&quot;&gt;&lt;/i&gt;5&lt;/span&gt;)&lt;/li&gt;
+  &lt;li&gt;최소 피해량: 69 &lt;i class=&quot;fa-solid fa-right-long&quot;&gt;&lt;/i&gt; 86 (&lt;span style=&quot;color:#92E03A&quot;&gt;&lt;i class=&quot;fa-solid fa-caret-up&quot;&gt;&lt;/i&gt;17&lt;/span&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;히트2-공식-채널&quot;&gt;히트2 공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;히트2 공식 사이트 : &lt;a href=&quot;https://hit2.nexon.com&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://hit2.nexon.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;히트2 카카오톡 공식 채널 : &lt;a href=&quot;http://pf.kakao.com/_vxfxkeb&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://pf.kakao.com/_vxfxkeb&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Mon, 05 Dec 2022 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/hit2/hit2-level-50-character-status.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/hit2/hit2-level-50-character-status.html</guid>
+            
+            <category>mobile</category>
+            
+            
+        </item>
         
         <item>
             <title>極み와 至り의 차이점과 주로 연결되는 단어들 | 일본어 공부</title>
@@ -17,25 +133,35 @@
 &lt;h2 id=&quot;접속&quot;&gt;접속&lt;/h2&gt;
 
 &lt;div class=&quot;bs-callout-v2 bs-callout-v2-primary bs-callout-v2-level-2&quot;&gt;
-⁃ 명사 + かたがた
+⁃ 명사 + 極み
+⁃ 명사 + 至り
 &lt;/div&gt;
 
 &lt;h2 id=&quot;의미&quot;&gt;의미&lt;/h2&gt;
 
 &lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
-⁃ ~하는 김에, 겸사겸사&lt;br /&gt;
-⁃ ～のついでに, ～も兼ねて
+⁃ 매우 ~하다, ~의 극치
 &lt;/div&gt;
 
 &lt;h2 id=&quot;자주-사용되는-단어&quot;&gt;자주 사용되는 단어&lt;/h2&gt;
+
+&lt;h3 id=&quot;極み&quot;&gt;極み&lt;/h3&gt;
 &lt;p&gt;[&lt;strong&gt;かたがた&lt;/strong&gt;]와 연결되는 단어는 아래 5개만 알고 있으면 될 정도로 매우 자주 사용되고 시험에도 자주 나오는 단어들입니다.&lt;/p&gt;
 
 &lt;div class=&quot;bs-callout-v2 bs-callout-v2-success bs-callout-v2-level-1&quot;&gt;
-⁃ お見舞い (おみまい)&lt;br /&gt;
-⁃ お礼 (おれい)&lt;br /&gt;
-⁃ ご報告 (ごほうこく)&lt;br /&gt;
-⁃ お詫び (おわび)&lt;br /&gt;
-⁃ ご挨拶 (ごあいさつ)
+⁃ 悲観 (ひかん)&lt;br /&gt;
+⁃ 痛恨 (つうこん)&lt;br /&gt;
+⁃ 感激 (かんげき)
+&lt;/div&gt;
+
+&lt;h3 id=&quot;至り&quot;&gt;至り&lt;/h3&gt;
+&lt;p&gt;[&lt;strong&gt;かたがた&lt;/strong&gt;]와 연결되는 단어는 아래 5개만 알고 있으면 될 정도로 매우 자주 사용되고 시험에도 자주 나오는 단어들입니다.&lt;/p&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-success bs-callout-v2-level-1&quot;&gt;
+⁃ 恐縮 (きょうしゅく)&lt;br /&gt;
+⁃ 光栄 (こうえい)&lt;br /&gt;
+⁃ 若気 (わかげ)&lt;br /&gt;
+⁃ 感激 (かんげき)
 &lt;/div&gt;
 
 &lt;h3 id=&quot;예문&quot;&gt;예문&lt;/h3&gt;
@@ -541,103 +667,6 @@
             <guid isPermaLink="true">https://cloudlog.kr/game/hit2/hit2-item-dismantle-howto.html</guid>
             
             <category>mobile</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[소녀시대] 2022년 15주년 앨범, 드라마, 영화 리스트</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;[소녀시대]가 데뷔 15주년을 맞이하여 [Forever 1]이라는 앨범으로 복귀했습니다.&lt;br /&gt;
-그런데 우연인지, 예정된 계획인지 모르겠지만, 배우로 활동하는 멤버들이 출연하는 드라마가 앨범 발매와 비슷한 시기에 방송을 하고, 
-영화도 곧 개봉 예정이라 올해 2022년은 [소녀시대] 세상인 것처럼 느껴져서 어떤 앨범, 드라마, 영화가 있는지 날짜 순으로 정리해봤습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;소녀시대---forever-1&quot;&gt;소녀시대 - Forever 1&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;소녀시대&lt;/strong&gt;] 15주년 기념으로 발표한 7번째 앨범 [&lt;strong&gt;Forever 1&lt;/strong&gt;]입니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;발매일: 2022년 8월 5일&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/girls-generation-15th-album-forever1.jpg&quot; alt=&quot;[소녀시대] 15주년 앨범 Forever 1과 드라마 빅마우스, 굿잡, 당신이 소원을 말하면, 영화 공조2까지 2022년은 소녀시대 세상입니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;이미지 출처: 소녀시대 공식 트위터&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;태연---invu&quot;&gt;태연 - INVU&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;태연&lt;/strong&gt;]의 3집 앨범 [&lt;strong&gt;INVU&lt;/strong&gt;]입니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;발매일: 2022년 2월 14일&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/girls-generation-taeyeon-3rd-album-invu.jpg&quot; alt=&quot;[소녀시대] 15주년 앨범 Forever 1과 드라마 빅마우스, 굿잡, 당신이 소원을 말하면, 영화 공조2까지 2022년은 소녀시대 세상입니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;이미지 출처: 태연 공식 유튜브&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;효연---deep&quot;&gt;효연 - Deep&lt;/h2&gt;
-&lt;p&gt;[효연]의 첫번째 미니 앨범 [Deep]입니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;발매일: 2022년 5월 16일&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/girls-generation-hyoyeon-1st-mini-album-deep.jpg&quot; alt=&quot;[소녀시대] 15주년 앨범 Forever 1과 드라마 빅마우스, 굿잡, 당신이 소원을 말하면, 영화 공조2까지 2022년은 소녀시대 세상입니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;이미지 출처: SM Town 공식 유튜브&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;!-- 본문 하단 - cloudlog --&gt;
-&lt;p&gt;&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:block&quot; data-ad-client=&quot;ca-pub-6199737337936118&quot; data-ad-slot=&quot;7488484889&quot; data-ad-format=&quot;auto&quot; data-full-width-responsive=&quot;true&quot;&gt;
-&lt;/ins&gt;
-&lt;script&gt;
-     (adsbygoogle = window.adsbygoogle || []).push({});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;서현---징크스의-연인&quot;&gt;서현 - 징크스의 연인&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;서현&lt;/strong&gt;]이 출연한 드라마 [&lt;strong&gt;징크스의 연인&lt;/strong&gt;]입니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;KBS2 수목 드라마&lt;/li&gt;
-  &lt;li&gt;방송일: 2022년 6월 15일 ~ 8월 4일&lt;/li&gt;
-  &lt;li&gt;출연: 서현, 나인우, 전광렬, 윤지혜&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/girls-generation-seohyun-kbs2-drama-jinxed-at-first.jpg&quot; alt=&quot;[소녀시대] 15주년 앨범 Forever 1과 드라마 빅마우스, 굿잡, 당신이 소원을 말하면, 영화 공조2까지 2022년은 소녀시대 세상입니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;이미지 출처: KBS2 징크스의 연인 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;윤아---빅마우스&quot;&gt;윤아 - 빅마우스&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;윤아&lt;/strong&gt;]가 출연한 드라마 [&lt;strong&gt;빅마우스&lt;/strong&gt;]입니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;MBC 금토 드라마&lt;/li&gt;
-  &lt;li&gt;방송일: 2022년 7월 29일&lt;/li&gt;
-  &lt;li&gt;출연: 임윤아, 이종석, 최주헌, 옥자연&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/mbc-big-mouth-identity-poster-01.jpg&quot; alt=&quot;[소녀시대] 15주년 앨범 Forever 1과 드라마 빅마우스, 굿잡, 당신이 소원을 말하면, 영화 공조2까지 2022년은 소녀시대 세상입니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: MBC 드라마 빅마우스 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;수영---당신이-소원을-말하면&quot;&gt;수영 - 당신이 소원을 말하면&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;수영&lt;/strong&gt;]이 출연한 드라마 [&lt;strong&gt;당신이 소원을 말하면&lt;/strong&gt;]입니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;KBS2 수목 드라마&lt;/li&gt;
-  &lt;li&gt;방송일: 2022년 8월 10일&lt;/li&gt;
-  &lt;li&gt;출연: 최수영, 지창욱, 성동일, 원지안&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/girls-generation-sooyoung-kbs2-drama-if-you-wish-upon-me.jpg&quot; alt=&quot;[소녀시대] 15주년 앨범 Forever 1과 드라마 빅마우스, 굿잡, 당신이 소원을 말하면, 영화 공조2까지 2022년은 소녀시대 세상입니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: KBS2 드라마 당신이 소원을 말하면 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;유리---굿잡&quot;&gt;유리 - 굿잡&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;유리&lt;/strong&gt;]가 출연한 드라마 [&lt;strong&gt;굿잡&lt;/strong&gt;]입니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;ENA 수목 드라마&lt;/li&gt;
-  &lt;li&gt;방송일: 2022년 8월 24일&lt;/li&gt;
-  &lt;li&gt;출연: 권유리, 정일우, 음문석, 송상은&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/girls-generation-yuri-ena-drama-good-job.jpg&quot; alt=&quot;[소녀시대] 15주년 앨범 Forever 1과 드라마 빅마우스, 굿잡, 당신이 소원을 말하면, 영화 공조2까지 2022년은 소녀시대 세상입니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: 소녀시대 공식 트위터&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;윤아--공조2-인터내셔널&quot;&gt;윤아- 공조2: 인터내셔널&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;윤아&lt;/strong&gt;]가 출연한 영화 [&lt;strong&gt;공조&lt;/strong&gt;]의 두번째 작품입니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;개봉일: 2022년 9월 7일&lt;/li&gt;
-  &lt;li&gt;출연: 현빈, 유해진, 임윤아, 다니엘 헤니&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/girls-generation-confidential-assignment2-international.jpg&quot; alt=&quot;[소녀시대] 15주년 앨범 Forever 1과 드라마 빅마우스, 굿잡, 당신이 소원을 말하면, 영화 공조2까지 2022년은 소녀시대 세상입니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: 소녀시대 공식 트위터&lt;/figcaption&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Thu, 01 Sep 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/drama/korea/girls-generation-15th-album-drama-movie.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/drama/korea/girls-generation-15th-album-drama-movie.html</guid>
-            
-            <category>drama</category>
             
             
         </item>
