@@ -146,6 +146,17 @@
 
 
 {
+"title": "MySql Workbench 대량 Update Error - Safe Updates Option",
+"tags": "databasemysql",
+"keywords": "programming, database, 업데이트 오류",
+"url": "/programming/database/mysql-workbench-update-error-safe-updates.html",
+"summary": "Workbench로 MySql을 관리할 때 대량 Update 구문에서 Safe Updates Option 관련해서 발생하는 오류를 해결하는 방법입니다"
+}
+,
+
+
+
+{
 "title": "네이버 클라우드 (Ncloud) 자격증 NCA 시험 대비 핵심 요약, 예상문제",
 "tags": "cloudncloud",
 "keywords": "Cloud, 클라우드, NCP, 네이버 클라우드 플랫폼, NCP, NCE, 시험문제, 예상문제",
