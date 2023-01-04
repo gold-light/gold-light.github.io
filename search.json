@@ -359,6 +359,17 @@
 
 
 {
+"title": "Windows 10 환경에서 Apache, MySQL, PHP 간단히 실행하기 무설치 버전 - XAMPP",
+"tags": "windowsmysqlapachephp",
+"keywords": "programming, MariaDB",
+"url": "/programming/server/windows-apache-mysql-php-perl-execute-no-install-xampp.html",
+"summary": "Windows 10 환경에서 Apache, MySQL(MariaDB), PHP를 간단히 실행할 수 있는 XAMPP 무설치 버전에 대해 소개합니다."
+}
+,
+
+
+
+{
 "title": "윈도우 유용한 유틸, 설정, 명령어 모음",
 "tags": "windows",
 "keywords": "Programming, OS, Windows, Util, Config, Util, Command",
