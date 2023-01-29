@@ -470,6 +470,39 @@
 
 
         
+        
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+});
+
+$("#toc_onoff").click(function() {  
+        $("#toc").toggle();
+        $("#tg-toc-icon").toggleClass('fa-toggle-on');
+        $("#tg-toc-icon").toggleClass('fa-toggle-off');
+
+});
+
+});
+</script>
+
+<p><span class="label label-warning" style="cursor:pointer" id="toc_onoff"><i id="tg-toc-icon" class="fas fa-toggle-on"></i> ToC on/off</span></p>
+<div id="toc"></div>
+
+
+
+        
 
         <h2 id="파트2">파트2</h2>
 <p>환혼 파트2가 너무 재미있게, 그리고 무척 아쉽게 10화로 끝이났습니다.
@@ -625,7 +658,7 @@
                & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
                & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
                
-<span>Page last updated:</span> 2023-01-17<br/> Site last generated: 2023-01-21 <br />
+<span>Page last updated:</span> 2023-01-17<br/> Site last generated: 2023-01-30 <br />
 
                 </div>
             </div>
