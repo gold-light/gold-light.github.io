@@ -5,9 +5,67 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 30 Jan 2023 08:00:57 +0900</pubDate>
-        <lastBuildDate>Mon, 30 Jan 2023 08:00:57 +0900</lastBuildDate>
+        <pubDate>Thu, 02 Feb 2023 08:40:28 +0900</pubDate>
+        <lastBuildDate>Thu, 02 Feb 2023 08:40:28 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>문법 ~つ ~つ 의미와 자주 사용되는 표현 | 일본어 공부</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;이번에는 ~つ ~つ 의미와 자주 사용되는 표현을 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;접속&quot;&gt;접속&lt;/h2&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-primary bs-callout-v2-level-2&quot;&gt;
+⁃ 동사 ます形+つ + 동사 ます形+つ
+&lt;/div&gt;
+
+&lt;h2 id=&quot;의미&quot;&gt;의미&lt;/h2&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
+⁃ 반대되는 뜻을 가진 단어나 자타동사를 사용하여 반대 의미가 되는 단어를 나열함으로써 동작이나 상황이 반복되는 것을 나타내는 표현입니다.
+&lt;/div&gt;
+
+&lt;h2 id=&quot;자주-사용되는-표현&quot;&gt;자주 사용되는 표현&lt;/h2&gt;
+
+&lt;h3 id=&quot;持ちつ持たれつ&quot;&gt;持ちつ持たれつ&lt;/h3&gt;
+&lt;p&gt;서로 돕고 도움을 받는 모양이나 관계&lt;/p&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
+⁃ 私と彼は持ちつ持たれつの間柄だ。&lt;br /&gt;
+⁃ 世の中は持ちつ持たれつだ。
+&lt;/div&gt;
+
+&lt;h3 id=&quot;行きつ戻りつ&quot;&gt;行きつ戻りつ&lt;/h3&gt;
+&lt;p&gt;왔다 갔다 함. 서성거림&lt;/p&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
+⁃ 彼は部屋の中を行きつ戻りつしていた。
+&lt;/div&gt;
+
+&lt;h3 id=&quot;抜きつ抜かれつ&quot;&gt;抜きつ抜かれつ&lt;/h3&gt;
+&lt;p&gt;서로 박빙의 승부를 펼치고 있는 상황&lt;/p&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
+⁃ あの試合は抜きつ抜かれつの大激戦だった。
+&lt;/div&gt;
+
+&lt;h3 id=&quot;押しつ押されつ&quot;&gt;押しつ押されつ&lt;/h3&gt;
+&lt;p&gt;밀고 밀리는 상황&lt;/p&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
+⁃ 押しつ押されつの満員電車。
+&lt;/div&gt;
+
+</description>
+            <pubDate>Mon, 23 Jan 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/life/language/japanese/grammer-tsu-tsu.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/grammer-tsu-tsu.html</guid>
+            
+            <category>japan</category>
+            
+            
+        </item>
         
         <item>
             <title>[환혼] 파트3 (시즌2 ?)가 제작되길 바라며 예상 스토리를 적어봅니다</title>
@@ -556,66 +614,6 @@
             <pubDate>Sun, 11 Sep 2022 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/hit2/hit2-dungeon-monster-position-info-2nd.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/hit2/hit2-dungeon-monster-position-info-2nd.html</guid>
-            
-            <category>mobile</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>히트2 (Hit 2) 계시의 탑 여명회 정예수사 위치 정보</title>
-            <description>&lt;h2 id=&quot;여명회-정예수사-헤매이는-여명회-정예수사-위치&quot;&gt;여명회 정예수사, 헤매이는 여명회 정예수사 위치&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;테라가드 영주의 지령서&lt;/strong&gt;] 퀘스트를 진행하다보면 [&lt;strong&gt;계시의 탑&lt;/strong&gt;] 던전 1층에서 [&lt;strong&gt;여명회 정예수사&lt;/strong&gt;]를 처치하라 또는 [&lt;strong&gt;계시의 탑&lt;/strong&gt;] 던전 2층에서 [&lt;strong&gt;헤매이는 여명회 정예수사&lt;/strong&gt;]를 처치하라는 퀘스트가 나오는데 다른 몬스터보다 [&lt;strong&gt;여명회 정예수사&lt;/strong&gt;], [&lt;strong&gt;헤매이는 여명회 정예수사&lt;/strong&gt;]의 위치를 찾기가 쉽지 않습니다.  1층과 2층을 돌아다니며 찾아봤더니 여러 군데가 있었는데 몇 곳만 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;1층-여명회-정예수사&quot;&gt;1층 여명회 정예수사&lt;/h2&gt;
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-2&quot;&gt;우선, &lt;strong&gt;1층 한가운데&lt;/strong&gt;에 있습니다.&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-01.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;[&lt;strong&gt;여명회 정예수사&lt;/strong&gt;] 몬스터는 이렇게 생겼습니다.&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-02.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-2&quot;&gt;다음으로, &lt;strong&gt;5시 정도의 위치&lt;/strong&gt;에도 있습니다.&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-03.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;2층-헤매이는-여명회-정예수사&quot;&gt;2층 헤매이는 여명회 정예수사&lt;/h2&gt;
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-2&quot;&gt;&lt;strong&gt;헤매이는 여명회 정예수사는 2층 한가운데&lt;/strong&gt;에 있습니다.&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-05.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;[&lt;strong&gt;헤매이는 여명회 정예수사&lt;/strong&gt;] 몬스터는 이렇게 생겼습니다.&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-06.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;계시의-탑-정보&quot;&gt;계시의 탑 정보&lt;/h2&gt;
-&lt;p&gt;과거 세라핌들이 여신의 계시를 받았던 성소&lt;/p&gt;
-
-&lt;p&gt;탑을 관리하던 세라핌들이 사라지고 공허의 힘이 그 빈자리를 채웠습니다.&lt;br /&gt;
-위험이 도사리고 있다는 걸 알면서도 지상에서 여신의 힘이 가장 강하게 깃들었던 장소이니만큼, 모두가 사라진 여신이 남긴 힘을 쫓아 계시의 탑을 찾고 있습니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;초기화: 매주 수요일 오전 5시&lt;/li&gt;
-  &lt;li&gt;기본시간: 7시간&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-hit2-dungeon-monster-position-info-04.jpg&quot; alt=&quot;넥슨(Nexon) 모바일게임 히트2 (Hit 2) 계시의 탑 1층 몬스터 여명회 정예수사 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;히트2-공식-채널&quot;&gt;히트2 공식 채널&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;히트2 공식 사이트 : &lt;a href=&quot;https://hit2.nexon.com&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://hit2.nexon.com&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;히트2 카카오톡 공식 채널 : &lt;a href=&quot;http://pf.kakao.com/_vxfxkeb&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://pf.kakao.com/_vxfxkeb&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-            <pubDate>Fri, 09 Sep 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/hit2/hit2-dungeon-monster-position-info.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/hit2/hit2-dungeon-monster-position-info.html</guid>
             
             <category>mobile</category>
             
