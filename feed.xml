@@ -5,9 +5,56 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Mar 2023 00:09:20 +0900</pubDate>
-        <lastBuildDate>Fri, 24 Mar 2023 00:09:20 +0900</lastBuildDate>
+        <pubDate>Sat, 25 Mar 2023 23:06:32 +0900</pubDate>
+        <lastBuildDate>Sat, 25 Mar 2023 23:06:32 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 (Diablo 4) 오픈 베타 캐릭터 음성이 나오지 않는 문제 해결 방법</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;디아블로4 (Diablo 4) 오픈 베타가 3월 25일 01시부터 시작되었는데, 게임 내에서 캐릭터 음성이 나오지 않는 문제가 발생했습니다.&lt;br /&gt;
+디아블로는 스토리 진행이 매우 중요하고 NPC 등의 사운드, 음성이 나오지 않으면 게임이 지루하고 재미가 없다고 느껴지기 때문에 반드시 해결해야 하는데, 해결 방법이 생각보다 간단합니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;배틀넷-런처-설정&quot;&gt;배틀넷 런처 설정&lt;/h2&gt;
+&lt;p&gt;일단 게임을 종료하고 아래 스샷처럼 배틀넷 런처에서 [&lt;strong&gt;플레이&lt;/strong&gt;] 버튼 옆에 있는 설정 아이콘( &lt;i class=&quot;fa-sharp fa-solid fa-gear&quot;&gt;&lt;/i&gt; )을 클릭해서 [&lt;strong&gt;게임 설정&lt;/strong&gt;] 메뉴를 선택합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-beta-no-voice-issue-01.png&quot; alt=&quot;디아블로4 (Diablo 4) 오픈 베타에서 게임 내 캐릭터 음성이 나오지 않는 문제 해결 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;음성-언어-변경&quot;&gt;음성 언어 변경&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;게임 설정&lt;/strong&gt;] 화면에서 [&lt;strong&gt;텍스트 및 음성 언어&lt;/strong&gt;]를 [&lt;strong&gt;English&lt;/strong&gt;]로 변경합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-beta-no-voice-issue-02.png&quot; alt=&quot;디아블로4 (Diablo 4) 오픈 베타에서 게임 내 캐릭터 음성이 나오지 않는 문제 해결 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;[&lt;strong&gt;English&lt;/strong&gt;]를 선택하면 [&lt;strong&gt;언어를 변경하려면 새로운 데이터를 다운로드해야할 수도 있습니다&lt;/strong&gt;]라는 메시지가 뜨는데, [&lt;strong&gt;확인&lt;/strong&gt;] 버튼을 클릭하면 데이터가 다운로드 됩니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-beta-no-voice-issue-03.png&quot; alt=&quot;디아블로4 (Diablo 4) 오픈 베타에서 게임 내 캐릭터 음성이 나오지 않는 문제 해결 방법&quot; style=&quot;width: 398px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;데이터 다운로드가 완료되었으면 다시 [&lt;strong&gt;한국어&lt;/strong&gt;]로 변경합니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-beta-no-voice-issue-04.png&quot; alt=&quot;디아블로4 (Diablo 4) 오픈 베타에서 게임 내 캐릭터 음성이 나오지 않는 문제 해결 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;모두 끝났으면 오른쪽 아래쪽에 있는 [&lt;strong&gt;완료&lt;/strong&gt;] 버튼을 클릭하고, 게임을 실행하면 됩니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-beta-no-voice-issue-05.png&quot; alt=&quot;디아블로4 (Diablo 4) 오픈 베타에서 게임 내 캐릭터 음성이 나오지 않는 문제 해결 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Fri, 24 Mar 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-beta-no-voice-issue.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-beta-no-voice-issue.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 (Diablo 4) 원소술사 마법부여 퀘스트: 점성술사의 유산 정리</title>
@@ -578,49 +625,6 @@
             <pubDate>Sun, 06 Nov 2022 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/life/language/japanese/grammer-katagata-example.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/grammer-katagata-example.html</guid>
-            
-            <category>japan</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>시험에 자주 출제되는 헷갈리기 쉬운 일본어 단어와 문법 표현들</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;이 페이지는 JPT, JLPT 등 일본어 자격증 시험에 자주 출제되는데 헷갈리기 쉬운 일본어 단어와 문법 표현들을 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;今にも-いまにも&quot;&gt;今にも (いまにも)&lt;/h2&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-⁃ 지금 당장이라도 ~~ 할 것 같은 &lt;br /&gt;
-⁃ &lt;strong&gt;今にも&lt;/strong&gt;壊れそうな家。 &lt;br /&gt;
-⁃ &lt;strong&gt;今にも&lt;/strong&gt;泣きそうな顔。
-&lt;/div&gt;
-
-&lt;h2 id=&quot;経験を積むけいけんをつむ&quot;&gt;経験を積む　(けいけんをつむ)&lt;/h2&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-⁃ 경험을 쌓다. &lt;br /&gt;
-⁃ 経験を&lt;strong&gt;つむ&lt;/strong&gt;。
-&lt;/div&gt;
-
-&lt;h2 id=&quot;頭を絞るあたまをしぼる&quot;&gt;頭を絞る　(あたまをしぼる)&lt;/h2&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-success bs-callout-v2-level-1&quot;&gt;
-⁃ 머리를 쥐어짜다. &lt;br /&gt;
-⁃ 고심하여 여러 가지로 생각해내다.
-&lt;/div&gt;
-
-&lt;h2 id=&quot;金遣いが荒いかねづかいがあらい&quot;&gt;金遣いが荒い　(かねづかいがあらい)&lt;/h2&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-primary bs-callout-v2-level-1&quot;&gt;
-⁃ 돈 씀씀이가 헤프다.
-&lt;/div&gt;
-
-</description>
-            <pubDate>Sun, 02 Oct 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/language/japanese/frequently-asked-words-and-grammar-in-exams.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/frequently-asked-words-and-grammar-in-exams.html</guid>
             
             <category>japan</category>
             
