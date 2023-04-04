@@ -1519,3 +1519,14 @@ img.docimage{
     .tb-70 {width:70% !important;}
     .tb-50 {width:50% !important;}
 }
+
+.simple_table > thead > tr > th,
+.simple_table > tbody > tr > th,
+.simple_table > tfoot > tr > th,
+.simple_table > thead > tr > td,
+.simple_table > tbody > tr > td,
+.simple_table > tfoot > tr > td {    
+    border: 1px solid #ddd;
+    text-align: center;
+    vertical-align: middle;
+}

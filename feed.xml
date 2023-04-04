@@ -5,9 +5,94 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Mar 2023 23:06:32 +0900</pubDate>
-        <lastBuildDate>Sat, 25 Mar 2023 23:06:32 +0900</lastBuildDate>
+        <pubDate>Tue, 04 Apr 2023 23:53:47 +0900</pubDate>
+        <lastBuildDate>Tue, 04 Apr 2023 23:53:47 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 (Diablo 4) 오픈 베타 [GTX 750 Ti] 플레이 후기</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;디아블로4 (Diablo 4) 오픈 베타에서 블리자드에서 안내한 최소 사양 보다 낮은 [GTX 750 Ti]로 플레이 해봤는데, 큰 무리 없이 플레이 가능했습니다. 구체적인 제 PC 사양과 함께 결과를 정리하면서 간단한 플레이 후기를 남겨보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;오픈-베타-pc-사양&quot;&gt;오픈 베타 PC 사양&lt;/h2&gt;
+&lt;p&gt;디아블로 오픈 베타 안내 페이지에 올라온 블리자드에서 공개한 공식 PC 사양 최소, 권장 사양은 다음과 같습니다.&lt;/p&gt;
+
+&lt;table class=&quot;simple_table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;항목&lt;/th&gt;
+      &lt;th&gt;PC 최소 사양&lt;/th&gt;
+      &lt;th&gt;PC 권장 사양&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;기본 해상도 1080p / 렌더 해상도 720p, 그래픽 설정 낮음 &lt;br /&gt;30fps로 실행하는 데 필요한 구성&lt;/td&gt;&lt;td&gt;기본 해상도 1080p 해상도, 그래픽 설정 중간 &lt;br /&gt;60fps로 실행하는 데 필요한 구성&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;운영 체제&lt;/td&gt;&lt;td&gt;64비트 Windows 10&lt;/td&gt;&lt;td&gt;64비트 Windows 10&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;프로세서&lt;/td&gt;&lt;td&gt;Intel Core i5-2500K &lt;br /&gt;&lt;br /&gt; AMD FX-8100&lt;/td&gt;&lt;td&gt;Intel Core i5-4670K &lt;br /&gt;&lt;br /&gt; AMD R3-1300X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;메모리&lt;/td&gt;&lt;td&gt;8GB RAM&lt;/td&gt;&lt;td&gt;16GB RAM&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;그래픽&lt;/td&gt;&lt;td&gt;NVIDIA GeForce GTX 660 &lt;br /&gt;&lt;br /&gt; AMD Radeon R9 280&lt;/td&gt;&lt;td&gt;NVIDIA GeForce GTX 970 &lt;br /&gt;&lt;br /&gt; AMD Radeon RX 470&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;DirectX&lt;/td&gt;&lt;td&gt;버전 12&lt;/td&gt;&lt;td&gt;버전 12&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;용량&lt;/td&gt;&lt;td&gt;여유 공간이 45GB 이상 있는 SSD&lt;/td&gt;&lt;td&gt;여유 공간이 45GB 이상 있는 SSD&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;인터넷&lt;/td&gt;&lt;td&gt;광대역 인터넷 연결&lt;/td&gt;&lt;td&gt;광대역 인터넷 연결&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-beta-minimum-pc-spec-01.png&quot; alt=&quot;디아블로4 (Diablo 4) 오픈 베타 최소 사양보다 낮은 [GTX 750 Ti]로 플레이 해봤습니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;플레이-pc-사양&quot;&gt;플레이 PC 사양&lt;/h2&gt;
+&lt;p&gt;제가 사용하는 PC는 아주 오래전에 구매했었는데, 중간에 메모리랑 그래픽 카드만 업그레이드 한번 했었습니다.
+이 PC로 디아블로3, 디아블로2 레저렉션, 디아블로 이모탈, 히트2, 블레스 언리쉬드, 문명6, 로스트아크 등을 플레이했습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;운영 체제: 64비트 Windows 10&lt;/li&gt;
+  &lt;li&gt;프로세서: Intel Core i5-4570 CPU 3.20GHz&lt;/li&gt;
+  &lt;li&gt;메모리: 16GB RAM&lt;/li&gt;
+  &lt;li&gt;그래픽: NVIDIA GeForce GTX 750 Ti&lt;/li&gt;
+  &lt;li&gt;디스크: WD SSD 500G&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;플레이-후기&quot;&gt;플레이 후기&lt;/h2&gt;
+&lt;p&gt;디아블로4 오픈베타를 체험해본 결과 매우 낮은 설정이기는 하지만 큰 무리 없이 플레이 할 수 있었습니다.&lt;br /&gt;
+마을에서만 가끔 끊기는 현상이 보이기는 하지만, 그 외에는 특별히 불편하다는 느낌은 없었습니다.&lt;br /&gt;
+FPS는 30~40 프레임 정도였던 것으로 기억하는데, 게임을 열심히 플레이하다 스크린샷을 깜빡했네요.&lt;/p&gt;
+
+&lt;p&gt;그리고 게임 설정에서 그래픽 관련 설정은 아무것도 건드리지 않고 게임에서 PC 사양에 맞게 설정해준 기본 설정으로 플레이했습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;게임-스크린샷&quot;&gt;게임 스크린샷&lt;/h2&gt;
+&lt;p&gt;프레임 정보는 스크린샷을 남기지 못했지만, 플레이 하면서 남겼던 몇가지 스크린샷을 대신 소개해보겠습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-beta-minimum-pc-spec-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 오픈 베타 최소 사양 보다 낮은 [GTX 750 Ti]로 플레이 해봤습니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-beta-minimum-pc-spec-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 오픈 베타 최소 사양 보다 낮은 [GTX 750 Ti]로 플레이 해봤습니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-beta-minimum-pc-spec-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 오픈 베타 최소 사양 보다 낮은 [GTX 750 Ti]로 플레이 해봤습니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;다른-게임-스샷&quot;&gt;다른 게임 스샷&lt;/h2&gt;
+
+&lt;h3 id=&quot;디아블로2-레저렉션&quot;&gt;디아블로2 레저렉션&lt;/h3&gt;
+&lt;p&gt;디아블로2 레저렉션을 플레이 해보니 화염 마법을 깔아 놓았을 때 FPS가 50 밑으로 떨어지는데, 플레이하는데 불편함은 없습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo2-minimum-pc-spec-01.png&quot; alt=&quot;디아블로2 레저렉션 [GTX 750 Ti]로 플레이 해봤습니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;디아블로3&quot;&gt;디아블로3&lt;/h3&gt;
+&lt;p&gt;디아블로3는 FPS가 60~70 사이를 오가는 정도입니다.&lt;/p&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo3-minimum-pc-spec-01.jpg&quot; alt=&quot;디아블로3 (Diablo 3) [GTX 750 Ti]로 플레이 해봤습니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;결론&quot;&gt;결론&lt;/h2&gt;
+&lt;p&gt;GeForce GTX 750 Ti로도 가볍게 게임을 즐기기에는 큰 무리 없다고 봅니다.&lt;br /&gt;
+물론 게임할 시간이 많다면 좀 더 좋은 PC로 업그레이드해서 더 즐거운 시간을 보내는 것도 좋겠지만, 
+퇴근하고 잠깐, 그리고 주말에도 그리 많은 시간을 투자하기 힘든 상황이라면 굳이 돈 들여서 새 PC를 구매할 필요가 있을까 하는 생각도 듭니다.&lt;/p&gt;
+
+&lt;p&gt;혹시 6월에 디아블로4가 정식 출시되고 나서 플레이할 시간이 좀 늘어난다면 새 PC 구매를 고려해보도록 하겠습니다.&lt;/p&gt;
+</description>
+            <pubDate>Mon, 27 Mar 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-beta-minimum-pc-spec.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-beta-minimum-pc-spec.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 (Diablo 4) 오픈 베타 캐릭터 음성이 나오지 않는 문제 해결 방법</title>
@@ -574,57 +659,6 @@
             <pubDate>Mon, 07 Nov 2022 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/life/language/japanese/grammer-difference-kiwami-itari.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/grammer-difference-kiwami-itari.html</guid>
-            
-            <category>japan</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>かたがた 의미, 그리고 함께 자주 사용되는 단어 | 일본어 공부</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;이번에는 [&lt;strong&gt;かたがた&lt;/strong&gt;]의 의미와 연결해서 자주 사용하는 단어를 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;かたがた&quot;&gt;かたがた&lt;/h2&gt;
-
-&lt;h3 id=&quot;접속&quot;&gt;접속&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-primary bs-callout-v2-level-2&quot;&gt;
-⁃ 명사 + かたがた
-&lt;/div&gt;
-
-&lt;h3 id=&quot;의미&quot;&gt;의미&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
-⁃ ~하는 김에, 겸사겸사&lt;br /&gt;
-⁃ ～のついでに, ～も兼ねて
-&lt;/div&gt;
-
-&lt;h3 id=&quot;자주-사용되는-단어&quot;&gt;자주 사용되는 단어&lt;/h3&gt;
-&lt;p&gt;[&lt;strong&gt;かたがた&lt;/strong&gt;]와 연결되는 단어는 아래 5개만 알고 있으면 될 정도로 매우 자주 사용되고 시험에도 자주 나오는 단어들입니다.&lt;/p&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-success bs-callout-v2-level-1&quot;&gt;
-⁃ お見舞い (おみまい)&lt;br /&gt;
-⁃ お礼 (おれい)&lt;br /&gt;
-⁃ ご報告 (ごほうこく)&lt;br /&gt;
-⁃ お詫び (おわび)&lt;br /&gt;
-⁃ ご挨拶 (ごあいさつ)
-&lt;/div&gt;
-
-&lt;h3 id=&quot;예문&quot;&gt;예문&lt;/h3&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-⁃ 病院に課長のお見舞い&lt;strong&gt;かたがた&lt;/strong&gt;、プロジェクトの状況を話してきた。&lt;br /&gt;
-⁃ 近々お礼&lt;strong&gt;かたがた&lt;/strong&gt;、お伺い致します。&lt;br /&gt;
-⁃ 結婚の報告&lt;strong&gt;かたがた&lt;/strong&gt;、先生のお宅を訪ねた。&lt;br /&gt;
-⁃ お詫び&lt;strong&gt;かたがた&lt;/strong&gt;、お願い申し上げます。&lt;br /&gt;
-⁃ ご挨拶&lt;strong&gt;かたがた&lt;/strong&gt;、お礼申し上げます。
-&lt;/div&gt;
-
-</description>
-            <pubDate>Sun, 06 Nov 2022 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/language/japanese/grammer-katagata-example.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/grammer-katagata-example.html</guid>
             
             <category>japan</category>
             
