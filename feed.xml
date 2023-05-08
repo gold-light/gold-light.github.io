@@ -5,8 +5,8 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 07 May 2023 18:40:13 +0900</pubDate>
-        <lastBuildDate>Sun, 07 May 2023 18:40:13 +0900</lastBuildDate>
+        <pubDate>Mon, 08 May 2023 23:27:17 +0900</pubDate>
+        <lastBuildDate>Mon, 08 May 2023 23:27:17 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
         
         <item>
@@ -57,7 +57,7 @@
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;납득이 되지 않는 빌런의 행동과 서사&lt;/strong&gt;&lt;br /&gt;
 시즌 1과 시즌 2에서도 강동주, 윤서정, 도인범처럼 초반 빌런같은 모습에서 주인공으로 성장해가는 인물들이나 도윤완, 송현철, 양호준갈은 끝까지 빌런으로 남는 인물들도 고구마를 먹는 듯한 답답한 모습을 보여주기는 해도, 옳지는 않아도, 그나마 왜 그런지 납득이 어느 정도 가는 그런 사연, 서사를 가진 캐릭터 설정이었다고 생각합니다.&lt;br /&gt;
-그런데 이번 시즌 3에서 지금까지 나온 빌런이라고 볼 수 있는 인물인 차진만, 장동화의 경우에는 대체 무슨 소리를 하는 건지, 왜 그러는 건지 이해하기 힘든 설정이라 느껴집니다. 물론 아직 초본이라 숨겨진 이야기가 나오지 않아서 그렇다고 볼 수도 있지만, 그럼에도 불구하고 어느 정도는 개연성이 있어야 하는데 그냥 막 던지는, 끼워 맞추는, 억지스러운 갈등을 조장하는 캐릭터 설정이 아닌가 싶습니다. 너무 아쉽네요.&lt;/p&gt;
+그런데 이번 시즌 3에서 지금까지 나온 빌런이라고 볼 수 있는 인물인 차진만, 장동화의 경우에는 대체 무슨 소리를 하는 건지, 왜 그러는 건지 이해하기 힘든 설정이라 느껴집니다. 물론 아직 초본이라 숨겨진 이야기가 나오지 않아서 그렇다고 볼 수도 있지만, 그럼에도 불구하고 어느 정도는 개연성이 있어야 하는데 그냥 막 던지는, 끼워 맞추는, 억지스러운 갈등을 조장하는 캐릭터 설정이 아닌가 싶습니다. 차진만도, 장동화도 마찬가지로 빌런 설정이 너무 아쉽네요.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;병원은 환자를 위한 곳입니다만…&lt;/strong&gt;&lt;br /&gt;
@@ -75,6 +75,68 @@
             <guid isPermaLink="true">https://cloudlog.kr/life/drama/korea/sbs-romantic-doctor-teacher-kim-season3-ep3-ep4-review.html</guid>
             
             <category>drama</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>디아블로4 (Diablo 4) 두번째 오픈베타 서버 슬램 테스트 정보</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;디아블로4 (Diablo 4) 5월 13일부터 두번째 오픈베타를 진행한다고 합니다. 이번 테스트는 [서버 슬램 (Server Slam)]이라는 이름으로 진행되는데, Slam을 사전에서 찾아보면 [강타하다, 때리다, 쾅 닫다] 등의 뜻을 나타내며, 슬램덩크의 바로 그 슬램입니다.&lt;/p&gt;
+
+&lt;p&gt;그래서 디아블로4의 서버 슬램이란, 6월 6일 정식 오픈 전에 마지막으로 수 많은 유저들로 서버를 강타하는 즉, 서버 성능을 최대한으로 테스트 해보는 기간이라고 할 수 있습니다. 바로 이 서버 슬램 테스트에 관한 정보를 정리해보겠습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-server-slam-01.png&quot; alt=&quot;디아블로4 (Diablo 4) 두번째 오픈베타 서버 슬램 테스트 정보를 정리해봤습니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;이미지 출처: 디아블로4 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;기간&quot;&gt;기간&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;한국 시각 기준 &lt;strong&gt;5월 13일(토) 04시&lt;/strong&gt; ~ &lt;strong&gt;5월 15일(월) 04시&lt;/strong&gt;까지&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;주요-변경-사항&quot;&gt;주요 변경 사항&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;얼리 액세스와 오픈 베타 주말 기간의 게임 진행 상황은 서버 슬램으로 이전되지 않습니다. 또한 서버 슬램 기간의 게임 진행 상황도 출시 이후로 이전되지 않습니다.&lt;/li&gt;
+  &lt;li&gt;플레이어는 캐릭터를 20레벨까지 성장시킬 수 있으며, 이후에도 능력 포인트는 얻을 수 없지만 계속해서 악마들을 학살하고 매혹적인 장비를 획득할 수 있습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;전설 아이템 획득 확률은 조정&lt;/strong&gt;되어 디아블로 IV 출시 버전에 적용될 &lt;strong&gt;실제 획득 확률이 적용&lt;/strong&gt;됩니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;필드-보스-아샤바&quot;&gt;필드 보스 아샤바&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;등장 시간: 한국 시각 기준 &lt;strong&gt;5월 14일(일) 01시&lt;/strong&gt; ~ &lt;strong&gt;5월 15일(월) 01시&lt;/strong&gt;까지 &lt;strong&gt;3시간 마다&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;레벨 제한: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Lv.20 부터 전투 참여 가능&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;슬램-참여-보상&quot;&gt;슬램 참여 보상&lt;/h2&gt;
+&lt;p&gt;서버 슬램에 참여하고 Lv.20을 달성한 후에 필드 보스 아샤바를 쓰러뜨리면 아래 스샷에 보이는 특별 보상을 받을 수 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;(신규)아샤바의 절규 탈것 노획품: &lt;strong&gt;탈것 꾸미기 아이템&lt;/strong&gt;이며, 20레벨 캐릭터로 아샤바를 처치하면 획득&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-server-slam-03.png&quot; alt=&quot;디아블로4 (Diablo 4) 두번째 오픈베타 서버 슬램 테스트 정보를 정리해봤습니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;이미지 출처: 디아블로4 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;기존-보상&quot;&gt;기존 보상&lt;/h2&gt;
+&lt;p&gt;슬램 참여 보상 외에도 이전에 진행했던 얼리 액세스나 오픈 베타의 보상도 여전히 받을 수 있으며 지난 테스트에서 이미 달성한 경우에는 중복지급되지는 않습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;초기의 사상자(가칭) 칭호: 한 캐릭터로 키요바샤드에 도달하면 획득할 수 있습니다.&lt;/li&gt;
+  &lt;li&gt;부지런한 항해자(가칭) 칭호: 한 캐릭터로 20레벨을 달성하면 획득할 수 있습니다.&lt;/li&gt;
+  &lt;li&gt;베타 늑대 가방 꾸미기 아이템: 한 캐릭터로 20레벨을 달성하면 획득할 수 있습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;클라이언트-다운로드&quot;&gt;클라이언트 다운로드&lt;/h2&gt;
+&lt;p&gt;서버 슬램 클라이언트는 아래 시간부터 다운로드 가능하며, 이전에 얼리 액세스나 오픈 베타 클라이언트가 설치되어 있다면 사전 다운로드 기간이 시작되면, 업데이트를 다운로드할 수 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;시간: 한국 시각 기준 &lt;strong&gt;5월 11일(목) 04시&lt;/strong&gt; 시작&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-server-slam-02.png&quot; alt=&quot;디아블로4 (Diablo 4) 두번째 오픈베타 서버 슬램 테스트 정보를 정리해봤습니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;이미지 출처: 디아블로4 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Wed, 03 May 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-beta-server-slam-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-beta-server-slam-info.html</guid>
+            
+            <category>diablo</category>
             
             
         </item>
@@ -534,93 +596,6 @@ FPS는 30~40 프레임 정도였던 것으로 기억하는데, 게임을 열심�
             <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/grammer-tsu-tsu.html</guid>
             
             <category>japan</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[환혼] 파트3 (시즌2 ?)가 제작되길 바라며 예상 스토리를 적어봅니다</title>
-            <description>&lt;h2 id=&quot;파트2&quot;&gt;파트2&lt;/h2&gt;
-&lt;p&gt;환혼 파트2가 너무 재미있게, 그리고 무척 아쉽게 10화로 끝이났습니다.
-주인공 교체에 대한 논란이 있었지만, 애초에 교체가 아니라 1화에 나왔던 낙수가 드라마의 기본 설정인 환혼을 거쳐 원래 자리로 되돌아오는 스토리였으니 사실 별 문제 될게 없는 구조인데 괜한 논란을 만든 것이 아닐까 싶었습니다.&lt;/p&gt;
-
-&lt;p&gt;게다가 고윤정 배우가 연기도 잘하고, 장욱 역의 이재욱 배우와의 케미도 좋고, 외모도 나쁘지 않아서 파트2가 진행되면 될 수록 호평이었습니다.&lt;/p&gt;
-
-&lt;p&gt;그나저나 파트2로 끝내기에는 남아 있는 이야기도 많고, 장욱과 조영(낙수, 진부연)의 알콩달콩, 티격태격 연기도 계속 보고 싶은데 좀 더 드라마를 제작해주었으면 하는 바램입니다.&lt;/p&gt;
-
-&lt;p&gt;그게 파트3가 될지, 시즌2가 될지는 알 수 없으나 꼭 다시 방송해주길 바라며 앞으로의 스토리는 이렇게 되면 재밌지 않을까 하는 희망, 예상 스토리를 제 맘대로 적어보려 합니다. 그냥 재미로 봐주시면 감사하겠습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/tvn-alchemy-of-souls-part2-poster-01.jpg&quot; alt=&quot;[환혼] 파트3 또는 시즌가 제작되었으면 하는데, 그러면서 희망하는 이야기, 예상 스토리&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: tvN 드라마 환혼 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;이야기의-시작&quot;&gt;이야기의 시작&lt;/h2&gt;
-&lt;p&gt;장욱과 조영은 진요원을 탈출한 31개의 요기 중에서 12개를 잡았고, 남아 있는 19개의 요기를 모두 잡아 들이기 위해 오늘도 대호국 전역을 돌아다닙니다.&lt;/p&gt;
-
-&lt;p&gt;그 시작인 코끼리만한 고양이 요기를 잡기 위한 싸움 장면으로 드라마가 시작됩니다.&lt;/p&gt;
-
-&lt;p&gt;그렇게 하나씩 요기를 잡아 들이던 중, 진호경의 바램대로 장욱과 조영 사이에서 딸이 태어납니다. 모두가 기뻐하는 와중에 진호경과 김도주는 서로 아기를 키우겠다고 행복한 다툼을 벌이게 되고, 결국 양쪽에서 번갈아가며 아이를 키우게 됩니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;납치-미수-사건&quot;&gt;납치 미수 사건&lt;/h2&gt;
-&lt;p&gt;그러던 와중에 김도주쪽에서 아이를 돌보고 있던 어느날 밤, 모두를 충격에 빠뜨릴 사건이 벌어집니다.&lt;/p&gt;
-
-&lt;p&gt;장욱과 조영의 추격에 불안을 느끼고 있던 요기들 중에 하나가 아이가 태어났다는 사실을 알고, 아이를 납치하려 김도주와 박진이 살고 있는 집으로 한밤중에 몰래 찾아옵니다. 
-소란을 피우면 들킬 수 있으니, 집안 사람들을 하나씩 기절시키고, 아이가 자고 있는 방으로 몰래 들어가 아이를 납치한 순간, 김도주가 눈치를 챘고 깜짝놀라 박진을 깨웁니다.&lt;/p&gt;
-
-&lt;p&gt;박진은 서둘러 아이를 구하기 위해 요기를 쫓아가지만, 더 이상 쫓아오면 아이를 가만두지 않겠다는 협박에 어쩔 수 없이 눈물을 머금고 요기를 보내주게 됩니다.&lt;/p&gt;
-
-&lt;p&gt;송림 박당구에 연락해서 사람들을 부르는 것과 동시에 거리를 두고 추격하는 박진.&lt;br /&gt;
-추격대가 있을 것을 예상하고 빠르게, 그리고 조용히 도망가려는 요기.
-하지만, 아이가 갑자기 울기 시작하고, 그런 아이가 울지 않도록 기절시키려 하는 요기.&lt;/p&gt;
-
-&lt;p&gt;바로 그때 아이가 갑자기 엄청난 신력을 방출하면서 요기가 쓰러지게 되고, 그때 마침 쫓아온 사람들이 아이를 구출하고 요기를 잡게 됩니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;최고의-신녀&quot;&gt;최고의 신녀&lt;/h2&gt;
-&lt;p&gt;납치 미수 사건 이후로 주위의 엄청난 관심을 받게된 아이는 커가면서 점점 더 어머니인 조영에 버금가는 신력을 보여주면서 모두가 진요원의 후계자가 될 것이라 믿게 됩니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;최고의-술사&quot;&gt;최고의 술사&lt;/h2&gt;
-&lt;p&gt;그렇게 진요원 후계자 수업을 받아가면서 신력을 키워가던 중 호기심에 아버지 장욱이 갖고 있던 조영(낙수)의 칼을 잡는 순간 엄청난 충격파가 발생하면서 아이가 기절합니다.&lt;/p&gt;
-
-&lt;p&gt;모두가 깜짝 놀라 세죽원에 데려가 치료를 받게 되는데, 허염 선생이 진찰한 결과 술력을 각성하고, 엄청난 진기가 몸안에서 돌고 있다는 것을 알게 됩니다.&lt;/p&gt;
-
-&lt;p&gt;즉, 수련을 거듭하면 현재 보유한 어머니 조영에 버금가는 신력 뿐만 아니라 술력도 아버지를 뛰어넘을 수도 있다는 가능성이 생긴것입니다.&lt;/p&gt;
-
-&lt;p&gt;모두가 놀라면서 너무나 기뻐하며 축하 잔치라도 해야 하는것 아니냐며 부산을 떨지만, 장욱과 조영은 마음 한편으로 걱정과 불안을 느끼게 됩니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;견제와-모함&quot;&gt;견제와 모함&lt;/h2&gt;
-&lt;p&gt;장욱과 조영의 아이가 최고의 신력과 술력을 모두 보유하고 있다는 소문이 퍼져 나가자 대호국 곳곳에서 놀람과 동시에 질투의 시선들이 생겨납니다.&lt;/p&gt;
-
-&lt;p&gt;결국, 오래전 얼음돌에 대한 욕심으로 진무와 함께 화조를 소환하려고 했다가 장욱에게 죽임을 당했던 만장회 대표들의 술사 집안에서는 온갖 험담을 쏟아냅니다.&lt;/p&gt;
-
-&lt;p&gt;한사람이 너무 큰 힘을 갖고 있으면 세상에 재앙을 불러온다느니, 제왕의 자리를 탐할 것이라느니, 아직 어린 아이임에도 불구하고 비난과 모함의 이야기를 퍼뜨리게 되고, 
-밖에 놀러갔던 아이는 말도 안되는 따돌림을 당하게 되어 눈물로 지새우는 나날이 이어지게 됩니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;전란의-기운&quot;&gt;전란의 기운&lt;/h2&gt;
-&lt;p&gt;그러던 중, 장욱과 조영의 존재 그리고 현명한 왕 고원으로 인해 점점 강성해지는 대호국을 보며 위기감을 느낀 주변 나라에서 대호국을 견제하기 위해 동맹을 맻고 전쟁을 준비하려는 움직임이 포착되고, 왕실에서는 일반 병력만으로는 쉽지 않을 것으로 판단하여, 만장회에 도움을 요청하게 되고, 송림과 진요원 등에서는 술사와 신녀들을 차출하여 전쟁을 지원하게 됩니다. (실제 전쟁 장면은 보여주지 않고, 전쟁 상황을 )&lt;/p&gt;
-
-&lt;h2 id=&quot;나라를-구한-아이&quot;&gt;나라를 구한 아이&lt;/h2&gt;
-&lt;p&gt;장욱과 조영은 물론 서율과 송림의 술사들도 대부분 전장으로 떠난 사이, 전쟁을 일으킨 동맹국들에서는 대호국의 후방을 뒤흔들어 승기를 잡으려 특수부대를 대호국에 잠입시킵니다.&lt;/p&gt;
-
-&lt;p&gt;몰래 숨어든 적국의 병력들은 방화와 암살등으로 대호국에 대혼란을 일으키게 되고, 왕궁과 송림, 정진각, 천부관, 진요원 등의 주요 시설들은 겨우겨우 막아내고 있었지만, 
-일반 백성들이 살고 있는 거리까지는 신경쓸 여력이 되지 않고 점점 커져가는 불길로 수 많은 사람들이 희생될 처지에 놓이게 됩니다.&lt;/p&gt;
-
-&lt;p&gt;그때, 친구들이 (최근에는 비록 따돌림을 당하기는 했지만) 걱정된 아이는 어른들의 만류에도 불구하고 불이난 곳으로 달려가 불을 한번에 끄기 위해 신력을 사용해 비를 부르려고 합니다.&lt;/p&gt;
-
-&lt;p&gt;마침 근처에서 상황을 지켜보던 적국의 암살자들이 아이를 해치려하지만, 최고의 신력과 술력을 동시에 모두 갖고 있는 아이답게 한손으로는 비를 부르면서 다른 한손으로는 암살자들을 제압하게 됩니다.&lt;/p&gt;
-
-&lt;p&gt;마침내 비가 내려 화재가 진압되고 상처를 입기는 했지만 아이의 호위병력과 함께 암살자들도 대부분 제압한 아이는 모든 기력을 사용한 탓에 쓰러지게 됩니다.&lt;/p&gt;
-
-&lt;p&gt;이후에 이 모든 사실이 대호국 전체에 퍼져나가고, 아이는 나라를 구한 아이로 칭송받게 됩니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;시즌3-시즌4&quot;&gt;시즌3, 시즌4…&lt;/h2&gt;
-&lt;p&gt;말도 안되는 황당한 이야기를 희망, 예상 스토리라고 적어보기는 했는데, 아무튼 계속 추가 드라마가 제작되었으면 하는 바램입니다.&lt;/p&gt;
-
-&lt;p&gt;그래서, 나중에는 부모 세대인 장욱, 박당구, 서율, 진초연이 천하사계로 불린 것처럼 장욱과 조영을 아이를 중심으로 아이들이 모두 함께 모여 마치 어벤져스처럼 함께 활동하는 이야기까지 볼 수 있었으면 좋겠습니다.&lt;/p&gt;
-
-</description>
-            <pubDate>Tue, 17 Jan 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/drama/korea/tvn-alchemy-of-souls-part3-season2-story.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/drama/korea/tvn-alchemy-of-souls-part3-season2-story.html</guid>
-            
-            <category>drama</category>
             
             
         </item>
