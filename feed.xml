@@ -5,8 +5,8 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 May 2023 23:27:17 +0900</pubDate>
-        <lastBuildDate>Mon, 08 May 2023 23:27:17 +0900</lastBuildDate>
+        <pubDate>Wed, 10 May 2023 00:22:14 +0900</pubDate>
+        <lastBuildDate>Wed, 10 May 2023 00:22:14 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
         
         <item>
@@ -75,6 +75,130 @@
             <guid isPermaLink="true">https://cloudlog.kr/life/drama/korea/sbs-romantic-doctor-teacher-kim-season3-ep3-ep4-review.html</guid>
             
             <category>drama</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>디아블로4 (Diablo 4) 원소술사 전체 스킬의 마법부여 효과 정보 총정리</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;디아블로4의 원소술사는 다른 직업들과 다르게 원소술사 고유의 스킬 슬롯이 존재합니다. 바로 [&lt;strong&gt;마법부여&lt;/strong&gt;]라는 것으로 영어로는 [&lt;strong&gt;Enchantment&lt;/strong&gt;]라고 부르는 시스템입니다.&lt;/p&gt;
+
+&lt;p&gt;마치 패시브 스킬처럼 특정 조건에 해당하면 자동으로 스킬이 발동되는 시스템으로 15렙 이후에 슬롯을 개방할 수 있습니다.&lt;/p&gt;
+
+&lt;p&gt;그래서 원소술사의 각 스킬별 마법부여 효과를 전부 정리해보았습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;벼락불&quot;&gt;벼락불&lt;/h2&gt;
+&lt;p&gt;적을 처치하면 10% 확률로 짜릿한 에너지가 남습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;화염탄&quot;&gt;화염탄&lt;/h2&gt;
+&lt;p&gt;기술로 직접 피해를 주면 8초에 걸쳐 최대 90[23%]의 추가 연소 피해를 줍니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;서리-화살&quot;&gt;서리 화살&lt;/h2&gt;
+&lt;p&gt;기술로 직접 피해를 주면 대상이 최대 15%의 오한을 느낍니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;전기-채찍&quot;&gt;전기 채찍&lt;/h2&gt;
+&lt;p&gt;재사용 대기시간이 있는 기술을 사용하면 주위의 적들이 0.5초 동안 기절합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-04.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;화염구&quot;&gt;화염구&lt;/h2&gt;
+&lt;p&gt;처치한 적이 화염구 속에서 폭발하여 화염구 피해의 50%만큼 피해를 줍니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-05.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;얼음-파편&quot;&gt;얼음 파편&lt;/h2&gt;
+&lt;p&gt;얼음 파편이 자동으로 구현되어 빙결된 적에게 날아갑니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-06.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;연쇄-번개&quot;&gt;연쇄 번개&lt;/h2&gt;
+&lt;p&gt;마나를 100 소모하면 연쇄 번개가 자동으로 생겨납니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-07.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;번개-줄기&quot;&gt;번개 줄기&lt;/h2&gt;
+&lt;p&gt;적을 기절시킬 때마다 40% 확률로 해당 적으로부터 번개 줄기를 3개 내뿜습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-08.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;소각&quot;&gt;소각&lt;/h2&gt;
+&lt;p&gt;20초마다 뱀이 생성되어 적들을 6초 동안 소각합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-09.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;얼음-보주&quot;&gt;얼음 보주&lt;/h2&gt;
+&lt;p&gt;기본 기술이 아닌 기술을 시전할 때마다 20% 확률로 근처의 적에게 얼음 보주를 발사합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-10.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;화염-보호막&quot;&gt;화염 보호막&lt;/h2&gt;
+&lt;p&gt;죽음에 이르는 피해를 받으면 화염 보호막이 자동으로 활성화됩니다. 120초에 한 번만 발동합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-11.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;서릿발&quot;&gt;서릿발&lt;/h2&gt;
+&lt;p&gt;행운의 적중: 구현 기술이 적에게 적중했을 때 30% 확률로 서릿발을 방출합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-12.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;얼음-갑옷&quot;&gt;얼음 갑옷&lt;/h2&gt;
+&lt;p&gt;적중당하면 50% 확률로 얼음 갑옷 효과를 얻습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-13.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;순간이동&quot;&gt;순간이동&lt;/h2&gt;
+&lt;p&gt;피하기가 재사용 대기시간 17.0초의 단거리 순간이동으로 대체됩니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-14.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;얼음-칼날&quot;&gt;얼음 칼날&lt;/h2&gt;
+&lt;p&gt;재사용 대기시간이 있는 기술을 20초 사용할 때마다 무작위 적의 위치에 얼음 칼날을 생성합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-15.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;히드라&quot;&gt;히드라&lt;/h2&gt;
+&lt;p&gt;마나를 300 소모하면 5초 동안 머리가 5개인 히드라가 생성됩니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-16.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;번개-창&quot;&gt;번개 창&lt;/h2&gt;
+&lt;p&gt;짜릿한 에너지를 흡수하면 10% 확률로 번개 창을 구현합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-17.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;화염벽&quot;&gt;화염벽&lt;/h2&gt;
+&lt;p&gt;적이 연소 피해를 받을 때마다 5% 확률로 해당 적의 아래에 3초 동안 화염벽을 2개 생성합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-18.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;눈보라&quot;&gt;눈보라&lt;/h2&gt;
+&lt;p&gt;15초마다 자신의 머리 위에 눈보라가 생겨나 6초 동안 따라다닙니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-19.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;운석-낙하&quot;&gt;운석 낙하&lt;/h2&gt;
+&lt;p&gt;행운의 적중: 3% 확률로 적에게 운석이 떨어집니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-20.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;구상-번개&quot;&gt;구상 번개&lt;/h2&gt;
+&lt;p&gt;행운의 적중: 극대화 시 25%의 확률로 정지해 있는 구상 번개가 생성됩니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-21.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Thu, 04 May 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-sorcerer-enchantment-list.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-sorcerer-enchantment-list.html</guid>
+            
+            <category>diablo</category>
             
             
         </item>
@@ -536,64 +660,6 @@ FPS는 30~40 프레임 정도였던 것으로 기억하는데, 게임을 열심�
             <pubDate>Fri, 27 Jan 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/life/language/japanese/grammer-kotae.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/grammer-kotae.html</guid>
-            
-            <category>japan</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>문법 ~つ ~つ 의미와 자주 사용되는 표현 | 일본어 공부</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;이번에는 ~つ ~つ 의미와 자주 사용되는 표현을 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;접속&quot;&gt;접속&lt;/h2&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-primary bs-callout-v2-level-2&quot;&gt;
-⁃ 동사 ます形+つ + 동사 ます形+つ
-&lt;/div&gt;
-
-&lt;h2 id=&quot;의미&quot;&gt;의미&lt;/h2&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
-⁃ 반대되는 뜻을 가진 단어나 자타동사를 사용하여 반대 의미가 되는 단어를 나열함으로써 동작이나 상황이 반복되는 것을 나타내는 표현입니다.
-&lt;/div&gt;
-
-&lt;h2 id=&quot;자주-사용되는-표현&quot;&gt;자주 사용되는 표현&lt;/h2&gt;
-
-&lt;h3 id=&quot;持ちつ持たれつ&quot;&gt;持ちつ持たれつ&lt;/h3&gt;
-&lt;p&gt;서로 돕고 도움을 받는 모양이나 관계&lt;/p&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-⁃ 私と彼は持ちつ持たれつの間柄だ。&lt;br /&gt;
-⁃ 世の中は持ちつ持たれつだ。
-&lt;/div&gt;
-
-&lt;h3 id=&quot;行きつ戻りつ&quot;&gt;行きつ戻りつ&lt;/h3&gt;
-&lt;p&gt;왔다 갔다 함. 서성거림&lt;/p&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-⁃ 彼は部屋の中を行きつ戻りつしていた。
-&lt;/div&gt;
-
-&lt;h3 id=&quot;抜きつ抜かれつ&quot;&gt;抜きつ抜かれつ&lt;/h3&gt;
-&lt;p&gt;서로 박빙의 승부를 펼치고 있는 상황&lt;/p&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-⁃ あの試合は抜きつ抜かれつの大激戦だった。
-&lt;/div&gt;
-
-&lt;h3 id=&quot;押しつ押されつ&quot;&gt;押しつ押されつ&lt;/h3&gt;
-&lt;p&gt;밀고 밀리는 상황&lt;/p&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1&quot;&gt;
-⁃ 押しつ押されつの満員電車。
-&lt;/div&gt;
-
-</description>
-            <pubDate>Mon, 23 Jan 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/language/japanese/grammer-tsu-tsu.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/language/japanese/grammer-tsu-tsu.html</guid>
             
             <category>japan</category>
             
