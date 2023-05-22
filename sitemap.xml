@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2023-05-10T00:22:14+09:00</lastmod>
+    <lastmod>2023-05-23T00:12:42+09:00</lastmod>
   </url>
   
   
@@ -832,6 +832,16 @@
   
   
   <url>
+    <loc>https://cloudlog.kr/programming/database/database-migration-process-schedule.html</loc>
+
+    <lastmod>2023-05-16T00:00:00+09:00</lastmod>
+    
+       
+  </url>
+  
+  
+  
+  <url>
     <loc>https://cloudlog.kr/programming/php/php-get-prev-next-date-function.html</loc>
 
     <lastmod>2023-01-07T00:00:00+09:00</lastmod>
@@ -1107,8 +1117,6 @@
   
   
   
-  
-  
   <url>
     <loc>https://cloudlog.kr/category/game/ragnarok.html</loc>
   
@@ -1262,6 +1270,8 @@
   
        
   </url>
+  
+  
   
   
   

@@ -4,25 +4,25 @@
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="일본어 표현 出端を挫く, 脈が上がる 의미를 정리해보겠습니다">
-<meta name="keywords" content="japan,  japanese, grammer">
+<meta name="description" content="DB(데이터베이스)를 플랫폼을 옮겨서 마이그레이션할 때의 프로세스와 일정에 관한 간략한 예시입니다">
+<meta name="keywords" content="databasemysql,  programming, database, Migration, Process, Schedule, Sample, MSSQL, MySQL">
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="出端を挫く, 脈が上がる 의미 일본어 공부" />
+<meta property="og:title" content="DB(데이터베이스) 마이그레이션 프로세스와 일정 예시" />
 <meta property="og:locale" content="ko_KR" />
-<meta property="og:description" content="일본어 표현 出端を挫く, 脈が上がる 의미를 정리해보겠습니다" />
-<link rel="canonical" href="https://cloudlog.kr/life/language/japanese/grammer-dehanawokuziku-mixyakugaagaru.html" />
-<meta property="og:url" content="https://cloudlog.kr/life/language/japanese/grammer-dehanawokuziku-mixyakugaagaru.html" />
+<meta property="og:description" content="DB(데이터베이스)를 플랫폼을 옮겨서 마이그레이션할 때의 프로세스와 일정에 관한 간략한 예시입니다" />
+<link rel="canonical" href="https://cloudlog.kr/programming/database/database-migration-process-schedule.html" />
+<meta property="og:url" content="https://cloudlog.kr/programming/database/database-migration-process-schedule.html" />
 <meta property="og:site_name" content="Simple Life Cloud Log" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2022-05-02T00:00:00+09:00" />
+<meta property="article:published_time" content="2023-05-16T00:00:00+09:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="出端を挫く, 脈が上がる 의미 일본어 공부" />
+<meta property="twitter:title" content="DB(데이터베이스) 마이그레이션 프로세스와 일정 예시" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-05-02T00:00:00+09:00","datePublished":"2022-05-02T00:00:00+09:00","description":"일본어 표현 出端を挫く, 脈が上がる 의미를 정리해보겠습니다","headline":"出端を挫く, 脈が上がる 의미 일본어 공부","mainEntityOfPage":{"@type":"WebPage","@id":"https://cloudlog.kr/life/language/japanese/grammer-dehanawokuziku-mixyakugaagaru.html"},"url":"https://cloudlog.kr/life/language/japanese/grammer-dehanawokuziku-mixyakugaagaru.html"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"DB(데이터베이스)를 플랫폼을 옮겨서 마이그레이션할 때의 프로세스와 일정에 관한 간략한 예시입니다","headline":"DB(데이터베이스) 마이그레이션 프로세스와 일정 예시","url":"https://cloudlog.kr/programming/database/database-migration-process-schedule.html"}</script>
 <!-- End Jekyll SEO tag -->
 
-<title>出端を挫く, 脈が上がる 의미 | 일본어 공부 | Cloud Log</title>
+<title>DB(데이터베이스) 마이그레이션 프로세스와 일정 예시 | Cloud Log</title>
 <link rel="stylesheet" href="/css/syntax.css">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -71,11 +71,11 @@
 
 
     <script>
-        $(document).ready(function(e) {
+        $(document).ready(function() {
             // Initialize navgoco with default options
-            $("#mysidebar1").navgoco({
+            $("#mysidebar").navgoco({
                 caretHtml: '',
-                accordion: false,
+                accordion: true,
                 openClass: 'active', // open
                 save: false, // leave false or nav highlighting doesn't work right
                 cookie: {
@@ -88,7 +88,6 @@
                     easing: 'swing'
                 }
             });
-            $("#mysidebar1").navgoco('toggle', true);            
 
             $("#collapseAll").click(function(e) {
                 e.preventDefault();
@@ -189,7 +188,7 @@
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
                                 dataSource: '/search.json',
-                                searchResultTemplate: '<li><a href="{url}" title="出端を挫く, 脈が上がる 의미 | 일본어 공부">{title}</a></li>',
+                                searchResultTemplate: '<li><a href="{url}" title="DB(데이터베이스) 마이그레이션 프로세스와 일정 예시">{title}</a></li>',
                     noResultsText: 'No results found.',
                             limit: 10,
                             fuzzy: true,
@@ -216,117 +215,283 @@
             <div class="col-md-3" id="tg-sb-sidebar">
                 
 
-
 <ul id="mysidebar" class="nav">
-  <li class="sidebarTitle">Life Post 1.0</li>
-  
-  
+  <li class="sidebarTitle">Programming 1.0</li>
   
   
   
   <li>
-      <a title="드라마" href="/category/life/drama.html">드라마</a>
+      <a title="PHP" href="#">PHP</a>
       <ul>
           
           
           
-          
-          <li><a title="한국" href="/category/life/drama-korea.html">ㄴ한국 </a></li>
-          
+          <li><a title="PHP SQL Injection 방지 코드" href="/programming/php/php-sql-injection-function.html">PHP SQL Injection 방지 코드</a></li>
           
           
           
           
           
           
-          <li><a title="일본" href="/category/life/drama-japan.html">ㄴ일본 </a></li>
+          <li><a title="PHP 자주 쓰는 함수 모음" href="/programming/php/php-useful-function-list.html">PHP 자주 쓰는 함수 모음</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PHP 이전 날짜, 다음 날짜 구하는 방법" href="/programming/php/php-get-prev-next-date-function.html">PHP 이전 날짜, 다음 날짜 구하는 방법</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="윤년 계산 하는 방법" href="/programming/php/php-leap-year-with-asp.html">윤년 계산 하는 방법</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="배열검색 array_search, array_column" href="/programming/php/php-array-search-column.html">배열검색 array_search, array_column</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Form Request 파라미터 설정 여부 확인" href="/programming/php/php-request-variables-isset-parameter.html">Form Request 파라미터 설정 여부 확인</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PHPExcel 최신판 PhpSpreadsheet" href="/programming/php/php-phpspreadsheet-introduce.html">PHPExcel 최신판 PhpSpreadsheet</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 행 높이 설정하기" href="/programming/php/php-phpspreadsheet-row-height.html">PhpSpreadsheet 행 높이 설정하기</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 셀 서식 문자 지정" href="/programming/php/php-phpspreadsheet-cell-datatype-string.html">PhpSpreadsheet 셀 서식 문자 지정</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet ERR-INVALID-RESPONSE 오류" href="/programming/php/php-phpspreadsheet-err-invalid-response.html">PhpSpreadsheet ERR-INVALID-RESPONSE 오류</a></li>
           
           
           
           
       </ul>
    </li>
-   
-   
   
   
   
   <li>
-      <a title="애니메이션" href="/category/life/animation.html">애니메이션</a>
+      <a title="API" href="#">API</a>
       <ul>
           
           
           
-          
-          <li><a title="OVA" href="/category/life/animation-ova.html">ㄴOVA </a></li>
+          <li><a title="UniPass 오픈API" href="/programming/api/api-unipass-openapi-introduce.html">UniPass 오픈API</a></li>
           
           
           
           
       </ul>
    </li>
-   
-   
   
   
   
   <li>
-      <a title="책방" href="/category/life/bookstore.html">책방</a>
+      <a title="AWS" href="#">AWS</a>
       <ul>
           
           
           
+          <li><a title="AWS bitnami LAMP 설정하기" href="/programming/aws/aws-bitnami-lamp-setting-guide.html">AWS bitnami LAMP 설정하기</a></li>
           
-          <li><a title="웹툰, 웹소설" href="/category/life/web-comics-novel.html">ㄴ웹툰, 웹소설 </a></li>
+          
+          
+          
+          
+          
+          <li><a title="S3 cli RequestTimeTooSkewed 에러" href="/programming/aws/aws-s3-cli-time-different-error-troubleshooting.html">S3 cli RequestTimeTooSkewed 에러</a></li>
           
           
           
           
       </ul>
    </li>
-   
-   
   
   
   
   <li>
-      <a title="외국어" href="/category/life/language.html">외국어</a>
+      <a title="Ncloud" href="#">Ncloud</a>
       <ul>
           
           
           
+          <li><a title="Ncloud 자격증 NCA 대비 핵심 요약" href="/programming/ncloud/nca-short-answer-question.html">Ncloud 자격증 NCA 대비 핵심 요약</a></li>
           
-          <li><a title="일본어" href="/category/life/japanese.html">ㄴ일본어 </a></li>
+          
+          
+          
+          
+          
+          <li><a title="NCA 자격증 합격 후기와 출제 경향" href="/programming/ncloud/ncloud-nca-certification-pass-review.html">NCA 자격증 합격 후기와 출제 경향</a></li>
           
           
           
           
       </ul>
    </li>
-   
-   
   
   
   
   <li>
-      <a title="생활정보" href="/category/life/diary.html">생활정보</a>
+      <a title="Jekyll" href="#">Jekyll</a>
       <ul>
           
           
           
+          <li><a title="jekyll 4.x jekyll-extract-element 오류" href="/programming/jekyll/jekyll-extract-element-nokogiri-error.html">jekyll 4.x jekyll-extract-element 오류</a></li>
           
-          <li><a title="생활정보" href="/category/life/diary.html">ㄴ생활정보 </a></li>
+          
+          
+          
+          
+          
+          <li><a title="Jekyll robots.txt 템플릿 수정, Ruby 3" href="/programming/jekyll/jekyll-sitemap-gem-robots-txt-edit.html">Jekyll robots.txt 템플릿 수정, Ruby 3</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Jekyll sitemap.xml 템플릿 수정, Ruby 3" href="/programming/jekyll/jekyll-sitemap-gem-xml-edit.html">Jekyll sitemap.xml 템플릿 수정, Ruby 3</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="사이트 내부 문서 링크하기 | Jekyll" href="/programming/jekyll/jekyll-include-internal-post-page.html">사이트 내부 문서 링크하기 | Jekyll</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Jekyll Liquid 언어 사용법" href="/programming/jekyll/jekyll-liquid-language.html">Jekyll Liquid 언어 사용법</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Helium 테마 소개" href="/programming/jekyll/jekyll-helium-theme-introduce.html">Helium 테마 소개</a></li>
           
           
           
           
       </ul>
    </li>
-   
-   
-   
+  
+  
+  
+  <li>
+      <a title="HTML" href="#">HTML</a>
+      <ul>
+          
+          
+          
+          <li><a title="Loading Progress Bar" href="/programming/html/html-loading-progress-bar-with-bootstrap.html">Loading Progress Bar</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="DataBase" href="#">DataBase</a>
+      <ul>
+          
+          
+          
+          <li><a title="MySql Workbench Safe Updates" href="/programming/database/mysql-workbench-update-error-safe-updates.html">MySql Workbench Safe Updates</a></li>
+          
+          
+          
+          
+          
+          
+          <li class="active"><a title="DB 마이그레이션 프로세스와 일정" href="/programming/database/database-migration-process-schedule.html">DB 마이그레이션 프로세스와 일정</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="Server" href="#">Server</a>
+      <ul>
+          
+          
+          
+          <li><a title="Windows 10 환경 XAMPP 무설치버전" href="/programming/server/windows-apache-mysql-php-perl-execute-no-install-xampp.html">Windows 10 환경 XAMPP 무설치버전</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="OS" href="#">OS</a>
+      <ul>
+          
+          
+          
+          <li><a title="맥OS 카탈리나(Catalina) 기타볼륨" href="/programming/os/os-macos-catalina-other-volume.html">맥OS 카탈리나(Catalina) 기타볼륨</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="윈도우 유용한 유틸, 설정, 명령어 모음" href="/programming/os/windows-command-util-config.html">윈도우 유용한 유틸, 설정, 명령어 모음</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
 
-   
+  
 
   
   
@@ -436,11 +601,12 @@
   
 
 
-      
-    <!--p class="external">
-        <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
-    </p-->
-      
+  
+    <!-- if you aren't using the accordion, uncomment this block:
+       <p class="external">
+           <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+       </p>
+    -->
 </ul>
 
 <!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
@@ -454,21 +620,20 @@
 
         <!-- Content Column -->
         <div class="col-md-9" id="tg-sb-content">
-            <article class="post" itemscope itemtype="https://schema.org/BlogPosting">
-
-    <header class="post-header">
-        <h1 class="post-title" itemprop="name headline">出端を挫く, 脈が上がる 의미 | 일본어 공부</h1>
-        <p class="post-meta">        
-        <time datetime="2022-05-02T00:00:00+09:00" itemprop="datePublished"><span class="label label-info">2022-05-02</span></time> 
-        <span class="label label-primary">life / language / japanese</span>
-        </p>
-    </header>
-
-    <div class="post-content" itemprop="articleBody">
+            <div class="post-header-no">
+   <h1 class="post-title-main-no">DB(데이터베이스) 마이그레이션 프로세스와 일정 예시</h1>
+</div>
 
 
-        
-        
+
+<div class="post-content">
+
+   
+    <div class="summary">DB(데이터베이스)를 플랫폼을 옮겨서 마이그레이션할 때의 프로세스와 일정에 관한 간략한 예시입니다</div>
+   
+
+    
+    
 <!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
 <script>
 $( document ).ready(function() {
@@ -500,62 +665,100 @@ $("#toc_onoff").click(function() {
 
 
 
-        
+    
 
-        <h2 id="개요">개요</h2>
-<p>이번에는 [<strong>出端を挫く</strong>(ではなをくじく)] vs [<strong>脈が上がる</strong>(みゃくがあがる)] 두가지 표현의 의미를 정리해보겠습니다.</p>
 
-<h2 id="出端を挫くではなをくじく">出端を挫く(ではなをくじく)</h2>
+    
 
-<h3 id="의미">의미</h3>
+   <h2 id="개요">개요</h2>
+<p>DB(데이터베이스)를 사용하는 서비스를 유지하다보면, DB를 마이그레이션 해야 하는 경우가 있습니다.<br />
+DB 마이그레이션에는 여러 종류가 있지만, 여기서는 물리적인 위치나 플랫폼을 바꾸는 경우 예를 들어 아래와 같은 경우에 참고할 만한 내용을 정리해보겠습니다.</p>
+<ul>
+  <li>IDC <i class="fa-solid fa-arrow-right"></i> IDC</li>
+  <li>IDC <i class="fa-solid fa-arrow-right"></i> Cloud</li>
+  <li>Cloud <i class="fa-solid fa-arrow-right"></i> Cloud</li>
+  <li>Cloud <i class="fa-solid fa-arrow-right"></i> IDC</li>
+</ul>
 
-<div class="bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2">
-⁃ <strong>出端(ではな)</strong>는 나가는 순간, 일의 시작을 의미합니다. <br />
-⁃ <strong>挫く(くじく)</strong>는 관절을 삐다, 기세를 꺽다라는 뜻을 가지고 있습니다. <br />
-⁃ 그래서 <strong>出端を挫く</strong>(ではなをくじく)는 <strong>초반에, 초장에 기세를 꺽다, 콧대를 꺽다</strong>라는 표현이 됩니다.
+<h2 id="사전-설정">사전 설정</h2>
+<p>DB 마이그레이션은 애플리케이션 서버와 함께 마이그레이션 하는 경우가 대부분 이므로 그렇게 가정하고 정리해보겠습니다.<br />
+또한, MSSQL, MySQL 등의 DB 종류와 관계없이 일반적인 내용으로 정리하려고 합니다.<br />
+그리고, 디비 마이그레이션은 충분한 시간을 갖고 계획을 수립하고, 디비 백업 파일을 마이그레이션할 대상 플랫폼에 옮겨서 라이브 환경과 동일하게 테스트 환경을 갖추고, 충분한 기간 동안 스트를 진행한 후에 문제가 있으면 수정하는 등, 충분한 시뮬레이션을 거친 후에 진행하기를 추천합니다.</p>
+
+<p>권장하는 구체적인 일정과 상세 내용은 다음과 같습니다.</p>
+
+<h2 id="마이그레이션-일정">마이그레이션 일정</h2>
+<ol>
+  <li>[<strong>추천</strong>] 6~8주전 마이그레이션 계획 수립 시작</li>
+  <li>[<strong>추천</strong>] 4~5주전 마이그레이션 시뮬레이션 실행<br />
+  2-1. [선택] 2주전 2차 마이그레이션 시뮬레이션 실행</li>
+  <li>[<strong><code class="language-plaintext highlighter-rouge">필수</code></strong>] 마이그레이션 실행</li>
+</ol>
+
+<h2 id="마이그레이션-계획-수립-시-필요한-사항">마이그레이션 계획 수립 시 필요한 사항</h2>
+<ul>
+  <li>디비 사용자 계정 정리 (아이디, 패스워드, 용도 등)</li>
+  <li>디비 예약 작업 백업,  리스트 (일정, 용도 등) 정리</li>
+  <li>전체 백업 시에 스토어드 프로시저, 뷰, 트리거, 함수 등을 모두 포함해서 백업할 수 있게 설정</li>
+  <li>백업 전에 불필요한 공간을 줄일 수 있게 디비 축소 진행 (MSSQL)</li>
+  <li>시뮬레이션 진행 시에 필요한 체크리스트 준비</li>
+  <li>체크리스트는 1명이 준비할 경우 빠뜨리는 내용이 있을 수 있으므로 여러 명이 준비해서 함께 정리해야 함 (크로스 체크)</li>
+</ul>
+
+<h2 id="마이그레이션-시뮬레이션-진행-시-고려-사항">마이그레이션 시뮬레이션 진행 시 고려 사항</h2>
+<ul>
+  <li>마이그레이션 대상 플랫폼 서버의 디스크는 백업 파일을 복사할 디스크와 복구될 디비 데이터를 저장할 디스크를 각각 별도로 생성</li>
+  <li>디비 백업 파일을 마이그레이션 대상 플랫폼으로 복사가 완료되기 까지 시간 측정, 기록</li>
+  <li>라이브 환경과 최대한 비슷하게 애플리케이션 서버와 연동해서 사전에 준비한 체크리스트에 맞춰 테스트 진행</li>
+</ul>
+
+<h2 id="일반적인-마이그레이션-절차">일반적인 마이그레이션 절차</h2>
+<ul>
+  <li>서비스 점검 시작</li>
+  <li>디비에 접근하는 애플리케이션 서비스 종료</li>
+  <li>디비 전체 백업</li>
+  <li>디비 백업 파일 마이그레이션 대상 플랫폼으로 복사</li>
+  <li>디비 복구 (계정, 예약 작업 등도 함께)</li>
+  <li>디비 데이터 이상유무 디비에서 확인</li>
+  <li>애플리케이션 서비스 실행</li>
+  <li>서비스 테스트</li>
+</ul>
+
+<div class="bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-3">
+<strong>최소 4주전에 시뮬레이션을 진행해야 하는 이유</strong> <br />
+⁃ 시뮬레이션 진행 중에 문제가 발생했을 경우 문제를 수정할 시간을 확보하기 위해 <br />
+⁃ 예약 작업은 일일, 주간, 월간으로 진행되는 경우가 많은데 최소 4주 전에 진행해야 월간 작업에 문제가 생기지 않는지 확인할 수 있음
 </div>
 
-<h3 id="예문">예문</h3>
+<h2 id="2차-마이그레이션-시뮬레이션">2차 마이그레이션 시뮬레이션</h2>
+<ul>
+  <li>2차 시뮬레이션은 1차에서 문제가 발생해서 다시 한번 시뮬레이션 해봐야 하는 상황이 생겼을 경우 진행</li>
+  <li>2차 시뮬레이션에서도 문제가 발생할 경우 전체 마이그레이션 일정을 연기하고 다시 잡아야 함</li>
+</ul>
 
-<div class="bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1">
-⁃ 試合相手の<strong>出端を挫く</strong>。<br />
-⁃ 初戦に破れて<strong>出端を挫かれて</strong>しまった。<br />
-</div>
-
-<h2 id="脈が上がるみゃくがあがる">脈が上がる(みゃくがあがる)</h2>
-
-<h3 id="의미-1">의미</h3>
-
-<div class="bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2">
-⁃ <strong>脈</strong>(みゃく)는 맥 즉, 맥박을 뜻합니다. <br />
-⁃ <strong>上がる</strong>(あがる)는 많은 뜻이 있지만, 여기서는 어떤 <strong>동작이나 상태가 마지막 단계에 이른다</strong>는 뜻입니다. <br />
-⁃ 그래서 <strong>脈が上がる</strong>(みゃくがあがる)는 맥박이 다했다 즉, <strong>목숨이 다했다, 숨이 끊어졌다, 죽었다</strong>는 뜻이 됩니다.
-</div>
-
-<h3 id="예문-1">예문</h3>
-
-<div class="bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-1">
-⁃ 患者の手を取ると、すでに<strong>脈が上がって</strong>いた。<br />
-</div>
+<h2 id="마이그레이션-실행">마이그레이션 실행</h2>
+<ul>
+  <li>서비스 점검은 시뮬레이션에서 예상된 시간보다 충분히 여유있게 잡아서 만일의 상황을 대비해야 함</li>
+  <li>마이그레이션에 문제가 생기거나 완료 후 테스트에서 문제가 발생했을 경우 이전 플랫폼에서 서비스를 재개할 수 있도록 준비도 필요</li>
+</ul>
 
 
-    </div>
 
-     <div class="tags">
+    <div class="tags">
         
         <b>Tags: </b>
         
         
         
-        <a href="/tag/tag-japan.html" class="btn btn-default navbar-btn cursorNorm" role="button">japan</a>
+        <a href="/tag/tag-database.html" class="btn btn-default navbar-btn cursorNorm" role="button">database</a>
+        
+        
+        
+        <a href="/tag/tag-mysql.html" class="btn btn-default navbar-btn cursorNorm" role="button">mysql</a>
         
         
         
     </div>
-
-
-
-</article>
 
 
 
@@ -576,16 +779,9 @@ $("#toc_onoff").click(function() {
 
 
 
-<div class="mb-30">&nbsp;</div>
-<div class="home">
-    <div class="col-md-12">
-        <ul class="list-style list-unstyled arrow-list arrow-list-three pl-0">
-         
-                     
-        </ul>
-    </div>
+
+
 </div>
-<div class="mb-10">&nbsp;</div>
 
 <hr class="shaded"/>
 
@@ -597,7 +793,7 @@ $("#toc_onoff").click(function() {
                & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
                & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
                
-<span>Page last updated:</span> 2022-05-02<br/> Site last generated: 2023-05-23 <br />
+<span>Page last updated:</span> 2023-05-16<br/> Site last generated: 2023-05-23 <br />
 
                 </div>
             </div>
