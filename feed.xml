@@ -5,8 +5,8 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 01 Jun 2023 23:11:39 +0900</pubDate>
-        <lastBuildDate>Thu, 01 Jun 2023 23:11:39 +0900</lastBuildDate>
+        <pubDate>Fri, 02 Jun 2023 12:42:05 +0900</pubDate>
+        <lastBuildDate>Fri, 02 Jun 2023 12:42:05 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
         
         <item>
@@ -587,6 +587,9 @@ FPS는 30~40 프레임 정도였던 것으로 기억하는데, 게임을 열심�
 
 &lt;p&gt;마치 패시브 스킬처럼 특정 조건에 해당하면 자동으로 스킬이 발동되는 시스템으로 15렙 이후에 슬롯을 개방할 수 있습니다.&lt;br /&gt;
 예를 들어 [&lt;strong&gt;눈보라 (Blizzard)&lt;/strong&gt;] 스킬을 마법부여 슬롯에 등록하면 [&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;15초마다 자신의 머리 위에 눈보라가 생겨나 6초 동안 따라 다닙니다.&lt;/code&gt;&lt;/strong&gt;]라는 스킬이 발동됩니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;퀘스트-시작&quot;&gt;퀘스트 시작&lt;/h2&gt;
+&lt;p&gt;레벨 15가 되면 [&lt;strong&gt;점성술사의 유산&lt;/strong&gt;] 퀘스트가 자동으로 생성됩니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;퀘스트-진행-위치&quot;&gt;퀘스트 진행 위치&lt;/h2&gt;
 &lt;p&gt;[&lt;strong&gt;마법부여&lt;/strong&gt;] 슬롯 개방을 위한 [&lt;strong&gt;점성술사의 유산&lt;/strong&gt;] 퀘스트는 [&lt;strong&gt;키요바샤드&lt;/strong&gt;] 마을에서 7시 방향으로 좀 먼 곳에 위치해 있습니다.&lt;/p&gt;
