@@ -5,9 +5,117 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 03 Jun 2023 21:57:54 +0900</pubDate>
-        <lastBuildDate>Sat, 03 Jun 2023 21:57:54 +0900</lastBuildDate>
+        <pubDate>Sun, 04 Jun 2023 10:21:33 +0900</pubDate>
+        <lastBuildDate>Sun, 04 Jun 2023 10:21:33 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 탈것, 말 얻는 방법, 퀘스트-탈것:도난의 은혜</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;디아블로4는 오픈 월드라 맵이 너무 넓어서 [&lt;strong&gt;탈것&lt;/strong&gt;], 즉 [&lt;strong&gt;말&lt;/strong&gt;]을 빨리 얻어야 이동 속도도 빨리지고 게임 진행도 빨리지는데 도대체 언제 [&lt;strong&gt;말&lt;/strong&gt;]을 얻을 수 있는지 게임 내에서는 정확히 알려주지 않아서 [&lt;strong&gt;말&lt;/strong&gt;]을 얻는 퀘스트인 [&lt;strong&gt;탈것: 도난의 은혜 (Mount: Donan’s Favor)&lt;/strong&gt;]을 어떻게 받고 완료하는지 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;퀘스트-시작&quot;&gt;퀘스트 시작&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;탈것: 도난의 은혜&lt;/strong&gt;] 퀘스트는 1막, 2막, 3막을 완료하고 4막을 시작하면 [&lt;strong&gt;사라진 기술&lt;/strong&gt;] 퀘스트를 진행하게 되고, [&lt;strong&gt;키요바샤드&lt;/strong&gt;] [&lt;strong&gt;대성당&lt;/strong&gt;]에서 [&lt;strong&gt;도난&lt;/strong&gt;]을 만나게 됩니다.  도난을 만나면 퀘스트 얘기를 하다 말고 아래와 같이 말 이야기를 시작합니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;도난: “잠깐, 로라스가 자기 말을 빌려줬소? 아니, 아니지. 내가 무슨 생각을… 그럴리가 없지.”&lt;/li&gt;
+  &lt;li&gt;도난: “마을의 야수 관리인이 내 오랜 친구라오. 그 친구에게 내가 보냈다고 하면 말을 내줄거요.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;alert alert-danger&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-exclamation-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;탈것: 도난의 은혜:&lt;/b&gt;  핵심 정보&lt;br /&gt;
+⁃ 4막 첫번째 퀘스트를 진행하면서 자동으로 [탈것: 도난의 은혜 퀘스트]를 받을 수 있습니다. &lt;br /&gt;
+⁃ &lt;strong&gt;1막, 2막, 3막을 모두 완료해야 4막이 오픈됩니다&lt;/strong&gt;. &lt;br /&gt;
+⁃ 다만, 1막~3막을 순서대로 하지 않아도 됩니다. 저는 3막-1막-2막 이렇게 진행했습니다. &lt;br /&gt;
+⁃ 혹시 3막만 완료하면 4막이 오픈되지 않을까 생각해서 테스트 해봤는데 안됩니다. 어쨋거나 1, 2, 3막을 모두 완료해야 합니다.
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;퀘스트-진행&quot;&gt;퀘스트 진행&lt;/h2&gt;
+&lt;p&gt;도난과 대화가 끝나면 바로 [&lt;strong&gt;탈것: 도난의 은혜&lt;/strong&gt;]가 퀘스트 목록에 추가되면서 퀘스트가 진행됩니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;퀘스트 제목: 탈것: 도난의 은혜&lt;/li&gt;
+  &lt;li&gt;퀘스트 목표: 키요바샤드에 있는 야수 관리인과 대화&lt;/li&gt;
+  &lt;li&gt;퀘스트 설명: 도난이 키요바샤드에 있는 야수 관리인에게 부탁해서 내게 말을 한마리 내어 주기로 했다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;퀘스트-완료&quot;&gt;퀘스트 완료&lt;/h2&gt;
+&lt;p&gt;키요바샤드 마을 중앙 포탈에서 8시 방향에 있는 [&lt;strong&gt;야수 관리인 오스카&lt;/strong&gt;]를 만나서 이야기하면 퀘스트가 완료됩니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;“전 도난의 동료입니다. 당신이 말을 줄 거라고 하더군요”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-04.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;탈것-가이드&quot;&gt;탈것 가이드&lt;/h2&gt;
+&lt;p&gt;퀘스트가 완료되면 탈것에 대한 상세 가이드가 나타납니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;탈것은 야수 관리인에게 구매하거나 성역 전체에서 획득할 수 있습니다.&lt;/li&gt;
+  &lt;li&gt;획득한 탈것은 계정의 모든 캐릭터가 이용할 수 있습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-05.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;탈것-소환&quot;&gt;탈것 소환&lt;/h3&gt;
+&lt;p&gt;탈것을 소환하는 단축키는 아래와 같습니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;키보드: [&lt;strong&gt;Z&lt;/strong&gt;] 키&lt;/li&gt;
+  &lt;li&gt;XBOX 패드: 방향키 오른쪽&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-06.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;탈것-질주&quot;&gt;탈것 질주&lt;/h3&gt;
+&lt;p&gt;탈것은 빠른 속도로 질주할 수 있고, 질주는 최대 3번 차징됩니다. 단축키는 아래와 같습니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;키보드: [&lt;strong&gt;Space&lt;/strong&gt;] 키&lt;/li&gt;
+  &lt;li&gt;XBOX 패드: [&lt;strong&gt;RT&lt;/strong&gt;]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-07.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;탈것에서-떨어짐&quot;&gt;탈것에서 떨어짐&lt;/h3&gt;
+&lt;p&gt;탈것이 너무 많은 몹들에게 둘러싸이면 겁을 먹고 게이지가 충전되는데 게이지가 가득차면 자동으로 탈것에서 떨어집니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-08.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;탈것-선택&quot;&gt;탈것 선택&lt;/h3&gt;
+&lt;p&gt;언제든 야수 관리인을 방문하면 다른 탈것을 선택하거나 탈것 장비도 변경할 수 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-09.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;탈것-실제-모습&quot;&gt;탈것 실제 모습&lt;/h3&gt;
+&lt;p&gt;제가 선택한 탈것과 장비를 장착하고 필드에서 스샷을 찍어봤습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-11.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;탈것-내리기&quot;&gt;탈것 내리기&lt;/h3&gt;
+&lt;p&gt;위 스샷에서 보시면 질주 옆에 2개 스킬 아이콘이 보입니다. 바로 탈것 내리기인데 2가지 종류가 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;공격하면서 탈것 내리기: 내리면서 광역 공격을 합니다. 예를 들어 도적은 화살비가 쏟아집니다.&lt;/li&gt;
+  &lt;li&gt;그냥 탈것 내리기: 그냥 말에서 조용히 내립니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;부캐에서-탈것-탑승&quot;&gt;부캐에서 탈것 탑승&lt;/h2&gt;
+&lt;p&gt;메인 캐릭터에서 탈것을 획득하고 나면 아래 스샷처럼 부캐는 시작할 때부터 탈것을 탑승할 수 있습니다. 자세히 보면 레벨 5인 것을 알 수 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-10.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;탈것이라-부르는-이유&quot;&gt;탈것이라 부르는 이유&lt;/h2&gt;
+&lt;p&gt;디아블로에서 굳이 [&lt;strong&gt;말&lt;/strong&gt;]이라고 하지 않고 [&lt;strong&gt;탈것&lt;/strong&gt;]이라고 부르는 이유를 생각해보면 앞으로 말이 아닌 다른 동물이나 몬스터도 탑승할 수 있게 업데이트되지 않을까 생각됩니다.&lt;/p&gt;
+</description>
+            <pubDate>Sat, 03 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-quest-mount-favor-of-donan-guide.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-quest-mount-favor-of-donan-guide.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 베타 늑대 가방 꾸미기 아이템 받는 곳 정보</title>
@@ -570,53 +678,6 @@ FPS는 30~40 프레임 정도였던 것으로 기억하는데, 게임을 열심�
             <pubDate>Mon, 27 Mar 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-beta-minimum-pc-spec.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-beta-minimum-pc-spec.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 (Diablo 4) 오픈 베타 캐릭터 음성이 나오지 않는 문제 해결 방법</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;디아블로4 (Diablo 4) 오픈 베타가 3월 25일 01시부터 시작되었는데, 게임 내에서 캐릭터 음성이 나오지 않는 문제가 발생했습니다.&lt;br /&gt;
-디아블로는 스토리 진행이 매우 중요하고 NPC 등의 사운드, 음성이 나오지 않으면 게임이 지루하고 재미가 없다고 느껴지기 때문에 반드시 해결해야 하는데, 해결 방법이 생각보다 간단합니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;배틀넷-런처-설정&quot;&gt;배틀넷 런처 설정&lt;/h2&gt;
-&lt;p&gt;일단 게임을 종료하고 아래 스샷처럼 배틀넷 런처에서 [&lt;strong&gt;플레이&lt;/strong&gt;] 버튼 옆에 있는 설정 아이콘( &lt;i class=&quot;fa-sharp fa-solid fa-gear&quot;&gt;&lt;/i&gt; )을 클릭해서 [&lt;strong&gt;게임 설정&lt;/strong&gt;] 메뉴를 선택합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-beta-no-voice-issue-01.png&quot; alt=&quot;디아블로4 (Diablo 4) 오픈 베타에서 게임 내 캐릭터 음성이 나오지 않는 문제 해결 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;음성-언어-변경&quot;&gt;음성 언어 변경&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;게임 설정&lt;/strong&gt;] 화면에서 [&lt;strong&gt;텍스트 및 음성 언어&lt;/strong&gt;]를 [&lt;strong&gt;English&lt;/strong&gt;]로 변경합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-beta-no-voice-issue-02.png&quot; alt=&quot;디아블로4 (Diablo 4) 오픈 베타에서 게임 내 캐릭터 음성이 나오지 않는 문제 해결 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;[&lt;strong&gt;English&lt;/strong&gt;]를 선택하면 [&lt;strong&gt;언어를 변경하려면 새로운 데이터를 다운로드해야할 수도 있습니다&lt;/strong&gt;]라는 메시지가 뜨는데, [&lt;strong&gt;확인&lt;/strong&gt;] 버튼을 클릭하면 데이터가 다운로드 됩니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-beta-no-voice-issue-03.png&quot; alt=&quot;디아블로4 (Diablo 4) 오픈 베타에서 게임 내 캐릭터 음성이 나오지 않는 문제 해결 방법&quot; style=&quot;width: 398px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;데이터 다운로드가 완료되었으면 다시 [&lt;strong&gt;한국어&lt;/strong&gt;]로 변경합니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-beta-no-voice-issue-04.png&quot; alt=&quot;디아블로4 (Diablo 4) 오픈 베타에서 게임 내 캐릭터 음성이 나오지 않는 문제 해결 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;모두 끝났으면 오른쪽 아래쪽에 있는 [&lt;strong&gt;완료&lt;/strong&gt;] 버튼을 클릭하고, 게임을 실행하면 됩니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-beta-no-voice-issue-05.png&quot; alt=&quot;디아블로4 (Diablo 4) 오픈 베타에서 게임 내 캐릭터 음성이 나오지 않는 문제 해결 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Fri, 24 Mar 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-beta-no-voice-issue.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-beta-no-voice-issue.html</guid>
             
             <category>diablo</category>
             
