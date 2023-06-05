@@ -5,73 +5,9 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Jun 2023 10:04:45 +0900</pubDate>
-        <lastBuildDate>Mon, 05 Jun 2023 10:04:45 +0900</lastBuildDate>
+        <pubDate>Mon, 05 Jun 2023 10:23:55 +0900</pubDate>
+        <lastBuildDate>Mon, 05 Jun 2023 10:23:55 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
-        
-        <item>
-            <title>디아블로4 1일차 득템 자랑, 아이템 상세 정보</title>
-            <description>&lt;h2 id=&quot;1일차-득템&quot;&gt;1일차 득템&lt;/h2&gt;
-&lt;p&gt;디아블로4를 플레이 1일차에 획득한 전설 아이템 중에서 눈에 띄는 아이템 몇가지에 대한 정보를 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;전설-단검-끊어지지-않는-끈의-뼈-칼날&quot;&gt;[전설 단검] 끊어지지 않는 끈의 뼈 칼날&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;적중당 공격력 [123 - 185]&lt;/li&gt;
-  &lt;li&gt;초당 공격 횟수 1.20 (매우 빠른 무기)&lt;/li&gt;
-  &lt;li&gt;근거리에 있는 적에게 주는 피해 [7.8]%&lt;/li&gt;
-  &lt;li&gt;핵심 기술 피해 +[4.5 - 7.8]%&lt;/li&gt;
-  &lt;li&gt;지속 피해 +[2.6 - 5.8]%&lt;/li&gt;
-  &lt;li&gt;지능 +[17 - 23]&lt;/li&gt;
-  &lt;li&gt;요구 레벨: 12&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;&lt;strong&gt;연쇄 번개&lt;/strong&gt;가 [25 - 35]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;확률로 2번 추가로 연쇄됩니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 1일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 590px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;전설-장갑-세-가지-저주의-골편-팔목-장갑&quot;&gt;[전설 장갑] 세 가지 저주의 골편 팔목 장갑&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;행운의 적중 확률 +[2.6 - 6.5]%&lt;/li&gt;
-  &lt;li&gt;힘 +[17 - 25]&lt;/li&gt;
-  &lt;li&gt;연쇄 번개 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
-  &lt;li&gt;소각 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
-  &lt;li&gt;요구 레벨: 18&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;&lt;strong&gt;운석 낙하&lt;/strong&gt;가 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;건강 상태의 대상에게 주는 극대화 피해가&lt;/code&gt;&lt;/strong&gt; [35 - 50]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 1일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 488px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;전설-중심점-기대하는-자의-수수께끼의-함&quot;&gt;[전설 중심점] 기대하는 자의 수수께끼의 함&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;적중당 공격력 [176 - 264]&lt;/li&gt;
-  &lt;li&gt;초당 공격 횟수 1.20 (매우 빠른 무기)&lt;/li&gt;
-  &lt;li&gt;재사용 대기시간 감소 [4.5]%&lt;/li&gt;
-  &lt;li&gt;의지력 +[17 - 25]&lt;/li&gt;
-  &lt;li&gt;힘 +[17 - 25]&lt;/li&gt;
-  &lt;li&gt;민첩 +[17 - 25]&lt;/li&gt;
-  &lt;li&gt;모든 능력치 +[7 - 10]&lt;/li&gt;
-  &lt;li&gt;요구 레벨: 21&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;적을&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;기본&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;기술로 공격하면 다음으로 시전하는&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;핵심&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;기술이 주는 피해가&lt;/code&gt;&lt;/strong&gt; [5 - 10]%&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;만큼, 최대&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;30%&lt;/strong&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;까지 증가합니다.&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 1일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 576px;&quot; /&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Sun, 04 Jun 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-day1-get-legendary-item-info.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day1-get-legendary-item-info.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
         
         <item>
             <title>디아블로4 탈것, 말 얻는 방법, 퀘스트-탈것:도난의 은혜</title>
@@ -205,6 +141,70 @@
             <pubDate>Sat, 03 Jun 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-gem-crafting-level-requirement.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-gem-crafting-level-requirement.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>디아블로4 1일차 득템 자랑, 아이템 상세 정보</title>
+            <description>&lt;h2 id=&quot;1일차-득템&quot;&gt;1일차 득템&lt;/h2&gt;
+&lt;p&gt;디아블로4를 플레이 1일차에 획득한 전설 아이템 중에서 눈에 띄는 아이템 몇가지에 대한 정보를 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;전설-단검-끊어지지-않는-끈의-뼈-칼날&quot;&gt;[전설 단검] 끊어지지 않는 끈의 뼈 칼날&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;적중당 공격력 [123 - 185]&lt;/li&gt;
+  &lt;li&gt;초당 공격 횟수 1.20 (매우 빠른 무기)&lt;/li&gt;
+  &lt;li&gt;근거리에 있는 적에게 주는 피해 [7.8]%&lt;/li&gt;
+  &lt;li&gt;핵심 기술 피해 +[4.5 - 7.8]%&lt;/li&gt;
+  &lt;li&gt;지속 피해 +[2.6 - 5.8]%&lt;/li&gt;
+  &lt;li&gt;지능 +[17 - 23]&lt;/li&gt;
+  &lt;li&gt;요구 레벨: 12&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;&lt;strong&gt;연쇄 번개&lt;/strong&gt;가 [25 - 35]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;확률로 2번 추가로 연쇄됩니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 1일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 590px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;전설-장갑-세-가지-저주의-골편-팔목-장갑&quot;&gt;[전설 장갑] 세 가지 저주의 골편 팔목 장갑&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;행운의 적중 확률 +[2.6 - 6.5]%&lt;/li&gt;
+  &lt;li&gt;힘 +[17 - 25]&lt;/li&gt;
+  &lt;li&gt;연쇄 번개 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
+  &lt;li&gt;소각 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
+  &lt;li&gt;요구 레벨: 18&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;&lt;strong&gt;운석 낙하&lt;/strong&gt;가 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;건강 상태의 대상에게 주는 극대화 피해가&lt;/code&gt;&lt;/strong&gt; [35 - 50]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 1일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 488px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;전설-중심점-기대하는-자의-수수께끼의-함&quot;&gt;[전설 중심점] 기대하는 자의 수수께끼의 함&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;적중당 공격력 [176 - 264]&lt;/li&gt;
+  &lt;li&gt;초당 공격 횟수 1.20 (매우 빠른 무기)&lt;/li&gt;
+  &lt;li&gt;재사용 대기시간 감소 [4.5]%&lt;/li&gt;
+  &lt;li&gt;의지력 +[17 - 25]&lt;/li&gt;
+  &lt;li&gt;힘 +[17 - 25]&lt;/li&gt;
+  &lt;li&gt;민첩 +[17 - 25]&lt;/li&gt;
+  &lt;li&gt;모든 능력치 +[7 - 10]&lt;/li&gt;
+  &lt;li&gt;요구 레벨: 21&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;적을&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;기본&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;기술로 공격하면 다음으로 시전하는&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;핵심&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;기술이 주는 피해가&lt;/code&gt;&lt;/strong&gt; [5 - 10]%&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;만큼, 최대&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;30%&lt;/strong&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;까지 증가합니다.&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 1일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 576px;&quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Sat, 03 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-day1-get-legendary-item-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day1-get-legendary-item-info.html</guid>
             
             <category>diablo</category>
             
