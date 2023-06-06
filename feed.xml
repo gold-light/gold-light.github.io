@@ -5,9 +5,89 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 05 Jun 2023 10:57:51 +0900</pubDate>
-        <lastBuildDate>Mon, 05 Jun 2023 10:57:51 +0900</lastBuildDate>
+        <pubDate>Wed, 07 Jun 2023 08:05:39 +0900</pubDate>
+        <lastBuildDate>Wed, 07 Jun 2023 08:05:39 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 [온천의 비밀] 퀘스트 완료하는 방법</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;디아블로4 서브 퀘스트 중에서 [&lt;strong&gt;조각난 봉우리&lt;/strong&gt;] 지역에서 진행되는 [&lt;strong&gt;온천의 비밀&lt;/strong&gt;] 퀘스트 (Secret Of The Spring)는 어떻게 완료할 수 있는지, 어떤 방법으로 깰 수 있는지 퀘스트 설명에 명확하게 나오지 않아서 헤매다 알게 된 방법을 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;퀘스트-시작&quot;&gt;퀘스트 시작&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;온천의 비밀&lt;/strong&gt;] 퀘스트는 [&lt;strong&gt;키요바샤드&lt;/strong&gt;] 위쪽에서 진행할 수 있는데 아래 스샷을 보면 화살표로 표시한 조그만 지역입니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;퀘스트-내용&quot;&gt;퀘스트 내용&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;온천의 비밀&lt;/strong&gt;] 퀘스트 내용은 아래와 같은데, 설명을 자세히 보면 &lt;strong&gt;인내&lt;/strong&gt;라는 단어가 나옵니다. 이 단어가 바로 힌트입니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;퀘스트 제목: 온천의 비밀&lt;/li&gt;
+  &lt;li&gt;퀘스트 목표: 종이에 적힌 수수께끼 풀기&lt;/li&gt;
+  &lt;li&gt;퀘스트 설명: 수수께끼 같은 글이 적힌 종이를 발견했다.&lt;br /&gt;
+“겨울의 품에서 깜빡이는 온기, 자연의 은총이 &lt;strong&gt;인내&lt;/strong&gt;에 보답하리.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 420px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;퀘스트-진행&quot;&gt;퀘스트 진행&lt;/h2&gt;
+&lt;p&gt;아래 스샷처럼 지도에 표시된 지역에 가면 조그만 웅덩이 처럼 생긴 온천이 보이는데 우선 그 앞으로 다가섭니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;그 자리에서 감정표현이나 던전나가기 등의 단축 명령어를 실행할 수 있는 팝업창을 띄웁니다.&lt;br /&gt;
+키보드-마우스로 플레이할 때는 [&lt;strong&gt;마우스 휠&lt;/strong&gt;] 버튼입니다. 그런데 기본 설정된 감정표현 중에는 퀘스트를 완료할 수 있는 감정표현이 없습니다. &lt;br /&gt;
+여기서 감정표현을 추가하기 위해 아래쪽의 [&lt;strong&gt;사용자 지정&lt;/strong&gt;] 메뉴를 실행합니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-04.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;화면에 추가 가능한 감정표현 리스트가 나오는데 그 중에서 아래쪽으로 스크롤해서 [&lt;strong&gt;대기&lt;/strong&gt;] (Wait) 감정표현을 선택하고 [&lt;strong&gt;지정&lt;/strong&gt;]합니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-05.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;이제 어디에 지정할 것인지 선택할 수 있는데, 비어있는 곳을 선택하고 [&lt;strong&gt;지정&lt;/strong&gt;]합니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-06.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;그러면 아래와 같이 [&lt;strong&gt;대기&lt;/strong&gt;] (Wait) 감정표현이 등록된 것을 확인할 수 있는데, 마지막으로 [&lt;strong&gt;변경 내용 적용&lt;/strong&gt;]을 선택해서 적용합니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-07.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;퀘스트-완료&quot;&gt;퀘스트 완료&lt;/h2&gt;
+&lt;p&gt;적용하고 나서 다시 단축 메뉴 팝업을 띄워서 등록된 [&lt;strong&gt;대기&lt;/strong&gt;] 감정표현을 선택합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-08.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[&lt;strong&gt;대기&lt;/strong&gt;]를 선택하고 나면 퀘스트가 완료되면서 [&lt;strong&gt;파뭍힌 궤짝&lt;/strong&gt;]이 온천 위쪽에 나타납니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-09.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[&lt;strong&gt;파뭍힌 궤짝&lt;/strong&gt;]을 열면 물약 재료 아이템등이 떨어지면서 [&lt;strong&gt;온천의 비밀&lt;/strong&gt;] 퀘스트가 완료되었다는 알림 팝업이 나타나면서 모든 퀘스트가 완료됩니다. 다들 고생하셨습니다. 모두 선조 아이템 얻으시길 바랍니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-10.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Mon, 05 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-quest-secret-of-the-spring-guide.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-quest-secret-of-the-spring-guide.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 재료 [으깬 야수 뼈] 획득 위치 정보</title>
@@ -583,40 +663,6 @@
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-beta-server-slam-info.html</guid>
             
             <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[낭만닥터 김사부] 시즌3 장동화가 탈북자 치료하다 말고 도망간 이유가 혹시 본인도 탈북자라서?</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;낭만닥터 김사부3에서 돌담병원에 새로온 GS전공의 3년차 장동화가 탈북자 치료하다 말고 도망간 이유가 사실은 본인도 탈북자라서 그런게 아닌가 하는 이야기가 있어서 한번 찾아봤더니 진짜 정체가 [tvN 사랑의 불시착] 북한군 민경대대 5중대 하사 박광범이었다는 것을 알 수 있었습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;장동화&quot;&gt;장동화&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;배우: 이신영&lt;/li&gt;
-  &lt;li&gt;GS(일반외과) 전공의 3년차&lt;/li&gt;
-  &lt;li&gt;캐릭터 설명: “의사들도 워라밸 중요시할 때가 왔어요”라고 외치는 돌담병원의 혈압 유발자 장금쪽이. 궂은일, 험한 일 싫어하고, 책임지는 일? 딱 부담스럽다. 있어 보이고 싶어서 의사가 됐는데, 막연하게 멋있고는 싶지만 구체적으로 어떻게 해야 하는지는 모른다. 선배 서우진 밑에서 빡빡하게 일하며 사사건건 맞부딪히고, 김사부의 호통에 억울하기만 한 고된 돌담생활이 시작된다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/sbs-romantic-doctor-teacher-kim-season3-02.png&quot; alt=&quot;[SBS 드라마 낭만닥터 김사부] 시즌3 GS전공의 장동화가 탈북자 치료하다 말고 도망간 이유가 본인도 탈북자라서 그런게 아닌가 하는 이야기가 있네요&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: SBS 드라마 낭만닥터 김사부 시즌3 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;하사-박광범&quot;&gt;하사 박광범&lt;/h2&gt;
-&lt;p&gt;[tvN 사랑의 불시착] 북한군 민경대대 5중대 하사 박광범으로 출연했었군요. 혹시 그래서 본인도 탈북자라 탈북자 수술을 앞두고 도망간 걸까요? ㅎㅎ&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/tvn-crash-landing-on-you-01.png&quot; alt=&quot;[SBS 드라마 낭만닥터 김사부] 시즌3 GS전공의 장동화가 탈북자 치료하다 말고 도망간 이유가 본인도 탈북자라서 그런게 아닌가 하는 이야기가 있네요&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: tvN 드라마 사랑의 불시착 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;리바운드-기범&quot;&gt;리바운드 기범&lt;/h2&gt;
-&lt;p&gt;그리고 얼마전에 개봉했던 장항준 감독, 김은희 작가의 영화 리바운드에서 부산 중앙고 선수 기범으로 출연도 했었네요.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/rebound-poster-01.jpg&quot; alt=&quot;[SBS 드라마 낭만닥터 김사부] 시즌3 GS전공의 장동화, 영화 리바운드에서 기범역으로 출연했었군요&quot; style=&quot;width: 420px;  &quot; /&gt;&lt;figcaption&gt;사진 출처: 영화 리바운드 공식 포스터&lt;/figcaption&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Tue, 02 May 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/drama/korea/sbs-romantic-doctor-teacher-kim-season3-character-dr-jang.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/drama/korea/sbs-romantic-doctor-teacher-kim-season3-character-dr-jang.html</guid>
-            
-            <category>drama</category>
             
             
         </item>
