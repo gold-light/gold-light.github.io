@@ -5,8 +5,8 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 07 Jun 2023 08:05:39 +0900</pubDate>
-        <lastBuildDate>Wed, 07 Jun 2023 08:05:39 +0900</lastBuildDate>
+        <pubDate>Thu, 08 Jun 2023 08:47:26 +0900</pubDate>
+        <lastBuildDate>Thu, 08 Jun 2023 08:47:26 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
         
         <item>
@@ -83,6 +83,105 @@
             <pubDate>Mon, 05 Jun 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-quest-secret-of-the-spring-guide.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-quest-secret-of-the-spring-guide.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>디아블로4 3일차 득템 자랑, 아이템 상세 정보</title>
+            <description>&lt;h2 id=&quot;3일차-득템&quot;&gt;3일차 득템&lt;/h2&gt;
+&lt;p&gt;디아블로4를 플레이 3일차에 획득한 전설 아이템 중에서 눈에 띄는 아이템 몇가지에 대한 정보를 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;전설-바지-불복의-모험가의-바지&quot;&gt;[전설 바지] 불복의 모험가의 바지&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;부상 상태일 때, 물약이 추가로 2초 동안 이동속도 20% 부여&lt;/li&gt;
+  &lt;li&gt;정예 처치 후 4초 동안 공격력 +[9.0 - 16.0]%&lt;/li&gt;
+  &lt;li&gt;가시 +[65 - 115]&lt;/li&gt;
+  &lt;li&gt;근거리이 있는 적에게 받는 피해 감소 [6.0 - 9.5]%&lt;/li&gt;
+  &lt;li&gt;눈보라 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
+  &lt;li&gt;요구레벨: 30&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;어떤 형태로든 피해를 주면 방어도가 4초 동안&lt;/code&gt;&lt;/strong&gt; [0.25 - 0.50]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가합니다. 이효과는 최대&lt;/code&gt;&lt;/strong&gt; [25.00 - 50.00]%&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;까지 중첩됩니다.&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-04.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 3일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 612px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;전설-지팡이-꿰뚫는-추위의-마력-지팡이&quot;&gt;[전설 지팡이] 꿰뚫는 추위의 마력 지팡이&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;적중당 공격력 [542 - 812]&lt;/li&gt;
+  &lt;li&gt;초당 공격 횟수 11.00&lt;/li&gt;
+  &lt;li&gt;군중 제어 상태 효과의 영향을 받는 적에게 주는 피해 +18%&lt;/li&gt;
+  &lt;li&gt;감속 적에게 주는 피해 +[19.0 - 26.0]%&lt;/li&gt;
+  &lt;li&gt;빙결 적에게 주는 피해 +[9.0 - 16.0]%&lt;/li&gt;
+  &lt;li&gt;모든 능력치 +[26 - 34]&lt;/li&gt;
+  &lt;li&gt;오한 적에게 주는 피해 +[9.0 - 16.0]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 33&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;&lt;strong&gt;얼음 파편&lt;/strong&gt;이 [7 - 9]&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;번 관통하면서, 적을 추가로 적중할 때마다&lt;/code&gt;&lt;/strong&gt; [13 - 10]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;감소한 피해를 줍니다. (원소술사 전용))&lt;/code&gt;&lt;/strong&gt;&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-05.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 3일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 660px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;전설-투구-위세의-모험가의-투구&quot;&gt;[전설 투구] 위세의 모험가의 투구&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;번개 저항 [17.5 - 28.0]%&lt;/li&gt;
+  &lt;li&gt;암흑 저항 [17.5 - 28.0]%&lt;/li&gt;
+  &lt;li&gt;군중 제어 효과의 지속시간 +[3.0 - 6.5]%&lt;/li&gt;
+  &lt;li&gt;민첩 +[18 -25]%&lt;/li&gt;
+  &lt;li&gt;요구 레벨: 34&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;기본&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;기술이&lt;/code&gt;&lt;/strong&gt; [2.0 - 6.0]&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;초 동안 20%의 피해 감소를 부여합니다.&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-06.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 3일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 472px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;전설-반지-정령-술사의-원&quot;&gt;[전설 반지] 정령 술사의 원&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;냉기 저항 19.5%&lt;/li&gt;
+  &lt;li&gt;화염 저항 19.5%&lt;/li&gt;
+  &lt;li&gt;오한 적에게 주는 피해 +[5.8 - 10.4]%&lt;/li&gt;
+  &lt;li&gt;극대화 피해 +[11.1 - 15.6]%&lt;/li&gt;
+  &lt;li&gt;취약 피해 +[12.3 - 16.9]%&lt;/li&gt;
+  &lt;li&gt;보호막 생성량 +[5.8 - 10.4]%&lt;/li&gt;
+  &lt;li&gt;요구 레벨: 40&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;마나가 100 이상일 때&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;핵심&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;또는&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;숙련&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;기술을 시전하면 극대화 확률이&lt;/code&gt;&lt;/strong&gt; +[20.0 - 40.0]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-08.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 3일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 491px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;전설-투구-눈의-장막-모험가의-투구&quot;&gt;[전설 투구] 눈의 장막 모험가의 투구&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;최근 피해를 받지 않았을 때 생명력 재생량 +[9 - 19]&lt;/li&gt;
+  &lt;li&gt;최대 생명력 +[58 - 108]&lt;/li&gt;
+  &lt;li&gt;기본 기술 공격 속도 +[3.2 - 6.0]%&lt;/li&gt;
+  &lt;li&gt;보호막 생성량 +[4.5 - 8.0]%&lt;/li&gt;
+  &lt;li&gt;요구 레벨: 40&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;얼음 갑옷&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;시전 시&lt;/code&gt;&lt;/strong&gt; [2.0 - 3.0]&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;초 동안&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;저지 불가&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;상태가 됩니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-07.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 3일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 491px;&quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Mon, 05 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-day3-get-legendary-item-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day3-get-legendary-item-info.html</guid>
             
             <category>diablo</category>
             
@@ -599,68 +698,6 @@
             <pubDate>Thu, 04 May 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-sorcerer-enchantment-list.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-sorcerer-enchantment-list.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 (Diablo 4) 두번째 오픈베타 서버 슬램 테스트 정보</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;디아블로4 (Diablo 4) 5월 13일부터 두번째 오픈베타를 진행한다고 합니다. 이번 테스트는 [서버 슬램 (Server Slam)]이라는 이름으로 진행되는데, Slam을 사전에서 찾아보면 [강타하다, 때리다, 쾅 닫다] 등의 뜻을 나타내며, 슬램덩크의 바로 그 슬램입니다.&lt;/p&gt;
-
-&lt;p&gt;그래서 디아블로4의 서버 슬램이란, 6월 6일 정식 오픈 전에 마지막으로 수 많은 유저들로 서버를 강타하는 즉, 서버 성능을 최대한으로 테스트 해보는 기간이라고 할 수 있습니다. 바로 이 서버 슬램 테스트에 관한 정보를 정리해보겠습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-server-slam-01.png&quot; alt=&quot;디아블로4 (Diablo 4) 두번째 오픈베타 서버 슬램 테스트 정보를 정리해봤습니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;이미지 출처: 디아블로4 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;기간&quot;&gt;기간&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;한국 시각 기준 &lt;strong&gt;5월 13일(토) 04시&lt;/strong&gt; ~ &lt;strong&gt;5월 15일(월) 04시&lt;/strong&gt;까지&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;주요-변경-사항&quot;&gt;주요 변경 사항&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;얼리 액세스와 오픈 베타 주말 기간의 게임 진행 상황은 서버 슬램으로 이전되지 않습니다. 또한 서버 슬램 기간의 게임 진행 상황도 출시 이후로 이전되지 않습니다.&lt;/li&gt;
-  &lt;li&gt;플레이어는 캐릭터를 20레벨까지 성장시킬 수 있으며, 이후에도 능력 포인트는 얻을 수 없지만 계속해서 악마들을 학살하고 매혹적인 장비를 획득할 수 있습니다.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;전설 아이템 획득 확률은 조정&lt;/strong&gt;되어 디아블로 IV 출시 버전에 적용될 &lt;strong&gt;실제 획득 확률이 적용&lt;/strong&gt;됩니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;필드-보스-아샤바&quot;&gt;필드 보스 아샤바&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;등장 시간: 한국 시각 기준 &lt;strong&gt;5월 14일(일) 01시&lt;/strong&gt; ~ &lt;strong&gt;5월 15일(월) 01시&lt;/strong&gt;까지 &lt;strong&gt;3시간 마다&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;레벨 제한: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Lv.20 부터 전투 참여 가능&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;슬램-참여-보상&quot;&gt;슬램 참여 보상&lt;/h2&gt;
-&lt;p&gt;서버 슬램에 참여하고 Lv.20을 달성한 후에 필드 보스 아샤바를 쓰러뜨리면 아래 스샷에 보이는 특별 보상을 받을 수 있습니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;(신규)아샤바의 절규 탈것 노획품: &lt;strong&gt;탈것 꾸미기 아이템&lt;/strong&gt;이며, 20레벨 캐릭터로 아샤바를 처치하면 획득&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-server-slam-03.png&quot; alt=&quot;디아블로4 (Diablo 4) 두번째 오픈베타 서버 슬램 테스트 정보를 정리해봤습니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;이미지 출처: 디아블로4 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;기존-보상&quot;&gt;기존 보상&lt;/h2&gt;
-&lt;p&gt;슬램 참여 보상 외에도 이전에 진행했던 얼리 액세스나 오픈 베타의 보상도 여전히 받을 수 있으며 지난 테스트에서 이미 달성한 경우에는 중복지급되지는 않습니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;초기의 사상자(가칭) 칭호: 한 캐릭터로 키요바샤드에 도달하면 획득할 수 있습니다.&lt;/li&gt;
-  &lt;li&gt;부지런한 항해자(가칭) 칭호: 한 캐릭터로 20레벨을 달성하면 획득할 수 있습니다.&lt;/li&gt;
-  &lt;li&gt;베타 늑대 가방 꾸미기 아이템: 한 캐릭터로 20레벨을 달성하면 획득할 수 있습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;클라이언트-다운로드&quot;&gt;클라이언트 다운로드&lt;/h2&gt;
-&lt;p&gt;서버 슬램 클라이언트는 아래 시간부터 다운로드 가능하며, 이전에 얼리 액세스나 오픈 베타 클라이언트가 설치되어 있다면 사전 다운로드 기간이 시작되면, 업데이트를 다운로드할 수 있습니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;시간: 한국 시각 기준 &lt;strong&gt;5월 11일(목) 04시&lt;/strong&gt; 시작&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-server-slam-02.png&quot; alt=&quot;디아블로4 (Diablo 4) 두번째 오픈베타 서버 슬램 테스트 정보를 정리해봤습니다&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;이미지 출처: 디아블로4 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Wed, 03 May 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-beta-server-slam-info.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-beta-server-slam-info.html</guid>
             
             <category>diablo</category>
             
