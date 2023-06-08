@@ -5,9 +5,107 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 08 Jun 2023 08:47:26 +0900</pubDate>
-        <lastBuildDate>Thu, 08 Jun 2023 08:47:26 +0900</lastBuildDate>
+        <pubDate>Thu, 08 Jun 2023 22:25:56 +0900</pubDate>
+        <lastBuildDate>Thu, 08 Jun 2023 22:25:56 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 5일차 득템 자랑, 전설 아이템 상세 정보</title>
+            <description>&lt;h2 id=&quot;5일차-득템&quot;&gt;5일차 득템&lt;/h2&gt;
+&lt;p&gt;디아블로4를 플레이 5일차에 획득한 전설 아이템 중에서 눈에 띄는 아이템 몇가지에 대한 정보를 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;전설-장화-유랑방랑자-군장-장화&quot;&gt;[전설 장화] 유랑방랑자 군장 장화&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;피하기 최대 충전 +1&lt;/li&gt;
+  &lt;li&gt;번개 저항 [22.1 - 34.8]%&lt;/li&gt;
+  &lt;li&gt;회피 확률 [2.5 - 4.3]%&lt;/li&gt;
+  &lt;li&gt;얼음 갑옷 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
+  &lt;li&gt;서릿발 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
+  &lt;li&gt;요구레벨: 38&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;저지 불가&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;상태인 동안과 그 후 4초 동안, 이동 속도가&lt;/code&gt;&lt;/strong&gt; [10 - 25]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가하고 적 사이를 제약 없이 이동할 수 있습니다.&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-09.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 5일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 557px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;전설-투구-서리-대공세-마인-투구&quot;&gt;[전설 투구] 서리 대공세 마인 투구&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;최대 생명력 +[112 - 211]&lt;/li&gt;
+  &lt;li&gt;민첩 +[23 - 33]&lt;/li&gt;
+  &lt;li&gt;최근 피해를 받지 않았을 때 생명력 재생량 +[18 - 38]&lt;/li&gt;
+  &lt;li&gt;번개 저항 [22.1 - 34.8]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 40&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;서릿발&lt;/strong&gt;이 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;추가 충전을 얻지만 충전당 재사용 대기시간이&lt;/code&gt;&lt;/strong&gt; [40 - 30]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-10.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 5일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 500px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;전설-장갑-빙하의-군장-팔목-장갑&quot;&gt;[전설 장갑] 빙하의 군장 팔목 장갑&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;제압 피해 +[13.5 - 24.0]%&lt;/li&gt;
+  &lt;li&gt;지능 +[18 - 25]&lt;/li&gt;
+  &lt;li&gt;부상당한 적에게 주는 피해 +[13.0 - 20.0]%&lt;/li&gt;
+  &lt;li&gt;극대화 확률 +[3.0 - 6.0]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 41&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;눈보라&lt;/strong&gt;를 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;시전하면 주기저으로 폭발하는&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;얼음 가시&lt;/strong&gt;가 생성되어 [233 - 349]의 피해를 줍니다. &lt;strong&gt;얼음 가시&lt;/strong&gt;가 &lt;strong&gt;빙결&lt;/strong&gt;된 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;적에게 주는 피해가 25% 증가합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-12.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 5일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 517px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;전설-반지-기대하는-자의-반지&quot;&gt;[전설 반지] 기대하는 자의 반지&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;암흑 저항 17.9%&lt;/li&gt;
+  &lt;li&gt;독 저항 17.9%&lt;/li&gt;
+  &lt;li&gt;보호막 생성량 +[4.5 - 8.0]%&lt;/li&gt;
+  &lt;li&gt;최대 생명력 +[83 - 156]&lt;/li&gt;
+  &lt;li&gt;감속 적에게 주는 피해 +[9.5 - 13.0]%&lt;/li&gt;
+  &lt;li&gt;취약 피해 +[9.5 - 13.0]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 40&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;적을&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;기본&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;기술로 공격하면 다음으로 시전하는&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;핵심&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;기술이 주는 피해가&lt;/code&gt;&lt;/strong&gt; [5 - 10]%&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;만큼, 최대 30%까지 증가합니다.&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-11.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 5일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 511px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;전설-장갑-얼어붙은-기억의-모험가의-장갑&quot;&gt;[전설 장갑] 얼어붙은 기억의 모험가의 장갑&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;얼음 파편 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
+  &lt;li&gt;지능 +[23 - 33]&lt;/li&gt;
+  &lt;li&gt;화염구 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
+  &lt;li&gt;극대화 확률 +[3.9 - 7.9]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 32&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;눈사태&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;핵심 지속 효과가 추가 1회의 시전에 적용됩니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-13.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 5일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 468px;&quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Tue, 06 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-day4-get-legendary-item-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day4-get-legendary-item-info.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 [온천의 비밀] 퀘스트 완료하는 방법</title>
@@ -90,7 +188,7 @@
         </item>
         
         <item>
-            <title>디아블로4 3일차 득템 자랑, 아이템 상세 정보</title>
+            <title>디아블로4 3일차 득템 자랑, 전설 아이템 상세 정보</title>
             <description>&lt;h2 id=&quot;3일차-득템&quot;&gt;3일차 득템&lt;/h2&gt;
 &lt;p&gt;디아블로4를 플레이 3일차에 획득한 전설 아이템 중에서 눈에 띄는 아이템 몇가지에 대한 정보를 정리해보겠습니다.&lt;/p&gt;
 
@@ -372,7 +470,7 @@
         </item>
         
         <item>
-            <title>디아블로4 1일차 득템 자랑, 아이템 상세 정보</title>
+            <title>디아블로4 1일차 득템 자랑, 전설 아이템 상세 정보</title>
             <description>&lt;h2 id=&quot;1일차-득템&quot;&gt;1일차 득템&lt;/h2&gt;
 &lt;p&gt;디아블로4를 플레이 1일차에 획득한 전설 아이템 중에서 눈에 띄는 아이템 몇가지에 대한 정보를 정리해보겠습니다.&lt;/p&gt;
 
@@ -576,130 +674,6 @@
             <guid isPermaLink="true">https://cloudlog.kr/life/drama/korea/sbs-romantic-doctor-teacher-kim-season3-ep3-ep4-review.html</guid>
             
             <category>drama</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 (Diablo 4) 원소술사 전체 스킬의 마법부여 효과 정보 총정리</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;디아블로4의 원소술사는 다른 직업들과 다르게 원소술사 고유의 스킬 슬롯이 존재합니다. 바로 [&lt;strong&gt;마법부여&lt;/strong&gt;]라는 것으로 영어로는 [&lt;strong&gt;Enchantment&lt;/strong&gt;]라고 부르는 시스템입니다.&lt;/p&gt;
-
-&lt;p&gt;마치 패시브 스킬처럼 특정 조건에 해당하면 자동으로 스킬이 발동되는 시스템으로 15렙 이후에 슬롯을 개방할 수 있습니다.&lt;/p&gt;
-
-&lt;p&gt;그래서 원소술사의 각 스킬별 마법부여 효과를 전부 정리해보았습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;벼락불&quot;&gt;벼락불&lt;/h2&gt;
-&lt;p&gt;적을 처치하면 10% 확률로 짜릿한 에너지가 남습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;화염탄&quot;&gt;화염탄&lt;/h2&gt;
-&lt;p&gt;기술로 직접 피해를 주면 8초에 걸쳐 최대 90[23%]의 추가 연소 피해를 줍니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;서리-화살&quot;&gt;서리 화살&lt;/h2&gt;
-&lt;p&gt;기술로 직접 피해를 주면 대상이 최대 15%의 오한을 느낍니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;전기-채찍&quot;&gt;전기 채찍&lt;/h2&gt;
-&lt;p&gt;재사용 대기시간이 있는 기술을 사용하면 주위의 적들이 0.5초 동안 기절합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-04.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;화염구&quot;&gt;화염구&lt;/h2&gt;
-&lt;p&gt;처치한 적이 화염구 속에서 폭발하여 화염구 피해의 50%만큼 피해를 줍니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-05.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;얼음-파편&quot;&gt;얼음 파편&lt;/h2&gt;
-&lt;p&gt;얼음 파편이 자동으로 구현되어 빙결된 적에게 날아갑니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-06.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;연쇄-번개&quot;&gt;연쇄 번개&lt;/h2&gt;
-&lt;p&gt;마나를 100 소모하면 연쇄 번개가 자동으로 생겨납니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-07.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;번개-줄기&quot;&gt;번개 줄기&lt;/h2&gt;
-&lt;p&gt;적을 기절시킬 때마다 40% 확률로 해당 적으로부터 번개 줄기를 3개 내뿜습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-08.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;소각&quot;&gt;소각&lt;/h2&gt;
-&lt;p&gt;20초마다 뱀이 생성되어 적들을 6초 동안 소각합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-09.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;얼음-보주&quot;&gt;얼음 보주&lt;/h2&gt;
-&lt;p&gt;기본 기술이 아닌 기술을 시전할 때마다 20% 확률로 근처의 적에게 얼음 보주를 발사합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-10.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;화염-보호막&quot;&gt;화염 보호막&lt;/h2&gt;
-&lt;p&gt;죽음에 이르는 피해를 받으면 화염 보호막이 자동으로 활성화됩니다. 120초에 한 번만 발동합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-11.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;서릿발&quot;&gt;서릿발&lt;/h2&gt;
-&lt;p&gt;행운의 적중: 구현 기술이 적에게 적중했을 때 30% 확률로 서릿발을 방출합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-12.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;얼음-갑옷&quot;&gt;얼음 갑옷&lt;/h2&gt;
-&lt;p&gt;적중당하면 50% 확률로 얼음 갑옷 효과를 얻습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-13.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;순간이동&quot;&gt;순간이동&lt;/h2&gt;
-&lt;p&gt;피하기가 재사용 대기시간 17.0초의 단거리 순간이동으로 대체됩니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-14.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;얼음-칼날&quot;&gt;얼음 칼날&lt;/h2&gt;
-&lt;p&gt;재사용 대기시간이 있는 기술을 20초 사용할 때마다 무작위 적의 위치에 얼음 칼날을 생성합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-15.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;히드라&quot;&gt;히드라&lt;/h2&gt;
-&lt;p&gt;마나를 300 소모하면 5초 동안 머리가 5개인 히드라가 생성됩니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-16.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;번개-창&quot;&gt;번개 창&lt;/h2&gt;
-&lt;p&gt;짜릿한 에너지를 흡수하면 10% 확률로 번개 창을 구현합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-17.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;화염벽&quot;&gt;화염벽&lt;/h2&gt;
-&lt;p&gt;적이 연소 피해를 받을 때마다 5% 확률로 해당 적의 아래에 3초 동안 화염벽을 2개 생성합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-18.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;눈보라&quot;&gt;눈보라&lt;/h2&gt;
-&lt;p&gt;15초마다 자신의 머리 위에 눈보라가 생겨나 6초 동안 따라다닙니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-19.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;운석-낙하&quot;&gt;운석 낙하&lt;/h2&gt;
-&lt;p&gt;행운의 적중: 3% 확률로 적에게 운석이 떨어집니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-20.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;구상-번개&quot;&gt;구상 번개&lt;/h2&gt;
-&lt;p&gt;행운의 적중: 극대화 시 25%의 확률로 정지해 있는 구상 번개가 생성됩니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-sorcerer-enchantment-info-21.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다&quot; style=&quot;width: 440px;  &quot; /&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Thu, 04 May 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-sorcerer-enchantment-list.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-sorcerer-enchantment-list.html</guid>
-            
-            <category>diablo</category>
             
             
         </item>
