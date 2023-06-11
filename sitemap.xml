@@ -2,13 +2,23 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2023-06-11T11:58:56+09:00</lastmod>
+    <lastmod>2023-06-11T17:27:46+09:00</lastmod>
   </url>
   
   
   
   <url>
     <loc>https://cloudlog.kr/game/diablo/diablo4-crushed-beast-bones-location.html</loc>
+  
+    <lastmod>2023-06-09T00:00:00+09:00</lastmod>
+    
+      
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info.html</loc>
   
     <lastmod>2023-06-09T00:00:00+09:00</lastmod>
     
@@ -48,16 +58,6 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-day3-get-legendary-item-info.html</loc>
-  
-    <lastmod>2023-06-05T00:00:00+09:00</lastmod>
-    
-      
-  </url>
-  
-  
-  
-  <url>
     <loc>https://cloudlog.kr/game/diablo/diablo4-quest-secret-of-the-spring-guide.html</loc>
   
     <lastmod>2023-06-05T00:00:00+09:00</lastmod>
@@ -68,7 +68,17 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-day1-get-legendary-item-info.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-day3-get-legendary-item-info.html</loc>
+  
+    <lastmod>2023-06-05T00:00:00+09:00</lastmod>
+    
+      
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-quest-mount-favor-of-donan-guide.html</loc>
   
     <lastmod>2023-06-03T00:00:00+09:00</lastmod>
     
@@ -78,7 +88,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-quest-mount-favor-of-donan-guide.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-day1-get-legendary-item-info.html</loc>
   
     <lastmod>2023-06-03T00:00:00+09:00</lastmod>
     
@@ -428,7 +438,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-leejongsuk-yuna.html</loc>
+    <loc>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-why-become-big-mouse.html</loc>
   
     <lastmod>2022-08-20T00:00:00+09:00</lastmod>
     
@@ -438,7 +448,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-why-become-big-mouse.html</loc>
+    <loc>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-leejongsuk-yuna.html</loc>
   
     <lastmod>2022-08-20T00:00:00+09:00</lastmod>
     
