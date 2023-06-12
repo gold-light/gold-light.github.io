@@ -5,9 +5,80 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Jun 2023 17:49:07 +0900</pubDate>
-        <lastBuildDate>Sun, 11 Jun 2023 17:49:07 +0900</lastBuildDate>
+        <pubDate>Mon, 12 Jun 2023 23:35:24 +0900</pubDate>
+        <lastBuildDate>Mon, 12 Jun 2023 23:35:24 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 GeForce GTX 750Ti 플레이 영상 소개</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;디아블로4 (Diablo 4)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상을 소개해보겠습니다. 영상은 아래쪽에 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-graphic-card-geforce-gtx-750ti-play-movie-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;플레이-pc-사양&quot;&gt;플레이 PC 사양&lt;/h2&gt;
+&lt;p&gt;제가 사용하는 PC는 아주 오래전에 구매했었는데, 중간에 메모리랑 그래픽 카드만 업그레이드 한번 했었습니다.
+이 PC로 디아블로3, 디아블로2 레저렉션, 디아블로 이모탈, 히트2, 블레스 언리쉬드, 문명6, 로스트아크 등을 플레이했습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;운영 체제: 64비트 Windows 10&lt;/li&gt;
+  &lt;li&gt;프로세서: Intel Core i5-4570 CPU 3.20GHz&lt;/li&gt;
+  &lt;li&gt;메모리: 16GB RAM&lt;/li&gt;
+  &lt;li&gt;그래픽: NVIDIA GeForce GTX 750 Ti&lt;/li&gt;
+  &lt;li&gt;디스크: WD SSD 500G&lt;/li&gt;
+  &lt;li&gt;Xbox 4세대 게임패드 카본 블랙&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;플레이-스샷&quot;&gt;플레이 스샷&lt;/h2&gt;
+&lt;p&gt;플레이 녹화 동영상 중에서 몇가지 장면을 살펴보면 다음과 같습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-graphic-card-geforce-gtx-750ti-play-movie-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-graphic-card-geforce-gtx-750ti-play-movie-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;플레이-영상&quot;&gt;플레이 영상&lt;/h2&gt;
+&lt;p&gt;플레이한 영상을 유튜브에 업로드해봤습니다. 영상의 전체 길이는 12분 정도됩니다.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrap&quot;&gt;
+  &lt;iframe width=&quot;845&quot; height=&quot;475&quot; src=&quot;https://www.youtube.com/embed/9kqWERLVcc0&quot; title=&quot;[디아블로4] GeForce GTX 750Ti로 플레이 해봤습니다&quot; style=&quot;border:0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;디아블로4-시스템-사양&quot;&gt;디아블로4 시스템 사양&lt;/h2&gt;
+&lt;p&gt;디아블로4 소개 페이지에 올라온 블리자드에서 공개한 공식 PC 사양 최소, 권장 사양은 다음과 같습니다.&lt;/p&gt;
+
+&lt;table class=&quot;simple_table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;항목&lt;/th&gt;
+      &lt;th&gt;PC 최소 사양&lt;/th&gt;
+      &lt;th&gt;PC 권장 사양&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;기본 해상도 1080p / 렌더 해상도 720p, 그래픽 설정 낮음 &lt;br /&gt;30fps&lt;/td&gt;&lt;td&gt;기본 해상도 1080p 해상도, 그래픽 설정 중간 &lt;br /&gt;60fps&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;운영 체제&lt;/td&gt;&lt;td&gt;64비트 Windows 10 1909 이상&lt;/td&gt;&lt;td&gt;64비트 Windows 10 1909 이상&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;프로세서&lt;/td&gt;&lt;td&gt;Intel Core i5-2500K &lt;br /&gt;&lt;br /&gt; AMD FX-8350&lt;/td&gt;&lt;td&gt;Intel Core i5-4670K &lt;br /&gt;&lt;br /&gt; AMD Ryzen-1300X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;메모리&lt;/td&gt;&lt;td&gt;8GB RAM&lt;/td&gt;&lt;td&gt;16GB RAM&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;그래픽&lt;/td&gt;&lt;td&gt;NVIDIA GeForce GTX 660 &lt;br /&gt;&lt;br /&gt; AMD Radeon R9 280&lt;/td&gt;&lt;td&gt;NVIDIA GeForce GTX 970 &lt;br /&gt;&lt;br /&gt; AMD Radeon RX 470&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;DirectX&lt;/td&gt;&lt;td&gt;버전 12&lt;/td&gt;&lt;td&gt;버전 12&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;용량&lt;/td&gt;&lt;td&gt;여유 공간이 90GB 이상 있는 SSD&lt;/td&gt;&lt;td&gt;여유 공간이 90GB 이상 있는 SSD&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;인터넷&lt;/td&gt;&lt;td&gt;광대역 인터넷 연결&lt;/td&gt;&lt;td&gt;광대역 인터넷 연결&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-pc-system-spec-01.png&quot; alt=&quot;디아블로4 (Diablo 4)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;동영상-녹화-방법&quot;&gt;동영상 녹화 방법&lt;/h2&gt;
+&lt;p&gt;윈도 10이상에서는 동영상을 쉽게 녹화할 수 있습니다. 바로 [윈도우 키] + [G]를 동시에 누르면 [&lt;strong&gt;게임 바&lt;/strong&gt;]가 나타나고 녹화를 할 수 있습니다.&lt;/p&gt;
+</description>
+            <pubDate>Sat, 10 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-geforce-gtx-750ti-play-movie.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-geforce-gtx-750ti-play-movie.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 8일차 지옥물결 수수께끼의 고통받는 선물 오픈, 신성 전설 아이템 정보</title>
@@ -734,70 +805,6 @@
             <pubDate>Sat, 03 Jun 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-gem-crafting-level-requirement.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-gem-crafting-level-requirement.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 1일차 득템 자랑, 전설 아이템 상세 정보</title>
-            <description>&lt;h2 id=&quot;1일차-득템&quot;&gt;1일차 득템&lt;/h2&gt;
-&lt;p&gt;디아블로4를 플레이 1일차에 획득한 전설 아이템 중에서 눈에 띄는 아이템 몇가지에 대한 정보를 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;전설-단검-끊어지지-않는-끈의-뼈-칼날&quot;&gt;[전설 단검] 끊어지지 않는 끈의 뼈 칼날&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;적중당 공격력 [123 - 185]&lt;/li&gt;
-  &lt;li&gt;초당 공격 횟수 1.20 (매우 빠른 무기)&lt;/li&gt;
-  &lt;li&gt;근거리에 있는 적에게 주는 피해 [7.8]%&lt;/li&gt;
-  &lt;li&gt;핵심 기술 피해 +[4.5 - 7.8]%&lt;/li&gt;
-  &lt;li&gt;지속 피해 +[2.6 - 5.8]%&lt;/li&gt;
-  &lt;li&gt;지능 +[17 - 23]&lt;/li&gt;
-  &lt;li&gt;요구 레벨: 12&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;&lt;strong&gt;연쇄 번개&lt;/strong&gt;가 [25 - 35]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;확률로 2번 추가로 연쇄됩니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 1일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 590px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;전설-장갑-세-가지-저주의-골편-팔목-장갑&quot;&gt;[전설 장갑] 세 가지 저주의 골편 팔목 장갑&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;행운의 적중 확률 +[2.6 - 6.5]%&lt;/li&gt;
-  &lt;li&gt;힘 +[17 - 25]&lt;/li&gt;
-  &lt;li&gt;연쇄 번개 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
-  &lt;li&gt;소각 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
-  &lt;li&gt;요구 레벨: 18&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;&lt;strong&gt;운석 낙하&lt;/strong&gt;가 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;건강 상태의 대상에게 주는 극대화 피해가&lt;/code&gt;&lt;/strong&gt; [35 - 50]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 1일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 488px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;전설-중심점-기대하는-자의-수수께끼의-함&quot;&gt;[전설 중심점] 기대하는 자의 수수께끼의 함&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;적중당 공격력 [176 - 264]&lt;/li&gt;
-  &lt;li&gt;초당 공격 횟수 1.20 (매우 빠른 무기)&lt;/li&gt;
-  &lt;li&gt;재사용 대기시간 감소 [4.5]%&lt;/li&gt;
-  &lt;li&gt;의지력 +[17 - 25]&lt;/li&gt;
-  &lt;li&gt;힘 +[17 - 25]&lt;/li&gt;
-  &lt;li&gt;민첩 +[17 - 25]&lt;/li&gt;
-  &lt;li&gt;모든 능력치 +[7 - 10]&lt;/li&gt;
-  &lt;li&gt;요구 레벨: 21&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;적을&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;기본&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;기술로 공격하면 다음으로 시전하는&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;핵심&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;기술이 주는 피해가&lt;/code&gt;&lt;/strong&gt; [5 - 10]%&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;만큼, 최대&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;30%&lt;/strong&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;까지 증가합니다.&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 1일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 576px;&quot; /&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Sat, 03 Jun 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-day1-get-legendary-item-info.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day1-get-legendary-item-info.html</guid>
             
             <category>diablo</category>
             

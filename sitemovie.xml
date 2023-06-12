@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+   <url>
+     <loc>https://cloudlog.kr/game/diablo/diablo4-geforce-gtx-750ti-play-movie.html</loc>
+     <video:video>
+       <video:thumbnail_loc>https://cloudlog.kr/images/game/diablo/diablo4-graphic-card-geforce-gtx-750ti-play-movie-01.jpg</video:thumbnail_loc>
+       <video:title>[디아블로4] GeForce GTX 750Ti로 플레이 해봤습니다</video:title>
+       <video:description>
+         디아블로4 (Diablo 4)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상을 소개해보겠습니다
+       </video:description>
+       <video:player_loc>
+         https://www.youtube.com/embed/9kqWERLVcc0
+       </video:player_loc>
+     </video:video>
+   </url>
+   <url>
+     <loc>https://cloudlog.kr/game/defense/alien-creeps-introduce.html</loc>
+     <video:video>
+       <video:thumbnail_loc>https://cloudlog.kr/images/game/defense/alien_creeps_introduce_01.png</video:thumbnail_loc>
+       <video:title>타워 디펜스 추천 게임 Alien Creeps TD 소개, 리뷰</video:title>
+       <video:description>
+         정말 괜찮은 타워 디펜스 추천 게임 Alien Creeps TD 소개, 리뷰입니다
+       </video:description>
+       <video:player_loc>
+         https://www.youtube-nocookie.com/embed/BP9WKimaxt8
+       </video:player_loc>
+     </video:video>
+   </url>
+</urlset>
