@@ -5,9 +5,90 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Jun 2023 23:35:24 +0900</pubDate>
-        <lastBuildDate>Mon, 12 Jun 2023 23:35:24 +0900</lastBuildDate>
+        <pubDate>Wed, 14 Jun 2023 08:48:01 +0900</pubDate>
+        <lastBuildDate>Wed, 14 Jun 2023 08:48:01 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 10일차 첫 신성 고유 아이템 [얼음심장 브레이스] 상세 정보</title>
+            <description>&lt;h2 id=&quot;10일차-득템&quot;&gt;10일차 득템&lt;/h2&gt;
+&lt;p&gt;디아블로4 플레이 10일차에 획득한 신성 고유(Sacred Unique) 바지 아이템 [&lt;strong&gt;얼음심장 브레이스&lt;/strong&gt;]대한 정보를 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;악몽-던전-감염된-연구실&quot;&gt;악몽 던전 [감염된 연구실]&lt;/h2&gt;
+&lt;p&gt;이번 [&lt;strong&gt;얼음심장 브레이스&lt;/strong&gt;] 아이템은 악몽 던전 [감염된 연구실]을 클리어하고 획득했습니다. 물론 옵션이 거의 최하로 나와서 무척 아쉽지만, 그래도 파밍으로 획득한 첫번째 고유 아이템이 그것도 신성으로 떠서 기분이 좋습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-nightmare-dungeon-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 악몽 던전 [감염된 연구실]에서 획득한 아이템 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;신성-고유-바지-얼음심장-브레이스&quot;&gt;[신성 고유 바지] 얼음심장 브레이스&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 704&lt;/li&gt;
+  &lt;li&gt;부상 상태일 때, 물약이 추가로 자원 20% 회복&lt;/li&gt;
+  &lt;li&gt;지능 +[24 - 34]&lt;/li&gt;
+  &lt;li&gt;빙결 적에게 주는 피해 +[5.0 - 10.0]%&lt;/li&gt;
+  &lt;li&gt;부상당한 적에게 주는 피해 +[15.0 - 25.0]%&lt;/li&gt;
+  &lt;li&gt;빙결 지속시간 +[3.5 - 8.5]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 56&lt;/li&gt;
+  &lt;li&gt;미친 장인은 이 천을 만드느라 동상에 걸린 손가락이 검게 변하는 것을 보면서도 바느질을 단 한 순간도 멈추지 않았습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;빙결&lt;/strong&gt;된 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;상태에서 죽는 적이&lt;/code&gt;&lt;/strong&gt; [11 - 20]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;확률로&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;서릿발&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;을 내뿜습니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-iceheart-brais-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 10일차에 획득한 신성 고유 아이템 [얼음심장 브레이스]에 대한 정보&quot; style=&quot;width: 320px;  height: 602px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;sacred-unique-pants-iceheart-brais&quot;&gt;[Sacred Unique Pants] ICEHEART BRAIS&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Upgrade: 5/5&lt;/li&gt;
+  &lt;li&gt;704+25 Item Power&lt;/li&gt;
+  &lt;li&gt;729 Armor&lt;/li&gt;
+  &lt;li&gt;While Injured, Your Potion Also Restores 30% Resource&lt;/li&gt;
+  &lt;li&gt;+[42 - 63] Intelligence&lt;/li&gt;
+  &lt;li&gt;+[10.5 - 21.0]% Damage to Frozen Enemies&lt;/li&gt;
+  &lt;li&gt;+[31.5 - 51.5]% Damage to Injured Enemies&lt;/li&gt;
+  &lt;li&gt;+[7.5 - 18.0]% Freeze Duration&lt;/li&gt;
+  &lt;li&gt;Requires Level: 56&lt;/li&gt;
+  &lt;li&gt;The mad artisan saw his fingers turn black from frostbite as he worked the cloth, but refused to stay the needle and thread for even a moment.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Enemies that die while&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;Frozen&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;have a&lt;/code&gt;&lt;/strong&gt; [11 - 20]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;chance to unleash a&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;Frost Nova&lt;/strong&gt;. &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;(Sorcerer Only)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-iceheart-brais-01-en.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 10일차에 획득한 [Sacred Unique Pants] ICEHEART BRAIS Info&quot; style=&quot;width: 320px;  height: 647px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;神聖-ユニーク-ズボン-氷心の下衣&quot;&gt;[神聖 ユニーク ズボン] 氷心の下衣&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;強化: 5/5&lt;/li&gt;
+  &lt;li&gt;アイテムのパワー 704+25&lt;/li&gt;
+  &lt;li&gt;防御力 729&lt;/li&gt;
+  &lt;li&gt;負傷中, ポーションがリソースを30％回復&lt;/li&gt;
+  &lt;li&gt;知力 +[42 - 63]&lt;/li&gt;
+  &lt;li&gt;凍結の敵へのダメージ +[10.5 - 21.0]%&lt;/li&gt;
+  &lt;li&gt;負傷した敵へのダメージ +[31.5 - 51.5]%&lt;/li&gt;
+  &lt;li&gt;凍結の持続時間 +[7.5 - 18.0]%&lt;/li&gt;
+  &lt;li&gt;必要レベル: 56&lt;/li&gt;
+  &lt;li&gt;手芸にいそしむ指が凍傷で真っ黒ねなりながらも、狂気の職人は一瞬たりとも針と糸を離すことができなかった。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;凍結&lt;/strong&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;状態で死亡した敵が&lt;/code&gt;&lt;/strong&gt; [11 - 20]&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;の確立で&lt;/code&gt;&lt;/strong&gt;フロストノヴァ&lt;strong&gt;**&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;を放つ。 (ソーサラーのみ)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-iceheart-brais-01-ja.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 10일차에 획득한 [神聖 ユニーク ズボン] 氷心の下衣 情報&quot; style=&quot;width: 320px;  height: 621px;&quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Sun, 11 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-day10-get-sacred-unique-item-iceheart-brais-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day10-get-sacred-unique-item-iceheart-brais-info.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 GeForce GTX 750Ti 플레이 영상 소개</title>
@@ -174,7 +255,7 @@
         <item>
             <title>디아블로4 7일차 첫 신성 전설 득템, 아이템 상세 정보</title>
             <description>&lt;h2 id=&quot;7일차-득템&quot;&gt;7일차 득템&lt;/h2&gt;
-&lt;p&gt;디아블로4를 플레이 7일차에 획득한 신성 전설(Sacred Legendary) 중에서 눈에 띄는 아이템 몇가지에 대한 정보를 정리해보겠습니다.&lt;/p&gt;
+&lt;p&gt;디아블로4 플레이 7일차에 획득한 신성 전설(Sacred Legendary) 중에서 눈에 띄는 아이템 몇가지에 대한 정보를 정리해보겠습니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;신성-전설-지팡이-폭풍-격화-광휘&quot;&gt;[신성 전설 지팡이] 폭풍 격화 광휘&lt;/h2&gt;
 
@@ -330,7 +411,7 @@
         <item>
             <title>디아블로4 5일차 득템 자랑, 전설 아이템 상세 정보</title>
             <description>&lt;h2 id=&quot;5일차-득템&quot;&gt;5일차 득템&lt;/h2&gt;
-&lt;p&gt;디아블로4를 플레이 5일차에 획득한 전설 아이템 중에서 눈에 띄는 아이템 몇가지에 대한 정보를 정리해보겠습니다.&lt;/p&gt;
+&lt;p&gt;디아블로4 플레이 5일차에 획득한 전설 아이템 중에서 눈에 띄는 아이템 몇가지에 대한 정보를 정리해보겠습니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;전설-장화-유랑방랑자-군장-장화&quot;&gt;[전설 장화] 유랑방랑자 군장 장화&lt;/h2&gt;
 
@@ -508,7 +589,7 @@
         <item>
             <title>디아블로4 3일차 득템 자랑, 전설 아이템 상세 정보</title>
             <description>&lt;h2 id=&quot;3일차-득템&quot;&gt;3일차 득템&lt;/h2&gt;
-&lt;p&gt;디아블로4를 플레이 3일차에 획득한 전설 아이템 중에서 눈에 띄는 아이템 몇가지에 대한 정보를 정리해보겠습니다.&lt;/p&gt;
+&lt;p&gt;디아블로4 플레이 3일차에 획득한 전설 아이템 중에서 눈에 띄는 아이템 몇가지에 대한 정보를 정리해보겠습니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;전설-바지-불복의-모험가의-바지&quot;&gt;[전설 바지] 불복의 모험가의 바지&lt;/h2&gt;
 
@@ -775,36 +856,6 @@
             <pubDate>Sat, 03 Jun 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-quest-mount-favor-of-donan-guide.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-quest-mount-favor-of-donan-guide.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 보석(Gem) 업그레이드 조건 레벨 정보</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;디아블로4에서 아이템 소켓에 장착하는 보석(Gem)을 상위 보석으로 업그레이드(Gem Crafting) 하려고 해도 더 이상 업그레이드할 수도 없고, 어떻게 해야 하는지 게임 내에서는 정보도 없어서 직접 확인한 정보와 이래저래 찾아본 정보를 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;이-빠진-보석-업그레이드-조건&quot;&gt;이 빠진 보석 업그레이드 조건&lt;/h2&gt;
-&lt;p&gt;더 이상 업그레이드가 안되어서 일단 포기한 상태에서 게임 진행하다가 레벨 40을 달성하니 아래 스샷처럼 [&lt;strong&gt;이 빠진 자수정&lt;/strong&gt;]에서 [&lt;strong&gt;자수정&lt;/strong&gt;]으로 업그레이드 할 수 있는 것을 확인할 수 있었습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-gem-crafting-level-requirement-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 보석(Gem)을 업그레이드하는 조건인 레벨에 대한 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;보석-업그레이드-조건-정리&quot;&gt;보석 업그레이드 조건 정리&lt;/h2&gt;
-&lt;p&gt;역시 보석은 캐릭터 레벨이 올라야 상위 보석으로 업그레이드 할 수 있었네요. 필요한 각 레벨을 정리하면 다음과 같다고 합니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;레벨 15 : 보석 오픈&lt;/li&gt;
-  &lt;li&gt;레벨 20 : 이 빠진 보석&lt;/li&gt;
-  &lt;li&gt;레벨 40 : 보석&lt;/li&gt;
-  &lt;li&gt;레벨 50 : 온전한 보석&lt;/li&gt;
-  &lt;li&gt;레벨 60&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-            <pubDate>Sat, 03 Jun 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-gem-crafting-level-requirement.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-gem-crafting-level-requirement.html</guid>
             
             <category>diablo</category>
             
