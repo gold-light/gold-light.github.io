@@ -5,9 +5,120 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Jun 2023 23:11:55 +0900</pubDate>
-        <lastBuildDate>Wed, 14 Jun 2023 23:11:55 +0900</lastBuildDate>
+        <pubDate>Sun, 18 Jun 2023 09:01:38 +0900</pubDate>
+        <lastBuildDate>Sun, 18 Jun 2023 09:01:38 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 악몽 던전 6단계 GTX 750Ti 플레이 영상</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;디아블로4 (Diablo 4) 악몽 던전 성전사의 대성당(6단계)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상을 소개해보겠습니다. 영상은 아래쪽에 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-nightmare-dungeon-tier6-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 악몽 던전 6단계를 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;플레이-pc-사양&quot;&gt;플레이 PC 사양&lt;/h2&gt;
+&lt;p&gt;제가 사용하는 PC는 아주 오래전에 구매했었는데, 중간에 메모리랑 그래픽 카드만 업그레이드 한번 했었습니다.
+이 PC로 디아블로3, 디아블로2 레저렉션, 디아블로 이모탈, 히트2, 블레스 언리쉬드, 문명6, 로스트아크 등을 플레이했습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;운영 체제: 64비트 Windows 10&lt;/li&gt;
+  &lt;li&gt;프로세서: Intel Core i5-4570 CPU 3.20GHz&lt;/li&gt;
+  &lt;li&gt;메모리: 16GB RAM&lt;/li&gt;
+  &lt;li&gt;그래픽: NVIDIA GeForce GTX 750 Ti&lt;/li&gt;
+  &lt;li&gt;디스크: WD SSD 500G&lt;/li&gt;
+  &lt;li&gt;Xbox 4세대 게임패드 카본 블랙&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;플레이-스샷&quot;&gt;플레이 스샷&lt;/h2&gt;
+&lt;p&gt;플레이 녹화 동영상 중에서 몇가지 장면을 살펴보면 다음과 같습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;최대 데미지가 10,286 정도 나왔네요. 아직은 갈길이 멀군요.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-nightmare-dungeon-tier6-02.png&quot; alt=&quot;디아블로4 (Diablo 4) 악몽 던전 6단계를 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;악몽 던전 완료 시에 떨어진 아이템을 살펴보면 [굴랄 빈민가의 악몽의 인장 (신성)], [구현의 마법봉 (신성)], [전쟁 지팡이], 그리고 전설 바지와 레어 투구가 있습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-nightmare-dungeon-tier6-03.png&quot; alt=&quot;디아블로4 (Diablo 4) 악몽 던전 6단계를 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;전설-바지-둘러싸인-마인-대퇴갑&quot;&gt;[전설 바지] 둘러싸인 마인 대퇴갑&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 612&lt;/li&gt;
+  &lt;li&gt;부상 상태일 때, 물약이 추가로 2초 동안 자원 20% 부여&lt;/li&gt;
+  &lt;li&gt;민첩 +[18 - 25]&lt;/li&gt;
+  &lt;li&gt;힘 +[18 - 25]&lt;/li&gt;
+  &lt;li&gt;모든 능력치 +[6 - 10]&lt;/li&gt;
+  &lt;li&gt;운석 낙하 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
+  &lt;li&gt;요구레벨: 45&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;냉대&lt;/strong&gt;가 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;활성화되어 있는 동안 매초 최대 생명력과 마나의&lt;/code&gt;&lt;/strong&gt; [10 - 20]%를 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;회복합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-nightmare-dungeon-tier6-04.png&quot; alt=&quot;디아블로4 (Diablo 4) 악몽 던전 6단계를 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 320px;  height: 537px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;신성-희귀-마법봉-예언의-길&quot;&gt;[신성 희귀 마법봉] 예언의 길&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 621&lt;/li&gt;
+  &lt;li&gt;적중당 공격력 [379 - 569]&lt;/li&gt;
+  &lt;li&gt;초당 공격 횟수 1.20 (매우 빠른 무기)&lt;/li&gt;
+  &lt;li&gt;행운의 적중 확률 +6.0%&lt;/li&gt;
+  &lt;li&gt;핵심 기술 피해 +[7.5 - 11.0]%&lt;/li&gt;
+  &lt;li&gt;원거리에 있는 적에게 주는 피해 +[9.5 - 13.0]%&lt;/li&gt;
+  &lt;li&gt;불타오름 적에게 주는 피해 +[4.5 - 8.0]%&lt;/li&gt;
+  &lt;li&gt;취약 피해 +[9.5 - 13.0]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 58&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-nightmare-dungeon-tier6-05.png&quot; alt=&quot;디아블로4 (Diablo 4) 악몽 던전 6단계를 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 320px;  height: 519px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;플레이-영상&quot;&gt;플레이 영상&lt;/h2&gt;
+&lt;p&gt;플레이한 영상을 유튜브에 업로드해봤습니다. 영상의 전체 길이는 12분 정도됩니다.&lt;/p&gt;
+
+&lt;div class=&quot;video-wrap&quot;&gt;
+  &lt;iframe width=&quot;845&quot; height=&quot;475&quot; src=&quot;https://www.youtube.com/embed/gVom6DlPI7E&quot; title=&quot;디아블로4 (Diablo 4) 악몽 던전 6단계를 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;border:0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;디아블로4-시스템-사양&quot;&gt;디아블로4 시스템 사양&lt;/h2&gt;
+&lt;p&gt;디아블로4 소개 페이지에 올라온 블리자드에서 공개한 공식 PC 사양 최소, 권장 사양은 다음과 같습니다.&lt;/p&gt;
+
+&lt;table class=&quot;simple_table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;항목&lt;/th&gt;
+      &lt;th&gt;PC 최소 사양&lt;/th&gt;
+      &lt;th&gt;PC 권장 사양&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;기본 해상도 1080p / 렌더 해상도 720p, 그래픽 설정 낮음 &lt;br /&gt;30fps&lt;/td&gt;&lt;td&gt;기본 해상도 1080p 해상도, 그래픽 설정 중간 &lt;br /&gt;60fps&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;운영 체제&lt;/td&gt;&lt;td&gt;64비트 Windows 10 1909 이상&lt;/td&gt;&lt;td&gt;64비트 Windows 10 1909 이상&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;프로세서&lt;/td&gt;&lt;td&gt;Intel Core i5-2500K &lt;br /&gt;&lt;br /&gt; AMD FX-8350&lt;/td&gt;&lt;td&gt;Intel Core i5-4670K &lt;br /&gt;&lt;br /&gt; AMD Ryzen-1300X&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;메모리&lt;/td&gt;&lt;td&gt;8GB RAM&lt;/td&gt;&lt;td&gt;16GB RAM&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;그래픽&lt;/td&gt;&lt;td&gt;NVIDIA GeForce GTX 660 &lt;br /&gt;&lt;br /&gt; AMD Radeon R9 280&lt;/td&gt;&lt;td&gt;NVIDIA GeForce GTX 970 &lt;br /&gt;&lt;br /&gt; AMD Radeon RX 470&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;DirectX&lt;/td&gt;&lt;td&gt;버전 12&lt;/td&gt;&lt;td&gt;버전 12&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;용량&lt;/td&gt;&lt;td&gt;여유 공간이 90GB 이상 있는 SSD&lt;/td&gt;&lt;td&gt;여유 공간이 90GB 이상 있는 SSD&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;인터넷&lt;/td&gt;&lt;td&gt;광대역 인터넷 연결&lt;/td&gt;&lt;td&gt;광대역 인터넷 연결&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-pc-system-spec-01.png&quot; alt=&quot;디아블로4 (Diablo 4)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;동영상-녹화-방법&quot;&gt;동영상 녹화 방법&lt;/h2&gt;
+&lt;p&gt;윈도 10이상에서는 동영상을 쉽게 녹화할 수 있습니다. 바로 [윈도우 키] + [G]를 동시에 누르면 [&lt;strong&gt;게임 바&lt;/strong&gt;]가 나타나고 녹화를 할 수 있습니다.&lt;/p&gt;
+</description>
+            <pubDate>Tue, 13 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-nightmare-dungeon-tier6-gtx-750ti-play-movie.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-nightmare-dungeon-tier6-gtx-750ti-play-movie.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 10일차 첫 신성 고유 아이템 [얼음심장 브레이스] 상세 정보</title>
@@ -748,114 +859,6 @@
             <pubDate>Sun, 04 Jun 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-crushed-beast-bones-location.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-crushed-beast-bones-location.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 탈것, 말 얻는 방법, 퀘스트-탈것:도난의 은혜</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;디아블로4는 오픈 월드라 맵이 너무 넓어서 [&lt;strong&gt;탈것&lt;/strong&gt;], 즉 [&lt;strong&gt;말&lt;/strong&gt;]을 빨리 얻어야 이동 속도도 빨라지고 게임 진행도 빨라지는데 도대체 언제 [&lt;strong&gt;말&lt;/strong&gt;]을 얻을 수 있는지 게임 내에서는 정확히 알려주지 않아서 [&lt;strong&gt;말&lt;/strong&gt;]을 얻는 퀘스트인 [&lt;strong&gt;탈것: 도난의 은혜 (Mount: Donan’s Favor)&lt;/strong&gt;]을 어떻게 받고 완료하는지 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;퀘스트-시작&quot;&gt;퀘스트 시작&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;탈것: 도난의 은혜&lt;/strong&gt;] 퀘스트는 1막, 2막, 3막을 완료하고 4막을 시작하면 [&lt;strong&gt;사라진 기술&lt;/strong&gt;] 퀘스트를 진행하게 되고, [&lt;strong&gt;키요바샤드&lt;/strong&gt;] [&lt;strong&gt;빛의 대성당&lt;/strong&gt;]에서 [&lt;strong&gt;도난&lt;/strong&gt;]을 만나게 됩니다.  도난을 만나면 퀘스트 얘기를 하다 말고 아래와 같이 말 이야기를 시작합니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;도난: “잠깐, 로라스가 자기 말을 빌려줬소? 아니, 아니지. 내가 무슨 생각을… 그럴리가 없지.”&lt;/li&gt;
-  &lt;li&gt;도난: “마을의 야수 관리인이 내 오랜 친구라오. 그 친구에게 내가 보냈다고 하면 말을 내줄거요.”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;alert alert-danger&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-exclamation-circle&quot;&gt;&lt;/i&gt; &lt;b&gt;탈것: 도난의 은혜:&lt;/b&gt;  핵심 정보&lt;br /&gt;
-⁃ 4막 첫번째 퀘스트를 진행하면서 자동으로 [탈것: 도난의 은혜 퀘스트]를 받을 수 있습니다. &lt;br /&gt;
-⁃ &lt;strong&gt;1막, 2막, 3막을 모두 완료해야 4막이 오픈됩니다&lt;/strong&gt;. &lt;br /&gt;
-⁃ 다만, 1막~3막을 순서대로 하지 않아도 됩니다. 저는 3막-1막-2막 이렇게 진행했습니다. &lt;br /&gt;
-⁃ 혹시 3막만 완료하면 4막이 오픈되지 않을까 생각해서 테스트 해봤는데 안됩니다. 어쨋거나 1, 2, 3막을 모두 완료해야 합니다.
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;퀘스트-진행&quot;&gt;퀘스트 진행&lt;/h2&gt;
-&lt;p&gt;도난과 대화가 끝나면 바로 [&lt;strong&gt;탈것: 도난의 은혜&lt;/strong&gt;]가 퀘스트 목록에 추가되면서 퀘스트가 진행됩니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;퀘스트 제목: 탈것: 도난의 은혜&lt;/li&gt;
-  &lt;li&gt;퀘스트 목표: 키요바샤드에 있는 야수 관리인과 대화&lt;/li&gt;
-  &lt;li&gt;퀘스트 설명: 도난이 키요바샤드에 있는 야수 관리인에게 부탁해서 내게 말을 한마리 내어 주기로 했다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;퀘스트-완료&quot;&gt;퀘스트 완료&lt;/h2&gt;
-&lt;p&gt;키요바샤드 마을 중앙 포탈에서 8시 방향에 있는 [&lt;strong&gt;야수 관리인 오스카&lt;/strong&gt;]를 만나서 이야기하면 퀘스트가 완료됩니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;“전 도난의 동료입니다. 당신이 말을 줄 거라고 하더군요”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-04.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;탈것-가이드&quot;&gt;탈것 가이드&lt;/h2&gt;
-&lt;p&gt;퀘스트가 완료되면 탈것에 대한 상세 가이드가 나타납니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;탈것은 야수 관리인에게 구매하거나 성역 전체에서 획득할 수 있습니다.&lt;/li&gt;
-  &lt;li&gt;획득한 탈것은 계정의 모든 캐릭터가 이용할 수 있습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-05.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;탈것-소환&quot;&gt;탈것 소환&lt;/h3&gt;
-&lt;p&gt;탈것을 소환하는 단축키는 아래와 같습니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;키보드: [&lt;strong&gt;Z&lt;/strong&gt;] 키&lt;/li&gt;
-  &lt;li&gt;XBOX 패드: 방향키 오른쪽&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-06.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;탈것-질주&quot;&gt;탈것 질주&lt;/h3&gt;
-&lt;p&gt;탈것은 빠른 속도로 질주할 수 있고, 질주는 최대 3번 차징됩니다. 단축키는 아래와 같습니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;키보드: [&lt;strong&gt;Space&lt;/strong&gt;] 키&lt;/li&gt;
-  &lt;li&gt;XBOX 패드: [&lt;strong&gt;RT&lt;/strong&gt;]&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-07.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;탈것에서-떨어짐&quot;&gt;탈것에서 떨어짐&lt;/h3&gt;
-&lt;p&gt;탈것이 너무 많은 몹들에게 둘러싸이면 겁을 먹고 게이지가 충전되는데 게이지가 가득차면 자동으로 탈것에서 떨어집니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-08.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;탈것-선택&quot;&gt;탈것 선택&lt;/h3&gt;
-&lt;p&gt;언제든 야수 관리인을 방문하면 다른 탈것을 선택하거나 탈것 장비도 변경할 수 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-09.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;탈것-실제-모습&quot;&gt;탈것 실제 모습&lt;/h3&gt;
-&lt;p&gt;제가 선택한 탈것과 장비를 장착하고 필드에서 스샷을 찍어봤습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-11.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;탈것-내리기&quot;&gt;탈것 내리기&lt;/h3&gt;
-&lt;p&gt;위 스샷에서 보시면 질주 옆에 2개 스킬 아이콘이 보입니다. 바로 탈것 내리기인데 2가지 종류가 있습니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;공격하면서 탈것 내리기: 내리면서 광역 공격을 합니다. 예를 들어 도적은 화살비가 쏟아집니다.&lt;/li&gt;
-  &lt;li&gt;그냥 탈것 내리기: 그냥 말에서 조용히 내립니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;부캐에서-탈것-탑승&quot;&gt;부캐에서 탈것 탑승&lt;/h2&gt;
-&lt;p&gt;메인 캐릭터에서 탈것을 획득하고 나면 아래 스샷처럼 부캐는 시작할 때부터 탈것을 탑승할 수 있습니다. 자세히 보면 레벨 5인 것을 알 수 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-mount-favor-of-donan-10.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 탈것, 말 얻는 방법인, 퀘스트-탈것:도난의 은혜를 진행하는 밤법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;탈것이라-부르는-이유&quot;&gt;탈것이라 부르는 이유&lt;/h2&gt;
-&lt;p&gt;디아블로에서 굳이 [&lt;strong&gt;말&lt;/strong&gt;]이라고 하지 않고 [&lt;strong&gt;탈것&lt;/strong&gt;]이라고 부르는 이유를 생각해보면 앞으로 말이 아닌 다른 동물이나 몬스터도 탑승할 수 있게 업데이트되지 않을까 생각됩니다.&lt;/p&gt;
-</description>
-            <pubDate>Sat, 03 Jun 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-quest-mount-favor-of-donan-guide.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-quest-mount-favor-of-donan-guide.html</guid>
             
             <category>diablo</category>
             
