@@ -5,9 +5,47 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Jun 2023 09:01:38 +0900</pubDate>
-        <lastBuildDate>Sun, 18 Jun 2023 09:01:38 +0900</lastBuildDate>
+        <pubDate>Sun, 18 Jun 2023 18:37:25 +0900</pubDate>
+        <lastBuildDate>Sun, 18 Jun 2023 18:37:25 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 2번째, 3번째 신성 고유 아이템인데 왜 자꾸 [얼음심장 브레이스]만 주는 건가요</title>
+            <description>&lt;h2 id=&quot;신성-고유-아이템-득템&quot;&gt;신성 고유 아이템 득템&lt;/h2&gt;
+&lt;p&gt;디아블로4 (Diablo 4)에서 13일차에 2번째, 3번째 신성 고유 아이템을 획득했는데, 왜 자꾸 [얼음심장 브레이스]만 주는건지 당황스럽네요. 제게 필요한건 [&lt;strong&gt;서리 불꽃 장갑&lt;/strong&gt;]이란 맙입니다. 어쨌거나 정보를 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;신성-고유-바지-얼음심장-브레이스---2&quot;&gt;[신성 고유 바지] 얼음심장 브레이스 - 2&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 665&lt;/li&gt;
+  &lt;li&gt;부상 상태일 때, 물약이 추가로 자원 20% 회복&lt;/li&gt;
+  &lt;li&gt;지능 +[24 - 34]&lt;/li&gt;
+  &lt;li&gt;빙결 적에게 주는 피해 +[5.0 - 10.0]%&lt;/li&gt;
+  &lt;li&gt;부상당한 적에게 주는 피해 +[15.0 - 25.0]%&lt;/li&gt;
+  &lt;li&gt;빙결 지속시간 +[3.5 - 8.5]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 58&lt;/li&gt;
+  &lt;li&gt;미친 장인은 이 천을 만드느라 동상에 걸린 손가락이 검게 변하는 것을 보면서도 바느질을 단 한 순간도 멈추지 않았습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;빙결&lt;/strong&gt;된 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;상태에서 죽는 적이&lt;/code&gt;&lt;/strong&gt; [11 - 20]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;확률로&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;서릿발&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;을 내뿜습니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-iceheart-brais-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 13일차 2번째, 3번째 신성 고유 아이템인데 왜 자꾸 [얼음심장 브레이스]만 주는건지 모르겠지만 정보를 정리해봤습니다&quot; style=&quot;width: 320px;  height: 620px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;신성-고유-바지-얼음심장-브레이스---3&quot;&gt;[신성 고유 바지] 얼음심장 브레이스 - 3&lt;/h2&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-iceheart-brais-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 13일차 2번째, 3번째 신성 고유 아이템인데 왜 자꾸 [얼음심장 브레이스]만 주는건지 모르겠지만 정보를 정리해봤습니다&quot; style=&quot;width: 320px;  height: 595px;&quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Wed, 14 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-day14-get-sacred-unique-item-iceheart-brais-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day14-get-sacred-unique-item-iceheart-brais-info.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 악몽 던전 6단계 GTX 750Ti 플레이 영상</title>
@@ -790,75 +828,6 @@
             <pubDate>Mon, 05 Jun 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-day3-get-legendary-item-info.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day3-get-legendary-item-info.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 재료 [으깬 야수 뼈] 획득 2곳 위치 정보</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;디아블로4에서 30레벨 제한 물약인 [&lt;strong&gt;가벼운 치유 물약&lt;/strong&gt;] 승급 시에 필요한 재료 아이템인 [&lt;strong&gt;으깬 야수 뼈&lt;/strong&gt;] (&lt;strong&gt;Crushed Beat Bones&lt;/strong&gt;)를 어디에서 얻을 수 있는지 위치 정보 2곳을 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;으깬-야수-뼈-위치---1&quot;&gt;으깬 야수 뼈 위치 - 1&lt;/h2&gt;
-&lt;p&gt;첫번째 [&lt;strong&gt;으깬 야수 뼈&lt;/strong&gt;]는 아래 스샷처럼 [&lt;strong&gt;키요바샤드&lt;/strong&gt;] 위쪽에 있는 [&lt;strong&gt;스코스글렌&lt;/strong&gt;] 지역의 [&lt;strong&gt;티르메어&lt;/strong&gt;]에서 4시 방향에 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-crushed-beast-bones-location-09.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 재료 아이템인 [으깬 야수 뼈]의 위치 2곳의 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;지도를 좀 더 확대해서 보면 다음과 같습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-crushed-beast-bones-location-10.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 재료 아이템인 [으깬 야수 뼈]의 위치 2곳의 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;가스파르-스틸비안&quot;&gt;가스파르 스틸비안&lt;/h3&gt;
-&lt;p&gt;위 스샷에서 표시한 지역에 가면 안쪽으로 쏙 들어간 지형에 [&lt;strong&gt;가스파르 스틸비안&lt;/strong&gt;]이라는 정예몹이 있는데, 이 몹을 잡으면 [&lt;strong&gt;으깬 야수 뼈&lt;/strong&gt;] 5개가 확정적으로 드롭됩니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-crushed-beast-bones-location-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 재료 아이템인 [으깬 야수 뼈]의 위치 2곳의 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-crushed-beast-bones-location-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 재료 아이템인 [으깬 야수 뼈]의 위치 2곳의 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;으깬-야수-뼈-위치---2&quot;&gt;으깬 야수 뼈 위치 - 2&lt;/h2&gt;
-&lt;p&gt;두번째 [&lt;strong&gt;으깬 야수 뼈&lt;/strong&gt;]는 아래 스샷처럼 [&lt;strong&gt;키요바샤드&lt;/strong&gt;]에서 11시 방향에 있는 [&lt;strong&gt;스코스글렌&lt;/strong&gt;] 지역의 [&lt;strong&gt;세리가&lt;/strong&gt;]에서 4시 방향에 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-crushed-beast-bones-location-05.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 재료 아이템인 [으깬 야수 뼈]의 위치 2곳의 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;지도를 좀 더 확대해서 보면 다음과 같습니다.&lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-crushed-beast-bones-location-06.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 재료 아이템인 [으깬 야수 뼈]의 위치 2곳의 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;가르반-엔나이&quot;&gt;가르반 엔나이&lt;/h3&gt;
-&lt;p&gt;위 스샷에 표시한 지역에 가면 [&lt;strong&gt;가르반 엔나이&lt;/strong&gt;] (세리가의 도살자)라는 정예몹이 있습니다. 마찬가지로 이 몹을 잡으면 [&lt;strong&gt;으깬 야수 뼈&lt;/strong&gt;] 5개가 확정적으로 드롭됩니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-crushed-beast-bones-location-07.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 재료 아이템인 [으깬 야수 뼈]의 위치 2곳의 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-crushed-beast-bones-location-08.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 재료 아이템인 [으깬 야수 뼈]의 위치 2곳의 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;가벼운-치유-물약&quot;&gt;가벼운 치유 물약&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;으깬 야수 뼈&lt;/strong&gt;]를 획득한 뒤 마을에 있는 [&lt;strong&gt;연금술사&lt;/strong&gt;]를 찾아가면 아래와 같이 [&lt;strong&gt;가벼운 치유 물약&lt;/strong&gt;]으로 승급할 수 있습니다. [&lt;strong&gt;가벼운 치유 물약&lt;/strong&gt;]의 정보를 정리해보면 다음과 같습니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;이름: 가벼운 치유 물약&lt;/li&gt;
-  &lt;li&gt;설명: 생명력을 즉시 &lt;strong&gt;141&lt;/strong&gt; 회복하고, &lt;strong&gt;3&lt;/strong&gt;초에 걸쳐 최대 생명력의 &lt;strong&gt;35%&lt;/strong&gt;만큼 회복합니다.&lt;/li&gt;
-  &lt;li&gt;요구 레벨: 30&lt;/li&gt;
-  &lt;li&gt;재료 소모량
-    &lt;ul&gt;
-      &lt;li&gt;교수대덩굴: 20개&lt;/li&gt;
-      &lt;li&gt;따끔딸기: 10개&lt;/li&gt;
-      &lt;li&gt;으깬 야수 뼈: 5개&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-crushed-beast-bones-location-04.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 재료 아이템인 [으깬 야수 뼈]의 위치 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Sun, 04 Jun 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-crushed-beast-bones-location.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-crushed-beast-bones-location.html</guid>
             
             <category>diablo</category>
             
