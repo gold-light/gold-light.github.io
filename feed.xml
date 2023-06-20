@@ -5,9 +5,83 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 18 Jun 2023 22:37:46 +0900</pubDate>
-        <lastBuildDate>Sun, 18 Jun 2023 22:37:46 +0900</lastBuildDate>
+        <pubDate>Wed, 21 Jun 2023 07:50:06 +0900</pubDate>
+        <lastBuildDate>Wed, 21 Jun 2023 07:50:06 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 17일차 획득 고유 아이템 [참회의 경갑] 상세 정보</title>
+            <description>&lt;h2 id=&quot;17일차-득템&quot;&gt;17일차 득템&lt;/h2&gt;
+&lt;p&gt;디아블로4 플레이 17일차에 획득한 신성 고유(Sacred Unique) 장화 아이템 [&lt;strong&gt;참회의 경갑&lt;/strong&gt;]대한 정보를 정리해보겠습니다. 이번 고유 아이템은 [&lt;strong&gt;지옥 물결&lt;/strong&gt;]을 정신 없이 휘젓고 다니다 보니 어느새 인벤토리에 들어와 있더라고요. 필드에서 몹 잡다가 나온 듯 합니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;신성-고유-장화-참회의-경갑&quot;&gt;[신성 고유 장화] 참회의 경갑&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 657&lt;/li&gt;
+  &lt;li&gt;피하기 시 1초 동안 이동 속도 +50%&lt;/li&gt;
+  &lt;li&gt;이동 속도 +[7.5 - 12.5]%&lt;/li&gt;
+  &lt;li&gt;군중 제어 효과의 지속시간 +[3.5 - 8.5]%&lt;/li&gt;
+  &lt;li&gt;감속 지속시간 감소 [9.5 - 14.5]%&lt;/li&gt;
+  &lt;li&gt;냉기 저항 [19.5 - 34.5]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 60&lt;/li&gt;
+  &lt;li&gt;잘못을 뉘우치는 빛의 대성당의 신자들은 고된 순례를 떠나, 세락 황홀경이라 불리는 얼어붙은 빙하를 가로질러야 합니다. 그래야만 중한 죄를 용서받을 수 있습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;적에게&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;오한&lt;/strong&gt;을 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;느끼게 하는 서리의 흔적을 남깁니다.&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;오한&lt;/strong&gt;을 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;느끼는 적에게 주는 피해가&lt;/code&gt;&lt;/strong&gt; [7 - 10]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가합니다.&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-boots-penitent-greaves-01-ko.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 10일차에 획득한 신성 고유 아이템 [얼음심장 브레이스]에 대한 정보&quot; style=&quot;width: 320px;  height: 670px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;sacred-unique-boots-penitent-greaves&quot;&gt;[Sacred Unique Boots] PENITENT GREAVES&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;657 Item Power&lt;/li&gt;
+  &lt;li&gt;328 Armor&lt;/li&gt;
+  &lt;li&gt;Evade Grants +50% Movement Speed for 1 Second&lt;/li&gt;
+  &lt;li&gt;+[7.5 - 12.5]% Movement Speed&lt;/li&gt;
+  &lt;li&gt;+[3.5 - 8.5]% Crowd Control Duration&lt;/li&gt;
+  &lt;li&gt;[9.5 - 14.5]% Slow Duration Reduction&lt;/li&gt;
+  &lt;li&gt;[19.5 - 34.5]% Cold Resistance&lt;/li&gt;
+  &lt;li&gt;Requires Level: 60&lt;/li&gt;
+  &lt;li&gt;Remorseful Devotees of the Cathedral of Light must undertake a grueling pilgrimage, journeying across the frigid glacier known as the Serac Rapture. Only then may their gravest sins be forgiven.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;You leave behind a trail of frost that&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;Chills&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;enemies. You deal&lt;/code&gt;&lt;/strong&gt; [7 - 10]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;more damage to&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;Chilled&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;enemies.&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-boots-penitent-greaves-01-en.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 10일차에 획득한 [Sacred Unique Boots] PENITENT GREAVES에 대한 정보&quot; style=&quot;width: 320px;  height: 669px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;神聖-ユニーク-ブーツ-懺悔のグリーヴ&quot;&gt;[神聖 ユニーク ブーツ] 懺悔のグリーヴ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;アイテムのパワー 657&lt;/li&gt;
+  &lt;li&gt;防御力 328&lt;/li&gt;
+  &lt;li&gt;回避によって移動速度が1秒間50％上昇&lt;/li&gt;
+  &lt;li&gt;移動速度＋[7.5 - 12.5]％&lt;/li&gt;
+  &lt;li&gt;操作障害持続時間＋[3.5 - 8.5]％&lt;/li&gt;
+  &lt;li&gt;スロウの持続時間減少[9.5 - 14.5]％&lt;/li&gt;
+  &lt;li&gt;冷気耐性[19.5 - 34.5]％&lt;/li&gt;
+  &lt;li&gt;必要レベル: 60&lt;/li&gt;
+  &lt;li&gt;悔恨を抱える光の聖堂の信者は、セラクの歓喜と呼ばれる極寒の氷河を超えて、過酷な巡礼の旅をしなければならない。その時初めて、彼らの罪は赦されるのだ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;敵を&lt;/code&gt;&lt;/strong&gt;&lt;strong&gt;冷気&lt;/strong&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;状態にする霜を残す。&lt;/code&gt;&lt;/strong&gt;&lt;strong&gt;冷気&lt;/strong&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;状態の敵は受けるダメージが&lt;/code&gt;&lt;/strong&gt;[7-10]％&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;増加する。&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-boots-penitent-greaves-01-ja.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 10일차에 획득한 [神聖 ユニーク ブーツ] 懺悔のグリーヴ에 대한 정보&quot; style=&quot;width: 320px;  height: 567px;&quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Sun, 18 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-day17-get-sacred-unique-boots-penitent-greaves-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day17-get-sacred-unique-boots-penitent-greaves-info.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 지옥물결에서 변종 잉걸불 빨리 모으는 팁 1가지</title>
@@ -706,86 +780,6 @@
             <pubDate>Tue, 06 Jun 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-day4-get-legendary-item-info.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day4-get-legendary-item-info.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 [온천의 비밀] 퀘스트 완료하는 방법</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;디아블로4 서브 퀘스트 중에서 [&lt;strong&gt;조각난 봉우리&lt;/strong&gt;] 지역에서 진행되는 [&lt;strong&gt;온천의 비밀&lt;/strong&gt;] 퀘스트 (Secret Of The Spring)는 어떻게 완료할 수 있는지, 어떤 방법으로 깰 수 있는지 퀘스트 설명에 명확하게 나오지 않아서 헤매다 알게 된 방법을 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;퀘스트-시작&quot;&gt;퀘스트 시작&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;온천의 비밀&lt;/strong&gt;] 퀘스트는 [&lt;strong&gt;키요바샤드&lt;/strong&gt;] 위쪽에서 진행할 수 있는데 아래 스샷을 보면 화살표로 표시한 조그만 지역입니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;퀘스트-내용&quot;&gt;퀘스트 내용&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;온천의 비밀&lt;/strong&gt;] 퀘스트 내용은 아래와 같은데, 설명을 자세히 보면 &lt;strong&gt;인내&lt;/strong&gt;라는 단어가 나옵니다. 이 단어가 바로 힌트입니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;퀘스트 제목: 온천의 비밀&lt;/li&gt;
-  &lt;li&gt;퀘스트 목표: 종이에 적힌 수수께끼 풀기&lt;/li&gt;
-  &lt;li&gt;퀘스트 설명: 수수께끼 같은 글이 적힌 종이를 발견했다.&lt;br /&gt;
-“겨울의 품에서 깜빡이는 온기, 자연의 은총이 &lt;strong&gt;인내&lt;/strong&gt;에 보답하리.”&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 420px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;퀘스트-진행&quot;&gt;퀘스트 진행&lt;/h2&gt;
-&lt;p&gt;아래 스샷처럼 지도에 표시된 지역에 가면 조그만 웅덩이 처럼 생긴 온천이 보이는데 우선 그 앞으로 다가섭니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;그 자리에서 감정표현이나 던전나가기 등의 단축 명령어를 실행할 수 있는 팝업창을 띄웁니다.&lt;br /&gt;
-키보드-마우스로 플레이할 때는 [&lt;strong&gt;마우스 휠&lt;/strong&gt;] 버튼입니다. 그런데 기본 설정된 감정표현 중에는 퀘스트를 완료할 수 있는 감정표현이 없습니다. &lt;br /&gt;
-여기서 감정표현을 추가하기 위해 아래쪽의 [&lt;strong&gt;사용자 지정&lt;/strong&gt;] 메뉴를 실행합니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-04.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;화면에 추가 가능한 감정표현 리스트가 나오는데 그 중에서 아래쪽으로 스크롤해서 [&lt;strong&gt;대기&lt;/strong&gt;] (Wait) 감정표현을 선택하고 [&lt;strong&gt;지정&lt;/strong&gt;]합니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-05.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;이제 어디에 지정할 것인지 선택할 수 있는데, 비어있는 곳을 선택하고 [&lt;strong&gt;지정&lt;/strong&gt;]합니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-06.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;그러면 아래와 같이 [&lt;strong&gt;대기&lt;/strong&gt;] (Wait) 감정표현이 등록된 것을 확인할 수 있는데, 마지막으로 [&lt;strong&gt;변경 내용 적용&lt;/strong&gt;]을 선택해서 적용합니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-07.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;퀘스트-완료&quot;&gt;퀘스트 완료&lt;/h2&gt;
-&lt;p&gt;적용하고 나서 다시 단축 메뉴 팝업을 띄워서 등록된 [&lt;strong&gt;대기&lt;/strong&gt;] 감정표현을 선택합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-08.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[&lt;strong&gt;대기&lt;/strong&gt;]를 선택하고 나면 퀘스트가 완료되면서 [&lt;strong&gt;파뭍힌 궤짝&lt;/strong&gt;]이 온천 위쪽에 나타납니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-09.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[&lt;strong&gt;파뭍힌 궤짝&lt;/strong&gt;]을 열면 물약 재료 아이템등이 떨어지면서 [&lt;strong&gt;온천의 비밀&lt;/strong&gt;] 퀘스트가 완료되었다는 알림 팝업이 나타나면서 모든 퀘스트가 완료됩니다. 다들 고생하셨습니다. 모두 선조 아이템 얻으시길 바랍니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-secret-of-the-spring-10.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 퀘스트 중에서 [온천의 비밀] 퀘스트를 어떻게 완료할 수 있는지 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Mon, 05 Jun 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-quest-secret-of-the-spring-guide.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-quest-secret-of-the-spring-guide.html</guid>
             
             <category>diablo</category>
             
