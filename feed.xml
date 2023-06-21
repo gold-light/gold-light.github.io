@@ -5,9 +5,90 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 21 Jun 2023 07:50:06 +0900</pubDate>
-        <lastBuildDate>Wed, 21 Jun 2023 07:50:06 +0900</lastBuildDate>
+        <pubDate>Thu, 22 Jun 2023 07:54:14 +0900</pubDate>
+        <lastBuildDate>Thu, 22 Jun 2023 07:54:14 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 19일차 획득 고유 아이템 [람 에센의 지팡이] 상세 정보</title>
+            <description>&lt;h2 id=&quot;17일차-득템&quot;&gt;17일차 득템&lt;/h2&gt;
+&lt;p&gt;디아블로4 플레이 19일차에 획득한 신성 고유(Sacred Unique) 장화 아이템 [&lt;strong&gt;람 에센의 지팡이&lt;/strong&gt;]대한 정보를 정리해보겠습니다. 이번 고유 아이템은 [&lt;strong&gt;속삭임의 나무&lt;/strong&gt;] - [&lt;strong&gt;망자의 속삭임&lt;/strong&gt;] 퀘스트를 진행하면서 던전에 들어갔다가 얻었던 것으로 추측됩니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;신성-고유-지팡이-람-에센의-지팡이&quot;&gt;[신성 고유 지팡이] 람 에센의 지팡이&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 662&lt;/li&gt;
+  &lt;li&gt;1,336 초당 공격력&lt;/li&gt;
+  &lt;li&gt;적중당 공격력 [1,069 - 1, 603]&lt;/li&gt;
+  &lt;li&gt;초당 공격 횟수 1.00&lt;/li&gt;
+  &lt;li&gt;군중 제어 상태 효과의 영향을 받는 적에게 주는 피해 +25%&lt;/li&gt;
+  &lt;li&gt;번개 피해 +[10.0 - 20.0]%&lt;/li&gt;
+  &lt;li&gt;근거리에 있는 적에게 주는 피해 +[23.0 - 33.0]%&lt;/li&gt;
+  &lt;li&gt;부상당한 적에게 주는 피해 +[30.0 - 50.0]%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;행운의 적중&lt;/strong&gt;: 최대 5% 확률로 주 자원 +[10.0 - 20.0]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 61&lt;/li&gt;
+  &lt;li&gt;“옛 종교의 큰 지팡이라고도 불리는 이 강력한 성물은, 오늘날 남아 있는 몇 안되는 스카트심 유물중 하나다.” - 바렛의 만물 백과&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;번개 줄기&lt;/strong&gt;가 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;적을 관통하지만 주는 피해가&lt;/code&gt;&lt;/strong&gt; [40 - 30]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;감소합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-staff-of-lam-esen-01-ko.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 19일차에 획득한 신성 고유 아이템 [람 에센의 지팡이]에 대한 정보&quot; style=&quot;width: 320px;  height: 680px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;sacred-unique-staff-staff-of-lam-esen&quot;&gt;[Sacred Unique Staff] STAFF OF LAM ESEN&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;662 Item Power&lt;/li&gt;
+  &lt;li&gt;1,336 Damage Per Second&lt;/li&gt;
+  &lt;li&gt;[1,069 - 1,603] Damage per Hit&lt;/li&gt;
+  &lt;li&gt;1.00 Attacks per Second&lt;/li&gt;
+  &lt;li&gt;+25.0% Damage to Crowd Controlled Enemies&lt;/li&gt;
+  &lt;li&gt;+[10.0 - 20.0]% Lightning Damage&lt;/li&gt;
+  &lt;li&gt;+[23.0 - 50.0]% Damage to Close Enemies&lt;/li&gt;
+  &lt;li&gt;+[30.0 - 50.0]% Damage to Injured Enemies&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Licky Hit&lt;/strong&gt;: Up to a 5% Chance to Restore +[10.0 - 20.0]% Primary Resource&lt;/li&gt;
+  &lt;li&gt;Requires Level: 61&lt;/li&gt;
+  &lt;li&gt;“Also known as the Greatstaff of the Old Religion, this powerful relic is one of only a small handful of Skatsimi artifacts that have survived this day.” - Barrett’s Book of Implements&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;Charged Bolts&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pierce, but deal&lt;/code&gt;&lt;/strong&gt; [40 - 30]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;less damage. (Sorcerer Only)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-staff-of-lam-esen-01-en.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 19일차에 획득한 신성 고유 아이템 [람 에센의 지팡이]에 대한 정보&quot; style=&quot;width: 320px;  height: 701px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;神聖-ユニーク-杖-ラムエセンの杖&quot;&gt;[神聖 ユニーク 杖] ラム・エセンの杖&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;アイテムのパワー 662&lt;/li&gt;
+  &lt;li&gt;1,336 毎秒ダメージ&lt;/li&gt;
+  &lt;li&gt;命中ごとのダメージ [1,069 - 1,603]&lt;/li&gt;
+  &lt;li&gt;秒間攻撃回数1.00&lt;/li&gt;
+  &lt;li&gt;操作障害状態の敵へのダメージ＋25％&lt;/li&gt;
+  &lt;li&gt;電撃ダメージ＋[10.0-20.0]％&lt;/li&gt;
+  &lt;li&gt;近距離の敵へのダメージ＋[23.0-33.0]％&lt;/li&gt;
+  &lt;li&gt;負傷した敵へのダメージ＋[30.0-50.0]％&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;幸運の一撃&lt;/strong&gt;：最大５％の確率でプライマリ・リソースを[10.0-20.0]％回復&lt;/li&gt;
+  &lt;li&gt;必要レベル: 61&lt;/li&gt;
+  &lt;li&gt;「旧宗教の大杖とも呼ばれるこの協力な遺物は、今日まで残っている数少ないスカシィミの遺物の一つである」‐バレットの道具帳&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;チャージボルト&lt;/strong&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;が貫通するが、与えるダメージが&lt;/code&gt;&lt;/strong&gt;[40 - 30]％&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;減る。(ソーサラーのみ)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-staff-of-lam-esen-01-ja.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 19일차에 획득한 신성 고유 아이템 [람 에센의 지팡이]에 대한 정보&quot; style=&quot;width: 320px;  height: 695px;&quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Tue, 20 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-day19-get-sacred-unique-staff-of-lam-esen-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day19-get-sacred-unique-staff-of-lam-esen-info.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 17일차 획득 고유 아이템 [참회의 경갑] 상세 정보</title>
@@ -682,104 +763,6 @@
             <pubDate>Wed, 07 Jun 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-quest-the-eyes-of-serpent-in-vyeresz-stronghold-guide.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-quest-the-eyes-of-serpent-in-vyeresz-stronghold-guide.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 5일차 득템 자랑, 전설 아이템 상세 정보</title>
-            <description>&lt;h2 id=&quot;5일차-득템&quot;&gt;5일차 득템&lt;/h2&gt;
-&lt;p&gt;디아블로4 플레이 5일차에 획득한 전설 아이템 중에서 눈에 띄는 아이템 몇가지에 대한 정보를 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;전설-장화-유랑방랑자-군장-장화&quot;&gt;[전설 장화] 유랑방랑자 군장 장화&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;피하기 최대 충전 +1&lt;/li&gt;
-  &lt;li&gt;번개 저항 [22.1 - 34.8]%&lt;/li&gt;
-  &lt;li&gt;회피 확률 [2.5 - 4.3]%&lt;/li&gt;
-  &lt;li&gt;얼음 갑옷 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
-  &lt;li&gt;서릿발 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
-  &lt;li&gt;요구레벨: 38&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;저지 불가&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;상태인 동안과 그 후 4초 동안, 이동 속도가&lt;/code&gt;&lt;/strong&gt; [10 - 25]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가하고 적 사이를 제약 없이 이동할 수 있습니다.&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-09.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 5일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 557px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;전설-투구-서리-대공세-마인-투구&quot;&gt;[전설 투구] 서리 대공세 마인 투구&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;최대 생명력 +[112 - 211]&lt;/li&gt;
-  &lt;li&gt;민첩 +[23 - 33]&lt;/li&gt;
-  &lt;li&gt;최근 피해를 받지 않았을 때 생명력 재생량 +[18 - 38]&lt;/li&gt;
-  &lt;li&gt;번개 저항 [22.1 - 34.8]%&lt;/li&gt;
-  &lt;li&gt;요구레벨: 40&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;서릿발&lt;/strong&gt;이 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;추가 충전을 얻지만 충전당 재사용 대기시간이&lt;/code&gt;&lt;/strong&gt; [40 - 30]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-10.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 5일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 500px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;전설-장갑-빙하의-군장-팔목-장갑&quot;&gt;[전설 장갑] 빙하의 군장 팔목 장갑&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;제압 피해 +[13.5 - 24.0]%&lt;/li&gt;
-  &lt;li&gt;지능 +[18 - 25]&lt;/li&gt;
-  &lt;li&gt;부상당한 적에게 주는 피해 +[13.0 - 20.0]%&lt;/li&gt;
-  &lt;li&gt;극대화 확률 +[3.0 - 6.0]%&lt;/li&gt;
-  &lt;li&gt;요구레벨: 41&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;눈보라&lt;/strong&gt;를 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;시전하면 주기저으로 폭발하는&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;얼음 가시&lt;/strong&gt;가 생성되어 [233 - 349]의 피해를 줍니다. &lt;strong&gt;얼음 가시&lt;/strong&gt;가 &lt;strong&gt;빙결&lt;/strong&gt;된 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;적에게 주는 피해가 25% 증가합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-12.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 5일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 517px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;전설-반지-기대하는-자의-반지&quot;&gt;[전설 반지] 기대하는 자의 반지&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;암흑 저항 17.9%&lt;/li&gt;
-  &lt;li&gt;독 저항 17.9%&lt;/li&gt;
-  &lt;li&gt;보호막 생성량 +[4.5 - 8.0]%&lt;/li&gt;
-  &lt;li&gt;최대 생명력 +[83 - 156]&lt;/li&gt;
-  &lt;li&gt;감속 적에게 주는 피해 +[9.5 - 13.0]%&lt;/li&gt;
-  &lt;li&gt;취약 피해 +[9.5 - 13.0]%&lt;/li&gt;
-  &lt;li&gt;요구레벨: 40&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;적을&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;기본&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;기술로 공격하면 다음으로 시전하는&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;핵심&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;기술이 주는 피해가&lt;/code&gt;&lt;/strong&gt; [5 - 10]%&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;만큼, 최대 30%까지 증가합니다.&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-11.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 5일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 511px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;전설-장갑-얼어붙은-기억의-모험가의-장갑&quot;&gt;[전설 장갑] 얼어붙은 기억의 모험가의 장갑&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;얼음 파편 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
-  &lt;li&gt;지능 +[23 - 33]&lt;/li&gt;
-  &lt;li&gt;화염구 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
-  &lt;li&gt;극대화 확률 +[3.9 - 7.9]%&lt;/li&gt;
-  &lt;li&gt;요구레벨: 32&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;눈사태&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;핵심 지속 효과가 추가 1회의 시전에 적용됩니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-legendary-13.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 5일차에 획득한 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 468px;&quot; /&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Tue, 06 Jun 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-day4-get-legendary-item-info.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day4-get-legendary-item-info.html</guid>
             
             <category>diablo</category>
             
