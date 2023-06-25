@@ -5,13 +5,82 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Jun 2023 07:54:14 +0900</pubDate>
-        <lastBuildDate>Thu, 22 Jun 2023 07:54:14 +0900</lastBuildDate>
+        <pubDate>Sun, 25 Jun 2023 10:08:21 +0900</pubDate>
+        <lastBuildDate>Sun, 25 Jun 2023 10:08:21 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
         
         <item>
+            <title>디아블로4 21일차 획득 고유 아이템 [무한의 의복] 상세 정보</title>
+            <description>&lt;h2 id=&quot;21일차-득템&quot;&gt;21일차 득템&lt;/h2&gt;
+&lt;p&gt;디아블로4 플레이 21일차에 획득한 신성 고유(Sacred Unique) 가슴 방어구 아이템 [&lt;strong&gt;무한의 의복&lt;/strong&gt;]대한 정보를 정리해보겠습니다. 이번 고유 아이템은 [&lt;strong&gt;지옥 물결&lt;/strong&gt;]을 진행하면서 필드 정예를 잡고 얻었습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;신성-고유-가슴-방어구-무한의-의복&quot;&gt;[신성 고유 가슴 방어구] 무한의 의복&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 673&lt;/li&gt;
+  &lt;li&gt;방어도 1,178&lt;/li&gt;
+  &lt;li&gt;지능 +[24 - 34]&lt;/li&gt;
+  &lt;li&gt;근거리에 있는 적에게 주는 피해 +[11.5 - 16.5]%&lt;/li&gt;
+  &lt;li&gt;기절 적에게 주는 피해 +[11.5 - 16.5]%&lt;/li&gt;
+  &lt;li&gt;유리 대포 지속 효과 등급 +1 (원소술사 전용)&lt;/li&gt;
+  &lt;li&gt;요구레벨: 62&lt;/li&gt;
+  &lt;li&gt;“자신이 가진 힘은 언제나 부족할 따름입니다.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;순간이동&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;사용 후, 근거리에 있는 적들이 자신에게 끌려와&lt;/code&gt;&lt;/strong&gt; [2.0 - 3.0]&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;초 동안 기절하지만,&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;순간이동&lt;/strong&gt;의 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;재사용 대기시간이 20% 증가합니다.&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-chest-armor-raiment-of-the-infinite-01-kr.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 21일차에 획득한 신성 고유 아이템 [무한의 의복]에 대한 정보&quot; style=&quot;width: 320px;  height: 646px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;sacred-unique-chest-armor-raiment-of-the-infinite&quot;&gt;[Sacred Unique Chest Armor] RAIMENT OF THE INFINITE&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;673 Item Power&lt;/li&gt;
+  &lt;li&gt;1,178 Damage Per Second&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;Requires Level: 62&lt;/li&gt;
+  &lt;li&gt;“The Power you have is never enough.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;After using&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;Teleport&lt;/strong&gt;, &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Close enemies are Pulled to you and Stunned for&lt;/code&gt;&lt;/strong&gt; [2.0 - 3.0] &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;seconds, but&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;Teleport’s&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Cooldown is increased by 20%&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-chest-armor-raiment-of-the-infinite-01-en.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 21일차에 획득한 신성 고유 아이템 [RAIMENT OF THE INFINITE]에 대한 정보&quot; style=&quot;width: 320px;  height: 641px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;神聖-ユニーク-胸当て-永遠の装具&quot;&gt;[神聖 ユニーク 胸当て] 永遠の装具&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;アイテムのパワー 673&lt;/li&gt;
+  &lt;li&gt;防御力1,178&lt;/li&gt;
+  &lt;li&gt;知力＋[24-34]&lt;/li&gt;
+  &lt;li&gt;近距離の敵へのダメージ＋[11.5-16.5]％&lt;/li&gt;
+  &lt;li&gt;スタンの敵へのダメージ＋[11.5-16.5]％&lt;/li&gt;
+  &lt;li&gt;諸刃の大砲のパッシブ効果のランク＋1 (ソーサラーのみ)&lt;/li&gt;
+  &lt;li&gt;必要レベル: 62&lt;/li&gt;
+  &lt;li&gt;“持ってる力で決して足りない。”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;テレポート&lt;/strong&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;を使用した後、付近の敵を引き寄せて&lt;/code&gt;&lt;/strong&gt;[2.0-3.0]&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;秒間スタンさせるが、&lt;/code&gt;&lt;/strong&gt;&lt;strong&gt;テレポート&lt;/strong&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;のクールダウンが20％延長される。&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-chest-armor-raiment-of-the-infinite-01-en.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 21일차에 획득한 신성 고유 아이템 [永遠の装具]에 대한 정보&quot; style=&quot;width: 320px;  height: 555px;&quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Thu, 22 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-day21-get-sacred-unique-chest-armor-raiment-of-the-infinite.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day21-get-sacred-unique-chest-armor-raiment-of-the-infinite.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
+        
+        <item>
             <title>디아블로4 19일차 획득 고유 아이템 [람 에센의 지팡이] 상세 정보</title>
-            <description>&lt;h2 id=&quot;17일차-득템&quot;&gt;17일차 득템&lt;/h2&gt;
+            <description>&lt;h2 id=&quot;19일차-득템&quot;&gt;19일차 득템&lt;/h2&gt;
 &lt;p&gt;디아블로4 플레이 19일차에 획득한 신성 고유(Sacred Unique) 장화 아이템 [&lt;strong&gt;람 에센의 지팡이&lt;/strong&gt;]대한 정보를 정리해보겠습니다. 이번 고유 아이템은 [&lt;strong&gt;속삭임의 나무&lt;/strong&gt;] - [&lt;strong&gt;망자의 속삭임&lt;/strong&gt;] 퀘스트를 진행하면서 던전에 들어갔다가 얻었던 것으로 추측됩니다.&lt;/p&gt;
 
 &lt;h2 id=&quot;신성-고유-지팡이-람-에센의-지팡이&quot;&gt;[신성 고유 지팡이] 람 에센의 지팡이&lt;/h2&gt;
@@ -719,50 +788,6 @@
             <pubDate>Thu, 08 Jun 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-day7-get-sacred-legendary-item-info.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day7-get-sacred-legendary-item-info.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 비예레즈 보루 퀘스트 [구렁이의 눈 3개] 위치</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;디아블로4 보루 점령 퀘스트 중에서 하웨자르 지역의 [&lt;strong&gt;비예레즈 보루(Vyeresz Stronghold)&lt;/strong&gt;]에서 진행되는 [&lt;strong&gt;구렁이의 눈 (The Serpent’s Eyes)&lt;/strong&gt;] 퀘스트에서 구렁이의 눈 3개를 어디서 찾을 수 있는지 정리해보겠습니다.&lt;br /&gt;
-원래대로라면 구렁이의 눈은 금방 찾을 수 있어야 정상인데, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;버그 때문인지 키보드로 플레이할 때 건물 안에 들어갔는데도 건물안의 화면으로 전환되지 않아서 구렁이의 눈을 제대로 찾을 수 없는 경우&lt;/code&gt;가 있었는데 &lt;strong&gt;엑스박스 게임패드로 플레이해 보니 어떤 위치인지 금방 확인&lt;/strong&gt;할 수 있었습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;첫번째-구렁이의-눈-위치&quot;&gt;첫번째 구렁이의 눈 위치&lt;/h2&gt;
-&lt;p&gt;첫번째 구렁이의 눈은 다들 쉽게 찾으셨듯이 아래 스샷처럼 &lt;strong&gt;마을 중앙&lt;/strong&gt;에 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-the-eyes-of-serpent-in-vyeresz-stronghold-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 하웨자르 지역의 비예레즈 보루에서 진행되는 [구렁이의 눈] 퀘스트를 완료하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;두번째-구렁이의-눈-위치&quot;&gt;두번째 구렁이의 눈 위치&lt;/h2&gt;
-&lt;p&gt;두번째 구렁이의 눈 위치는 &lt;strong&gt;마을 중앙에서 11시 방향 구석에 있는 건물&lt;/strong&gt; 안으로 들어가면 있습니다. 물론 안에 정예몹이 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-the-eyes-of-serpent-in-vyeresz-stronghold-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 하웨자르 지역의 비예레즈 보루에서 진행되는 [구렁이의 눈] 퀘스트를 완료하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;건물 안에 들어가면 정예몹과 전투를 하고 나서 12시 방향으로 보면 구렁이의 눈을 발견할 수 있습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-the-eyes-of-serpent-in-vyeresz-stronghold-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 하웨자르 지역의 비예레즈 보루에서 진행되는 [구렁이의 눈] 퀘스트를 완료하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;세번째-구렁이의-눈-위치&quot;&gt;세번째 구렁이의 눈 위치&lt;/h2&gt;
-&lt;p&gt;세번째 구렁이의 눈 위치는 &lt;strong&gt;마을 중앙에서 3시~4시 사이 구석에 있는 건물&lt;/strong&gt; 안으로 들어가면 됩니다. 여기도 정예몹이 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-the-eyes-of-serpent-in-vyeresz-stronghold-04.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 하웨자르 지역의 비예레즈 보루에서 진행되는 [구렁이의 눈] 퀘스트를 완료하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;건물 안에 들어가면 몹과 전투를 하고 나서 마찬가지로 &lt;strong&gt;3시~4시 사이 구석&lt;/strong&gt;에 있습니다.
-혹시 건물 안의 화면으로 전환되지 않는 경우 3시~4시 구석 위치를 마우스로 이리저리 이동해보면 발견할 수 있습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-quest-the-eyes-of-serpent-in-vyeresz-stronghold-05.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 하웨자르 지역의 비예레즈 보루에서 진행되는 [구렁이의 눈] 퀘스트를 완료하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Wed, 07 Jun 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-quest-the-eyes-of-serpent-in-vyeresz-stronghold-guide.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-quest-the-eyes-of-serpent-in-vyeresz-stronghold-guide.html</guid>
             
             <category>diablo</category>
             
