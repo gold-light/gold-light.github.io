@@ -5,9 +5,156 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Jun 2023 11:15:47 +0900</pubDate>
-        <lastBuildDate>Sun, 25 Jun 2023 11:15:47 +0900</lastBuildDate>
+        <pubDate>Sun, 25 Jun 2023 19:12:44 +0900</pubDate>
+        <lastBuildDate>Sun, 25 Jun 2023 19:12:44 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 가장 희귀한 고유 아이템 6가지 획득 조건 정보</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;디아블로4 수석 클래스 디자이너로 알려진 아담 잭슨(Adam Jackson)이 자신의 트위터(@AZJackson85)에 현재 디아블로4에서 가장 희귀하다고 할 수 있는 고유 아이템 6가지의 획득 조건에 대한 정보와 아이템 정보를 공개했는데 어떤 것인지 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;고유-아이템-리스트&quot;&gt;고유 아이템 리스트&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;궤멸자(Doombringer)&lt;/li&gt;
+  &lt;li&gt;한아비(The Grandfather)&lt;/li&gt;
+  &lt;li&gt;별 없는 하늘의 반지(Ring of the Starless Skies)&lt;/li&gt;
+  &lt;li&gt;안다리엘의 두개골(Andariel’s Visage)&lt;/li&gt;
+  &lt;li&gt;할리퀸 관모(Harlequin Crest, 샤코)&lt;/li&gt;
+  &lt;li&gt;셀리그의 녹은 심장(Melted Heart of Selig)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;아이템-획득-조건&quot;&gt;아이템 획득 조건&lt;/h2&gt;
+&lt;p&gt;아담 잭슨(Adam Jackson) 수석 디자이너의 트위터 내용을 번역해보면 6개의 고유 아이템 획득 조건은 다음과 같다고 합니다.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;85레벨 이상의 몬스터&lt;/code&gt;한테서 획득할 수 있습니다.&lt;/li&gt;
+  &lt;li&gt;일반 고유 아이템을 얻을 수 있는 모든 곳에서 획득할 수 있으며, 항상 &lt;strong&gt;820의 아이템 위력&lt;/strong&gt;으로 드랍됩니다.&lt;/li&gt;
+  &lt;li&gt;현재 게임 내 6개가 있습니다.&lt;/li&gt;
+  &lt;li&gt;정말 희귀합니다!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-the-rarest-unique-items-info-01.png&quot; alt=&quot;디아블로4 (Diablo 4) 가장 희귀한 고유 아이템 6가지 획득 조건 정보&quot; style=&quot;width: 621px;  &quot; /&gt;&lt;figcaption&gt;이미지 출처: 아담 잭슨(Adam Jackson) 트위터&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;고유-한손검-궤멸자doombringer&quot;&gt;[고유 한손검] 궤멸자(Doombringer)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 820&lt;/li&gt;
+  &lt;li&gt;1,241 초당 공격력&lt;/li&gt;
+  &lt;li&gt;적중당 공격력 [903 - 1,355]&lt;/li&gt;
+  &lt;li&gt;초당 공격 횟수 1.10 (빠른 무기)&lt;/li&gt;
+  &lt;li&gt;극대화 피해 +17.5%&lt;/li&gt;
+  &lt;li&gt;핵심 기술 피해 +[12.5 - 19.5]%&lt;/li&gt;
+  &lt;li&gt;추가 피해 +[10.5 - 17.5]%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;행운 적중&lt;/strong&gt;: 최대 5% 확률로 +[523 - 941] 생명력 회복&lt;/li&gt;
+  &lt;li&gt;최대 생명력 [12.0 - 26.0]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 65&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;행운 적중&lt;/strong&gt;: &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;최대&lt;/code&gt;&lt;/strong&gt; [15 - 25]%&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;의 확률로 주변 적에게 5,822의 암흑 피해를 입히고 5초 동안 받는 피해를 20% 감소시킵니다.&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;고유-양손검-한아비the-grandfather&quot;&gt;[고유 양손검] 한아비(The Grandfather)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 820&lt;/li&gt;
+  &lt;li&gt;2,484 초당 공격력&lt;/li&gt;
+  &lt;li&gt;적중당 공격력 [1,987 - 2,981]&lt;/li&gt;
+  &lt;li&gt;초당 공격 횟수 1.00&lt;/li&gt;
+  &lt;li&gt;극대화 피해 +35%&lt;/li&gt;
+  &lt;li&gt;추가 피해 +[28.0 - 56.0]%&lt;/li&gt;
+  &lt;li&gt;최대 생명력 +[1,463 - 2,717]&lt;/li&gt;
+  &lt;li&gt;모든 능력치 +[40 -72]&lt;/li&gt;
+  &lt;li&gt;내구도 감소 무시&lt;/li&gt;
+  &lt;li&gt;요구레벨: 65&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;자신의 극대화 피해가&lt;/code&gt;&lt;/strong&gt; [60 - 100]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가합니다.&lt;/code&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;* &amp;lt;br /&amp;gt;
+**&lt;/code&gt;이 무기의 다른 속성이 일반적인 것보다 높을 수 있습니다.`&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-the-rarest-unique-items-info-02.png&quot; alt=&quot;디아블로4 (Diablo 4) 가장 희귀한 고유 아이템 6가지 획득 조건 정보&quot; style=&quot;width: 462px;  &quot; /&gt;&lt;figcaption&gt;이미지 출처: 아담 잭슨(Adam Jackson) 트위터&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;고유-반지-별-없는-하늘의-반지ring-of-the-starless-skies&quot;&gt;[고유 반지] 별 없는 하늘의 반지(Ring of the Starless Skies)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 820&lt;/li&gt;
+  &lt;li&gt;냉기 저항 25.0%&lt;/li&gt;
+  &lt;li&gt;화염 저항 25.0%&lt;/li&gt;
+  &lt;li&gt;행운 적중 확률 +[3.2 - 6.0]%&lt;/li&gt;
+  &lt;li&gt;극대화 확률 +[1.8 - 5.0]%&lt;/li&gt;
+  &lt;li&gt;극대화 피해 +[14.0 - 21.0]%&lt;/li&gt;
+  &lt;li&gt;핵심 기술 피해 +[12.5 - 19.5]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 65&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;연속으로&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;핵심&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;스킬을 시전할 때마다 다음&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;핵심&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;스킬의 자원 소모량이&lt;/code&gt;&lt;/strong&gt; [8 - 12]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;감소하며, 최대 40%까지 감소합니다.&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;고유-투구-안다리엘의-두개골andariels-visage&quot;&gt;[고유 투구] 안다리엘의 두개골(Andariel’s Visage)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 820&lt;/li&gt;
+  &lt;li&gt;모든 능력치 +[10 - 18]&lt;/li&gt;
+  &lt;li&gt;공격 속도 +[4.4 - 10.0]%&lt;/li&gt;
+  &lt;li&gt;생명력 훔치기 [1.3 - 2.0]%&lt;/li&gt;
+  &lt;li&gt;독 저항 +[24.5 - 45.5]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 65&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;행운 적중&lt;/strong&gt;: &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;최대&lt;/code&gt;&lt;/strong&gt; [15 - 20]%의 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;확률로 해당 지역의 적에게 5초에 걸쳐 10,077의 중독 피해를 입히는 독극물 폭발이 발동합니다.&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-the-rarest-unique-items-info-03.png&quot; alt=&quot;디아블로4 (Diablo 4) 가장 희귀한 고유 아이템 6가지 획득 조건 정보&quot; style=&quot;width: 512px;  &quot; /&gt;&lt;figcaption&gt;이미지 출처: 아담 잭슨(Adam Jackson) 트위터&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;고유-투구-할리퀸-관모&quot;&gt;[고유 투구] 할리퀸 관모&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 820&lt;/li&gt;
+  &lt;li&gt;방어력 1,025&lt;/li&gt;
+  &lt;li&gt;생명력 최대치 +[732 - 1,359]&lt;/li&gt;
+  &lt;li&gt;재사용 대기시간 감소 +[4.4 - 10.0]%&lt;/li&gt;
+  &lt;li&gt;자원 재생 [5.0 - 12.0]%&lt;/li&gt;
+  &lt;li&gt;모든 능력치 +[20 - 28]&lt;/li&gt;
+  &lt;li&gt;요구레벨: 65&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+[10.0 - 20.0]%의 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;피해 감소를 얻습니다.&lt;/code&gt;&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;`추가로 모든 기술의 등급 +4를 얻습니다.&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;고유-목걸이-셀리그의-녹은-심장melted-heart-of-selig&quot;&gt;[고유 목걸이] 셀리그의 녹은 심장(Melted Heart of Selig)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 820&lt;/li&gt;
+  &lt;li&gt;모든 원소 저항 18.5%&lt;/li&gt;
+  &lt;li&gt;모든 능력치 +[10 - 18]&lt;/li&gt;
+  &lt;li&gt;핵심 기술 피해 +[12.5 - 19.5]%&lt;/li&gt;
+  &lt;li&gt;건강 상태일 때 피해 +[16.5 - 23.5]%&lt;/li&gt;
+  &lt;li&gt;자원 생성 [5.0 - 12.0]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 65&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+자원 최대치 +30%를 얻습니다. 또한, 피해를 입으면 생명력의 1%당 [8 - 3]자원을 생명력 대신 소모합니다.
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-the-rarest-unique-items-info-04.png&quot; alt=&quot;디아블로4 (Diablo 4) 가장 희귀한 고유 아이템 6가지 획득 조건 정보&quot; style=&quot;width: 590px;  &quot; /&gt;&lt;figcaption&gt;이미지 출처: 아담 잭슨(Adam Jackson) 트위터&lt;/figcaption&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Sun, 25 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-the-rarest-unique-items-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-the-rarest-unique-items-info.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 강철의 흔적 퀘스트 NPC [아사이파] 위치</title>
@@ -611,97 +758,6 @@
             <pubDate>Sat, 10 Jun 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-geforce-gtx-750ti-play-movie.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-geforce-gtx-750ti-play-movie.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 8일차 지옥물결 수수께끼의 고통받는 선물 오픈, 신성 전설 아이템 정보</title>
-            <description>&lt;h2 id=&quot;지옥물결&quot;&gt;지옥물결&lt;/h2&gt;
-&lt;p&gt;디아블로4 악몽 난이도에 들어가면 즐길 수 있는 [&lt;strong&gt;지옥물결&lt;/strong&gt;] 컨텐츠에서 [&lt;strong&gt;수수께끼의 고통받는 선물&lt;/strong&gt;] 상자를 오픈하고 획득한 신성 전설 아이템 정보를 소개해보겠습니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[&lt;strong&gt;지옥물결&lt;/strong&gt;]은 악몽 이상의 난이도에서 성역곳곳에 주기적으로 나타납니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 지옥물결에서 수수께끼의 고통받는 선물 상자를 오픈하고 얻은 신성 전설 아이템 정보&quot; style=&quot;width: 474px;  height: 504px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;지옥물결이 나타난 지역의 몬스터를 사냥하면 얻을 수 있는 [&lt;strong&gt;변종 잉걸불&lt;/strong&gt;]을 고통받는 선물로 교환할 수 있습니다. 고통받는 선물은 특정 아이템 칸에 맞는 아이템들이 들어 있는 궤짝입니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 지옥물결에서 수수께끼의 고통받는 선물 상자를 오픈하고 얻은 신성 전설 아이템 정보&quot; style=&quot;width: 474px;  height: 530px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;특정 아이템 종류별로 교환할 수 있는 상자는 지도에 표시되는데, [&lt;strong&gt;수수께끼의 고통받는 선물&lt;/strong&gt;] 상자는 지도에 바로 표시되지 않고 근처에 다가가야 표시되는데, 부위에 관계없이 여러개의 아이템을 획득할 수 있습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 지옥물결에서 수수께끼의 고통받는 선물 상자를 오픈하고 얻은 신성 전설 아이템 정보&quot; style=&quot;width: 474px;  height: 504px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;수수께끼의-고통받는-선물-상자&quot;&gt;수수께끼의 고통받는 선물 상자&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;변종 잉걸불&lt;/strong&gt;] 175개를 모아서 지도 곳곳에 랜덤한 장소에 나타나는 [&lt;strong&gt;수수께끼의 고통받는 선물&lt;/strong&gt;] 상자를 찾아가서 교환을 하면 됩니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info-04.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 지옥물결에서 수수께끼의 고통받는 선물 상자를 오픈하고 얻은 신성 전설 아이템 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;p&gt;상자를 오픈했는데 아래와 같은 아이템들이 나왔습니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;전설 가슴 방어구 (신성)&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;전설 장화 (신성)&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;희귀 튼튼한 두건 (신성)&lt;/li&gt;
-  &lt;li&gt;희귀 고원의 예복 (신성)&lt;/li&gt;
-  &lt;li&gt;희귀 악마서 (신성)&lt;/li&gt;
-  &lt;li&gt;약한 화염 저항의 비약&lt;/li&gt;
-  &lt;li&gt;약한 독 저항의 비약&lt;/li&gt;
-  &lt;li&gt;잔혹성의 비약&lt;/li&gt;
-  &lt;li&gt;마귀 장미 4개&lt;/li&gt;
-  &lt;li&gt;잊혀진 영혼 2개&lt;/li&gt;
-  &lt;li&gt;금화 713&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 지옥물결에서 수수께끼의 고통받는 선물 상자를 오픈하고 얻은 신성 전설 아이템 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;신성-전설-장화-요행의-골편-발-보호대&quot;&gt;[신성 전설 장화] 요행의 골편 발 보호대&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;아이템 위력 672&lt;/li&gt;
-  &lt;li&gt;피하기 시 1초 동안 이동 속도 +50% 부여&lt;/li&gt;
-  &lt;li&gt;정예 처치 후 4초 동안 이동속도 +[10.0 - 20.0]%&lt;/li&gt;
-  &lt;li&gt;짜릿한 에너지 피해 +[10.0 - 20.0]%&lt;/li&gt;
-  &lt;li&gt;이동 속도 +[7.5 - 12.5]%&lt;/li&gt;
-  &lt;li&gt;신단 강화 효과 지속시간 +[3.5 - 8.5]%&lt;/li&gt;
-  &lt;li&gt;요구레벨: 54&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;보호막&lt;/strong&gt;이 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;있을 때 행운의 적중 확률이&lt;/code&gt;&lt;/strong&gt; [10 - 20%] &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 지옥물결에서 수수께끼의 고통받는 선물 상자를 오픈하고 얻은 신성 전설 아이템 정보&quot; style=&quot;width: 320px;  height: 577px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;신성-전설-가슴-방어구-불복의-군왕-쇠사슬-갑옷&quot;&gt;[신성 전설 가슴 방어구] 불복의 군왕 쇠사슬 갑옷&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;아이템 위력 693&lt;/li&gt;
-  &lt;li&gt;서리 기술 피해 +[5.0 - 10.5]%&lt;/li&gt;
-  &lt;li&gt;원거리에 있는 적에게 받는 피해 감소 [9.5 - 14.5]%&lt;/li&gt;
-  &lt;li&gt;힘 +[24 - 34]&lt;/li&gt;
-  &lt;li&gt;화염 저항 [19.5 - 34.5]%&lt;/li&gt;
-  &lt;li&gt;요구레벨: 54&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;어떤 형태로든 피해를 주면 방어도가 4초 동안&lt;/code&gt;&lt;/strong&gt; [0.25 - 0.50]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가합니다. 이 효과는 최대&lt;/code&gt;&lt;/strong&gt; [25.00 - 50.00]%&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;까지 중첩됩니다.&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 지옥물결에서 수수께끼의 고통받는 선물 상자를 오픈하고 얻은 신성 전설 아이템 정보&quot; style=&quot;width: 320px;  height: 511px;&quot; /&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Fri, 09 Jun 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info.html</guid>
             
             <category>diablo</category>
             
