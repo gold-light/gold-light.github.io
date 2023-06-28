@@ -5,9 +5,85 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 25 Jun 2023 19:12:44 +0900</pubDate>
-        <lastBuildDate>Sun, 25 Jun 2023 19:12:44 +0900</lastBuildDate>
+        <pubDate>Wed, 28 Jun 2023 22:35:15 +0900</pubDate>
+        <lastBuildDate>Wed, 28 Jun 2023 22:35:15 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 25일차 획득 고유 아이템 [에수의 가보] 상세 정보</title>
+            <description>&lt;h2 id=&quot;25일차-득템&quot;&gt;25일차 득템&lt;/h2&gt;
+&lt;p&gt;디아블로4 플레이 25일차에 획득한 신성 고유(Sacred Unique) 장화 아이템 [&lt;strong&gt;에수의 가보&lt;/strong&gt;]대한 정보를 정리해보겠습니다. 이번 고유 아이템은 [&lt;strong&gt;지옥 물결&lt;/strong&gt;]을 진행하면서 필드 정예를 잡고 얻었습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;신성-고유-장화-에수의-가보&quot;&gt;[신성 고유 장화] 에수의 가보&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 683&lt;/li&gt;
+  &lt;li&gt;방어도 342&lt;/li&gt;
+  &lt;li&gt;피하기 시 1초 동안 이동 속도 +50% 부여&lt;/li&gt;
+  &lt;li&gt;이동 속도 +[7.5 - 12.5]%&lt;/li&gt;
+  &lt;li&gt;정예 처치 후 4초 동안 이동 속도 +[10.0 - 20.0]%&lt;/li&gt;
+  &lt;li&gt;신단 강화 효과 지속 시간 +[3.5 - 8.5]%&lt;/li&gt;
+  &lt;li&gt;감속 지속시간 감소 [9.5 - 14.5]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 62&lt;/li&gt;
+  &lt;li&gt;“에수가 이 장화를 손수 만들지 않았다는 것이 학자들에 의해 밝혀졌지만, 마법단들이 생겨난 이래로 면면히 전해 내려왔다는 점은 괄목할 만하다.” - 바렛의 만물 백과&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;극대화 확률이 자신의 이동 속도 보너스의&lt;/code&gt;&lt;/strong&gt; [15 - 25]%&lt;em&gt;*&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;만큼 증가합니다. (원소술사 전용)&lt;/code&gt;&lt;/em&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-boots-heirloom-of-esu-01-ko.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 21일차에 획득한 신성 고유 아이템 [에수의 가보]에 대한 정보&quot; style=&quot;width: 320px;  height: 678px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;sacred-unique-boots-esus-heirloom&quot;&gt;[Sacred Unique Boots] ESU’S HEIRLOOM&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;683 Item Power&lt;/li&gt;
+  &lt;li&gt;342 Damage Per Second&lt;/li&gt;
+  &lt;li&gt;Evade Grants +50% Movement Speed for 1 Second&lt;/li&gt;
+  &lt;li&gt;+[7.5 - 12.5]% Movement Speed&lt;/li&gt;
+  &lt;li&gt;+[10.0 - 20.0]% Movement Speed for 4 Seconds After Killing an Elite&lt;/li&gt;
+  &lt;li&gt;+[3.5 - 8.5]% Shrine Buff Duration&lt;/li&gt;
+  &lt;li&gt;[9.5 - 14.5]% Slow Duration Reduction&lt;/li&gt;
+  &lt;li&gt;Requires Level: 62&lt;/li&gt;
+  &lt;li&gt;“While scholars have proven these boots were not created by Esu herself, it is noteworthy that they have been passed down since the formation of the Mage Clans” - Barrett’s Book of Implements&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Your Critical Strike Chance is increased by&lt;/code&gt;&lt;/strong&gt; [15 - 25]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;of your Movement Speed bonus. (Sorcerer Only)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-boots-heirloom-of-esu-01-en.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 21일차에 획득한 신성 고유 아이템 [ESU&apos;S HEIRLOOM]에 대한 정보&quot; style=&quot;width: 320px;  height: 699px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;神聖-ユニーク-ブーツ-エスの家宝&quot;&gt;[神聖 ユニーク ブーツ] エスの家宝&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;アイテムのパワー 683&lt;/li&gt;
+  &lt;li&gt;防御力342&lt;/li&gt;
+  &lt;li&gt;知力＋[24-34]&lt;/li&gt;
+  &lt;li&gt;回避によって移動速度が1秒間50％上昇&lt;/li&gt;
+  &lt;li&gt;移動速度＋[7.5-12.5]％&lt;/li&gt;
+  &lt;li&gt;エリートを倒した後の4秒間、移動速度＋[10.0-20.0]％&lt;/li&gt;
+  &lt;li&gt;祭壇のバフ持続時間＋[3.5-8.5]％&lt;/li&gt;
+  &lt;li&gt;スロウの持続時間減少[9.5-14.5]％&lt;/li&gt;
+  &lt;li&gt;必要レベル: 62&lt;/li&gt;
+  &lt;li&gt;“この長靴がエスが自身の手によるものでないことは学者によって証明されているが、魔術師クランの形成期から受け継がれてきたことは特筆に値する。”‐バレットの道具帳&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;クリティカルヒット率が、移動速度ボーナスの&lt;/code&gt;&lt;/strong&gt;[15-25]％&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;上昇する。（ソーサラーのみ）&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-boots-heirloom-of-esu-01-ja.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 21일차에 획득한 신성 고유 아이템 [エスの家宝]에 대한 정보&quot; style=&quot;width: 320px;  height: 599px;&quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Mon, 26 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-day25-get-sacred-unique-boots-heirloom-of-esu-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day25-get-sacred-unique-boots-heirloom-of-esu-info.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 가장 희귀한 고유 아이템 6가지 획득 조건 정보</title>
@@ -157,6 +233,138 @@
         </item>
         
         <item>
+            <title>디아블로4 23일차 지옥물결 수수께끼의 고통받는 선물 오픈, 신성 전설 아이템 정보</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;디아블로4 23일차에 악몽 난이도에 들어가면 즐길 수 있는 [&lt;strong&gt;지옥물결&lt;/strong&gt;] 컨텐츠에서 [&lt;strong&gt;수수께끼의 고통받는 선물&lt;/strong&gt;] 상자를 오픈하고 획득한 신성 전설 아이템 정보를 소개해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;수수께끼의-고통받는-선물-상자&quot;&gt;수수께끼의 고통받는 선물 상자&lt;/h2&gt;
+&lt;p&gt;상자를 오픈했는데 아래와 같은 아이템들이 나왔습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;전설 지팡이 (신성)&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;전설 지팡이 (신성)&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;전설 장갑 (신성)&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;전설 반지 (신성)&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;전설 반지 (신성)&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;약한 강철 가시 비약&lt;/li&gt;
+  &lt;li&gt;약한 분쇄의 비약&lt;/li&gt;
+  &lt;li&gt;풍부한 자원의 비약&lt;/li&gt;
+  &lt;li&gt;마귀 장미 4개&lt;/li&gt;
+  &lt;li&gt;잊혀진 영혼 3개&lt;/li&gt;
+  &lt;li&gt;금화 577&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-04.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 지옥물결에서 수수께끼의 고통받는 선물 상자를 오픈하고 얻은 신성 전설 아이템 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;신성-전설-지팡이-빙하의-망각&quot;&gt;[신성 전설 지팡이] 빙하의 망각&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 688&lt;/li&gt;
+  &lt;li&gt;1,480 초당 공격력&lt;/li&gt;
+  &lt;li&gt;적중당 공격력 [1,184 - 1,776]&lt;/li&gt;
+  &lt;li&gt;초당 공격 횟수 1.00&lt;/li&gt;
+  &lt;li&gt;군중 제어 상태 효과의 영향을 받는 적에게 주는 피해 +25.0%&lt;/li&gt;
+  &lt;li&gt;제압 피해 +[30.0 - 60.0]%&lt;/li&gt;
+  &lt;li&gt;지능 +[82 - 102]&lt;/li&gt;
+  &lt;li&gt;감속 적에게 주는 피해 +[23.0 - 33.0]%&lt;/li&gt;
+  &lt;li&gt;기절 적에게 주는 피해 +[23.0 - 33.0]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 60&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;눈부라&lt;/strong&gt;를 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;시전하면 주기적으로 폭발하는&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;얼음 가시&lt;/strong&gt;가 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;생성되어&lt;/code&gt;&lt;/strong&gt; [897 - 1,345]의 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;피해를 줍니다.&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;얼음 가시&lt;/strong&gt;가 &lt;strong&gt;빙결&lt;/strong&gt;된 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;적에게 주는 피해가 50% 증가합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info-05.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 지옥물결에서 수수께끼의 고통받는 선물 상자를 오픈하고 얻은 신성 전설 아이템 정보&quot; style=&quot;width: 320px;  height: 596px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;신성-전설-지팡이-응보의-질책&quot;&gt;[신성 전설 지팡이] 응보의 질책&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 649&lt;/li&gt;
+  &lt;li&gt;1,270 초당 공격력&lt;/li&gt;
+  &lt;li&gt;적중당 공격력 [1,016 - 1,524]&lt;/li&gt;
+  &lt;li&gt;초당 공격 횟수 1.00&lt;/li&gt;
+  &lt;li&gt;군중 제어 상태 효과의 영향을 받는 적에게 주는 피해 +25.0%&lt;/li&gt;
+  &lt;li&gt;번개 극대화 피해 +[20.0 - 30.0]%&lt;/li&gt;
+  &lt;li&gt;부상당한 적에게 주는 피해 +[30.0 - 50.0]%&lt;/li&gt;
+  &lt;li&gt;제압 피해 +[30.0 - 60.0]%&lt;/li&gt;
+  &lt;li&gt;행운의 적중: 부상당한 비정예 적 처형 확률 최대 +[7.0 - 15.0]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 60&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;원거리에 있는 적이 자신을 적중시킬 때 해당 적이 8%의 확률로 2초 동안 기절합니다. 기절한 적에게 주는 피해가&lt;/code&gt;&lt;/strong&gt; [40 - 80]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가합니다.&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info-06.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 지옥물결에서 수수께끼의 고통받는 선물 상자를 오픈하고 얻은 신성 전설 아이템 정보&quot; style=&quot;width: 320px;  height: 643px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;신성-전설-장갑-정령술사의-골편-팔목-장갑&quot;&gt;[신성 전설 장갑] 정령술사의 골편 팔목 장갑&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 662&lt;/li&gt;
+  &lt;li&gt;방어도 331&lt;/li&gt;
+  &lt;li&gt;얼음 보주 등급 +2 (원소술사 전용)&lt;/li&gt;
+  &lt;li&gt;지속 화염 피해 +[5.0 - 10.0]%&lt;/li&gt;
+  &lt;li&gt;의지력 +[24 - 34]&lt;/li&gt;
+  &lt;li&gt;지능 +[24 - 34]&lt;/li&gt;
+  &lt;li&gt;요구레벨: 60&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;마나가 100 이상일 때&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;핵심&lt;/strong&gt; 또는 &lt;strong&gt;숙련&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;기술을 시전하면 극대화 확률이&lt;/code&gt;&lt;/strong&gt; [20.0 - 40.0]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info-07.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 지옥물결에서 수수께끼의 고통받는 선물 상자를 오픈하고 얻은 신성 전설 아이템 정보&quot; style=&quot;width: 320px;  height: 510px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;신성-전설-반지-동화-가락지&quot;&gt;[신성 전설 반지] 동화 가락지&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 689&lt;/li&gt;
+  &lt;li&gt;번개 저항 22.3%&lt;/li&gt;
+  &lt;li&gt;독 저항 22.3%&lt;/li&gt;
+  &lt;li&gt;번개 극대화 피해 +[10.0 - 15.0]%&lt;/li&gt;
+  &lt;li&gt;지속 피해 +[5.0 - 10.0]%&lt;/li&gt;
+  &lt;li&gt;감속 적에게 주는 피해 +[11.5 - 16.5]%&lt;/li&gt;
+  &lt;li&gt;극대화 확률 +[1.6 - 4.0]%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 60&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;지속 피해의 영향을 받는 적을 상대로 회피 확률이 8% 증가합니다. 회피할 때 주 자원을&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;** [5 - 10] **&lt;/code&gt;얻습니다.`&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info-08.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 지옥물결에서 수수께끼의 고통받는 선물 상자를 오픈하고 얻은 신성 전설 아이템 정보&quot; style=&quot;width: 320px;  height: 510px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;신성-전설-반지-얼어붙은-기억의-고리&quot;&gt;[신성 전설 반지] 얼어붙은 기억의 고리&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 709&lt;/li&gt;
+  &lt;li&gt;암흑 저항 22.9%&lt;/li&gt;
+  &lt;li&gt;독 저항 22.9%&lt;/li&gt;
+  &lt;li&gt;근거리에 있는 적에게 주는 피해 +[11.5 - 16.5]%&lt;/li&gt;
+  &lt;li&gt;최근 피해를 받지 않았을 때 생명력 재생량 +[27 - 66]&lt;/li&gt;
+  &lt;li&gt;극대화 확률 +[1.6 - 4.0]%&lt;/li&gt;
+  &lt;li&gt;최대 마나 +[6 - 10]&lt;/li&gt;
+  &lt;li&gt;요구레벨: 60&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;눈사태&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;핵심 지속 효과가 추가 1회의 시전이 적용됩니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info-09.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 지옥물결에서 수수께끼의 고통받는 선물 상자를 오픈하고 얻은 신성 전설 아이템 정보&quot; style=&quot;width: 320px;  height: 489px;&quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Sat, 24 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info-02.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info-02.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
+        
+        <item>
             <title>디아블로4 강철의 흔적 퀘스트 NPC [아사이파] 위치</title>
             <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
 &lt;p&gt;디아블로4 (Diablo4) [&lt;strong&gt;케지스탄&lt;/strong&gt;]지역 [&lt;strong&gt;강철늑대단 야영지&lt;/strong&gt;] (The Iron Wolves Encampment)에서 진행되는 서브 퀘스트 [&lt;strong&gt;강철의 흔적&lt;/strong&gt;] (Traces Of Iron)퀘스트를 진행할 때 찾아야 하는 NPC [&lt;strong&gt;아사이파&lt;/strong&gt;] (Asyfa) 위치를 정리해보겠습니다.&lt;/p&gt;
@@ -204,14 +412,16 @@
 &lt;strong&gt;순간이동&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;사용 후, 근거리에 있는 적들이 자신에게 끌려와&lt;/code&gt;&lt;/strong&gt; [2.0 - 3.0]&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;초 동안 기절하지만,&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;순간이동&lt;/strong&gt;의 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;재사용 대기시간이 20% 증가합니다.&lt;/code&gt;&lt;/strong&gt;
 &lt;/div&gt;
 
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-chest-armor-raiment-of-the-infinite-01-kr.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 21일차에 획득한 신성 고유 아이템 [무한의 의복]에 대한 정보&quot; style=&quot;width: 320px;  height: 646px;&quot; /&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-chest-armor-raiment-of-the-infinite-01-ko.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 21일차에 획득한 신성 고유 아이템 [무한의 의복]에 대한 정보&quot; style=&quot;width: 320px;  height: 646px;&quot; /&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;sacred-unique-chest-armor-raiment-of-the-infinite&quot;&gt;[Sacred Unique Chest Armor] RAIMENT OF THE INFINITE&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;673 Item Power&lt;/li&gt;
   &lt;li&gt;1,178 Damage Per Second&lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
+  &lt;li&gt;+[24 - 34] Intelligence&lt;/li&gt;
+  &lt;li&gt;+[11.5 -16.5]% Damage to Stunned Enemies&lt;/li&gt;
+  &lt;li&gt;+1 Rank of the Glass Cannon Passive (Socerer Only)&lt;/li&gt;
   &lt;li&gt;Requires Level: 62&lt;/li&gt;
   &lt;li&gt;“The Power you have is never enough.”&lt;/li&gt;
 &lt;/ul&gt;
@@ -606,158 +816,6 @@
             <pubDate>Tue, 13 Jun 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-nightmare-dungeon-tier6-gtx-750ti-play-movie.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-nightmare-dungeon-tier6-gtx-750ti-play-movie.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 10일차 첫 신성 고유 아이템 [얼음심장 브레이스] 상세 정보</title>
-            <description>&lt;h2 id=&quot;10일차-득템&quot;&gt;10일차 득템&lt;/h2&gt;
-&lt;p&gt;디아블로4 플레이 10일차에 획득한 신성 고유(Sacred Unique) 바지 아이템 [&lt;strong&gt;얼음심장 브레이스&lt;/strong&gt;]대한 정보를 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;악몽-던전-감염된-연구실&quot;&gt;악몽 던전 [감염된 연구실]&lt;/h2&gt;
-&lt;p&gt;이번 [&lt;strong&gt;얼음심장 브레이스&lt;/strong&gt;] 아이템은 악몽 던전 [감염된 연구실]을 클리어하고 획득했습니다. 물론 옵션이 거의 최하로 나와서 무척 아쉽지만, 그래도 파밍으로 획득한 첫번째 고유 아이템이 그것도 신성으로 떠서 기분이 좋습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-nightmare-dungeon-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 악몽 던전 [감염된 연구실]에서 획득한 아이템 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;신성-고유-바지-얼음심장-브레이스&quot;&gt;[신성 고유 바지] 얼음심장 브레이스&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;아이템 위력 704&lt;/li&gt;
-  &lt;li&gt;부상 상태일 때, 물약이 추가로 자원 20% 회복&lt;/li&gt;
-  &lt;li&gt;지능 +[24 - 34]&lt;/li&gt;
-  &lt;li&gt;빙결 적에게 주는 피해 +[5.0 - 10.0]%&lt;/li&gt;
-  &lt;li&gt;부상당한 적에게 주는 피해 +[15.0 - 25.0]%&lt;/li&gt;
-  &lt;li&gt;빙결 지속시간 +[3.5 - 8.5]%&lt;/li&gt;
-  &lt;li&gt;요구레벨: 56&lt;/li&gt;
-  &lt;li&gt;미친 장인은 이 천을 만드느라 동상에 걸린 손가락이 검게 변하는 것을 보면서도 바느질을 단 한 순간도 멈추지 않았습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;빙결&lt;/strong&gt;된 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;상태에서 죽는 적이&lt;/code&gt;&lt;/strong&gt; [11 - 20]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;확률로&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;서릿발&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;을 내뿜습니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-iceheart-brais-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 10일차에 획득한 신성 고유 아이템 [얼음심장 브레이스]에 대한 정보&quot; style=&quot;width: 320px;  height: 602px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;sacred-unique-pants-iceheart-brais&quot;&gt;[Sacred Unique Pants] ICEHEART BRAIS&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Upgrade: 5/5&lt;/li&gt;
-  &lt;li&gt;704+25 Item Power&lt;/li&gt;
-  &lt;li&gt;729 Armor&lt;/li&gt;
-  &lt;li&gt;While Injured, Your Potion Also Restores 30% Resource&lt;/li&gt;
-  &lt;li&gt;+[42 - 63] Intelligence&lt;/li&gt;
-  &lt;li&gt;+[10.5 - 21.0]% Damage to Frozen Enemies&lt;/li&gt;
-  &lt;li&gt;+[31.5 - 51.5]% Damage to Injured Enemies&lt;/li&gt;
-  &lt;li&gt;+[7.5 - 18.0]% Freeze Duration&lt;/li&gt;
-  &lt;li&gt;Requires Level: 56&lt;/li&gt;
-  &lt;li&gt;The mad artisan saw his fingers turn black from frostbite as he worked the cloth, but refused to stay the needle and thread for even a moment.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Enemies that die while&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;Frozen&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;have a&lt;/code&gt;&lt;/strong&gt; [11 - 20]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;chance to unleash a&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;Frost Nova&lt;/strong&gt;. &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;(Sorcerer Only)&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-iceheart-brais-01-en.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 10일차에 획득한 [Sacred Unique Pants] ICEHEART BRAIS Info&quot; style=&quot;width: 320px;  height: 647px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;神聖-ユニーク-ズボン-氷心の下衣&quot;&gt;[神聖 ユニーク ズボン] 氷心の下衣&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;強化: 5/5&lt;/li&gt;
-  &lt;li&gt;アイテムのパワー 704+25&lt;/li&gt;
-  &lt;li&gt;防御力 729&lt;/li&gt;
-  &lt;li&gt;負傷中, ポーションがリソースを30％回復&lt;/li&gt;
-  &lt;li&gt;知力 +[42 - 63]&lt;/li&gt;
-  &lt;li&gt;凍結の敵へのダメージ +[10.5 - 21.0]%&lt;/li&gt;
-  &lt;li&gt;負傷した敵へのダメージ +[31.5 - 51.5]%&lt;/li&gt;
-  &lt;li&gt;凍結の持続時間 +[7.5 - 18.0]%&lt;/li&gt;
-  &lt;li&gt;必要レベル: 56&lt;/li&gt;
-  &lt;li&gt;手芸にいそしむ指が凍傷で真っ黒ねなりながらも、狂気の職人は一瞬たりとも針と糸を離すことができなかった。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;凍結&lt;/strong&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;状態で死亡した敵が&lt;/code&gt;&lt;/strong&gt; [11 - 20]&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;の確立で&lt;/code&gt;&lt;/strong&gt;フロストノヴァ&lt;strong&gt;**&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;を放つ。 (ソーサラーのみ)&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-iceheart-brais-01-ja.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 10일차에 획득한 [神聖 ユニーク ズボン] 氷心の下衣 情報&quot; style=&quot;width: 320px;  height: 621px;&quot; /&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Sun, 11 Jun 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-day10-get-sacred-unique-item-iceheart-brais-info.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day10-get-sacred-unique-item-iceheart-brais-info.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 GeForce GTX 750Ti 플레이 영상 소개</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;디아블로4 (Diablo 4)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상을 소개해보겠습니다. 영상은 아래쪽에 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-graphic-card-geforce-gtx-750ti-play-movie-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;플레이-pc-사양&quot;&gt;플레이 PC 사양&lt;/h2&gt;
-&lt;p&gt;제가 사용하는 PC는 아주 오래전에 구매했었는데, 중간에 메모리랑 그래픽 카드만 업그레이드 한번 했었습니다.
-이 PC로 디아블로3, 디아블로2 레저렉션, 디아블로 이모탈, 히트2, 블레스 언리쉬드, 문명6, 로스트아크 등을 플레이했습니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;운영 체제: 64비트 Windows 10&lt;/li&gt;
-  &lt;li&gt;프로세서: Intel Core i5-4570 CPU 3.20GHz&lt;/li&gt;
-  &lt;li&gt;메모리: 16GB RAM&lt;/li&gt;
-  &lt;li&gt;그래픽: NVIDIA GeForce GTX 750 Ti&lt;/li&gt;
-  &lt;li&gt;디스크: WD SSD 500G&lt;/li&gt;
-  &lt;li&gt;Xbox 4세대 게임패드 카본 블랙&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;플레이-스샷&quot;&gt;플레이 스샷&lt;/h2&gt;
-&lt;p&gt;플레이 녹화 동영상 중에서 몇가지 장면을 살펴보면 다음과 같습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-graphic-card-geforce-gtx-750ti-play-movie-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-graphic-card-geforce-gtx-750ti-play-movie-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;플레이-영상&quot;&gt;플레이 영상&lt;/h2&gt;
-&lt;p&gt;플레이한 영상을 유튜브에 업로드해봤습니다. 영상의 전체 길이는 12분 정도됩니다.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrap&quot;&gt;
-  &lt;iframe width=&quot;845&quot; height=&quot;475&quot; src=&quot;https://www.youtube.com/embed/9kqWERLVcc0&quot; title=&quot;[디아블로4] GeForce GTX 750Ti로 플레이 해봤습니다&quot; style=&quot;border:0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;디아블로4-시스템-사양&quot;&gt;디아블로4 시스템 사양&lt;/h2&gt;
-&lt;p&gt;디아블로4 소개 페이지에 올라온 블리자드에서 공개한 공식 PC 사양 최소, 권장 사양은 다음과 같습니다.&lt;/p&gt;
-
-&lt;table class=&quot;simple_table&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;항목&lt;/th&gt;
-      &lt;th&gt;PC 최소 사양&lt;/th&gt;
-      &lt;th&gt;PC 권장 사양&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;기본 해상도 1080p / 렌더 해상도 720p, 그래픽 설정 낮음 &lt;br /&gt;30fps&lt;/td&gt;&lt;td&gt;기본 해상도 1080p 해상도, 그래픽 설정 중간 &lt;br /&gt;60fps&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;운영 체제&lt;/td&gt;&lt;td&gt;64비트 Windows 10 1909 이상&lt;/td&gt;&lt;td&gt;64비트 Windows 10 1909 이상&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;프로세서&lt;/td&gt;&lt;td&gt;Intel Core i5-2500K &lt;br /&gt;&lt;br /&gt; AMD FX-8350&lt;/td&gt;&lt;td&gt;Intel Core i5-4670K &lt;br /&gt;&lt;br /&gt; AMD Ryzen-1300X&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;메모리&lt;/td&gt;&lt;td&gt;8GB RAM&lt;/td&gt;&lt;td&gt;16GB RAM&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;그래픽&lt;/td&gt;&lt;td&gt;NVIDIA GeForce GTX 660 &lt;br /&gt;&lt;br /&gt; AMD Radeon R9 280&lt;/td&gt;&lt;td&gt;NVIDIA GeForce GTX 970 &lt;br /&gt;&lt;br /&gt; AMD Radeon RX 470&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;DirectX&lt;/td&gt;&lt;td&gt;버전 12&lt;/td&gt;&lt;td&gt;버전 12&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;용량&lt;/td&gt;&lt;td&gt;여유 공간이 90GB 이상 있는 SSD&lt;/td&gt;&lt;td&gt;여유 공간이 90GB 이상 있는 SSD&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;인터넷&lt;/td&gt;&lt;td&gt;광대역 인터넷 연결&lt;/td&gt;&lt;td&gt;광대역 인터넷 연결&lt;/td&gt;&lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-pc-system-spec-01.png&quot; alt=&quot;디아블로4 (Diablo 4)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;동영상-녹화-방법&quot;&gt;동영상 녹화 방법&lt;/h2&gt;
-&lt;p&gt;윈도 10이상에서는 동영상을 쉽게 녹화할 수 있습니다. 바로 [윈도우 키] + [G]를 동시에 누르면 [&lt;strong&gt;게임 바&lt;/strong&gt;]가 나타나고 녹화를 할 수 있습니다.&lt;/p&gt;
-</description>
-            <pubDate>Sat, 10 Jun 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-geforce-gtx-750ti-play-movie.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-geforce-gtx-750ti-play-movie.html</guid>
             
             <category>diablo</category>
             
