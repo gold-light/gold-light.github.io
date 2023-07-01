@@ -5,9 +5,90 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Jun 2023 22:35:15 +0900</pubDate>
-        <lastBuildDate>Wed, 28 Jun 2023 22:35:15 +0900</lastBuildDate>
+        <pubDate>Sat, 01 Jul 2023 09:50:32 +0900</pubDate>
+        <lastBuildDate>Sat, 01 Jul 2023 09:50:32 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 27일차 획득 고유 아이템 [끝없는 분노의 지팡이] 상세 정보</title>
+            <description>&lt;h2 id=&quot;27일차-득템&quot;&gt;27일차 득템&lt;/h2&gt;
+&lt;p&gt;디아블로4 플레이 27일차에 획득한 신성 고유(Sacred Unique) 지팡이 아이템 [&lt;strong&gt;끝없는 분노의 지팡이&lt;/strong&gt;]대한 정보를 정리해보겠습니다. 이번 고유 아이템은 [&lt;strong&gt;지옥 물결&lt;/strong&gt;]을 진행하면서 필드 정예를 잡고 얻었습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;신성-고유-지팡이-끝없는-분노의-지팡이&quot;&gt;[신성 고유 지팡이] 끝없는 분노의 지팡이&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 662&lt;/li&gt;
+  &lt;li&gt;1,336 초당 공격력&lt;/li&gt;
+  &lt;li&gt;적중당 공격력 [1,069 - 1,603]&lt;/li&gt;
+  &lt;li&gt;초당 공격 횟수 1.00&lt;/li&gt;
+  &lt;li&gt;군중 제어 상태 효과의 영향을 받는 적에게 주는 피해 +25%&lt;/li&gt;
+  &lt;li&gt;핵심 기술 피해 +[18.0 - 28.0]%&lt;/li&gt;
+  &lt;li&gt;근거리에 있는 적에게 주는 피해 +[23.0 - 33.0]%&lt;/li&gt;
+  &lt;li&gt;행운의 적중: 감속 확률 최대 +[19.0 - 29.0]%&lt;/li&gt;
+  &lt;li&gt;내면의 불꽃 지속 효과 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
+  &lt;li&gt;요구레벨: 65&lt;/li&gt;
+  &lt;li&gt;“네 혈족이 애도할 수 있도록 검게 탄 뼈를 남기는 것조차 네겐 너무 과분한 최후다.” - 조사이아&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;화염구&lt;/strong&gt;를 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;3번 시전할 때마다 2개의 추가 투사체가 발사됩니다.&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-staff-of-endless-rage-01-ko.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 27일차에 획득한 신성 고유 아이템 [끝없는 분노의 지팡이]에 대한 정보&quot; style=&quot;width: 320px;  height: 677px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;sacred-unique-staff-staff-of-endless-rage&quot;&gt;[Sacred Unique Staff] STAFF OF ENDLESS RAGE&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;662 Item Power&lt;/li&gt;
+  &lt;li&gt;1,336 Damage Per Second&lt;/li&gt;
+  &lt;li&gt;[1,069 - 1,603] Damage per Hit&lt;/li&gt;
+  &lt;li&gt;1.00 Attacks per Second&lt;/li&gt;
+  &lt;li&gt;+25.0% Damage to Crowd Controlled Enemies&lt;/li&gt;
+  &lt;li&gt;+[18.0 - 28.0]% Core Skill Damage&lt;/li&gt;
+  &lt;li&gt;+[23.0 - 33.0]% Damage to Close Enemies&lt;/li&gt;
+  &lt;li&gt;Lucky Hit: Up to a +[19.0 - 29.0]% Chance to Slow&lt;/li&gt;
+  &lt;li&gt;+[1 - 2] Ranks of the Inner Flames Passive (Sorcerer Only)&lt;/li&gt;
+  &lt;li&gt;Requires Level: 65&lt;/li&gt;
+  &lt;li&gt;“Leaving even blackened bones for your kin to moum is too good an end for you” - Josiah&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Every 3rd cast of&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;Fireball&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;launches 2 additional projectiles.&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-staff-of-endless-rage-01-en.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 27일차에 획득한 신성 고유 아이템 [STAFF OF ENDLESS RAGE]에 대한 정보&quot; style=&quot;width: 320px;  height: 678px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;神聖-ユニーク-杖-終わりなき憤怒の杖&quot;&gt;[神聖 ユニーク 杖] 終わりなき憤怒の杖&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;アイテムのパワー 662&lt;/li&gt;
+  &lt;li&gt;1,336毎秒ダメージ&lt;/li&gt;
+  &lt;li&gt;命中ごとのダメージ[1,069-1,603]&lt;/li&gt;
+  &lt;li&gt;秒間攻撃回数1.00&lt;/li&gt;
+  &lt;li&gt;操作障害状態の敵へのダメージ＋25％&lt;/li&gt;
+  &lt;li&gt;コアスキルダメージ＋[18.0-28.0]％&lt;/li&gt;
+  &lt;li&gt;近距離の敵へのダメージ＋[23.0-33.0]％&lt;/li&gt;
+  &lt;li&gt;幸運の一撃：最大[19.0-29.0]％&lt;/li&gt;
+  &lt;li&gt;内なる炎のパッシブ効果のランク＋[1-2]&lt;/li&gt;
+  &lt;li&gt;必要レベル: 65&lt;/li&gt;
+  &lt;li&gt;“黒こげの骨でも残って親族に弔われるなら、それはお前にとってあまりにも良い終わり方だ。”‐ジョサイア&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;３発の&lt;/code&gt;&lt;/strong&gt;&lt;strong&gt;〈ファイアボール〉&lt;/strong&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;を撃つたびに、２発の投射体が追加される。&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-staff-of-endless-rage-01-ja.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 27일차에 획득한 신성 고유 아이템 [終わりなき憤怒の杖]에 대한 정보&quot; style=&quot;width: 320px;  height: 660px;&quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Wed, 28 Jun 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-day27-get-sacred-unique-staff-of-endless-rage-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day27-get-sacred-unique-staff-of-endless-rage-info.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 25일차 획득 고유 아이템 [에수의 가보] 상세 정보</title>
@@ -32,7 +113,7 @@
 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;극대화 확률이 자신의 이동 속도 보너스의&lt;/code&gt;&lt;/strong&gt; [15 - 25]%&lt;em&gt;*&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;만큼 증가합니다. (원소술사 전용)&lt;/code&gt;&lt;/em&gt;
 &lt;/div&gt;
 
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-boots-heirloom-of-esu-01-ko.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 21일차에 획득한 신성 고유 아이템 [에수의 가보]에 대한 정보&quot; style=&quot;width: 320px;  height: 678px;&quot; /&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-boots-heirloom-of-esu-01-ko.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 25일차에 획득한 신성 고유 아이템 [에수의 가보]에 대한 정보&quot; style=&quot;width: 320px;  height: 678px;&quot; /&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;sacred-unique-boots-esus-heirloom&quot;&gt;[Sacred Unique Boots] ESU’S HEIRLOOM&lt;/h2&gt;
 
@@ -52,7 +133,7 @@
 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Your Critical Strike Chance is increased by&lt;/code&gt;&lt;/strong&gt; [15 - 25]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;of your Movement Speed bonus. (Sorcerer Only)&lt;/code&gt;&lt;/strong&gt;
 &lt;/div&gt;
 
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-boots-heirloom-of-esu-01-en.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 21일차에 획득한 신성 고유 아이템 [ESU&apos;S HEIRLOOM]에 대한 정보&quot; style=&quot;width: 320px;  height: 699px;&quot; /&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-boots-heirloom-of-esu-01-en.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 25일차에 획득한 신성 고유 아이템 [ESU&apos;S HEIRLOOM]에 대한 정보&quot; style=&quot;width: 320px;  height: 699px;&quot; /&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;神聖-ユニーク-ブーツ-エスの家宝&quot;&gt;[神聖 ユニーク ブーツ] エスの家宝&lt;/h2&gt;
 
@@ -73,7 +154,7 @@
 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;クリティカルヒット率が、移動速度ボーナスの&lt;/code&gt;&lt;/strong&gt;[15-25]％&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;上昇する。（ソーサラーのみ）&lt;/code&gt;&lt;/strong&gt;
 &lt;/div&gt;
 
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-boots-heirloom-of-esu-01-ja.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 21일차에 획득한 신성 고유 아이템 [エスの家宝]에 대한 정보&quot; style=&quot;width: 320px;  height: 599px;&quot; /&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-boots-heirloom-of-esu-01-ja.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 25일차에 획득한 신성 고유 아이템 [エスの家宝]에 대한 정보&quot; style=&quot;width: 320px;  height: 599px;&quot; /&gt;&lt;/figure&gt;
 
 </description>
             <pubDate>Mon, 26 Jun 2023 00:00:00 +0900</pubDate>
@@ -705,117 +786,6 @@
             <pubDate>Wed, 14 Jun 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-day14-get-sacred-unique-item-iceheart-brais-info.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day14-get-sacred-unique-item-iceheart-brais-info.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 악몽 던전 6단계 GTX 750Ti 플레이 영상</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;디아블로4 (Diablo 4) 악몽 던전 성전사의 대성당(6단계)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상을 소개해보겠습니다. 영상은 아래쪽에 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-nightmare-dungeon-tier6-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 악몽 던전 6단계를 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;플레이-pc-사양&quot;&gt;플레이 PC 사양&lt;/h2&gt;
-&lt;p&gt;제가 사용하는 PC는 아주 오래전에 구매했었는데, 중간에 메모리랑 그래픽 카드만 업그레이드 한번 했었습니다.
-이 PC로 디아블로3, 디아블로2 레저렉션, 디아블로 이모탈, 히트2, 블레스 언리쉬드, 문명6, 로스트아크 등을 플레이했습니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;운영 체제: 64비트 Windows 10&lt;/li&gt;
-  &lt;li&gt;프로세서: Intel Core i5-4570 CPU 3.20GHz&lt;/li&gt;
-  &lt;li&gt;메모리: 16GB RAM&lt;/li&gt;
-  &lt;li&gt;그래픽: NVIDIA GeForce GTX 750 Ti&lt;/li&gt;
-  &lt;li&gt;디스크: WD SSD 500G&lt;/li&gt;
-  &lt;li&gt;Xbox 4세대 게임패드 카본 블랙&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;플레이-스샷&quot;&gt;플레이 스샷&lt;/h2&gt;
-&lt;p&gt;플레이 녹화 동영상 중에서 몇가지 장면을 살펴보면 다음과 같습니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;최대 데미지가 10,286 정도 나왔네요. 아직은 갈길이 멀군요.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-nightmare-dungeon-tier6-02.png&quot; alt=&quot;디아블로4 (Diablo 4) 악몽 던전 6단계를 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;악몽 던전 완료 시에 떨어진 아이템을 살펴보면 [굴랄 빈민가의 악몽의 인장 (신성)], [구현의 마법봉 (신성)], [전쟁 지팡이], 그리고 전설 바지와 레어 투구가 있습니다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-nightmare-dungeon-tier6-03.png&quot; alt=&quot;디아블로4 (Diablo 4) 악몽 던전 6단계를 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;전설-바지-둘러싸인-마인-대퇴갑&quot;&gt;[전설 바지] 둘러싸인 마인 대퇴갑&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;아이템 위력 612&lt;/li&gt;
-  &lt;li&gt;부상 상태일 때, 물약이 추가로 2초 동안 자원 20% 부여&lt;/li&gt;
-  &lt;li&gt;민첩 +[18 - 25]&lt;/li&gt;
-  &lt;li&gt;힘 +[18 - 25]&lt;/li&gt;
-  &lt;li&gt;모든 능력치 +[6 - 10]&lt;/li&gt;
-  &lt;li&gt;운석 낙하 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
-  &lt;li&gt;요구레벨: 45&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;냉대&lt;/strong&gt;가 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;활성화되어 있는 동안 매초 최대 생명력과 마나의&lt;/code&gt;&lt;/strong&gt; [10 - 20]%를 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;회복합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-nightmare-dungeon-tier6-04.png&quot; alt=&quot;디아블로4 (Diablo 4) 악몽 던전 6단계를 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 320px;  height: 537px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;신성-희귀-마법봉-예언의-길&quot;&gt;[신성 희귀 마법봉] 예언의 길&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;아이템 위력 621&lt;/li&gt;
-  &lt;li&gt;적중당 공격력 [379 - 569]&lt;/li&gt;
-  &lt;li&gt;초당 공격 횟수 1.20 (매우 빠른 무기)&lt;/li&gt;
-  &lt;li&gt;행운의 적중 확률 +6.0%&lt;/li&gt;
-  &lt;li&gt;핵심 기술 피해 +[7.5 - 11.0]%&lt;/li&gt;
-  &lt;li&gt;원거리에 있는 적에게 주는 피해 +[9.5 - 13.0]%&lt;/li&gt;
-  &lt;li&gt;불타오름 적에게 주는 피해 +[4.5 - 8.0]%&lt;/li&gt;
-  &lt;li&gt;취약 피해 +[9.5 - 13.0]%&lt;/li&gt;
-  &lt;li&gt;요구레벨: 58&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-nightmare-dungeon-tier6-05.png&quot; alt=&quot;디아블로4 (Diablo 4) 악몽 던전 6단계를 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 320px;  height: 519px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;플레이-영상&quot;&gt;플레이 영상&lt;/h2&gt;
-&lt;p&gt;플레이한 영상을 유튜브에 업로드해봤습니다. 영상의 전체 길이는 12분 정도됩니다.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrap&quot;&gt;
-  &lt;iframe width=&quot;845&quot; height=&quot;475&quot; src=&quot;https://www.youtube.com/embed/gVom6DlPI7E&quot; title=&quot;디아블로4 (Diablo 4) 악몽 던전 6단계를 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;border:0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;디아블로4-시스템-사양&quot;&gt;디아블로4 시스템 사양&lt;/h2&gt;
-&lt;p&gt;디아블로4 소개 페이지에 올라온 블리자드에서 공개한 공식 PC 사양 최소, 권장 사양은 다음과 같습니다.&lt;/p&gt;
-
-&lt;table class=&quot;simple_table&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;항목&lt;/th&gt;
-      &lt;th&gt;PC 최소 사양&lt;/th&gt;
-      &lt;th&gt;PC 권장 사양&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;기본 해상도 1080p / 렌더 해상도 720p, 그래픽 설정 낮음 &lt;br /&gt;30fps&lt;/td&gt;&lt;td&gt;기본 해상도 1080p 해상도, 그래픽 설정 중간 &lt;br /&gt;60fps&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;운영 체제&lt;/td&gt;&lt;td&gt;64비트 Windows 10 1909 이상&lt;/td&gt;&lt;td&gt;64비트 Windows 10 1909 이상&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;프로세서&lt;/td&gt;&lt;td&gt;Intel Core i5-2500K &lt;br /&gt;&lt;br /&gt; AMD FX-8350&lt;/td&gt;&lt;td&gt;Intel Core i5-4670K &lt;br /&gt;&lt;br /&gt; AMD Ryzen-1300X&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;메모리&lt;/td&gt;&lt;td&gt;8GB RAM&lt;/td&gt;&lt;td&gt;16GB RAM&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;그래픽&lt;/td&gt;&lt;td&gt;NVIDIA GeForce GTX 660 &lt;br /&gt;&lt;br /&gt; AMD Radeon R9 280&lt;/td&gt;&lt;td&gt;NVIDIA GeForce GTX 970 &lt;br /&gt;&lt;br /&gt; AMD Radeon RX 470&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;DirectX&lt;/td&gt;&lt;td&gt;버전 12&lt;/td&gt;&lt;td&gt;버전 12&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;용량&lt;/td&gt;&lt;td&gt;여유 공간이 90GB 이상 있는 SSD&lt;/td&gt;&lt;td&gt;여유 공간이 90GB 이상 있는 SSD&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;인터넷&lt;/td&gt;&lt;td&gt;광대역 인터넷 연결&lt;/td&gt;&lt;td&gt;광대역 인터넷 연결&lt;/td&gt;&lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-pc-system-spec-01.png&quot; alt=&quot;디아블로4 (Diablo 4)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;동영상-녹화-방법&quot;&gt;동영상 녹화 방법&lt;/h2&gt;
-&lt;p&gt;윈도 10이상에서는 동영상을 쉽게 녹화할 수 있습니다. 바로 [윈도우 키] + [G]를 동시에 누르면 [&lt;strong&gt;게임 바&lt;/strong&gt;]가 나타나고 녹화를 할 수 있습니다.&lt;/p&gt;
-</description>
-            <pubDate>Tue, 13 Jun 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-nightmare-dungeon-tier6-gtx-750ti-play-movie.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-nightmare-dungeon-tier6-gtx-750ti-play-movie.html</guid>
             
             <category>diablo</category>
             
