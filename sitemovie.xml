@@ -40,4 +40,43 @@
       </video:player_loc>
     </video:video>
   </url>
+  <url>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-world-tier4-torment-unlock-quest-the-fallen-temple-clear.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://cloudlog.kr/images/game/diablo/diablo4-world-tier4-torment-unlock-quest-the-fallen-temple-clear-01.jpg</video:thumbnail_loc>
+      <video:title>[디아블로4] 고행 진입 퀘스트 - 몰락자의 사원 클리어 영상 : 풀버전 (GTX 750 Ti)</video:title>
+      <video:description>
+        [디아블로4] 고행 진입 퀘스트 - 몰락자의 사원 클리어 영상 : 풀버전 (GTX 750 Ti) 입니다.
+      </video:description>
+      <video:player_loc>
+        https://www.youtube.com/embed/OXDuh_n9rHQ
+      </video:player_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-world-tier4-torment-unlock-quest-the-fallen-temple-clear.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://cloudlog.kr/images/game/diablo/diablo4-world-tier4-torment-unlock-quest-the-fallen-temple-clear-12.jpg</video:thumbnail_loc>
+      <video:title>[디아블로4] 고행 퀘스트,  몰락자의 사원 엘리아스 클리어 영상 (GTX 750 Ti)</video:title>
+      <video:description>
+        [디아블로4] 고행 퀘스트,  몰락자의 사원 엘리아스 클리어 영상 (GTX 750 Ti) 입니다.
+      </video:description>
+      <video:player_loc>
+        https://www.youtube.com/embed/NicUzarpU8k
+      </video:player_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-world-tier4-torment-unlock-quest-the-fallen-temple-clear.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://cloudlog.kr/images/game/diablo/diablo4-world-tier4-torment-unlock-quest-the-fallen-temple-clear-13.jpg</video:thumbnail_loc>
+      <video:title>[디아블로4] 고행 퀘스트,  몰락자의 사원 엘리아스 클리어 편집 영상 (GTX 750 Ti)</video:title>
+      <video:description>
+        [디아블로4] 고행 퀘스트,  몰락자의 사원 엘리아스 클리어 편집 영상 (GTX 750 Ti) 입니다.
+      </video:description>
+      <video:player_loc>
+        https://www.youtube.com/embed/cCy7DiwjRvI
+      </video:player_loc>
+    </video:video>
+  </url>
 </urlset>
