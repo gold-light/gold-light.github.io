@@ -5,9 +5,66 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Jul 2023 23:17:26 +0900</pubDate>
-        <lastBuildDate>Sun, 02 Jul 2023 23:17:26 +0900</lastBuildDate>
+        <pubDate>Thu, 06 Jul 2023 07:51:51 +0900</pubDate>
+        <lastBuildDate>Thu, 06 Jul 2023 07:51:51 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 31일차 첫번째 선조 전설 아이템 상세 정보</title>
+            <description>&lt;h2 id=&quot;31일차-득템&quot;&gt;31일차 득템&lt;/h2&gt;
+&lt;p&gt;디아블로4 플레이 31일차에 획득한 첫번째 선조 전설 아이템 정보를 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;선조-전설-반지-제어의-가락지&quot;&gt;[선조 전설 반지] 제어의 가락지&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 784&lt;/li&gt;
+  &lt;li&gt;냉기 저항 25.0%&lt;/li&gt;
+  &lt;li&gt;번개 저항 25.0%&lt;/li&gt;
+  &lt;li&gt;냉기 피해 +13.0%&lt;/li&gt;
+  &lt;li&gt;원거리에 있는 저에게 주는 피해 +20.5%&lt;/li&gt;
+  &lt;li&gt;짜릿한 에너지 피해 +28.0%&lt;/li&gt;
+  &lt;li&gt;번개 피해 +9.5%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 69&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;이동 불가, 기절 또는&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;빙결&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;상태의 적에게 주는 피해가 29% 증가합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-ancestral-legendary-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 31일차에 획득한 선조 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 511px;&quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;선조-전설-마법봉-제어의-등골-마법봉&quot;&gt;[선조 전설 마법봉] 제어의 등골 마법봉&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;아이템 위력 708+25&lt;/li&gt;
+  &lt;li&gt;업그레이드: 5/5&lt;/li&gt;
+  &lt;li&gt;883 초당 공격력&lt;/li&gt;
+  &lt;li&gt;적중당 공격력 [589 - 883]&lt;/li&gt;
+  &lt;li&gt;초당 공격 횟수 1.20 (매우 빠른 무기)&lt;/li&gt;
+  &lt;li&gt;행운의 적중 확률 +15.0%&lt;/li&gt;
+  &lt;li&gt;핵심 기술 피해 +24.0%&lt;/li&gt;
+  &lt;li&gt;근거리에 있는 적에게 주는 피해 +30.0%&lt;/li&gt;
+  &lt;li&gt;불타오름 적에게 주는 피해 +16.5%&lt;/li&gt;
+  &lt;li&gt;극대화 피해 +26.2%&lt;/li&gt;
+  &lt;li&gt;소켓: 취약한 적에게 주는 극대화 피해 +12.0%&lt;/li&gt;
+  &lt;li&gt;요구레벨: 69&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
+&lt;strong&gt;각인: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;이동 불가, 기절 또는&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;빙결&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;상태의 적에게 주는 피해가 29% 증가합니다. (원소술사 전용)&lt;/code&gt;&lt;/strong&gt;
+&lt;/div&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-ancestral-legendary-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 31일차에 획득한 선조 전설 아이템에 대한 정보&quot; style=&quot;width: 320px;  height: 645px;&quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Sun, 02 Jul 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-day31-get-ancestral-legendary-item-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day31-get-ancestral-legendary-item-info.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 고행 진입 퀘스트 - 몰락자의 사원 엘리아스 클리어 영상과 아이템 정보입니다</title>
@@ -978,80 +1035,6 @@
             <pubDate>Tue, 20 Jun 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-day19-get-sacred-unique-staff-of-lam-esen-info.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day19-get-sacred-unique-staff-of-lam-esen-info.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 17일차 획득 고유 아이템 [참회의 경갑] 상세 정보</title>
-            <description>&lt;h2 id=&quot;17일차-득템&quot;&gt;17일차 득템&lt;/h2&gt;
-&lt;p&gt;디아블로4 플레이 17일차에 획득한 신성 고유(Sacred Unique) 장화 아이템 [&lt;strong&gt;참회의 경갑&lt;/strong&gt;]대한 정보를 정리해보겠습니다. 이번 고유 아이템은 [&lt;strong&gt;지옥 물결&lt;/strong&gt;]을 정신 없이 휘젓고 다니다 보니 어느새 인벤토리에 들어와 있더라고요. 필드에서 몹 잡다가 나온 듯 합니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;신성-고유-장화-참회의-경갑&quot;&gt;[신성 고유 장화] 참회의 경갑&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;아이템 위력 657&lt;/li&gt;
-  &lt;li&gt;피하기 시 1초 동안 이동 속도 +50%&lt;/li&gt;
-  &lt;li&gt;이동 속도 +[7.5 - 12.5]%&lt;/li&gt;
-  &lt;li&gt;군중 제어 효과의 지속시간 +[3.5 - 8.5]%&lt;/li&gt;
-  &lt;li&gt;감속 지속시간 감소 [9.5 - 14.5]%&lt;/li&gt;
-  &lt;li&gt;냉기 저항 [19.5 - 34.5]%&lt;/li&gt;
-  &lt;li&gt;요구레벨: 60&lt;/li&gt;
-  &lt;li&gt;잘못을 뉘우치는 빛의 대성당의 신자들은 고된 순례를 떠나, 세락 황홀경이라 불리는 얼어붙은 빙하를 가로질러야 합니다. 그래야만 중한 죄를 용서받을 수 있습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;적에게&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;오한&lt;/strong&gt;을 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;느끼게 하는 서리의 흔적을 남깁니다.&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;오한&lt;/strong&gt;을 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;느끼는 적에게 주는 피해가&lt;/code&gt;&lt;/strong&gt; [7 - 10]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;증가합니다.&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-boots-penitent-greaves-01-ko.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 10일차에 획득한 신성 고유 아이템 [얼음심장 브레이스]에 대한 정보&quot; style=&quot;width: 320px;  height: 670px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;sacred-unique-boots-penitent-greaves&quot;&gt;[Sacred Unique Boots] PENITENT GREAVES&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;657 Item Power&lt;/li&gt;
-  &lt;li&gt;328 Armor&lt;/li&gt;
-  &lt;li&gt;Evade Grants +50% Movement Speed for 1 Second&lt;/li&gt;
-  &lt;li&gt;+[7.5 - 12.5]% Movement Speed&lt;/li&gt;
-  &lt;li&gt;+[3.5 - 8.5]% Crowd Control Duration&lt;/li&gt;
-  &lt;li&gt;[9.5 - 14.5]% Slow Duration Reduction&lt;/li&gt;
-  &lt;li&gt;[19.5 - 34.5]% Cold Resistance&lt;/li&gt;
-  &lt;li&gt;Requires Level: 60&lt;/li&gt;
-  &lt;li&gt;Remorseful Devotees of the Cathedral of Light must undertake a grueling pilgrimage, journeying across the frigid glacier known as the Serac Rapture. Only then may their gravest sins be forgiven.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;You leave behind a trail of frost that&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;Chills&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;enemies. You deal&lt;/code&gt;&lt;/strong&gt; [7 - 10]% &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;more damage to&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;Chilled&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;enemies.&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-boots-penitent-greaves-01-en.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 10일차에 획득한 [Sacred Unique Boots] PENITENT GREAVES에 대한 정보&quot; style=&quot;width: 320px;  height: 669px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;神聖-ユニーク-ブーツ-懺悔のグリーヴ&quot;&gt;[神聖 ユニーク ブーツ] 懺悔のグリーヴ&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;アイテムのパワー 657&lt;/li&gt;
-  &lt;li&gt;防御力 328&lt;/li&gt;
-  &lt;li&gt;回避によって移動速度が1秒間50％上昇&lt;/li&gt;
-  &lt;li&gt;移動速度＋[7.5 - 12.5]％&lt;/li&gt;
-  &lt;li&gt;操作障害持続時間＋[3.5 - 8.5]％&lt;/li&gt;
-  &lt;li&gt;スロウの持続時間減少[9.5 - 14.5]％&lt;/li&gt;
-  &lt;li&gt;冷気耐性[19.5 - 34.5]％&lt;/li&gt;
-  &lt;li&gt;必要レベル: 60&lt;/li&gt;
-  &lt;li&gt;悔恨を抱える光の聖堂の信者は、セラクの歓喜と呼ばれる極寒の氷河を超えて、過酷な巡礼の旅をしなければならない。その時初めて、彼らの罪は赦されるのだ。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;敵を&lt;/code&gt;&lt;/strong&gt;&lt;strong&gt;冷気&lt;/strong&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;状態にする霜を残す。&lt;/code&gt;&lt;/strong&gt;&lt;strong&gt;冷気&lt;/strong&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;状態の敵は受けるダメージが&lt;/code&gt;&lt;/strong&gt;[7-10]％&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;増加する。&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-boots-penitent-greaves-01-ja.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 10일차에 획득한 [神聖 ユニーク ブーツ] 懺悔のグリーヴ에 대한 정보&quot; style=&quot;width: 320px;  height: 567px;&quot; /&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Sun, 18 Jun 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-day17-get-sacred-unique-boots-penitent-greaves-info.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day17-get-sacred-unique-boots-penitent-greaves-info.html</guid>
             
             <category>diablo</category>
             
