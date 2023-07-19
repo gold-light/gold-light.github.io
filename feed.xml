@@ -5,14 +5,14 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Jul 2023 23:46:03 +0900</pubDate>
-        <lastBuildDate>Wed, 19 Jul 2023 23:46:03 +0900</lastBuildDate>
+        <pubDate>Thu, 20 Jul 2023 08:46:06 +0900</pubDate>
+        <lastBuildDate>Thu, 20 Jul 2023 08:46:06 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
         
         <item>
-            <title>디아블로4 1.1.0a 패치 원소술사 관련 내역 총정리</title>
+            <title>디아블로4 1.1.0a 시즌 1 패치 원소술사 관련 내역 총정리</title>
             <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;디아블로4에서 7월 19일에 1.1.0a 패치가 진행되었습니다. 한번에 정리하기 힘들 정도로 엄청만 양의 패치 내역이기도 하고, 이래저래 말도 많은 패치였기에 한번에 알아보기 쉽게 직업별로 정리해보려고 합니다. 우선 원소술사 관련 패치 정보를 정리해보겠습니다.&lt;/p&gt;
+&lt;p&gt;디아블로4에서 7월 19일에 시즌 1 시작에 대비한 1.1.0a 패치가 진행되었습니다. 한번에 정리하기 힘들 정도로 엄청만 양의 패치 내역이기도 하고, 이래저래 말도 많은 패치였기에 한번에 알아보기 쉽게 직업별로 정리해보려고 합니다. 우선 원소술사 관련 패치 정보를 정리해보겠습니다.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-patch-1.1.0a-info-sorcerer-01.png&quot; alt=&quot;7월 19일에 진행된 디아블로4 (Diablo 4) 1.1.0a 패치 내역 중에서 원소술사 관련 정보를 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
 
@@ -237,6 +237,222 @@
             <pubDate>Wed, 19 Jul 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-patch-1.1.0a-info-sorcerer.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-patch-1.1.0a-info-sorcerer.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>디아블로4 1.1.0a 시즌 1 패치 야만용사 관련 내역 총정리</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;디아블로4에서 7월 19일에 시즌 1 시작에 대비한 1.1.0a 패치가 진행되었습니다. 한번에 정리하기 힘들 정도로 엄청만 양의 패치 내역이기도 하고, 이래저래 말도 많은 패치였기에 한번에 알아보기 쉽게 직업별로 정리해보려고 합니다. 우선 야만용사(바바리안, BarBarian) 관련 패치 정보를 정리해보겠습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-patch-1.1.0a-info-barbarian-01.png&quot; alt=&quot;7월 19일에 진행된 디아블로4 (Diablo 4) 1.1.0a 패치 내역 중에서 야만용사 관련 정보를 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-2&quot;&gt;
+⁃ &lt;a href=&quot;https://news.blizzard.com/ko-kr/diablo4/23964909/%EB%94%94%EC%95%84%EB%B8%94%EB%A1%9C-iv-%ED%8C%A8%EC%B9%98-%EB%85%B8%ED%8A%B8&quot; target=&quot;_blank&quot; style=&quot;work-break:break-all&quot;&gt;디아블로4 홈페이지 전체 패치 노트 확인하기&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;고유-아이템&quot;&gt;고유 아이템&lt;/h2&gt;
+
+&lt;h3 id=&quot;일반&quot;&gt;일반&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;아발리온 - 라이칸더의 창(우버 고유 지팡이 – 세계 단계 4)&lt;/strong&gt;: 정예 괴물 처치 시 10~20초간 무작위 제단 효과를 획득합니다. 이 효과는 30초에 한 번씩 발동됩니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;야만용사&quot;&gt;야만용사&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;푸른 서슬(고유 도검)&lt;/strong&gt;: 행운의 적중 - 핵심 기술이 최대 20% 확률로 적들을 3초 동안 빙결시키고 0.75~1.5의 냉기 피해를 줍니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-2&quot;&gt;
+푸른 서슬 고유 아이템의 피해 효과는 고정되어 있으며 위력에 따라 증가합니다. 예를 들어, 아이템 위력이 820인 경우 푸른 서슬은 3,359~6,718의 피해를 줍니다.
+&lt;/div&gt;
+
+&lt;h2 id=&quot;신규-전설-위상&quot;&gt;신규 전설 위상&lt;/h2&gt;
+
+&lt;h3 id=&quot;일반-1&quot;&gt;일반&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;용맹(보조 위상)&lt;/strong&gt;: 주변의 적이 5명 이상일 때 2~4초간 기절시킵니다. 이 효과는 20초에 한 번씩 발동됩니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;비겁자(기동력 위상)&lt;/strong&gt;: 감속되거나 오한을 느끼는 적에게서 멀어질 때 이동 속도가 20~40% 증가합니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;야만용사-1&quot;&gt;야만용사&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;선조의 돌진(공격 위상)&lt;/strong&gt;: 돌진이 4명의 선조를 부릅니다. 선조들은 돌진하여 원래 피해의 50~100%만큼 피해를 줍니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;버그-수정&quot;&gt;버그 수정&lt;/h2&gt;
+
+&lt;h3 id=&quot;게임플레이&quot;&gt;게임플레이&lt;/h3&gt;
+
+&lt;h4 id=&quot;야만용사-2&quot;&gt;야만용사&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;야만용사 직업 퀘스트 전투의 달인&lt;/strong&gt;에서 처치해야 할 적의 수가 표시되지 않던 문제를 수정했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;전장의 함성&lt;/strong&gt;을 외쳐서 &lt;strong&gt;강철 소용돌이&lt;/strong&gt;를 3번 이상 빠르게 시전하던 문제를 수정했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;광폭한 찢기, 해골 격파자, 빈혈 위상&lt;/strong&gt;을 중첩할 시 플레이어가 지나치게 큰 피해를 주던 문제를 수정했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;선조의 메아리 위상&lt;/strong&gt;이 적용된 &lt;strong&gt;선조의 망치&lt;/strong&gt;가 일으킨 진동의 가장자리가 의도한 것보다 많은 피해를 주던 문제를 수정했습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;일반-2&quot;&gt;일반&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;우두머리와 전투 시 플레이어가 비정상적으로 순간이동하던 문제를 수정했습니다.&lt;/li&gt;
+  &lt;li&gt;서쪽 길의 상자에 발생하는 무한 상호작용 문제를 수정했습니다.&lt;/li&gt;
+  &lt;li&gt;일부 상황에서 &lt;strong&gt;에리만 NPC&lt;/strong&gt;와 상호작용하지 못하던 문제를 수정했습니다.&lt;/li&gt;
+  &lt;li&gt;파괴할 수 있는 물체를 통과하려고 할 때 부수지 못하던 문제를 수정했습니다.&lt;/li&gt;
+  &lt;li&gt;플레이어가 특정 위치에 자리하면 우두머리에게 피해를 입지 않던 사례를 수정했습니다.&lt;/li&gt;
+  &lt;li&gt;제련된 유물에 상호작용하지 못하던 문제를 수정했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;악몽 던전&lt;/strong&gt;에서 &lt;strong&gt;냉기, 출혈, 화상, 또는 타락&lt;/strong&gt; 속성의 괴물이 &lt;strong&gt;냉기 강화 접사&lt;/strong&gt;를 가진 채 1회 공격하면 플레이어가 빙결되던 문제를 수정했습니다.&lt;/li&gt;
+  &lt;li&gt;높은 세계 단계에서 냉기 강화 괴물이 플레이어를 의도한 것보다 더 자주 빙결시키던 문제를 수정했습니다.&lt;/li&gt;
+  &lt;li&gt;전리품이 무한히 떨어지는 궤짝이 생성되던 문제를 수정했습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;밸런스-업데이트&quot;&gt;밸런스 업데이트&lt;/h2&gt;
+
+&lt;h3 id=&quot;야만용사-3&quot;&gt;야만용사&lt;/h3&gt;
+
+&lt;h4 id=&quot;기술&quot;&gt;기술&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;난폭한 이중 타격&lt;/strong&gt;의 취약 지속 시간이 1초에서 2초로 증가했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;맹렬한 지각 변동&lt;/strong&gt;의 중첩당 추가 피해가 3%에서 5%로 증가했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;강력한 돌진&lt;/strong&gt;의 재사용 대기시간 감소 효과가 대상 3명으로 제한되고, 최대 9초까지 재사용 대기시간이 감소합니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;전술적 발 구르기&lt;/strong&gt;의 분노 획득량이 25에서 40으로 증가했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;강화된 결정타&lt;/strong&gt;의 우두머리에 대한 추가 피해가 100%에서 150%로 증가했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;강화된 강철 손아귀&lt;/strong&gt;의 취약 지속 시간이 2.5초에서 3초로 증가했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;강화된 파열&lt;/strong&gt; 피해가 30%에서 45%로 증가했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;전사의 파열&lt;/strong&gt; 공격 속도 보너스가 20%에서 30%로 증가하고, 지속 시간이 4초에서 5초로 증가했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;투사의 파열&lt;/strong&gt; 회복력이 최대 생명력의 15%에서 18%로 증가합니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;지속-효과&quot;&gt;지속 효과&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;무력화&lt;/strong&gt;는 건강 상태의 적만 감속시키고, 감속 속도는 10/20/30%에서 20/40/60%로 증가합니다.&lt;/li&gt;
+  &lt;li&gt;취약 상태에 대한 &lt;strong&gt;뼈 가르기&lt;/strong&gt;의 출혈 추가 피해가 6/12/18%에서 5/10/15%로 감소합니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;정복자&quot;&gt;정복자&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;진노 문양&lt;/strong&gt;의 보너스가 핵심 기술뿐만 아니라 모든 피해에 적용됩니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;위상&quot;&gt;위상&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;가차없는 광전사의 위상&lt;/strong&gt; 광폭화 지속 시간이 1초에서 2초로 증가했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;전투의 광기 위상&lt;/strong&gt; 광폭화 지속 시간이 1~2.5초에서 2~3.5초로 증가했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;난투가의 위상&lt;/strong&gt; 피해가 1~1.3에서 1.5~1.8로 증가했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;불타는 분노의 위상&lt;/strong&gt; 피해가 0.08~0.14에서 0.22~0.28로 증가했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;철갑 전사의 위상&lt;/strong&gt; 피해 감소가 15~25%에서 18~28%로 증가했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;갈증 해소의 위상&lt;/strong&gt; 행운의 적중 확률이 30~50%에서 40~60%로 증가했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;선조의 메아리의 위상&lt;/strong&gt; 행운의 적중 확률이 40~50%에서 50~60%로 증가했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;무기 전문가 위상&lt;/strong&gt; 행운의 적중 확률이 32~50%에서 37%~55%로 증가했습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;아이템&quot;&gt;아이템&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;고르의 파멸적인 손 보호구&lt;/strong&gt;는 이제 2초마다 또는 소용돌이 종료 후 폭발하고, 적중 제한이 없어졌습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;심홍색의 전장&lt;/strong&gt; 출혈 추가 피해가 10%에서 15%로 증가했습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;일반-3&quot;&gt;일반&lt;/h3&gt;
+
+&lt;h4 id=&quot;위상-1&quot;&gt;위상&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;불복의 위상&lt;/strong&gt;의 추가 방어도가 25%~50%에서 15%~30%로 감소하고, 최대 중첩은 100에서 60으로 감소했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;응보의 위상&lt;/strong&gt;이 기절한 적에게 주는 추가 피해가 20~40%에서 10~20%로 감소했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;착취자의 위상&lt;/strong&gt;이 저지 불가 적에게 주는 추가 피해가 20~50%에서 20~40%로 감소했습니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;별빛 위상&lt;/strong&gt; 자원 회복량이 10~20에서 20~40으로 증가했습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;아이템-1&quot;&gt;아이템&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;도살자의 식칼&lt;/strong&gt; 감속 효과가 40~75%에서 61-75%로 증가했습니다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;드랍률 조정&lt;/strong&gt;:&lt;/p&gt;
+    &lt;ul&gt;
+      &lt;li&gt;악몽 던전에서 선조 아이템 및 신성 아이템을 획득할 추가 확률이 +5%에서 +10%로 증가했습니다.&lt;/li&gt;
+      &lt;li&gt;악몽 던전과 지옥물결 이외에서 정예 괴물이 추가 장비 아이템을 떨어뜨릴 확률 20%가 제거되었습니다.&lt;/li&gt;
+      &lt;li&gt;악몽 던전과 지옥물결의 정예 괴물이 추가 장비 아이템을 떨어뜨릴 확률이 10%만큼 증가했습니다.&lt;/li&gt;
+      &lt;li&gt;이제 악몽 던전을 완료하면 50% 확률로 두 번째 전설 아이템을 획득할 수 있습니다.&lt;/li&gt;
+      &lt;li&gt;악몽 던전 완료 시 얻는 희귀 아이템이 1개에서 3개로 변경되었습니다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;괴물&quot;&gt;괴물&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;파티에 추가되는 플레이어당 증가하는 &lt;strong&gt;괴물 HP&lt;/strong&gt;가 85%에서 100%로 조정되었습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;기타&quot;&gt;기타&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;탐욕의 신단&lt;/strong&gt; 개수를 조정하여 게임 전반의 효율을 개선했습니다.&lt;/li&gt;
+  &lt;li&gt;이제 야외 우두머리가 물약을 더 자주 떨어뜨립니다.&lt;/li&gt;
+  &lt;li&gt;이제 상위 재료로 정제할 수 있는 자원의 양에 제한이 없습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;아이템-접사&quot;&gt;아이템 접사&lt;/h4&gt;
+&lt;p&gt;여러 빌드에 쉽게 적용할 수 있도록 다음 접사의 가용성을 늘렸습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;제어 방해 지속 시간 감소&lt;/strong&gt;: 이제 바지에 나타납니다.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;보호막 생성량&lt;/strong&gt;: 이제 모든 직업에 나타납니다. 또한 게임 후반에 획득하기 시작합니다.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;보호막이 있을 때 행운의 적중 확률&lt;/strong&gt;: 이제 모든 직업에 나타납니다. 투구에 적용 시 ~12%까지, 목걸이 또는 보조 무기에 적용 시 ~20%까지 감소합니다.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;힘&lt;/strong&gt;: 무기에 적용 시 50% 강력해짐 -&amp;gt; 무기에 적용 시 25% 강력해짐&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;민첩&lt;/strong&gt;: 무기에 적용 시 50% 강력해짐 -&amp;gt; 무기에 적용 시 25% 강력해짐&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;지능&lt;/strong&gt;: 무기에 적용 시 50% 강력해짐 -&amp;gt; 무기에 적용 시 25% 강력해짐&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;의지력&lt;/strong&gt;: 무기에 적용 시 50% 강력해짐 -&amp;gt; 무기에 적용 시 25% 강력해짐&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;재사용 대기시간 감소&lt;/strong&gt;: ~30% 감소&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;극대화 피해&lt;/strong&gt;: ~17% 감소&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;번개 극대화 피해&lt;/strong&gt;: ~17% 감소&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;취약 피해&lt;/strong&gt;: ~40% 감소&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;군중 제어 상태 효과의 영향을 받는 적에게 주는 피해&lt;/strong&gt;: ~30% 감소&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;빙결 상태 효과의 영향을 받는 적에게 주는 피해&lt;/strong&gt;: ~20% 증가&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;물리 피해&lt;/strong&gt;: ~25% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;화염 피해&lt;/strong&gt;: ~25% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;냉기 피해&lt;/strong&gt;: ~25% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;번개 피해&lt;/strong&gt;: ~25% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;독 피해&lt;/strong&gt;: ~25% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;암흑 피해&lt;/strong&gt;: ~25% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;비물리 피해&lt;/strong&gt;: ~25% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;물리 지속 피해&lt;/strong&gt;: ~40% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;화염 지속 피해&lt;/strong&gt;: ~40% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;암흑 지속 피해&lt;/strong&gt;: ~40% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;쌍수 무기로 주는 피해&lt;/strong&gt;: ~25% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;새로운 무기로 교체하는 기술의 피해&lt;/strong&gt;: ~25% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;동료 기술 피해&lt;/strong&gt;: ~33% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;구현 기술 피해&lt;/strong&gt;: ~33% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;서리 기술 피해&lt;/strong&gt;: ~25% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;방화 기술 피해&lt;/strong&gt;: ~25% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;감전 기술 피해&lt;/strong&gt;: ~25% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;무기 숙련 기술 피해&lt;/strong&gt;: ~33% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;총 방어도&lt;/strong&gt;: ~30% 감소&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;공격 회피 후 4초 동안 공격 속도&lt;/strong&gt;: ~20% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;공격 회피 후 4초 동안 피해&lt;/strong&gt;: ~20% 증가&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;근거리에 있는 적에게 받는 피해 감소&lt;/strong&gt;: ~20% 감소&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;원거리에 있는 적에게 받는 피해 감소&lt;/strong&gt;: ~20% 감소&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;출혈 상태인 적에게 받는 피해 감소&lt;/strong&gt;: ~25% 감소&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;화상 상태인 적에게 받는 피해 감소&lt;/strong&gt;: ~25% 감소&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;중독 상태인 적에게 받는 피해 감소&lt;/strong&gt;: ~25% 감소&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;지속 암흑 상태인 적에게 받는 피해 감소&lt;/strong&gt;: ~25% 감소&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;보강 상태에서 피해 감소&lt;/strong&gt;: ~25% 감소&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <pubDate>Wed, 19 Jul 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-patch-1.1.0a-info-barbarian.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-patch-1.1.0a-info-barbarian.html</guid>
             
             <category>diablo</category>
             
@@ -985,87 +1201,6 @@
             <pubDate>Fri, 30 Jun 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/diablo/diablo4-side-quest-forgive-me-guide.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-side-quest-forgive-me-guide.html</guid>
-            
-            <category>diablo</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 27일차 획득 고유 아이템 [끝없는 분노의 지팡이] 상세 정보</title>
-            <description>&lt;h2 id=&quot;27일차-득템&quot;&gt;27일차 득템&lt;/h2&gt;
-&lt;p&gt;디아블로4 플레이 27일차에 획득한 신성 고유(Sacred Unique) 지팡이 아이템 [&lt;strong&gt;끝없는 분노의 지팡이&lt;/strong&gt;]대한 정보를 정리해보겠습니다. 이번 고유 아이템은 [&lt;strong&gt;지옥 물결&lt;/strong&gt;]을 진행하면서 필드 정예를 잡고 얻었습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;신성-고유-지팡이-끝없는-분노의-지팡이&quot;&gt;[신성 고유 지팡이] 끝없는 분노의 지팡이&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;아이템 위력 662&lt;/li&gt;
-  &lt;li&gt;1,336 초당 공격력&lt;/li&gt;
-  &lt;li&gt;적중당 공격력 [1,069 - 1,603]&lt;/li&gt;
-  &lt;li&gt;초당 공격 횟수 1.00&lt;/li&gt;
-  &lt;li&gt;군중 제어 상태 효과의 영향을 받는 적에게 주는 피해 +25%&lt;/li&gt;
-  &lt;li&gt;핵심 기술 피해 +[18.0 - 28.0]%&lt;/li&gt;
-  &lt;li&gt;근거리에 있는 적에게 주는 피해 +[23.0 - 33.0]%&lt;/li&gt;
-  &lt;li&gt;행운의 적중: 감속 확률 최대 +[19.0 - 29.0]%&lt;/li&gt;
-  &lt;li&gt;내면의 불꽃 지속 효과 등급 +[1 - 2] (원소술사 전용)&lt;/li&gt;
-  &lt;li&gt;요구레벨: 65&lt;/li&gt;
-  &lt;li&gt;“네 혈족이 애도할 수 있도록 검게 탄 뼈를 남기는 것조차 네겐 너무 과분한 최후다.” - 조사이아&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;화염구&lt;/strong&gt;를 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;3번 시전할 때마다 2개의 추가 투사체가 발사됩니다.&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-staff-of-endless-rage-01-ko.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 27일차에 획득한 신성 고유 아이템 [끝없는 분노의 지팡이]에 대한 정보&quot; style=&quot;width: 320px;  height: 677px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;sacred-unique-staff-staff-of-endless-rage&quot;&gt;[Sacred Unique Staff] STAFF OF ENDLESS RAGE&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;662 Item Power&lt;/li&gt;
-  &lt;li&gt;1,336 Damage Per Second&lt;/li&gt;
-  &lt;li&gt;[1,069 - 1,603] Damage per Hit&lt;/li&gt;
-  &lt;li&gt;1.00 Attacks per Second&lt;/li&gt;
-  &lt;li&gt;+25.0% Damage to Crowd Controlled Enemies&lt;/li&gt;
-  &lt;li&gt;+[18.0 - 28.0]% Core Skill Damage&lt;/li&gt;
-  &lt;li&gt;+[23.0 - 33.0]% Damage to Close Enemies&lt;/li&gt;
-  &lt;li&gt;Lucky Hit: Up to a +[19.0 - 29.0]% Chance to Slow&lt;/li&gt;
-  &lt;li&gt;+[1 - 2] Ranks of the Inner Flames Passive (Sorcerer Only)&lt;/li&gt;
-  &lt;li&gt;Requires Level: 65&lt;/li&gt;
-  &lt;li&gt;“Leaving even blackened bones for your kin to moum is too good an end for you” - Josiah&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Every 3rd cast of&lt;/code&gt;&lt;/strong&gt; &lt;strong&gt;Fireball&lt;/strong&gt; &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;launches 2 additional projectiles.&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-staff-of-endless-rage-01-en.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 27일차에 획득한 신성 고유 아이템 [STAFF OF ENDLESS RAGE]에 대한 정보&quot; style=&quot;width: 320px;  height: 678px;&quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;神聖-ユニーク-杖-終わりなき憤怒の杖&quot;&gt;[神聖 ユニーク 杖] 終わりなき憤怒の杖&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;アイテムのパワー 662&lt;/li&gt;
-  &lt;li&gt;1,336毎秒ダメージ&lt;/li&gt;
-  &lt;li&gt;命中ごとのダメージ[1,069-1,603]&lt;/li&gt;
-  &lt;li&gt;秒間攻撃回数1.00&lt;/li&gt;
-  &lt;li&gt;操作障害状態の敵へのダメージ＋25％&lt;/li&gt;
-  &lt;li&gt;コアスキルダメージ＋[18.0-28.0]％&lt;/li&gt;
-  &lt;li&gt;近距離の敵へのダメージ＋[23.0-33.0]％&lt;/li&gt;
-  &lt;li&gt;幸運の一撃：最大[19.0-29.0]％&lt;/li&gt;
-  &lt;li&gt;内なる炎のパッシブ効果のランク＋[1-2]&lt;/li&gt;
-  &lt;li&gt;必要レベル: 65&lt;/li&gt;
-  &lt;li&gt;“黒こげの骨でも残って親族に弔われるなら、それはお前にとってあまりにも良い終わり方だ。”‐ジョサイア&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-1&quot;&gt;
-&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;３発の&lt;/code&gt;&lt;/strong&gt;&lt;strong&gt;〈ファイアボール〉&lt;/strong&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;を撃つたびに、２発の投射体が追加される。&lt;/code&gt;&lt;/strong&gt;
-&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-item-sacred-unique-staff-of-endless-rage-01-ja.jpg&quot; alt=&quot;디아블로4 (Diablo 4)에서 27일차에 획득한 신성 고유 아이템 [終わりなき憤怒の杖]에 대한 정보&quot; style=&quot;width: 320px;  height: 660px;&quot; /&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Wed, 28 Jun 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-day27-get-sacred-unique-staff-of-endless-rage-info.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-day27-get-sacred-unique-staff-of-endless-rage-info.html</guid>
             
             <category>diablo</category>
             
