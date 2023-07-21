@@ -445,6 +445,39 @@
 
 
         
+        
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+});
+
+$("#toc_onoff").click(function() {  
+        $("#toc").toggle();
+        $("#tg-toc-icon").toggleClass('fa-toggle-on');
+        $("#tg-toc-icon").toggleClass('fa-toggle-off');
+
+});
+
+});
+</script>
+
+<p><span class="label label-warning" style="cursor:pointer" id="toc_onoff"><i id="tg-toc-icon" class="fas fa-toggle-on"></i> ToC on/off</span></p>
+<div id="toc"></div>
+
+
+
+        
 
         <h2 id="개요">개요</h2>
 <p>디아블로4의 원소술사는 다른 직업들과 다르게 원소술사 고유의 스킬 슬롯이 존재합니다. 바로 [<strong>마법부여</strong>]라는 것으로 영어로는 [<strong>Enchantment</strong>]라고 부르는 시스템입니다.</p>
@@ -458,23 +491,107 @@
 <h2 id="퀘스트-진행-위치">퀘스트 진행 위치</h2>
 <p>[<strong>마법부여</strong>] 슬롯 개방을 위한 [<strong>점성술사의 유산</strong>] 퀘스트는 [<strong>키요바샤드</strong>] 마을에서 7시 방향으로 좀 먼 곳에 위치해 있습니다.</p>
 
-<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-01.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-05.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
 
 <h2 id="퀘스트-진행-npc">퀘스트 진행 NPC</h2>
-<p>해당 위치로 이동하면 [<strong>MORDARIN</strong>]이라는 NPC가 있는데 말을 걸고 퀘스트를 진행합니다.<br />
-퀘스트는 [<strong>잊힌 기록 보관소</strong>]에서 [<strong>The Forgotten Codex</strong>]를 찾아오라고 하는데 [<strong>잊힌 기록 보관소</strong>]는 NPC에서 약 2시 방향 가까운 곳에 위치하고 있습니다.</p>
+<p>해당 위치로 이동하면 [<strong>모르다린</strong>] (MORDARIN)이라는 NPC가 있는데 말을 걸고 퀘스트를 진행합니다.<br />
+퀘스트는 [<strong>잊힌 기록 보관소</strong>]에서 [<strong>잊힌 고문서</strong>] (The Forgotten Codex)를 찾아오라고 합니다.</p>
+
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-06.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
 
 <figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-02.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
 
+<h2 id="잊힌-기록-보관소">잊힌 기록 보관소</h2>
+<p>[<strong>잊힌 기록 보관소</strong>]는 NPC에서 약 2시 방향 가까운 곳에 위치하고 있습니다.</p>
+
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-07.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-08.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h3 id="잊힌-고문서">잊힌 고문서</h3>
+<p>저는 이번에 입구에서 대략 3시 방향쪽에서 잊힌 고문서가 담긴 상자를 찾았는데, 위치는 바뀔 수도 있습니다.</p>
+
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-11.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<ul>
+  <li>이렇게 [<strong>먼지로 뒤덮인 궤짝</strong>]을 발견했습니다.</li>
+</ul>
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-09.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<ul>
+  <li>궤짝을 열면 [<strong>잊힌 고문서</strong>]를 획득할 수 있습니다.</li>
+</ul>
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-10.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="퀘스트-다음-단계">퀘스트 다음 단계</h2>
+<p>[<strong>잊힌 고문서</strong>]를 NPC [<strong>모르다린</strong>]에게 가져가면 퀘스트가 다음 단계로 진행됩니다.</p>
+
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-12.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<ul>
+  <li>바로 위쪽에 있는 [<strong>버려진 판잣집</strong>]에 들어갑니다.</li>
+</ul>
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-13.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<ul>
+  <li>들어가면 안쪽에 있는 화로 4곳에 불을 지피면 됩니다.</li>
+</ul>
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-14.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<ul>
+  <li>그러면 의식이 진행되지만 뭔가 잘못 되었다면서 악마가 나타나는데 이 악마들을 처리하면 됩니다.</li>
+</ul>
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-15.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<ul>
+  <li>악마를 모두 처치하고 NPC [<strong>모르다린</strong>]과 대화를 하면 퀘스트가 모두 완료됩니다.</li>
+</ul>
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-16.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="퀘스트-완료">퀘스트 완료</h2>
+<p>퀘스트가 완료되면 아이템과 경험치, 그리고 골드를 보상으로 받을 수 있습니다.</p>
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-17.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<ul>
+  <li>그리고 [<strong>마법부여 칸</strong>]이 해제됩니다.</li>
+</ul>
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-18.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
 <h2 id="마법부여-슬롯-개방">마법부여 슬롯 개방</h2>
-<p>퀘스트를 완료하면 슬롯이 개방되고, 키보드 [<strong>S</strong>] 키를 눌러서 원하는 스킬을 드래그해서 장착하면 됩니다. 저는 [<strong>눈보라</strong>] 스킬을 장착해봤습니다.</p>
+<p>키보드 [<strong>S</strong>] 키를 눌러서 원하는 스킬을 드래그해서 장착하면 됩니다. 저는 [<strong>화염구</strong>] 스킬을 장착해봤습니다.<br />
+<code class="language-plaintext highlighter-rouge">두번째 마법부여 슬롯은 레벨 30에 개방됩니다.</code></p>
 
-<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-03.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-19.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
 
-<h2 id="마법부여-스킬-발동">마법부여 스킬 발동</h2>
-<p>아래 스샷처럼 15초마다 머리 위에 [<strong>눈보라</strong>] 스킬을 발동되는데, 이것과 동시에 단축키로 [<strong>눈보라</strong>] 스킬을 발동시키는 것도 가능합니다.</p>
+<h2 id="마법부여-효과">마법부여 효과</h2>
 
+<h3 id="화염구">화염구</h3>
+<p>화염구의 마법부여 효과는 <code class="language-plaintext highlighter-rouge">처치한 적이 화염구 속에서 폭발하여 화염구 피해의 50%만큼 피해를 줍니다.</code> 입니다.</p>
+
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-info-05.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다" style="width: 440px;  " /></figure>
+
+<ul>
+  <li>화염구를 [<strong>마법부여 슬롯</strong>]에 장착하고 사냥하면 아래와 같이 몬스터가 죽을때 화염구가 펑펑 터지는 것을 확인할 수 있습니다.</li>
+</ul>
+
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-20.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h3 id="눈보라">눈보라</h3>
+<p>눈보라의 마법부여 효과는 <code class="language-plaintext highlighter-rouge">15초마다 자신의 머리 위에 눈보라가 생겨나 6초 동안 따라다닙니다.</code> 입니다.</p>
+
+<figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-info-19.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 스킬들의 상세 +정보를 정리해보았습니다" style="width: 440px;  " /></figure>
+
+<ul>
+  <li>이렇게 눈보라가 따라 다닙니다.</li>
+</ul>
 <figure><img class="docimage" src="/images/game/diablo/diablo4-sorcerer-enchantment-quest-04.jpg" alt="디아블로4 (Diablo 4) 원소술사의 마법부여 슬롯을 개방할 수 있는 퀘스트 점성술사의 유산 진행하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="전체-스킬의-마법부여-효과">전체 스킬의 마법부여 효과</h2>
+<p>원소술사 전체 스킬의 마법부여 효과를 정리했는데 아래 문서에서 확인할 수 있습니다.</p>
+
+<div class="bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-3">
+⁃ <a href="/game/diablo/diablo4-sorcerer-enchantment-list.html" target="_blank" style="word-break:break-all">디아블로4 (Diablo 4) 원소술사 전체 스킬의 마법부여 효과 정보 총정리</a>
+</div>
 
 
     </div>
@@ -555,7 +672,7 @@
                & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
                & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
                
-<span>Page last updated:</span> 2023-05-27<br/> Site last generated: 2023-07-21 <br />
+<span>Page last updated:</span> 2023-07-20<br/> Site last generated: 2023-07-21 <br />
 
                 </div>
             </div>
