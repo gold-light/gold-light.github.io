@@ -2,7 +2,17 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2023-07-25T00:36:42+09:00</lastmod>
+    <lastmod>2023-08-15T20:12:52+09:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/life/movie/netflix-heart-of-stone-review.html</loc>
+  
+    <lastmod>2023-08-15T00:00:00+09:00</lastmod>
+    
+      
   </url>
   
   
@@ -238,7 +248,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-helltide-aberrant-cinders-collecting-tip-01.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-gem-crafting-level-requirement.html</loc>
   
     <lastmod>2023-06-15T00:00:00+09:00</lastmod>
     
@@ -248,7 +258,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-gem-crafting-level-requirement.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-helltide-aberrant-cinders-collecting-tip-01.html</loc>
   
     <lastmod>2023-06-15T00:00:00+09:00</lastmod>
     
@@ -298,7 +308,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-crushed-beast-bones-location.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info.html</loc>
   
     <lastmod>2023-06-09T00:00:00+09:00</lastmod>
     
@@ -308,7 +318,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-crushed-beast-bones-location.html</loc>
   
     <lastmod>2023-06-09T00:00:00+09:00</lastmod>
     
@@ -618,7 +628,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/mobile/hit2-dungeon-monster-position-info-2nd.html</loc>
+    <loc>https://cloudlog.kr/game/hit2/hit2-dungeon-monster-position-info.html</loc>
   
     <lastmod>2022-09-09T00:00:00+09:00</lastmod>
     
@@ -628,7 +638,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/hit2/hit2-dungeon-monster-position-info.html</loc>
+    <loc>https://cloudlog.kr/game/mobile/hit2-dungeon-monster-position-info-2nd.html</loc>
   
     <lastmod>2022-09-09T00:00:00+09:00</lastmod>
     
@@ -698,7 +708,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-why-become-big-mouse.html</loc>
+    <loc>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-leejongsuk-yuna.html</loc>
   
     <lastmod>2022-08-20T00:00:00+09:00</lastmod>
     
@@ -708,7 +718,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-leejongsuk-yuna.html</loc>
+    <loc>https://cloudlog.kr/life/drama/korea/mbc-big-mouth-identity-why-become-big-mouse.html</loc>
   
     <lastmod>2022-08-20T00:00:00+09:00</lastmod>
     
@@ -1354,7 +1364,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-robots-txt-edit.html</loc>
+    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-xml-edit.html</loc>
 
     <lastmod>2022-04-10T00:00:00+09:00</lastmod>
     
@@ -1364,7 +1374,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-xml-edit.html</loc>
+    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-robots-txt-edit.html</loc>
 
     <lastmod>2022-04-10T00:00:00+09:00</lastmod>
     
@@ -1444,7 +1454,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/os/os-macos-catalina-other-volume.html</loc>
+    <loc>https://cloudlog.kr/programming/aws/aws-bitnami-lamp-setting-guide.html</loc>
 
     <lastmod>2021-11-13T00:00:00+09:00</lastmod>
     
@@ -1454,7 +1464,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/aws/aws-bitnami-lamp-setting-guide.html</loc>
+    <loc>https://cloudlog.kr/programming/os/os-macos-catalina-other-volume.html</loc>
 
     <lastmod>2021-11-13T00:00:00+09:00</lastmod>
     
@@ -1538,6 +1548,14 @@
   
   
   
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/category/life/movie.html</loc>
+  
+       
+  </url>
   
   
   
@@ -1663,12 +1681,6 @@
   
   
   
-  <url>
-    <loc>https://cloudlog.kr/category/life/web-comics-novel.html</loc>
-  
-       
-  </url>
-  
   
   
   
@@ -1680,6 +1692,12 @@
   </url>
   
   
+  
+  <url>
+    <loc>https://cloudlog.kr/category/life/web-comics-novel.html</loc>
+  
+       
+  </url>
   
   
   
