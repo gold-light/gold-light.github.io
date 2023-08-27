@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2023-08-22T23:13:57+09:00</lastmod>
+    <lastmod>2023-08-27T10:04:23+09:00</lastmod>
   </url>
   
   
@@ -1222,6 +1222,16 @@
   
   
   <url>
+    <loc>https://cloudlog.kr/programming/os/linux-command-tree-manual.html</loc>
+
+    <lastmod>2023-08-25T00:00:00+09:00</lastmod>
+    
+       
+  </url>
+  
+  
+  
+  <url>
     <loc>https://cloudlog.kr/programming/database/database-migration-process-schedule.html</loc>
 
     <lastmod>2023-05-16T00:00:00+09:00</lastmod>
@@ -1364,7 +1374,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-xml-edit.html</loc>
+    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-robots-txt-edit.html</loc>
 
     <lastmod>2022-04-10T00:00:00+09:00</lastmod>
     
@@ -1374,7 +1384,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-robots-txt-edit.html</loc>
+    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-xml-edit.html</loc>
 
     <lastmod>2022-04-10T00:00:00+09:00</lastmod>
     
@@ -1454,7 +1464,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/aws/aws-bitnami-lamp-setting-guide.html</loc>
+    <loc>https://cloudlog.kr/programming/os/os-macos-catalina-other-volume.html</loc>
 
     <lastmod>2021-11-13T00:00:00+09:00</lastmod>
     
@@ -1464,7 +1474,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/os/os-macos-catalina-other-volume.html</loc>
+    <loc>https://cloudlog.kr/programming/aws/aws-bitnami-lamp-setting-guide.html</loc>
 
     <lastmod>2021-11-13T00:00:00+09:00</lastmod>
     
@@ -1490,8 +1500,6 @@
     
        
   </url>
-  
-  
   
   
   
@@ -1572,6 +1580,8 @@
   
        
   </url>
+  
+  
   
   
   
