@@ -172,6 +172,17 @@
 
 
 {
+"title": "CentOS 7에 MySQL 5.7 설치하는 방법",
+"tags": "databasemysql",
+"keywords": "programming, database, Install",
+"url": "/programming/database/mysql-57-how-to-install-on-centos7.html",
+"summary": "CentOS 7에 MySQL 5.7을 설치하는 방법을 정리해봤습니다"
+}
+,
+
+
+
+{
 "title": "MySql Workbench 대량 Update Error - Safe Updates Option",
 "tags": "databasemysql",
 "keywords": "programming, database, 업데이트 오류",

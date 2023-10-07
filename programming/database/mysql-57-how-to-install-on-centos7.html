@@ -4,24 +4,29 @@
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="The following pages and posts are tagged with API">
-<meta name="keywords" content=" ">
+<meta name="description" content="CentOS 7에 MySQL 5.7을 설치하는 방법을 정리해봤습니다">
+<meta name="keywords" content="databasemysql,  programming, database, Install">
 <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="API" />
+<meta property="og:title" content="CentOS 7에 MySQL 5.7 설치하는 방법" />
 <meta property="og:locale" content="ko_KR" />
-<meta property="og:description" content="The following pages and posts are tagged with API" />
-<link rel="canonical" href="https://cloudlog.kr/tag/tag-api.html" />
-<meta property="og:url" content="https://cloudlog.kr/tag/tag-api.html" />
+<meta property="og:description" content="CentOS 7에 MySQL 5.7을 설치하는 방법을 정리해봤습니다" />
+<link rel="canonical" href="https://cloudlog.kr/programming/database/mysql-57-how-to-install-on-centos7.html" />
+<meta property="og:url" content="https://cloudlog.kr/programming/database/mysql-57-how-to-install-on-centos7.html" />
 <meta property="og:site_name" content="Simple Life Cloud Log" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="API" />
+<meta property="og:image" content="https://cloudlog.kr/images/programming/database/mysql-57-how-to-install-on-centos7-01.png" />
+<meta property="og:image:alt" content="CentOS 7에 MySQL 5.7을 설치하는 방법을 정리" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-09-29T00:00:00+09:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://cloudlog.kr/images/programming/database/mysql-57-how-to-install-on-centos7-01.png" />
+<meta name="twitter:image:alt" content="CentOS 7에 MySQL 5.7을 설치하는 방법을 정리" />
+<meta property="twitter:title" content="CentOS 7에 MySQL 5.7 설치하는 방법" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"The following pages and posts are tagged with API","headline":"API","url":"https://cloudlog.kr/tag/tag-api.html"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"CentOS 7에 MySQL 5.7을 설치하는 방법을 정리해봤습니다","headline":"CentOS 7에 MySQL 5.7 설치하는 방법","image":{"alt":"CentOS 7에 MySQL 5.7을 설치하는 방법을 정리","url":"https://cloudlog.kr/images/programming/database/mysql-57-how-to-install-on-centos7-01.png","@type":"imageObject"},"url":"https://cloudlog.kr/programming/database/mysql-57-how-to-install-on-centos7.html"}</script>
 <!-- End Jekyll SEO tag -->
 
-<title>API | Cloud Log</title>
+<title>CentOS 7에 MySQL 5.7 설치하는 방법 | Cloud Log</title>
 <link rel="stylesheet" href="/css/syntax.css">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -187,7 +192,7 @@
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
                                 dataSource: '/search.json',
-                                searchResultTemplate: '<li><a href="{url}" title="API">{title}</a></li>',
+                                searchResultTemplate: '<li><a href="{url}" title="CentOS 7에 MySQL 5.7 설치하는 방법">{title}</a></li>',
                     noResultsText: 'No results found.',
                             limit: 10,
                             fuzzy: true,
@@ -433,7 +438,7 @@
           
           
           
-          <li><a title="CentOS 7에 MySQL 5.7 설치하기" href="/programming/database/mysql-57-how-to-install-on-centos7.html">CentOS 7에 MySQL 5.7 설치하기</a></li>
+          <li class="active"><a title="CentOS 7에 MySQL 5.7 설치하기" href="/programming/database/mysql-57-how-to-install-on-centos7.html">CentOS 7에 MySQL 5.7 설치하기</a></li>
           
           
           
@@ -597,7 +602,7 @@
                   
                   
                   
-                  <li class="active"><a title="API pages" href="/tag/tag-api.html">API pages</a></li>
+                  <li><a title="API pages" href="/tag/tag-api.html">API pages</a></li>
                   
                   
                   
@@ -634,7 +639,7 @@
         <!-- Content Column -->
         <div class="col-md-9" id="tg-sb-content">
             <div class="post-header-no">
-   <h1 class="post-title-main-no">API</h1>
+   <h1 class="post-title-main-no">CentOS 7에 MySQL 5.7 설치하는 방법</h1>
 </div>
 
 
@@ -642,7 +647,7 @@
 <div class="post-content">
 
    
-    <div class="summary">The following pages and posts are tagged with API</div>
+    <div class="summary">CentOS 7에 MySQL 5.7을 설치하는 방법을 정리해봤습니다</div>
    
 
     
@@ -650,871 +655,112 @@
 
     
 
-   <p>The following pages and posts are tagged with <button type="button" style="cursor: default" class="btn btn-default navbar-btn">api</button></p>
-<table><thead><tr><th>Title</th><th>Type</th><th>Excerpt</th></tr></thead>
-    <tbody>
-    
-  
-    
-   
-    
-   
-    
-   
-    
-        
+   <h2 id="개요">개요</h2>
+<p>CentOS 7.8에 MySQL 5.7을 설치하는 방법을 정리했습니다.<br />
+물론 CentOS  7은 2024년 6월 30일에 서비스 지원이 종료되기에 앞으로는 Ubuntu나 Rocky Linux를 사용하게 되겠지만 그래도 상황에 따라 사용하게 될 수도 있어서 CentOS 7에 설치하는 방법을 정리하게 되었습니다.</p>
 
-        <tr><td><a href="/programming/api/api-unipass-openapi-introduce.html">유니패스 오픈API 신청, 가이드 정보 통관정보 조회, 개인통관고유부호 검증</a></td>
-            <td><span class="label label-default">Page</span></td>
-          <td> 수출입화물의 화물통관정보 조회나 수입신고 개인통관고유부호 검증할 때 이용하는 유니패스(UniPass)의 OpenApi 소개입니다 </td>
-        </tr>
-        
-     
-   
-    
-   
-    
-        
-     
-        
-     
-        
-     
-        
-     
-        
-     
-        
-     
-        
-     
-        
-     
-   
-    
-        
-     
-        
-     
-   
-    
-   
-    
-        
-     
-        
-     
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-        
-     
-        
-     
-   
-    
-   
-    
-   
-    
-        
-     
-        
-     
-   
-    
-        
-     
-        
-     
-   
-    
-        
-     
-        
-     
-   
-    
-        
-     
-   
-    
-        
-     
-        
-     
-   
-    
-        
-     
-        
-     
-   
-    
-   
-    
-        
-     
-   
-    
-   
-    
-   
-    
-   
-    
-        
-     
-        
-     
-   
-    
-        
-     
-        
-     
-   
-    
-        
-     
-        
-     
-   
-    
-        
-     
-        
-     
-   
-    
-        
-     
-   
-    
-   
-    
-        
-     
-        
-     
-   
-    
-        
-     
-   
-    
-        
-     
-        
-     
-   
-    
-        
-     
-        
-     
-   
-    
-        
-     
-        
-     
-        
-     
-   
-    
-        
-     
-        
-     
-   
-    
-        
-     
-        
-     
-   
-    
-        
-     
-   
-    
-        
-     
-        
-     
-   
-    
-        
-     
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-   
-    
-        
-     
-        
-     
-        
-     
-        
-     
-   
-    
-        
-     
-   
+<h2 id="전체-과정">전체 과정</h2>
+<p>설치하는 전체 과정을 정리하면 아래와 같습니다. 이후에 하나씩 설명을 해보겠습니다.</p>
 
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~# yum <span class="nt">-y</span> <span class="nb">install </span>https://dev.mysql.com/get/mysql80-community-release-el7-10.noarch.rpm
+~# yum repolist all | <span class="nb">grep </span>mysql
+~# yum-config-manager <span class="nt">--disable</span> mysql80-community
+~# yum-config-manager <span class="nt">--enable</span> mysql57-community
+~# yum <span class="nt">-y</span> <span class="nb">install </span>mysql-community-server
+~# mysqld <span class="nt">--initialize-insecure</span> <span class="nt">--user</span><span class="o">=</span>mysql
+~# systemctl start mysqld
+~# mysql_secure_installation
+~# mysql <span class="nt">-u</span> root <span class="nt">-p</span>
+</code></pre></div></div>
 
-   </tbody>
-</table>
+<h2 id="패키지-설치">패키지 설치</h2>
+<p>설치할 패키지 경로는 https://dev.mysql.com/get/mysql80-community-release-el7-{버전 번호}.noarch.rpm</p>
 
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~# yum <span class="nt">-y</span> <span class="nb">install </span>https://dev.mysql.com/get/mysql80-community-release-el7-<span class="o">{</span>버전 번호<span class="o">}</span>.noarch.rpm
+</code></pre></div></div>
+
+<h3 id="패키지-버전-확인">패키지 버전 확인</h3>
+<p>설치할 패키지 버전 번호를 확인하려면 아래 공식 사이트에서 확인할 수 있습니다.</p>
+
+<ul>
+  <li><a href="https://dev.mysql.com/downloads/repo/yum/" target="_blank" style="work-break:break-all">https://dev.mysql.com/downloads/repo/yum/</a></li>
+</ul>
+
+<figure><img class="docimage" src="/images/programming/database/mysql-57-how-to-install-on-centos7-01.png" alt="CentOS 7에 MySQL 5.7을 설치하는 방법을 정리" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="mysql-버전-상태-확인">MySQL 버전 상태 확인</h2>
+<p>리포지토리에서 MySQL 버전 상태를 확인해보면 MySQL 5.7은 disabled, 8.0은 enabled 상태인 것을 알 수 있습니다.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~# yum repolist all | <span class="nb">grep </span>mysql
+</code></pre></div></div>
+
+<h2 id="mysql-57-버전-활성화">MySQL 5.7 버전 활성화</h2>
+<p>아래 명령으로 8.0을 비활성화 하고 5.7을 활성화 합니다.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~# yum-config-manager <span class="nt">--disable</span> mysql80-community
+~# yum-config-manager <span class="nt">--enable</span> mysql57-community
+</code></pre></div></div>
+
+<h2 id="mysql-설치">MySQL 설치</h2>
+<p>이제 MySQL을 설치합니다.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~# yum <span class="nt">-y</span> <span class="nb">install </span>mysql-community-server
+</code></pre></div></div>
+
+<h2 id="mysql-초기화">MySQL 초기화</h2>
+<p>MySQL을 초기화 합니다.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~# mysqld <span class="nt">--initialize-insecure</span> <span class="nt">--user</span><span class="o">=</span>mysql
+</code></pre></div></div>
+
+<h2 id="mysql-시작">MySQL 시작</h2>
+<p>MySQL을 시작합니다.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~# systemctl start mysqld
+</code></pre></div></div>
+
+<h2 id="mysql-보안-설정">MySQL 보안 설정</h2>
+<p>아래 명령어로 패스워드 설정, 외부 접근, 임시 계정, 임시 테이블 제거 등의 보안 설정을 합니다.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~# mysql_secure_installation
+</code></pre></div></div>
+
+<h2 id="mysql-접속">MySQL 접속</h2>
+<p>위 보안 설정에서 입력한 패스워드로 접속해봅니다.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>~# mysql <span class="nt">-u</span> root <span class="nt">-p</span>
+</code></pre></div></div>
 
 
     <div class="tags">
         
+        <b>Tags: </b>
+        
+        
+        
+        <a href="/tag/tag-database.html" class="btn btn-default navbar-btn cursorNorm" role="button">database</a>
+        
+        
+        
+        <a href="/tag/tag-mysql.html" class="btn btn-default navbar-btn cursorNorm" role="button">mysql</a>
+        
+        
+        
     </div>
 
 
+
+<!-- 본문 하단 - cloudlog -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6199737337936118"
+     data-ad-slot="7488484889"
+     data-ad-format="auto"
+     data-full-width-responsive="true">
+</ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 
@@ -1535,7 +781,7 @@
                & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
                & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
                
- Site last generated: 2023-10-07 <br />
+<span>Page last updated:</span> 2023-09-29<br/> Site last generated: 2023-10-07 <br />
 
                 </div>
             </div>
