@@ -2,13 +2,33 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2023-09-30T17:29:52+09:00</lastmod>
+    <lastmod>2023-10-07T19:29:51+09:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/life/movie/disney-plus-marvel-black-widow.html</loc>
+  
+    <lastmod>2023-09-27T00:00:00+09:00</lastmod>
+    
+      
   </url>
   
   
   
   <url>
     <loc>https://cloudlog.kr/life/drama/japan/disney-plus-japan-drama-list-202309.html</loc>
+  
+    <lastmod>2023-09-25T00:00:00+09:00</lastmod>
+    
+      
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/life/movie/disney-plus-guardians-of-the-galaxy-volume-3.html</loc>
   
     <lastmod>2023-09-25T00:00:00+09:00</lastmod>
     
@@ -78,7 +98,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-season-malignant-hearts-quest-guide.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-season-character-create-start-guide.html</loc>
   
     <lastmod>2023-07-21T00:00:00+09:00</lastmod>
     
@@ -88,7 +108,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-season-character-create-start-guide.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-season-malignant-hearts-quest-guide.html</loc>
   
     <lastmod>2023-07-21T00:00:00+09:00</lastmod>
     
@@ -408,7 +428,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-day3-get-legendary-item-info.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-quest-secret-of-the-spring-guide.html</loc>
   
     <lastmod>2023-06-05T00:00:00+09:00</lastmod>
     
@@ -418,7 +438,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-quest-secret-of-the-spring-guide.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-day3-get-legendary-item-info.html</loc>
   
     <lastmod>2023-06-05T00:00:00+09:00</lastmod>
     
@@ -948,7 +968,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo-immortal/diablo-immortal-account-logout.html</loc>
+    <loc>https://cloudlog.kr/game/diablo-immortal/diablo-immortal-character-change.html</loc>
   
     <lastmod>2022-06-01T00:00:00+09:00</lastmod>
     
@@ -958,7 +978,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo-immortal/diablo-immortal-character-change.html</loc>
+    <loc>https://cloudlog.kr/game/diablo-immortal/diablo-immortal-account-logout.html</loc>
   
     <lastmod>2022-06-01T00:00:00+09:00</lastmod>
     
