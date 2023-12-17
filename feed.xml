@@ -5,9 +5,70 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 Dec 2023 16:20:39 +0900</pubDate>
-        <lastBuildDate>Sun, 17 Dec 2023 16:20:39 +0900</lastBuildDate>
+        <pubDate>Sun, 17 Dec 2023 17:42:33 +0900</pubDate>
+        <lastBuildDate>Sun, 17 Dec 2023 17:42:33 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>[빌딩앤파이터] B전용 전설 무기 [서울 샤검] 정보, 제작서, 제작재료</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;넥슨(Nexon)의 위치기반 모바일 게임 [&lt;strong&gt;빌딩앤파이터&lt;/strong&gt;]에는 특정 빌딩을 방문해야만 얻을 수 있는 캐릭터 전용 특수 전설무기가 있습니다. 그 중에서 이번에는 서울대 정문을 방문하면 얻을 수 있는 [&lt;strong&gt;서울 샤검&lt;/strong&gt;]의 정보와 제작재료에 대해 확인해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;획득-방법&quot;&gt;획득 방법&lt;/h2&gt;
+&lt;p&gt;획득 방법은 서울대학교 정문을 방문하면 언제든지 획득할 수 있습니다.&lt;/p&gt;
+
+&lt;p&gt;이름이 [&lt;strong&gt;서울 샤검&lt;/strong&gt;]인 이유는 서울대 정문이 &lt;strong&gt;샤&lt;/strong&gt; 글자 모양이기 때문입니다. &lt;br /&gt;
+정문을 &lt;strong&gt;샤&lt;/strong&gt;로 만든 이유는 서울 국립 대학교의 첫글자의 자음 [&lt;strong&gt;ㅅ ㄱ ㄷ&lt;/strong&gt;]을 표현하기 위해서라고 합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-legend-item-seoul-sha-blade-01.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 B전용 전설 무기 [서울 샤검] 정보, 제작서, 제작재료 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;서울-샤검&quot;&gt;서울 샤검&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;레벨: Lv.40&lt;/li&gt;
+  &lt;li&gt;공격력: 482 ~ 534&lt;/li&gt;
+  &lt;li&gt;치명타 확률: 8.4 ~ 8.8%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;스킬-3-샤샤샤&quot;&gt;스킬 3: 샤샤샤!&lt;/h3&gt;
+&lt;p&gt;적에게 [직접, 칼날] 860% 피해를 줍니다. 카우터 타격 상황에서 발동합니다. (재사용 대기시간: 10초)&lt;/p&gt;
+
+&lt;h2 id=&quot;서울-샤검-제작-재료&quot;&gt;서울 샤검 제작 재료&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lv.40 B 유니크 무기 1개&lt;/li&gt;
+  &lt;li&gt;강철 1,800개&lt;/li&gt;
+  &lt;li&gt;희토류 240개&lt;/li&gt;
+  &lt;li&gt;장비결정: 무기 1,200개&lt;/li&gt;
+  &lt;li&gt;서울 설렁탕 1개&lt;/li&gt;
+  &lt;li&gt;강화 인삼 삼계탕 1개&lt;/li&gt;
+  &lt;li&gt;수원 왕갈비 1개&lt;/li&gt;
+  &lt;li&gt;용인 백암순대 1개&lt;/li&gt;
+  &lt;li&gt;고양 털레기 1개&lt;/li&gt;
+  &lt;li&gt;제작 비용: 12,000 달러&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;빌딩앤파이터-공식-채널&quot;&gt;빌딩앤파이터 공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;빌딩앤파이터 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://bnf.nexon.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://bnf.nexon.com/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;빌딩앤파이터 커뮤니티
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://forum.nexon.com/bnf/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://forum.nexon.com/bnf/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Wed, 13 Dec 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/mobile/building-and-fighter-legend-item-seoul-sha-blade-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/mobile/building-and-fighter-legend-item-seoul-sha-blade-info.html</guid>
+            
+            <category>mobile</category>
+            
+            
+        </item>
         
         <item>
             <title>[빌딩앤파이터] GS25 도시락 쿠폰 나눔 5번째</title>
@@ -750,82 +811,6 @@
             <guid isPermaLink="true">https://cloudlog.kr/life/drama/japan/disney-plus-japan-drama-list-202309.html</guid>
             
             <category>drama</category>
-            
-            <category>disney</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[디즈니 플러스] 닥터 스트레인지: 대혼돈의 멀티버스 짧은 감상</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;무빙 보려고 1달 결제한 디즈니 플러스(Disney+)에서 그동안 못본 마블, 디즈니 영화 드라마 몰아서 보고 있습니다. 이번에는 [&lt;strong&gt;닥터 스트레인지: 대혼돈의 멀티버스&lt;/strong&gt;]를 보고 짧은 감상을 적어보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;닥터-스트레인지-대혼돈의-멀티버스&quot;&gt;닥터 스트레인지: 대혼돈의 멀티버스&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;영문: Doctor Strange in the Multiverse of Madness&lt;/li&gt;
-  &lt;li&gt;감독: 샘 레이미&lt;/li&gt;
-  &lt;li&gt;개봉: 2022년 05월 04일&lt;/li&gt;
-  &lt;li&gt;상영시간: 126분&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/movie/doctor-strange-in-the-multiverse-of-madness-01.png&quot; alt=&quot;[디즈니 플러스] 닥터 스트레인지: 대혼돈의 멀티버스를 보고 느낀 감상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;출연&quot;&gt;출연&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;베네딕트 컴버배치: 닥터 스트레인지 역&lt;/li&gt;
-  &lt;li&gt;엘리자베스 올슨: 완다 막시모프 / 스칼렛 위치 역&lt;/li&gt;
-  &lt;li&gt;베네딕트 웡: 웡 역&lt;/li&gt;
-  &lt;li&gt;소치틀 고메즈: 아메리카 차베즈 역&lt;/li&gt;
-  &lt;li&gt;치웨텔 에지오포: 모르도 역&lt;/li&gt;
-  &lt;li&gt;레이첼 맥아담스: 크리스틴 팔머 역&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;줄거리&quot;&gt;줄거리&lt;/h3&gt;
-&lt;p&gt;끝없이 균열되는 차원과 뒤엉킨 시공간의 멀티버스가 열리며 오랜 동료들, 그리고 차원을 넘어 들어온 새로운 존재들을 맞닥뜨리게 된 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;닥터 스트레인지&lt;/code&gt;. 대혼돈 속, 그는 예상치 못한 극한의 적과 맞서 싸워야만 하는데….&lt;/p&gt;
-
-&lt;h2 id=&quot;총평&quot;&gt;총평&lt;/h2&gt;
-
-&lt;div style=&quot;color:#cd6254&quot;&gt;별점: &lt;i class=&quot;fa-solid fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fa-solid fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fa-solid fa-star&quot;&gt;&lt;/i&gt;&lt;i class=&quot;fa-solid fa-star-half-stroke&quot;&gt;&lt;/i&gt;&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;좋았던-점&quot;&gt;좋았던 점&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;세계관 최강자 랭킹에 들어가는 스칼렛 위치가 그동안 너무 약하게 나와서 안타까웠는데 그나마 어느 정도는 보여준 것 같아서 좋았습니다&lt;/li&gt;
-  &lt;li&gt;닥터 스트레인지 1편에서 스트레인지와 크리스틴의 티키타카, 커플 연기가 무척 보기 좋았고 재밌었는데, 크리스틴 팔머가 다시 출연해서 좋았습니다.&lt;/li&gt;
-  &lt;li&gt;꿈은 멀티버스에 존재하는 또 다른 나에게 일어나는 일이라는 설정이 무척 인상적이었습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;아쉬웠던-점&quot;&gt;아쉬웠던 점&lt;/h3&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/movie/doctor-strange-in-the-multiverse-of-madness-02.png&quot; alt=&quot;[디즈니 플러스] 닥터 스트레인지: 대혼돈의 멀티버스를 보고 느낀 감상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;강추-vs-비추&quot;&gt;강추 vs 비추&lt;/h2&gt;
-
-&lt;h3 id=&quot;강추&quot;&gt;강추&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;마법사가 나오는 판타지 영화를 좋아하는 분&lt;/li&gt;
-  &lt;li&gt;베네딕트 컴버배치를 좋아하는 분&lt;/li&gt;
-  &lt;li&gt;엘리자베스 올슨을 좋아하는 분&lt;/li&gt;
-  &lt;li&gt;진지하면서 어두운 분위기의 영화를 좋아하는 분&lt;/li&gt;
-  &lt;li&gt;스트레인지와 크리스틴의 티키타카, 커플 연기를 다시 보고 싶은 분&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;비추&quot;&gt;비추&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;아이언맨, 캡틴 아메리카, 스파이더맨, 블랙팬서, 앤트맨 등의 첨단 과학이 가미된 현실 액션을 좋아하는 분&lt;/li&gt;
-  &lt;li&gt;밝고, 유쾌한 분위기의 영화를 좋아하는 분&lt;/li&gt;
-  &lt;li&gt;어둡고, 암울해 보이는 영화를 싫어하는 분&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/movie/doctor-strange-in-the-multiverse-of-madness-03.png&quot; alt=&quot;[디즈니 플러스] 닥터 스트레인지: 대혼돈의 멀티버스를 보고 느낀 감상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-</description>
-            <pubDate>Sat, 23 Sep 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/movie/disney-plus-doctor-strange-in-the-multiverse-of-madness.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/movie/disney-plus-doctor-strange-in-the-multiverse-of-madness.html</guid>
-            
-            <category>movie</category>
             
             <category>disney</category>
             
