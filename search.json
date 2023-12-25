@@ -306,6 +306,17 @@
 
 
 {
+"title": "Phpspreadsheet(mPDF) PDF 한글 깨짐 현상 해결 방법",
+"tags": "phpwindows",
+"keywords": "programming, php, 컴포저, 의존성, 패키지",
+"url": "/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting.html",
+"summary": "Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법에 대해 정리해보았습니다"
+}
+,
+
+
+
+{
 "title": "PhpSpreadsheet 엑셀 셀서식 행 높이 설정하기",
 "tags": "phpexcel",
 "keywords": "programming, php, excel",

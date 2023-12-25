@@ -1,0 +1,931 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법에 대해 정리해보았습니다">
+<meta name="keywords" content="phpwindows,  programming, php, 컴포저, 의존성, 패키지">
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Phpspreadsheet(mPDF) PDF 한글 깨짐 현상 해결 방법" />
+<meta property="og:locale" content="ko_KR" />
+<meta property="og:description" content="Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법에 대해 정리해보았습니다" />
+<link rel="canonical" href="https://cloudlog.kr/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting.html" />
+<meta property="og:url" content="https://cloudlog.kr/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting.html" />
+<meta property="og:site_name" content="Simple Life Cloud Log" />
+<meta property="og:image" content="https://cloudlog.kr/images/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting-01.png" />
+<meta property="og:image:alt" content="Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-12-23T00:00:00+09:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://cloudlog.kr/images/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting-01.png" />
+<meta name="twitter:image:alt" content="Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법" />
+<meta property="twitter:title" content="Phpspreadsheet(mPDF) PDF 한글 깨짐 현상 해결 방법" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법에 대해 정리해보았습니다","headline":"Phpspreadsheet(mPDF) PDF 한글 깨짐 현상 해결 방법","image":{"alt":"Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법","url":"https://cloudlog.kr/images/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting-01.png","@type":"imageObject"},"url":"https://cloudlog.kr/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+<title>Phpspreadsheet(mPDF) PDF 한글 깨짐 현상 해결 방법 | Cloud Log</title>
+<link rel="stylesheet" href="/css/syntax.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+<link href="/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="/fontawesome/css/v4.7.css" rel="stylesheet">
+<link rel="stylesheet" href="/css/modern-business.css">
+<!-- Latest compiled and minified CSS -->
+<!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"-->
+<!--link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"-->
+<link rel="stylesheet" href="/css/customstyles.css">
+<link rel="stylesheet" href="/css/boxshadowproperties.css">
+<!-- most color styles are extracted out to here -->
+<link rel="stylesheet" href="/css/theme-blue.css">
+
+
+
+<script src="/js/jquery.341.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script-->
+
+<script src="/js/jquery.cookie.141.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script-->
+<script src="/js/jquery.navgoco.min.js"></script>
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="/js/bootstrap.341.min.js"></script>
+<!--script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script-->
+<!--script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script-->
+<!-- Anchor.js -->
+<script src="/js/anchor.420.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js"></script-->
+<script src="/js/toc.js"></script>
+<script src="/js/customscripts.js"></script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6199737337936118" crossorigin="anonymous"></script>
+
+<link rel="shortcut icon" href="/images/favicon.ico">
+
+
+<link rel="alternate" type="application/rss+xml" title="Simple Life Cloud Log" href="https://cloudlog.kr/feed.xml">
+
+
+
+    <script>
+        $(document).ready(function() {
+            // Initialize navgoco with default options
+            $("#mysidebar").navgoco({
+                caretHtml: '',
+                accordion: true,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
+
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', true);
+            });
+
+        });
+
+    </script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+        });
+    </script>
+    
+
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container topnavlinks">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="fa fa-home fa-lg navbar-brand" href="/">&nbsp;<span class="projectTitle"> Simple Life Cloud Log</span></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <!-- toggle sidebar button -->
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on fa-lg"></i> 카테고리</a></li>
+                <!-- entries without drop-downs appear here -->
+
+
+
+
+                
+                
+                
+                <li><a href="/programming/php/php-sql-injection-function.html">프로그래밍</a></li>
+                
+                
+                
+                <li><a href="/category/game/pcgame.html">게임</a></li>
+                
+                
+                
+                <li><a href="/category/life/animation.html">애니메이션</a></li>
+                
+                
+                
+                <li><a href="/category/life/drama.html">드라마</a></li>
+                
+                
+                
+                <li><a href="/category/life/bookstore.html">책방</a></li>
+                
+                
+                
+                <li><a href="/category/life/japanese.html">일본어</a></li>
+                
+                
+                
+                <!-- entries with drop-downs appear here -->
+                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+                
+                
+                                
+                <!--comment out this block if you want to hide search-->
+                <li>
+                    <!--start search-->
+                    <div id="search-demo-container">
+                        <input type="text" id="search-input" placeholder="search...">
+                        <ul id="results-container"></ul>
+                    </div>
+                    <script src="/js/jekyll-search.js"></script>
+                    <script>
+                            SimpleJekyllSearch.init({
+                                searchInput: document.getElementById('search-input'),
+                                resultsContainer: document.getElementById('results-container'),
+                                dataSource: '/search.json',
+                                searchResultTemplate: '<li><a href="{url}" title="Phpspreadsheet(mPDF) PDF 한글 깨짐 현상 해결 방법">{title}</a></li>',
+                    noResultsText: 'No results found.',
+                            limit: 10,
+                            fuzzy: true,
+                    })
+                    </script>
+                    <!--end search-->
+                </li>
+            </ul>
+        </div>
+        </div>
+        <!-- /.container -->
+</nav>
+
+
+
+<!-- Page Content -->
+<div class="container">
+  <div id="main">
+    <!-- Content Row -->
+    <div class="row">
+        
+        
+            <!-- Sidebar Column -->
+            <div class="col-md-3" id="tg-sb-sidebar">
+                
+
+<ul id="mysidebar" class="nav">
+  <li class="sidebarTitle">Programming 1.0</li>
+  
+  
+  
+  <li>
+      <a title="PHP" href="#">PHP</a>
+      <ul>
+          
+          
+          
+          <li><a title="PHP SQL Injection 방지 코드" href="/programming/php/php-sql-injection-function.html">PHP SQL Injection 방지 코드</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PHP 자주 쓰는 함수 모음" href="/programming/php/php-useful-function-list.html">PHP 자주 쓰는 함수 모음</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PHP 이전 날짜, 다음 날짜 구하는 방법" href="/programming/php/php-get-prev-next-date-function.html">PHP 이전 날짜, 다음 날짜 구하는 방법</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="윤년 계산 하는 방법" href="/programming/php/php-leap-year-with-asp.html">윤년 계산 하는 방법</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="배열검색 array_search, array_column" href="/programming/php/php-array-search-column.html">배열검색 array_search, array_column</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Form Request 파라미터 설정 여부 확인" href="/programming/php/php-request-variables-isset-parameter.html">Form Request 파라미터 설정 여부 확인</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Windows에서 Composer 설치하는 방법" href="/programming/php/php-composer-install-windows-guide.html">Windows에서 Composer 설치하는 방법</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PHPExcel 최신판 PhpSpreadsheet" href="/programming/php/php-phpspreadsheet-introduce.html">PHPExcel 최신판 PhpSpreadsheet</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 행 높이 설정하기" href="/programming/php/php-phpspreadsheet-row-height.html">PhpSpreadsheet 행 높이 설정하기</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet 셀 서식 문자 지정" href="/programming/php/php-phpspreadsheet-cell-datatype-string.html">PhpSpreadsheet 셀 서식 문자 지정</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="PhpSpreadsheet ERR-INVALID-RESPONSE 오류" href="/programming/php/php-phpspreadsheet-err-invalid-response.html">PhpSpreadsheet ERR-INVALID-RESPONSE 오류</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Windows에서 mPDF로 PDF 파일 생성" href="/programming/php/php-phpspreadsheet-save-pdf-file-guide.html">Windows에서 mPDF로 PDF 파일 생성</a></li>
+          
+          
+          
+          
+          
+          
+          <li class="active"><a title="PHP PDF 한글 깨짐 현상 해결 방법" href="/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting.html">PHP PDF 한글 깨짐 현상 해결 방법</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="API" href="#">API</a>
+      <ul>
+          
+          
+          
+          <li><a title="UniPass 오픈API" href="/programming/api/api-unipass-openapi-introduce.html">UniPass 오픈API</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="AWS" href="#">AWS</a>
+      <ul>
+          
+          
+          
+          <li><a title="AWS bitnami LAMP 설정하기" href="/programming/aws/aws-bitnami-lamp-setting-guide.html">AWS bitnami LAMP 설정하기</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="S3 cli RequestTimeTooSkewed 에러" href="/programming/aws/aws-s3-cli-time-different-error-troubleshooting.html">S3 cli RequestTimeTooSkewed 에러</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="Ncloud" href="#">Ncloud</a>
+      <ul>
+          
+          
+          
+          <li><a title="Ncloud 자격증 NCA 대비 핵심 요약" href="/programming/ncloud/nca-short-answer-question.html">Ncloud 자격증 NCA 대비 핵심 요약</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="NCA 자격증 합격 후기와 출제 경향" href="/programming/ncloud/ncloud-nca-certification-pass-review.html">NCA 자격증 합격 후기와 출제 경향</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="Jekyll" href="#">Jekyll</a>
+      <ul>
+          
+          
+          
+          <li><a title="jekyll 4.x jekyll-extract-element 오류" href="/programming/jekyll/jekyll-extract-element-nokogiri-error.html">jekyll 4.x jekyll-extract-element 오류</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Jekyll robots.txt 템플릿 수정, Ruby 3" href="/programming/jekyll/jekyll-sitemap-gem-robots-txt-edit.html">Jekyll robots.txt 템플릿 수정, Ruby 3</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Jekyll sitemap.xml 템플릿 수정, Ruby 3" href="/programming/jekyll/jekyll-sitemap-gem-xml-edit.html">Jekyll sitemap.xml 템플릿 수정, Ruby 3</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="사이트 내부 문서 링크하기 | Jekyll" href="/programming/jekyll/jekyll-include-internal-post-page.html">사이트 내부 문서 링크하기 | Jekyll</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Jekyll Liquid 언어 사용법" href="/programming/jekyll/jekyll-liquid-language.html">Jekyll Liquid 언어 사용법</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Helium 테마 소개" href="/programming/jekyll/jekyll-helium-theme-introduce.html">Helium 테마 소개</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="HTML" href="#">HTML</a>
+      <ul>
+          
+          
+          
+          <li><a title="Loading Progress Bar" href="/programming/html/html-loading-progress-bar-with-bootstrap.html">Loading Progress Bar</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="DataBase" href="#">DataBase</a>
+      <ul>
+          
+          
+          
+          <li><a title="CentOS 7에 MySQL 5.7 설치하기" href="/programming/database/mysql-57-how-to-install-on-centos7.html">CentOS 7에 MySQL 5.7 설치하기</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="MySql Workbench Safe Updates" href="/programming/database/mysql-workbench-update-error-safe-updates.html">MySql Workbench Safe Updates</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="DB 마이그레이션 프로세스와 일정" href="/programming/database/database-migration-process-schedule.html">DB 마이그레이션 프로세스와 일정</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="Server" href="#">Server</a>
+      <ul>
+          
+          
+          
+          <li><a title="Windows 10 환경 XAMPP 무설치버전" href="/programming/server/windows-apache-mysql-php-perl-execute-no-install-xampp.html">Windows 10 환경 XAMPP 무설치버전</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+  <li>
+      <a title="OS" href="#">OS</a>
+      <ul>
+          
+          
+          
+          <li><a title="맥OS 카탈리나(Catalina) 기타볼륨" href="/programming/os/os-macos-catalina-other-volume.html">맥OS 카탈리나(Catalina) 기타볼륨</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="윈도우 유용한 유틸, 설정, 명령어 모음" href="/programming/os/windows-command-util-config.html">윈도우 유용한 유틸, 설정, 명령어 모음</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="리눅스 Tree 명령어 사용법" href="/programming/os/linux-command-tree-manual.html">리눅스 Tree 명령어 사용법</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+
+  
+
+  
+  
+  
+  <li>
+      <a title="Tag archives" href="#">Tag archives</a>
+      <ul>
+          
+          
+          
+          <li><a title="Tag archives overview" href="/tag/tag-archives_overview.html">Tag archives overview</a></li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Game Tag pages" href="#">Game Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Ragnarok pages" href="/tag/tag-ragnarok.html">Ragnarok pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="LostArk pages" href="/tag/tag-lostark.html">LostArk pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Alien pages" href="/tag/tag-alien.html">Alien pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Diablo pages" href="/tag/tag-diablo.html">Diablo pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Life Tag pages" href="#">Life Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Drama pages" href="/tag/tag-drama.html">Drama pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Ramantic pages" href="/tag/tag-romantic.html">Ramantic pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Programming Tag pages" href="#">Programming Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="PHP pages" href="/tag/tag-php.html">PHP pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="AWS pages" href="/tag/tag-aws.html">AWS pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Linux pages" href="/tag/tag-linux.html">Linux pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="API pages" href="/tag/tag-api.html">API pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+
+
+  
+    <!-- if you aren't using the accordion, uncomment this block:
+       <p class="external">
+           <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+       </p>
+    -->
+</ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+
+
+            </div>
+            
+        
+
+        <!-- Content Column -->
+        <div class="col-md-9" id="tg-sb-content">
+            <div class="post-header-no">
+   <h1 class="post-title-main-no">Phpspreadsheet(mPDF) PDF 한글 깨짐 현상 해결 방법</h1>
+</div>
+
+
+
+<div class="post-content">
+
+   
+    <div class="summary">Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법에 대해 정리해보았습니다</div>
+   
+
+    
+    
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+});
+
+$("#toc_onoff").click(function() {  
+        $("#toc").toggle();
+        $("#tg-toc-icon").toggleClass('fa-toggle-on');
+        $("#tg-toc-icon").toggleClass('fa-toggle-off');
+
+});
+
+});
+</script>
+
+<p><span class="label label-warning" style="cursor:pointer" id="toc_onoff"><i id="tg-toc-icon" class="fas fa-toggle-on"></i> ToC on/off</span></p>
+<div id="toc"></div>
+
+
+
+    
+
+
+    
+
+   <h2 id="개요">개요</h2>
+<p>PHP에서 엑셀 파일이나 PDF 문서를 다룰 때 사용하는 것이 Phpspreadsheet입니다. 이 Phpspreadsheet에서 PDF 문서를 생성할 때 [<strong>DomPDF</strong>], [<strong>mPDF</strong>], [<strong>TcPDF</strong>] 등을 사용할 수 있는데, 여기서는 [<strong>mPDF</strong>]로 문서를 생성할 때 한글이 깨지는 경우가 있는데 이 문제를 해결하는 방법을 정리해보겠습니다. (Phpspreadsheet는 PHPExcel의 업그레이드 버전입니다.)</p>
+
+<h2 id="한글-깨짐-테스트">한글 깨짐 테스트</h2>
+<p>아래와 같이 PDF로 저장할 데이터에 한글을 넣어서 테스트 해보겠습니다.</p>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
+
+    <span class="k">require</span> <span class="s1">'vendor/autoload.php'</span><span class="p">;</span>
+
+    <span class="kn">use</span> <span class="nc">PhpOffice\PhpSpreadsheet\Spreadsheet</span><span class="p">;</span>
+    <span class="kn">use</span> <span class="nc">PhpOffice\PhpSpreadsheet\Writer\Xlsx</span><span class="p">;</span>
+
+    <span class="nv">$spreadsheet</span> <span class="o">=</span> <span class="k">new</span> <span class="nc">Spreadsheet</span><span class="p">();</span>
+    <span class="nv">$spreadsheet</span><span class="o">-&gt;</span><span class="nf">getProperties</span><span class="p">()</span><span class="o">-&gt;</span><span class="nf">setTitle</span><span class="p">(</span><span class="s2">"PhpSpreadsheet 테스트"</span><span class="p">);</span>
+    
+    <span class="nv">$activeWorksheet</span> <span class="o">=</span> <span class="nv">$spreadsheet</span><span class="o">-&gt;</span><span class="nf">getActiveSheet</span><span class="p">();</span>
+    <span class="nv">$activeWorksheet</span><span class="o">-&gt;</span><span class="nf">setCellValue</span><span class="p">(</span><span class="s1">'A1'</span><span class="p">,</span> <span class="s1">'PhpSpreadsheet 테스트'</span><span class="p">);</span>
+    <span class="nv">$activeWorksheet</span><span class="o">-&gt;</span><span class="nf">getColumnDimension</span><span class="p">(</span><span class="s2">"A"</span><span class="p">)</span><span class="o">-&gt;</span><span class="nf">setWidth</span><span class="p">(</span><span class="mi">25</span><span class="p">);</span> 
+    <span class="nv">$activeWorksheet</span><span class="o">-&gt;</span><span class="nf">setPrintGridlines</span><span class="p">(</span><span class="kc">true</span><span class="p">);</span>
+
+    <span class="nv">$out_put_file_name</span> <span class="o">=</span> <span class="s2">"PhpSpreadsheet-테스트.pdf"</span><span class="p">;</span>
+
+    <span class="nb">header</span><span class="p">(</span><span class="s1">'Content-Type: application/pdf; charset=utf-8'</span> <span class="p">);</span>
+    <span class="nb">header</span><span class="p">(</span><span class="s1">'Content-Disposition: attachment;filename="'</span><span class="mf">.</span><span class="nv">$out_put_file_name</span><span class="mf">.</span><span class="s1">'"'</span><span class="p">);</span>
+    <span class="nb">header</span><span class="p">(</span><span class="s1">'Cache-Control: max-age=0'</span><span class="p">);</span>
+
+    <span class="nv">$writer</span> <span class="o">=</span> <span class="k">new</span> <span class="err">\</span><span class="nf">PhpOffice\PhpSpreadsheet\Writer\Pdf\Mpdf</span><span class="p">(</span><span class="nv">$spreadsheet</span><span class="p">);</span>
+    <span class="nv">$writer</span><span class="o">-&gt;</span><span class="nf">save</span><span class="p">(</span><span class="s1">'php://output'</span><span class="p">);</span>
+    <span class="k">exit</span><span class="p">;</span>
+
+<span class="cp">?&gt;</span>
+</code></pre></div></div>
+<figure><img class="docimage" src="/images/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting-01.png" alt="Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<ul>
+  <li>PDF 파일을 다운로드 받아보면 아래와 같이 한글인 <strong>테스트</strong> 부분이 폰트가 깨져서 제대로 나오지 않는 것을 확인할 수 있습니다.</li>
+</ul>
+
+<figure><img class="docimage" src="/images/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting-02.png" alt="Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="폰트font-설정-수정">폰트(Font) 설정 수정</h2>
+<p>mPDF가 설치된 경로에 있는 [<strong><code class="language-plaintext highlighter-rouge">\vendor\mpdf\mpdf\src\Config\FontVariables.php</code></strong>] 파일을 열어보면 아래와 같이 [<strong>fontdata</strong>] 항목에 [<strong>unbatang</strong>]이라는 폰트에 대한 설정이 있고, 이 폰트는 한국어용 폰트라는 것을 알 수 있습니다.</p>
+
+<div class="language-config highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="s1">'fontdata'</span> =&gt; [
+    <span class="s2">"unbatang"</span> =&gt; [/* <span class="n">Korean</span> */
+        <span class="s1">'R'</span> =&gt; <span class="s2">"UnBatang_0613.ttf"</span>,
+    ]
+]
+</code></pre></div></div>
+<figure><img class="docimage" src="/images/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting-03.png" alt="Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h3 id="한글-폰트-적용">한글 폰트 적용</h3>
+<p>Phpspreadsheet PDF 문서 생성 코드에 아래와 같이 위에서 확인했던 mPDF에 설정된 한글 폰트 이름을 지정해주면 됩니다.</p>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
+
+    <span class="nv">$spreadsheet</span><span class="o">-&gt;</span><span class="nf">getDefaultStyle</span><span class="p">()</span><span class="o">-&gt;</span><span class="nf">getFont</span><span class="p">()</span><span class="o">-&gt;</span><span class="nf">setName</span><span class="p">(</span><span class="s1">'unbatang'</span><span class="p">);</span>
+    <span class="nv">$spreadsheet</span><span class="o">-&gt;</span><span class="nf">getDefaultStyle</span><span class="p">()</span><span class="o">-&gt;</span><span class="nf">getFont</span><span class="p">()</span><span class="o">-&gt;</span><span class="nf">setSize</span><span class="p">(</span><span class="mi">15</span><span class="p">);</span>    
+
+<span class="cp">?&gt;</span>
+</code></pre></div></div>
+
+<figure><img class="docimage" src="/images/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting-04.png" alt="Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h3 id="문제-해결">문제 해결</h3>
+<p>한글 폰트를 적용한 후에 PDF 파일을 생성해보면 아래와 같이 한글이 정상적으로 표시되는 것을 알 수 있습니다.</p>
+
+<figure><img class="docimage" src="/images/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting-05.png" alt="Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="새로운-폰트-적용">새로운 폰트 적용</h2>
+<p>이번에는 mPDF의 기본 폰트가 아닌 원하는 폰트를 적용하는 방법을 확인해보겠습니다.<br />
+여기서는 네이버에서 무료로 제공하고 있는 [<strong>나눔고딕(NanumGothic)</strong>] 폰트를 아래와 같이 [<strong><code class="language-plaintext highlighter-rouge">\vendor\mpdf\mpdf\ttfonts</code></strong>] 폴더에 복사합니다.</p>
+
+<figure><img class="docimage" src="/images/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting-06.png" alt="Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<ul>
+  <li>[<strong>\vendor\mpdf\mpdf\src\Config\FontVariables.php</strong>] 파일에 아래와 같이 [<strong>나눔고딕(NanumGothic)</strong>] 폰트 설정을 추가합니다.</li>
+</ul>
+
+<figure><img class="docimage" src="/images/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting-07.png" alt="Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<ul>
+  <li>Phpspreadsheet PDF 문서 생성 코드에 아래와 같이 [<strong>나눔고딕(NanumGothic)</strong>] 폰트 설정을 지정합니다.</li>
+</ul>
+
+<div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">&lt;?php</span>
+
+    <span class="nv">$spreadsheet</span><span class="o">-&gt;</span><span class="nf">getDefaultStyle</span><span class="p">()</span><span class="o">-&gt;</span><span class="nf">getFont</span><span class="p">()</span><span class="o">-&gt;</span><span class="nf">setName</span><span class="p">(</span><span class="s1">'nanumGothic'</span><span class="p">);</span>
+
+<span class="cp">?&gt;</span>
+</code></pre></div></div>
+<figure><img class="docimage" src="/images/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting-08.png" alt="Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<ul>
+  <li>[<strong>나눔고딕(NanumGothic)</strong>] 폰트를 설정한 후에 PDF 파일을 생성해보면 아래와 같이 [<strong>나눔고딕(NanumGothic)</strong>] 폰트가 적용된 것을 확인할 수 있습니다.</li>
+  <li></li>
+</ul>
+<figure><img class="docimage" src="/images/programming/php/php-phpspreadsheet-korean-font-error-troubleshooting-09.png" alt="Phpspreadsheet에서 mPDF를 사용해 PDF 파일을 생성할 때 한글 깨짐 현상을 해결하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="참고-url">참고 URL</h2>
+
+<ol>
+  <li>Phpspreadsheet 공식 가이드
+    <ul>
+      <li><a href="https://phpspreadsheet.readthedocs.io/" target="_blank" style="word-break:break-all">https://phpspreadsheet.readthedocs.io/</a></li>
+    </ul>
+  </li>
+  <li>Composer 공식 홈페이지
+    <ul>
+      <li><a href="https://getcomposer.org/" target="_blank" style="word-break:break-all">https://getcomposer.org/</a></li>
+    </ul>
+  </li>
+  <li>Composer 한글 메뉴얼
+    <ul>
+      <li><a href="https://xpressengine.github.io/Composer-korean-docs/" target="_blank" style="word-break:break-all">https://xpressengine.github.io/Composer-korean-docs/</a></li>
+    </ul>
+  </li>
+</ol>
+
+
+    <div class="tags">
+        
+        <b>Tags: </b>
+        
+        
+        
+        <a href="/tag/tag-php.html" class="btn btn-default navbar-btn cursorNorm" role="button">php</a>
+        
+        
+        
+        <a href="/tag/tag-windows.html" class="btn btn-default navbar-btn cursorNorm" role="button">windows</a>
+        
+        
+        
+    </div>
+
+
+
+<!-- 본문 하단 - cloudlog -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6199737337936118"
+     data-ad-slot="7488484889"
+     data-ad-format="auto"
+     data-full-width-responsive="true">
+</ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+
+
+
+
+
+</div>
+
+<hr class="shaded"/>
+
+<footer>
+            <div class="row">
+                <div class="col-lg-12 footer">
+               &copy;2023 Copyright 2022 @CLOUDLOG.KR. All rights reserved. <br />
+               Built with <a href="https://jekyllrb-ko.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Jekyll</a> 
+               & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
+               & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
+               
+<span>Page last updated:</span> 2023-12-23<br/> Site last generated: 2023-12-25 <br />
+
+                </div>
+            </div>
+</footer>
+
+
+
+
+
+
+        </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+</div>
+<!-- /#main -->
+</div>
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JNK63BTKXN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JNK63BTKXN');
+</script>
+
+
+
+
+
+<!-- Naver Analytics -->
+<script src="//wcs.naver.net/wcslog.js"></script>
+<script>
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "1352844e1f81670";
+if(window.wcs) {
+  wcs_do();
+}
+</script>
+
+
+</body>
+</html>
+
+
