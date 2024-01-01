@@ -5,9 +5,70 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jan 2024 01:01:07 +0900</pubDate>
-        <lastBuildDate>Mon, 01 Jan 2024 01:01:07 +0900</lastBuildDate>
+        <pubDate>Mon, 01 Jan 2024 18:51:00 +0900</pubDate>
+        <lastBuildDate>Mon, 01 Jan 2024 18:51:00 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>파이오니어스 오브 파고니아(Pioneers Of Pagonia) 교차로 도로 생성 최대 개수</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;세틀러(Settlers)&lt;/strong&gt; 원작자이자 개발자가 개발한 도시 건설 시뮬레이션 신작 &lt;strong&gt;파이오니어 오브 파고니아(Pioneers of Pagonia)&lt;/strong&gt;가 스팀(Steam)에서 &lt;strong&gt;얼리 액세스(Early Access, 앞서 해보기)&lt;/strong&gt;로 출시되었는데, 도로를 만들 때 한 지점에서 주변으로 뻗어가는 교차로 도로 개수는 최대 몇개까지 가능할까 테스트 해봤습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;게임-시작&quot;&gt;게임 시작&lt;/h2&gt;
+&lt;p&gt;일단 튜토리얼 맵을 선택해서 게임을 시작해보았습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/pioneers-of-pagonia/pioneers-of-pagonia-intersection-max-roads-count-01.jpg&quot; alt=&quot;세틀러(Settlers) 개발자가 만든 신작 게임 파이오니어스 오브 파고니아(Pioneers Of Pagonia) 교차로에서 도로 만들때 최대 개수 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;시작-지점-최대-8개&quot;&gt;시작 지점 최대 8개&lt;/h2&gt;
+&lt;p&gt;시작지점인 처음 배에서 나오는 길부터 시작해서 최대 8개의 길, 도로를 만들 수 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/pioneers-of-pagonia/pioneers-of-pagonia-intersection-max-roads-count-02.jpg&quot; alt=&quot;세틀러(Settlers) 개발자가 만든 신작 게임 파이오니어스 오브 파고니아(Pioneers Of Pagonia) 교차로에서 도로 만들때 최대 개수 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;평지-최대-10개&quot;&gt;평지 최대 10개&lt;/h2&gt;
+&lt;p&gt;일반적인 평지에서는 최대 10개의 길, 도로를 만들 수 있는 것으로 확인 되었습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/pioneers-of-pagonia/pioneers-of-pagonia-intersection-max-roads-count-03.jpg&quot; alt=&quot;세틀러(Settlers) 개발자가 만든 신작 게임 파이오니어스 오브 파고니아(Pioneers Of Pagonia) 교차로에서 도로 만들때 최대 개수 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;도로-생성-결과-화면&quot;&gt;도로 생성 결과 화면&lt;/h2&gt;
+&lt;p&gt;실제로 이렇게까지 도로를 만들리는 없지만 어쨌거나 만들어진 모습을 보면 아래와 같이 됩니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/pioneers-of-pagonia/pioneers-of-pagonia-intersection-max-roads-count-04.jpg&quot; alt=&quot;세틀러(Settlers) 개발자가 만든 신작 게임 파이오니어스 오브 파고니아(Pioneers Of Pagonia) 교차로에서 도로 만들때 최대 개수 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;세틀러2-최대-개수-6개&quot;&gt;세틀러2 최대 개수 6개&lt;/h2&gt;
+&lt;p&gt;세틀러2는 어떨까 싶어서 10주년 기념판으로 확인해보니 최대 6개로 확인됩니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/settlers/settlers2-intersection-max-roads-count-01.jpg&quot; alt=&quot;세틀러(Settlers) 개발자가 만든 신작 게임 파이오니어스 오브 파고니아(Pioneers Of Pagonia) 교차로에서 도로 만들때 최대 개수 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;스팀 소개 페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.pioneersofpagonia.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.pioneersofpagonia.com/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;개발사 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.envision-entertainment.de/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://www.envision-entertainment.de/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Fri, 29 Dec 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/simulation/pioneers-of-pagonia-intersection-max-roads-count.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/simulation/pioneers-of-pagonia-intersection-max-roads-count.html</guid>
+            
+            <category>simulation</category>
+            
+            <category>settlers</category>
+            
+            
+        </item>
         
         <item>
             <title>세틀러 개발자가 만든 신작 게임 파이오니어스 오브 파고니아(Pioneers Of Pagonia) 얼리 액세스 출시 정보</title>
@@ -795,50 +856,6 @@
             <guid isPermaLink="true">https://cloudlog.kr/game/mobile/building-and-fighter-gs25-coupon-info-01.html</guid>
             
             <category>mobile</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[tvN 아라문의 검] 뇌안탈 눈별이 아이돌 샤온으로 환생하다</title>
-            <description>&lt;h2 id=&quot;아라문의-검---눈별&quot;&gt;아라문의 검 - 눈별&lt;/h2&gt;
-&lt;p&gt;아스달 신화의 두번째 이야기. 장동건, 이준기, 김옥빈, 신세경 주연의 드라마 [&lt;strong&gt;아라문의 검&lt;/strong&gt;]에서 뇌안탈 종족으로 출연하고 있는 [&lt;strong&gt;눈별&lt;/strong&gt;]이 많은 시간이 흘러 현대에 아이돌로 환생했다는 소식을 듣고 사실을 확인해봤습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/tvn-the-sword-of-aramun-nunbyeol-02.jpg&quot; alt=&quot;[tvN 아라문의 검] 뇌안탈 눈별이 아이돌 샤온으로 환생&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: tvN 드라마 아라문의 검 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;인물-소개&quot;&gt;인물 소개&lt;/h3&gt;
-&lt;p&gt;‘아뜨라드의 붉은 밤’ 대학살의 생존자. 추위 속에서 죽어가던 어린 눈별을 채은의 아버지인 하림이 구해내서 키웠다. 하림은 눈별을 사람들 속에서 들키지 않고 키우기 위해 혈맥을 끊어 그 엄청난 뇌안탈의 힘을 감추려 했지만, 눈별은 성장 중 혈맥이 다시 이어지고 끊어지기를 반복한다. 타곤이 보낸 대칸전사들이 양아버지 하림과 양어머니 감실을 잔혹하게 살해하는 것을 목도한 뒤, 뇌안탈의 힘을 끌어내어 대칸들을 학살한다. 그리고는 타곤에 대한 복수를 다짐하며 채은에게 자신을 원래의 강력한 뇌안탈로 돌아가게 하는 술식을 해달라고 간청한다. 채은의 술식은 성공했지만 차분히 힘을 통제하지 못하면 혈맥이 터져 죽을 수 있는 상황이었다.&lt;/p&gt;
-
-&lt;p&gt;그러던 어느 날, 일을 벌이려던 중, 자신의 힘을 통제하지 못해 정신을 잃게 되고 우여곡절 끝에 사야에게 사로잡히고, 사야는 눈별을 이용하려 하는데.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/tvn-the-sword-of-aramun-nunbyeol-01.jpg&quot; alt=&quot;[tvN 아라문의 검] 뇌안탈 눈별이 아이돌 샤온으로 환생&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: tvN 드라마 아라문의 검 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;소용없어-거짓말---샤온&quot;&gt;소용없어 거짓말 - 샤온&lt;/h2&gt;
-&lt;p&gt;거짓말이 들리는 능력 때문에 사람을 믿지 못하는 여자가 누구도 결백을 믿어주지 않는 살인 용의자와 얽히며 진실을 파헤치는 미스터리 로맨스 드라마 [&lt;strong&gt;소용없어 거짓말&lt;/strong&gt;]에서 당대 최고의 아이돌 [&lt;strong&gt;샤온&lt;/strong&gt;]입니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/tvn-my-lovely-liar-shaon-02.jpg&quot; alt=&quot;[tvN 아라문의 검] 뇌안탈 눈별이 아이돌 샤온으로 환생&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: tvN 드라마 소용없어 거짓말 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;인물-소개-1&quot;&gt;인물 소개&lt;/h3&gt;
-&lt;p&gt;고등학교 졸업을 앞두고 나간 동네 노래자랑에서 득찬의 눈에 띄어 J엔터에 들어온 본투비 연예인.&lt;/p&gt;
-
-&lt;p&gt;섬세한 감성 표현, 청중을 집중시키는 타고난 목소리와 매력으로 한국 가요계의 독보적인 존재로 자리 잡는 데 성공했다. 남다른 팬 사랑에, 일에 있어서만큼은 프로정신도 투철해 업계에서 소문도 좋은데 이상하게 도하 문제만 얽히면 정신줄을 놓는다. 자신에게 딱 맞는 노래를 만들어주는 도하가 소울메이트로 느껴졌다. 피아노 연주가 잘 어울리는 도하의 긴 손가락도 좋고, 종일 집에 있어서인지 자외선 한번 구경 못한 것 같은 흰 피부도 좋고, 과묵해서 가끔 들을 수 있는 귀한 목소리도 좋고, 사람들의 시선을 두려워하는 약한 모습조차도 귀여워서 좋고… 그냥 다 좋다! 어차피 나 말고는 알고 지내는 여자 하나 없으니 5년이 걸리든, 10년이 걸리든 결국엔 해피엔딩이 될 거라고 확신한다. 우리는 운명이고, 이미 음악으로 우리의 영혼은 뜨겁게 교류하고 있으니까.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/tvn-my-lovely-liar-shaon-01.jpg&quot; alt=&quot;[tvN 아라문의 검] 뇌안탈 눈별이 아이돌 샤온으로 환생&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: tvN 드라마 소용없어 거짓말 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/drama/korea/tvn-my-lovely-liar-shaon-03.jpg&quot; alt=&quot;[tvN 아라문의 검] 뇌안탈 눈별이 아이돌 샤온으로 환생&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;figcaption&gt;사진 출처: tvN 드라마 소용없어 거짓말 홈페이지&lt;/figcaption&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;이시우&quot;&gt;이시우&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;본명: 이시우 (Lee Si Woo)&lt;/li&gt;
-  &lt;li&gt;소속사: 빅픽처엔터테인먼트&lt;/li&gt;
-  &lt;li&gt;대표작: 종이의 집: 공동경제구역, 소용없어 거짓말, 아라문의 검&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-            <pubDate>Sun, 01 Oct 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/life/drama/korea/tvn-the-sword-of-aramun-nunbyeol.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/life/drama/korea/tvn-the-sword-of-aramun-nunbyeol.html</guid>
-            
-            <category>drama</category>
             
             
         </item>
