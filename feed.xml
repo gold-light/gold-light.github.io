@@ -5,9 +5,77 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 01 Jan 2024 18:51:00 +0900</pubDate>
-        <lastBuildDate>Mon, 01 Jan 2024 18:51:00 +0900</lastBuildDate>
+        <pubDate>Wed, 03 Jan 2024 23:44:37 +0900</pubDate>
+        <lastBuildDate>Wed, 03 Jan 2024 23:44:37 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>[파이오니어스 오브 파고니아] 인터페이스 - 탐험 &amp; 확장 건물들 정보</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;세틀러(Settlers)&lt;/strong&gt; 원작자이자 개발자가 제작하고, 스팀(Steam)에서 &lt;strong&gt;얼리 액세스(Early Access, 앞서 해보기)&lt;/strong&gt;로 출시된 도시 건설 시뮬레이션 신작 &lt;strong&gt;파이오니어 오브 파고니아(Pioneers of Pagonia)&lt;/strong&gt;의 인터페이스 중에서 [탐험 &amp;amp; 확장] 카테고리에 속하는 건물들 정보를 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;탐험--확장&quot;&gt;탐험 &amp;amp; 확장&lt;/h2&gt;
+&lt;p&gt;[탐험 &amp;amp; 확장] 카테고리에는 [&lt;strong&gt;경비탑&lt;/strong&gt;], [&lt;strong&gt;주둔지&lt;/strong&gt;], [&lt;strong&gt;군사 야영지&lt;/strong&gt;], [&lt;strong&gt;탐험가의 오두막&lt;/strong&gt;] 등이 있습니다. 건물 이름이나 설명 등, 한글로 번역된 내용은 정식 출시가 되면 바뀔 수 있을 듯합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/pioneers-of-pagonia/pioneers-of-pagonia-interface-exploration-and-expansion-building-info-01.png&quot; alt=&quot;세틀러(Settlers) 개발자가 만든 신작 게임 파이오니어스 오브 파고니아(Pioneers Of Pagonia) 교차로에서 도로 만들때 최대 개수 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;경비탑&quot;&gt;경비탑&lt;/h3&gt;
+&lt;p&gt;경비인은 경계 돌을 사용해 영토를 확장할 수 있습니다.
+모든 배치된 유닛 유형은 이곳에서 목표 장소를 순찰하거나 공격할 수 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;비용: 돌 6개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;주둔지&quot;&gt;주둔지&lt;/h3&gt;
+&lt;p&gt;경비인은 경계 돌을 사용해 영토를 확장할 수 있습니다.
+모든 배치된 유닛 유형은 이곳에서 목표 장소를 순찰하거나 공격할 수 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;비용: 돌 16개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;군사-야영지&quot;&gt;군사 야영지&lt;/h3&gt;
+&lt;p&gt;군사 유닛의 거주지로, 새로운 작업을 기다리는 동안 군사 유닛이 이곳으로 가게 됩니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;비용: 무른 나무 몸통 2개, 천 2개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;탐험가의-오두막&quot;&gt;탐험가의 오두막&lt;/h3&gt;
+&lt;p&gt;미지의 지형으로 탐험하기 위해 식량을 사용하는 탐험가들의 집입니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;탐험가 3명&lt;/li&gt;
+  &lt;li&gt;비용: 무른 나무 몸통 4개, 돌 4개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;스팀 소개 페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.pioneersofpagonia.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.pioneersofpagonia.com/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;개발사 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.envision-entertainment.de/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://www.envision-entertainment.de/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Sat, 30 Dec 2023 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-exploration-and-expansion-building-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-exploration-and-expansion-building-info.html</guid>
+            
+            <category>simulation</category>
+            
+            <category>settlers</category>
+            
+            
+        </item>
         
         <item>
             <title>파이오니어스 오브 파고니아(Pioneers Of Pagonia) 교차로 도로 생성 최대 개수</title>
@@ -773,87 +841,6 @@
             <pubDate>Fri, 24 Nov 2023 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/mobile/building-and-fighter-gs25-coupon-info-02.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/mobile/building-and-fighter-gs25-coupon-info-02.html</guid>
-            
-            <category>mobile</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[빌딩앤파이터] GS25 도시락 쿠폰 나눔 첫번째</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;넥슨(Nexon)에서 서비스하고 있는 포켓몬고와 비슷한 위치기반 모바일 게임 [&lt;strong&gt;빌딩앤파이터&lt;/strong&gt;]와 [&lt;strong&gt;GS25&lt;/strong&gt;]가 함께 진행하는 100% 당첨 쿠폰 이벤트가 진행되고 있습니다. 지난번 방치형 모바일 게임 불레이드 키우기에 이어 도시락에 있는 쿠폰을 나눔하려고 이렇게 블로그에 공개하게 되었습니다. &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;쿠폰 번호는 아래쪽에 있습니다&lt;/code&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-gs25-coupon-info-01.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터와 GS25가 함께 하는 100% 당첨 쿠폰 나눔&quot; style=&quot;width: 500px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;gs도시락-프로모션-정보&quot;&gt;GS도시락 프로모션 정보​&lt;/h2&gt;
-
-&lt;h3 id=&quot;도시락-프로모션-기간&quot;&gt;도시락 프로모션 기간&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;2023년 10월 26일(목) ~ 11월22일(수)​&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;쿠폰-사용-기간-안내&quot;&gt;쿠폰 사용 기간 안내&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;2023년 10월 26일(목) ~ 11월22일(수)​ 23:59 까지 ​&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;제휴-도시락-상품명&quot;&gt;제휴 도시락 상품명&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;뭘좋아할지몰라다넣었어&lt;/li&gt;
-  &lt;li&gt;NEW고진많도시락&lt;/li&gt;
-  &lt;li&gt;제주돼지두루치기정식&lt;/li&gt;
-  &lt;li&gt;11가지찬많은도시락&lt;/li&gt;
-  &lt;li&gt;NEW정성가득비빔밥&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;쿠폰-선물-아이템&quot;&gt;쿠폰 선물 아이템&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;부하 영입카드 4개&lt;/li&gt;
-  &lt;li&gt;행동력 100개&lt;/li&gt;
-  &lt;li&gt;3단계 파워드링크 5개&lt;/li&gt;
-  &lt;li&gt;3,000 달러&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-gs25-coupon-info-00.jpg&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터와 GS25가 함께 하는 100% 당첨 쿠폰 나눔&quot; style=&quot;width: 485px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;주의-사항&quot;&gt;주의 사항&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;해당 이벤트 쿠폰은 각각 다른 난수번호로 계정당 3회까지 사용 가능합니다.&lt;/li&gt;
-  &lt;li&gt;쿠폰 사용 시 아이템은 우편함으로 지급되며, 우편 도착까지 다소 시간이 소요될 수 있습니다.&lt;/li&gt;
-  &lt;li&gt;쿠폰 사용 후 아이템이 지급되지 않는 경우 게임을 완전히 종료 후 재접속 부탁드립니다.&lt;/li&gt;
-  &lt;li&gt;우편함으로 지급된 아이템의 보관 기관을 확인하시어 수령해 주시기 바랍니다.&lt;/li&gt;
-  &lt;li&gt;회원코드를 잘못 입력하셨을 경우 복구가 불가하니, 회원코드 입력 전 정확한 정보를 꼭 확인해주시기 바랍니다.&lt;/li&gt;
-  &lt;li&gt;이미 사용된 쿠폰이나, 유효기간이 지난 쿠폰은 사용할 수 없습니다.&lt;/li&gt;
-  &lt;li&gt;이미 사용한 쿠폰은 아이템 회수나 복구 등의 도움을 드리기 어렵습니다.&lt;/li&gt;
-  &lt;li&gt;쿠폰을 사용한 후 계정 초기화가 진행하여도 이미 사용한 쿠폰은 다시 사용하실 수 없습니다.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;쿠폰-번호&quot;&gt;쿠폰 번호&lt;/h2&gt;
-
-&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;쿠폰 번호:&lt;/b&gt; P78V2E3BJD&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-gs25-coupon-info-02.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터와 GS25가 함께 하는 100% 당첨 쿠폰 나눔&quot; style=&quot;width: 500px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;빌딩앤파이터-공식-채널&quot;&gt;빌딩앤파이터 공식 채널&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;빌딩앤파이터 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://bnf.nexon.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://bnf.nexon.com/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;빌딩앤파이터 커뮤니티
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://forum.nexon.com/bnf/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://forum.nexon.com/bnf/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-            <pubDate>Tue, 21 Nov 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/mobile/building-and-fighter-gs25-coupon-info-01.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/mobile/building-and-fighter-gs25-coupon-info-01.html</guid>
             
             <category>mobile</category>
             
