@@ -5,9 +5,348 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 07 Jan 2024 17:46:47 +0900</pubDate>
-        <lastBuildDate>Sun, 07 Jan 2024 17:46:47 +0900</lastBuildDate>
+        <pubDate>Mon, 08 Jan 2024 00:09:21 +0900</pubDate>
+        <lastBuildDate>Mon, 08 Jan 2024 00:09:21 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>[파이오니어스 오브 파고니아] 인터페이스 - 저장고 &amp; 거래 건물 정보</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;세틀러(Settlers)&lt;/strong&gt; 원작자이자 개발자가 제작하고, 스팀(Steam)에서 &lt;strong&gt;얼리 액세스(Early Access, 앞서 해보기)&lt;/strong&gt;로 출시된 도시 건설 시뮬레이션 신작 &lt;strong&gt;파이오니어 오브 파고니아(Pioneers of Pagonia)&lt;/strong&gt;의 인터페이스 중에서 여덟번째 [저장고 &amp;amp; 거래] 카테고리에 속하는 건물들의 정보를 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;저장고--거래&quot;&gt;저장고 &amp;amp; 거래&lt;/h2&gt;
+&lt;p&gt;[저장고 &amp;amp; 거래] 카테고리에는 [&lt;strong&gt;저장고&lt;/strong&gt;], [&lt;strong&gt;금고&lt;/strong&gt;], [&lt;strong&gt;상인의 야영지&lt;/strong&gt;], [&lt;strong&gt;교역소&lt;/strong&gt;] 등이 있습니다. 건물 이름이나 설명 등, 한글로 번역된 내용은 정식 출시가 되면 바뀔 수 있을 듯합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/pioneers-of-pagonia/pioneers-of-pagonia-interface-storage-and-trade-building-info-01.png&quot; alt=&quot;세틀러(Settlers) 개발자가 만든 신작 게임 파이오니어스 오브 파고니아(Pioneers Of Pagonia) 인터페이스중에서 [저장고 &amp;amp; 거래] 건물 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;저장고&quot;&gt;저장고&lt;/h3&gt;
+&lt;p&gt;채집품이나 생산품이 오두막이나 공장에 가득찼을 때 추가 물품을 저장하는 곳입니다. 아무 물품이나 저장할 수도 있고, 특정 물품을 선택해서 저장할 수도 있습니다. 최대 64개의 물품을 저장할 수 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 1개, 천 1개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;금고&quot;&gt;금고&lt;/h3&gt;
+&lt;p&gt;병사들을 강화시킬 동전과 여러 귀중품을 저장합니다. 최대 7개의 서로 다른 상품을 각각 최대 16개씩 저장할 수 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 12개, 마름돌 16개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;상인의-야영지&quot;&gt;상인의 야영지&lt;/h3&gt;
+&lt;p&gt;상인의 야영지는 상인이 거주하는 곳으로, 상인이 새로운 작업을 기다리는 동안 머무는 곳입니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 몸통 2개, 마름돌 천 2개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;교역소&quot;&gt;교역소&lt;/h3&gt;
+&lt;p&gt;교역소에서는 다른 세력과 원자재를 거래, 배달할 수 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 4개, 마름돌 6개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;스팀 소개 페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.pioneersofpagonia.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.pioneersofpagonia.com/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;개발사 Youtube 채널
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@envision_entertainment&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.youtube.com/@envision_entertainment&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;개발사 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.envision-entertainment.de/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://www.envision-entertainment.de/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Sun, 07 Jan 2024 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-storage-and-trade-building-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-storage-and-trade-building-info.html</guid>
+            
+            <category>simulation</category>
+            
+            <category>settlers</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>[파이오니어스 오브 파고니아] 인터페이스 - 장비 &amp; 훈련 건물 정보</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;세틀러(Settlers)&lt;/strong&gt; 원작자이자 개발자가 제작하고, 스팀(Steam)에서 &lt;strong&gt;얼리 액세스(Early Access, 앞서 해보기)&lt;/strong&gt;로 출시된 도시 건설 시뮬레이션 신작 &lt;strong&gt;파이오니어 오브 파고니아(Pioneers of Pagonia)&lt;/strong&gt;의 인터페이스 중에서 일곱번째 [장비 &amp;amp; 훈련] 카테고리에 속하는 건물들의 정보를 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;장비--훈련&quot;&gt;장비 &amp;amp; 훈련&lt;/h2&gt;
+&lt;p&gt;[장비 &amp;amp; 훈련] 카테고리에는 [&lt;strong&gt;길드 집회소&lt;/strong&gt;], [&lt;strong&gt;도구 공장&lt;/strong&gt;], [&lt;strong&gt;목재 작업장&lt;/strong&gt;], [&lt;strong&gt;무기 공장&lt;/strong&gt;], [&lt;strong&gt;갑옷 공장&lt;/strong&gt;], [&lt;strong&gt;장인 대장장이&lt;/strong&gt;], [&lt;strong&gt;군사 학교&lt;/strong&gt;], [&lt;strong&gt;모험가 길드&lt;/strong&gt;] 등이 있습니다. 건물 이름이나 설명 등, 한글로 번역된 내용은 정식 출시가 되면 바뀔 수 있을 듯합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/pioneers-of-pagonia/pioneers-of-pagonia-interface-equipment-and-training-building-info-01.png&quot; alt=&quot;세틀러(Settlers) 개발자가 만든 신작 게임 파이오니어스 오브 파고니아(Pioneers Of Pagonia) 인터페이스중에서 [장비 &amp;amp; 훈련] 건물 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;길드-집회소&quot;&gt;길드 집회소&lt;/h3&gt;
+&lt;p&gt;길드 집회소는 건축 노동자와 기능공에게 도구를 장착해주는 곳입니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 6개, 마름돌 10개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;도구-공장&quot;&gt;도구 공장&lt;/h3&gt;
+&lt;p&gt;도구 공장은 길드 집회소에서 노동자들이 장착하는 도구를 제작합니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 8개, 마름돌 10개&lt;/li&gt;
+  &lt;li&gt;활용: 단단한 나무 판자, 석탄, 구리, 철 막대&lt;/li&gt;
+  &lt;li&gt;생산품: 망치, 삽, 도끼, 곡괭이, 낫, 칼, 톱, 끌, 집게&lt;/li&gt;
+  &lt;li&gt;인원: 대장장이 3명&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;목재-작업장&quot;&gt;목재 작업장&lt;/h3&gt;
+&lt;p&gt;목공업자는 단단한 나무와 밧줄을 사용해 기본 무기와 일부 도구를 만듭니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 12개, 마름돌 8개&lt;/li&gt;
+  &lt;li&gt;활용: 단단한 나무 판자, 밧줄&lt;/li&gt;
+  &lt;li&gt;생산품: 사냥용 활, 목재 투창, 목재 방패, 횃불, 목재 톱니바퀴&lt;/li&gt;
+  &lt;li&gt;인원: 목공업자 3명&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;무기-공장&quot;&gt;무기 공장&lt;/h3&gt;
+&lt;p&gt;무기 공장에서는 군사 학교와 모험가 길드에서 새로운 경비병 등에게 장비하기 위한 무기를 제작합니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 8개, 마름돌 10개&lt;/li&gt;
+  &lt;li&gt;활용: 구리, 석탄, 철 막대, 은 막대&lt;/li&gt;
+  &lt;li&gt;생산품: 동 검, 철 창, 철 검, 은 칼&lt;/li&gt;
+  &lt;li&gt;인원: 대장장이 3명&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;갑옷-공장&quot;&gt;갑옷 공장&lt;/h3&gt;
+&lt;p&gt;갑옷 공장에서는 군사 학교와 모험가 길드에서 새로운 경비병 등에게 장비하기 위한 갑옷과 방패를 제작합니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 4개, 시멘트 12개, 마름돌 8개&lt;/li&gt;
+  &lt;li&gt;활용: 석탄, 철 막대&lt;/li&gt;
+  &lt;li&gt;생산품: 철 방패, 쇠사슬 갑옷&lt;/li&gt;
+  &lt;li&gt;인원: 대장장이 3명&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;장인-대장장이&quot;&gt;장인 대장장이&lt;/h3&gt;
+&lt;p&gt;장인 대장장이는 보석으로 장비를 정제해 마법이 부여된 매우 뛰어난 장비와 무기를 만들어냅니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 4개, 마름돌 8개, 시멘트 12개&lt;/li&gt;
+  &lt;li&gt;활용: 횃불, 에메랄드, 은 칼, 루비&lt;/li&gt;
+  &lt;li&gt;생산품: 마법의 횃불, 마법의 칼&lt;/li&gt;
+  &lt;li&gt;인원: 대장장이 3명&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;군사-학교&quot;&gt;군사 학교&lt;/h3&gt;
+&lt;p&gt;군사 학교에서는 병사를 훈련 시키고, 갑옷과 무기를 장착시킬 수 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 10개, 마름돌 16개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;모험가-길드&quot;&gt;모험가 길드&lt;/h3&gt;
+&lt;p&gt;모험가 길드에서는 모험가를 훈련시키고, 갑옷과 무기를 장착 시킬 수 있습니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 10개, 마름돌 16개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;스팀 소개 페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.pioneersofpagonia.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.pioneersofpagonia.com/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;개발사 Youtube 채널
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@envision_entertainment&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.youtube.com/@envision_entertainment&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;개발사 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.envision-entertainment.de/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://www.envision-entertainment.de/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Sat, 06 Jan 2024 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-equipment-and-training-building-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-equipment-and-training-building-info.html</guid>
+            
+            <category>simulation</category>
+            
+            <category>settlers</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>[파이오니어스 오브 파고니아] 인터페이스 - 가공 건물 정보</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;세틀러(Settlers)&lt;/strong&gt; 원작자이자 개발자가 제작하고, 스팀(Steam)에서 &lt;strong&gt;얼리 액세스(Early Access, 앞서 해보기)&lt;/strong&gt;로 출시된 도시 건설 시뮬레이션 신작 &lt;strong&gt;파이오니어 오브 파고니아(Pioneers of Pagonia)&lt;/strong&gt;의 인터페이스 중에서 여섯번째 [가공] 카테고리에 속하는 건물들의 정보를 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;가공&quot;&gt;가공&lt;/h2&gt;
+&lt;p&gt;[가공] 카테고리에는 [&lt;strong&gt;방직소&lt;/strong&gt;], [&lt;strong&gt;재단사의 상점&lt;/strong&gt;], [&lt;strong&gt;화폐 주조소&lt;/strong&gt;] 등이 있습니다. 건물 이름이나 설명 등, 한글로 번역된 내용은 정식 출시가 되면 바뀔 수 있을 듯합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/pioneers-of-pagonia/pioneers-of-pagonia-interface-processing-building-info-01.png&quot; alt=&quot;세틀러(Settlers) 개발자가 만든 신작 게임 파이오니어스 오브 파고니아(Pioneers Of Pagonia) 인터페이스중에서 [가공] 건물 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;방직소&quot;&gt;방직소&lt;/h3&gt;
+&lt;p&gt;방직공은 몇몇 건물의 건축에 사용되는 밧줄과 천을 생산합니다. 또한 천은 일부 갑옷에 사용되기도 합니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 10개, 마름돌 8개, 목재 톱니바퀴 2개&lt;/li&gt;
+  &lt;li&gt;활용: 아마 섬유&lt;/li&gt;
+  &lt;li&gt;생산품: 밧줄, 천&lt;/li&gt;
+  &lt;li&gt;인원: 방직공 3명&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;재단사의-상점&quot;&gt;재단사의 상점&lt;/h3&gt;
+&lt;p&gt;재단사는 모험가가 착용할 갑옷과 탐험가와 일부 짐꾼들이 사용할 배낭을 만듭니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 12개, 마름돌 8개&lt;/li&gt;
+  &lt;li&gt;활용: 가죽, 철 막대, 천&lt;/li&gt;
+  &lt;li&gt;생산품: 가벼운 갑옷, 패드 갑옷, 배낭&lt;/li&gt;
+  &lt;li&gt;인원: 재단사 3명&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;화폐-주조소&quot;&gt;화폐 주조소&lt;/h3&gt;
+&lt;p&gt;화폐 주조소에서 생산된 동전은 거래에 사용되거나 금고에 저장됩니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 8개, 마름돌 10개, 목재 톱니바퀴 2개&lt;/li&gt;
+  &lt;li&gt;활용: 석탄, 구리, 은 막대&lt;/li&gt;
+  &lt;li&gt;생산품: 구리 동전, 은 동전&lt;/li&gt;
+  &lt;li&gt;인원: 화폐 주조자 3명&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;스팀 소개 페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.pioneersofpagonia.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.pioneersofpagonia.com/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;개발사 Youtube 채널
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@envision_entertainment&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.youtube.com/@envision_entertainment&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;개발사 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.envision-entertainment.de/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://www.envision-entertainment.de/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Fri, 05 Jan 2024 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-processing-building-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-processing-building-info.html</guid>
+            
+            <category>simulation</category>
+            
+            <category>settlers</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>[파이오니어스 오브 파고니아] 인터페이스 - 채굴 건물 정보</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;세틀러(Settlers)&lt;/strong&gt; 원작자이자 개발자가 제작하고, 스팀(Steam)에서 &lt;strong&gt;얼리 액세스(Early Access, 앞서 해보기)&lt;/strong&gt;로 출시된 도시 건설 시뮬레이션 신작 &lt;strong&gt;파이오니어 오브 파고니아(Pioneers of Pagonia)&lt;/strong&gt;의 인터페이스 중에서 다섯번째 [채굴] 카테고리에 속하는 건물들의 정보를 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;채굴&quot;&gt;채굴&lt;/h2&gt;
+&lt;p&gt;[채굴] 카테고리에는 [&lt;strong&gt;구리 오두막&lt;/strong&gt;], [&lt;strong&gt;석탄 오두막&lt;/strong&gt;], [&lt;strong&gt;철 오두막&lt;/strong&gt;], [&lt;strong&gt;은 오두막&lt;/strong&gt;], [&lt;strong&gt;제련소&lt;/strong&gt;] 등이 있습니다. 건물 이름이나 설명 등, 한글로 번역된 내용은 정식 출시가 되면 바뀔 수 있을 듯합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/pioneers-of-pagonia/pioneers-of-pagonia-interface-mining-building-info-01.png&quot; alt=&quot;세틀러(Settlers) 개발자가 만든 신작 게임 파이오니어스 오브 파고니아(Pioneers Of Pagonia) 인터페이스중에서 [채굴] 건물 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;구리-오두막&quot;&gt;구리 오두막&lt;/h3&gt;
+&lt;p&gt;구리 광부는 영토 내 근처 구리 매장층을 채굴합니다. 구리는 도구와 무기, 그리고 동전을 만들때 사용됩니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 몸통 6개&lt;/li&gt;
+  &lt;li&gt;수집품: 구리&lt;/li&gt;
+  &lt;li&gt;인원: 광부 3명&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;석탄-오두막&quot;&gt;석탄 오두막&lt;/h3&gt;
+&lt;p&gt;석탄 광부는 영토 내 근처 석탄 매장층을 채굴합니다. 석탄은 제련소 및 다양한 공장에서 여러 용도로 사용됩니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 몸통 6개&lt;/li&gt;
+  &lt;li&gt;수집품: 석탄&lt;/li&gt;
+  &lt;li&gt;인원: 광부 3명&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;철-오두막&quot;&gt;철 오두막&lt;/h3&gt;
+&lt;p&gt;철 광부는 영토 내 근처 철광석 매장층을 채굴합니다. 철은 제련소에서 철 막대로 가공되어, 각 종 도구와 무기를 만드는데 사용됩니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 몸통 6개&lt;/li&gt;
+  &lt;li&gt;수집품: 철 광석&lt;/li&gt;
+  &lt;li&gt;인원: 광부 3명&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;은-오두막&quot;&gt;은 오두막&lt;/h3&gt;
+&lt;p&gt;은 광부는 영토 내 근처 은 광석 매장층을 채굴합니다. 은 광석은 제련소에서 은 막대로 가공되어, 각 종 무기와 동전을 만드는데 사용됩니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 몸통 6개&lt;/li&gt;
+  &lt;li&gt;수집품: 은 광석&lt;/li&gt;
+  &lt;li&gt;인원: 광부 3명&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;제련소&quot;&gt;제련소&lt;/h3&gt;
+&lt;p&gt;제련소 용광로에서는 각 종 장비와 화폐 주조소에서 동전을 만드는데 필요한 금속 막대를 생산합니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 12개, 마름돌 8개&lt;/li&gt;
+  &lt;li&gt;활용: 철 광석, 석탄, 은 광석&lt;/li&gt;
+  &lt;li&gt;생산품: 철 막대, 은 막대&lt;/li&gt;
+  &lt;li&gt;인원: 용광로 일꾼 3명&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;스팀 소개 페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.pioneersofpagonia.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.pioneersofpagonia.com/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;개발사 Youtube 채널
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@envision_entertainment&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.youtube.com/@envision_entertainment&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;개발사 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.envision-entertainment.de/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://www.envision-entertainment.de/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Thu, 04 Jan 2024 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-mining-building-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-mining-building-info.html</guid>
+            
+            <category>simulation</category>
+            
+            <category>settlers</category>
+            
+            
+        </item>
         
         <item>
             <title>[파이오니어스 오브 파고니아] 인터페이스 - 인구 &amp; 식사 건물 정보</title>
@@ -28,7 +367,7 @@
 &lt;h3 id=&quot;거주지-대저택&quot;&gt;거주지 (대저택)&lt;/h3&gt;
 &lt;p&gt;별장(오두막집)에는 최대 25명의 운반자(짐꾼)가 거주할 수 있는데, 선술집에서 편안한 식사를 한 후에 번식할 수도 있습니다.&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;건설 비용: 무른 나무 몸통 6개, 마름돌 6개&lt;/li&gt;
+  &lt;li&gt;건설 비용: 무른 나무 기둥 6개, 마름돌 6개&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;식량-공급기&quot;&gt;식량 공급기&lt;/h3&gt;
@@ -265,7 +604,7 @@
 &lt;h3 id=&quot;석재-가공공장&quot;&gt;석재 가공공장&lt;/h3&gt;
 &lt;p&gt;석재 가공공장에서는 석회석을 가공해 건축 재료로 사용되는 시멘트를 생산합니다.&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;건설 비용: 무른 나무 기둥 10개, 마름돌 8개, 목재 톱니바퀴 2개&lt;/li&gt;
+  &lt;li&gt;건설 비용: 무른 나무 몸통 10개, 마름돌 8개, 목재 톱니바퀴 2개&lt;/li&gt;
   &lt;li&gt;활용: 석회석&lt;/li&gt;
   &lt;li&gt;생산품: 시멘트&lt;/li&gt;
   &lt;li&gt;인원: 석재 가공공장 노동자 3명&lt;/li&gt;
@@ -274,7 +613,7 @@
 &lt;h3 id=&quot;건축-야영지&quot;&gt;건축 야영지&lt;/h3&gt;
 &lt;p&gt;건축 야영지는 건축 노동자들이 새로운 작업을 기다리는 동안 대기하는 공간입니다.&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;건설 비용: 무른 나무 몸통 2개, 천 2장&lt;/li&gt;
+  &lt;li&gt;건설 비용: 무른 나무 몸통 2개, 천 2개&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
@@ -654,271 +993,6 @@
             <category>simulation</category>
             
             <category>settlers</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[빌딩앤파이터] 올가전용 전설 무기 [서울 잠실새내 태양권] 정보, 제작서, 제작재료</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;넥슨(Nexon)의 위치기반 모바일 게임 [&lt;strong&gt;빌딩앤파이터&lt;/strong&gt;]에는 특정 빌딩을 방문해야만 얻을 수 있는 캐릭터 전용 특수 전설무기가 있습니다. 그 중에서 이번에는 2호선 잠실새내역을 방문하면 얻을 수 있는 [&lt;strong&gt;서울 잠실새내 태양권&lt;/strong&gt;]의 정보와 제작재료에 대해 확인해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;획득-방법&quot;&gt;획득 방법&lt;/h2&gt;
-&lt;p&gt;획득 방법은 2호선 잠실새내역을 방문하면 언제든지 획득할 수 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-legend-item-jamsil-saenae-fist-of-sun-02.png&quot; alt=&quot;넥넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 올가전용 전설 무기 [서울 잠실새내 태양권] 정보, 제작서, 제작재료 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;서울-잠실새내-태양권&quot;&gt;서울 잠실새내 태양권&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;레벨: Lv.40&lt;/li&gt;
-  &lt;li&gt;공격력: 482 ~ 534&lt;/li&gt;
-  &lt;li&gt;치명타 확률: 8.4 ~ 8.8%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;스킬-서울-잠실새내-태양권&quot;&gt;스킬: 서울 잠실새내 태양권&lt;/h3&gt;
-&lt;p&gt;정신 피해 저항 +10%&lt;br /&gt;
-[스킬 3: 태양권] 범위에 있는 모든 것은 0.5초간 멈춥니다. (재사용 대기시간: 10초)&lt;br /&gt;
-낮일 때, 체력의 10%만큼 보호막을 얻습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;서울-잠실새내-태양권-제작-재료&quot;&gt;서울 잠실새내 태양권 제작 재료&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Lv.40 올가 유니크 무기 1개&lt;/li&gt;
-  &lt;li&gt;강철 1,800개&lt;/li&gt;
-  &lt;li&gt;희토류 240개&lt;/li&gt;
-  &lt;li&gt;장비결정: 무기 1,200개&lt;/li&gt;
-  &lt;li&gt;서울 설렁탕 1개&lt;/li&gt;
-  &lt;li&gt;강화 인삼 삼계탕 1개&lt;/li&gt;
-  &lt;li&gt;수원 왕갈비 1개&lt;/li&gt;
-  &lt;li&gt;용인 백암순대 1개&lt;/li&gt;
-  &lt;li&gt;고양 털레기 1개&lt;/li&gt;
-  &lt;li&gt;제작 비용: 12,000 달러&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-legend-item-jamsil-saenae-fist-of-sun-03.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 올가전용 전설 무기 [서울 잠실새내 태양권] 정보, 제작서, 제작재료 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;빌딩앤파이터-공식-채널&quot;&gt;빌딩앤파이터 공식 채널&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;빌딩앤파이터 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://bnf.nexon.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://bnf.nexon.com/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;빌딩앤파이터 커뮤니티
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://forum.nexon.com/bnf/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://forum.nexon.com/bnf/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-            <pubDate>Sun, 17 Dec 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/mobile/building-and-fighter-legend-item-seoul-jamsil-saenae-fist-of-sun-info.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/mobile/building-and-fighter-legend-item-seoul-jamsil-saenae-fist-of-sun-info.html</guid>
-            
-            <category>mobile</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[빌딩앤파이터] 유나전용 전설 무기 [서울 건대입구 스타폴] 정보, 제작서, 제작재료</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;넥슨(Nexon)의 위치기반 모바일 게임 [&lt;strong&gt;빌딩앤파이터&lt;/strong&gt;]에는 특정 빌딩을 방문해야만 얻을 수 있는 캐릭터 전용 특수 전설무기가 있습니다. 그 중에서 이번에는 건국대 입구역 맞은편 스타시티몰을 방문하면 얻을 수 있는 [&lt;strong&gt;서울 건대입구 스타폴&lt;/strong&gt;]의 정보와 제작재료에 대해 확인해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;획득-방법&quot;&gt;획득 방법&lt;/h2&gt;
-&lt;p&gt;획득 방법은 건국대 입구역 맞은편 스타시티몰을 방문하면 언제든지 획득할 수 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-legend-item-konkuk-university-starfall-02.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 유나전용 전설 무기 [서울 건대입구 스타폴] 정보, 제작서, 제작재료 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;서울-샤검&quot;&gt;서울 샤검&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;레벨: Lv.40&lt;/li&gt;
-  &lt;li&gt;공격력: 482 ~ 534&lt;/li&gt;
-  &lt;li&gt;치명타 확률: 8.4 ~ 8.8%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;스킬-서울-건대입구-스타폴&quot;&gt;스킬: 서울 건대입구 스타폴&lt;/h3&gt;
-&lt;p&gt;타격 시 20% 확률로 별이 떨어져 적에게 [투사체, 총알] 80% 피해를 줍니다.&lt;br /&gt;
-([총알]은 제외되며, 밤이거나 캐릭터가 은신 상태일 때 별이 떨어질 확률이 1.5배 증가합니다.) (재사용 대기시간: 0.3초)&lt;/p&gt;
-
-&lt;h2 id=&quot;서울-샤검-제작-재료&quot;&gt;서울 샤검 제작 재료&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Lv.40 유나 유니크 무기 1개&lt;/li&gt;
-  &lt;li&gt;강철 1,800개&lt;/li&gt;
-  &lt;li&gt;희토류 240개&lt;/li&gt;
-  &lt;li&gt;장비결정: 무기 1,200개&lt;/li&gt;
-  &lt;li&gt;서울 설렁탕 1개&lt;/li&gt;
-  &lt;li&gt;강화 인삼 삼계탕 1개&lt;/li&gt;
-  &lt;li&gt;수원 왕갈비 1개&lt;/li&gt;
-  &lt;li&gt;용인 백암순대 1개&lt;/li&gt;
-  &lt;li&gt;고양 털레기 1개&lt;/li&gt;
-  &lt;li&gt;제작 비용: 12,000 달러&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-legend-item-konkuk-university-starfall-03.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 유나전용 전설 무기 [서울 건대입구 스타폴] 정보, 제작서, 제작재료 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;빌딩앤파이터-공식-채널&quot;&gt;빌딩앤파이터 공식 채널&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;빌딩앤파이터 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://bnf.nexon.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://bnf.nexon.com/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;빌딩앤파이터 커뮤니티
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://forum.nexon.com/bnf/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://forum.nexon.com/bnf/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-            <pubDate>Fri, 15 Dec 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/mobile/building-and-fighter-legend-item-seoul-konkuk-university-starfall-info.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/mobile/building-and-fighter-legend-item-seoul-konkuk-university-starfall-info.html</guid>
-            
-            <category>mobile</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[빌딩앤파이터] B전용 전설 무기 [서울 샤검] 정보, 제작서, 제작재료</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;넥슨(Nexon)의 위치기반 모바일 게임 [&lt;strong&gt;빌딩앤파이터&lt;/strong&gt;]에는 특정 빌딩을 방문해야만 얻을 수 있는 캐릭터 전용 특수 전설무기가 있습니다. 그 중에서 이번에는 서울대 정문을 방문하면 얻을 수 있는 [&lt;strong&gt;서울 샤검&lt;/strong&gt;]의 정보와 제작재료에 대해 확인해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;획득-방법&quot;&gt;획득 방법&lt;/h2&gt;
-&lt;p&gt;획득 방법은 서울대학교 정문을 방문하면 언제든지 획득할 수 있습니다.&lt;/p&gt;
-
-&lt;p&gt;이름이 [&lt;strong&gt;서울 샤검&lt;/strong&gt;]인 이유는 서울대 정문이 &lt;strong&gt;샤&lt;/strong&gt; 글자 모양이기 때문입니다. &lt;br /&gt;
-정문을 &lt;strong&gt;샤&lt;/strong&gt;로 만든 이유는 서울 국립 대학교의 첫글자의 자음 [&lt;strong&gt;ㅅ ㄱ ㄷ&lt;/strong&gt;]을 표현하기 위해서라고 합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-legend-item-seoul-sha-blade-01.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 B전용 전설 무기 [서울 샤검] 정보, 제작서, 제작재료 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;서울-샤검&quot;&gt;서울 샤검&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;레벨: Lv.40&lt;/li&gt;
-  &lt;li&gt;공격력: 482 ~ 534&lt;/li&gt;
-  &lt;li&gt;치명타 확률: 8.4 ~ 8.8%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;스킬-3-샤샤샤&quot;&gt;스킬 3: 샤샤샤!&lt;/h3&gt;
-&lt;p&gt;적에게 [직접, 칼날] 860% 피해를 줍니다. 카우터 타격 상황에서 발동합니다. (재사용 대기시간: 10초)&lt;/p&gt;
-
-&lt;h2 id=&quot;서울-샤검-제작-재료&quot;&gt;서울 샤검 제작 재료&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Lv.40 B 유니크 무기 1개&lt;/li&gt;
-  &lt;li&gt;강철 1,800개&lt;/li&gt;
-  &lt;li&gt;희토류 240개&lt;/li&gt;
-  &lt;li&gt;장비결정: 무기 1,200개&lt;/li&gt;
-  &lt;li&gt;서울 설렁탕 1개&lt;/li&gt;
-  &lt;li&gt;강화 인삼 삼계탕 1개&lt;/li&gt;
-  &lt;li&gt;수원 왕갈비 1개&lt;/li&gt;
-  &lt;li&gt;용인 백암순대 1개&lt;/li&gt;
-  &lt;li&gt;고양 털레기 1개&lt;/li&gt;
-  &lt;li&gt;제작 비용: 12,000 달러&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;빌딩앤파이터-공식-채널&quot;&gt;빌딩앤파이터 공식 채널&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;빌딩앤파이터 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://bnf.nexon.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://bnf.nexon.com/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;빌딩앤파이터 커뮤니티
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://forum.nexon.com/bnf/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://forum.nexon.com/bnf/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-            <pubDate>Wed, 13 Dec 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/mobile/building-and-fighter-legend-item-seoul-sha-blade-info.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/mobile/building-and-fighter-legend-item-seoul-sha-blade-info.html</guid>
-            
-            <category>mobile</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[빌딩앤파이터] GS25 도시락 쿠폰 나눔 5번째</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;넥슨(Nexon)에서 서비스하고 있는 포켓몬고와 비슷한 위치기반 모바일 게임 [&lt;strong&gt;빌딩앤파이터&lt;/strong&gt;]와 [&lt;strong&gt;GS25&lt;/strong&gt;]가 함께 진행하는 100% 당첨 쿠폰 이벤트가 진행되고 있습니다. 지난번 방치형 모바일 게임 불레이드 키우기에 이어 도시락에 있는 쿠폰을 나눔하려고 이렇게 블로그에 공개하게 되었습니다. &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;쿠폰 번호는 아래쪽에 있습니다&lt;/code&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-gs25-coupon-info-01.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터와 GS25가 함께 하는 100% 당첨 쿠폰 나눔&quot; style=&quot;width: 500px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;gs도시락-프로모션-정보&quot;&gt;GS도시락 프로모션 정보​&lt;/h2&gt;
-
-&lt;h3 id=&quot;도시락-프로모션-기간&quot;&gt;도시락 프로모션 기간&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;2023년 10월 26일(목) ~ 11월22일(수)​&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;쿠폰-사용-기간-안내&quot;&gt;쿠폰 사용 기간 안내&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;2023년 10월 26일(목) ~ 11월22일(수)​ 23:59 까지 ​&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;제휴-도시락-상품명&quot;&gt;제휴 도시락 상품명&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;뭘좋아할지몰라다넣었어&lt;/li&gt;
-  &lt;li&gt;NEW고진많도시락&lt;/li&gt;
-  &lt;li&gt;제주돼지두루치기정식&lt;/li&gt;
-  &lt;li&gt;11가지찬많은도시락&lt;/li&gt;
-  &lt;li&gt;NEW정성가득비빔밥&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;쿠폰-선물-아이템&quot;&gt;쿠폰 선물 아이템&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;부하 영입카드 4개&lt;/li&gt;
-  &lt;li&gt;행동력 100개&lt;/li&gt;
-  &lt;li&gt;3단계 파워드링크 5개&lt;/li&gt;
-  &lt;li&gt;3,000 달러&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-gs25-coupon-info-00.jpg&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터와 GS25가 함께 하는 100% 당첨 쿠폰 나눔&quot; style=&quot;width: 485px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;주의-사항&quot;&gt;주의 사항&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;해당 이벤트 쿠폰은 각각 다른 난수번호로 계정당 3회까지 사용 가능합니다.&lt;/li&gt;
-  &lt;li&gt;쿠폰 사용 시 아이템은 우편함으로 지급되며, 우편 도착까지 다소 시간이 소요될 수 있습니다.&lt;/li&gt;
-  &lt;li&gt;쿠폰 사용 후 아이템이 지급되지 않는 경우 게임을 완전히 종료 후 재접속 부탁드립니다.&lt;/li&gt;
-  &lt;li&gt;우편함으로 지급된 아이템의 보관 기관을 확인하시어 수령해 주시기 바랍니다.&lt;/li&gt;
-  &lt;li&gt;회원코드를 잘못 입력하셨을 경우 복구가 불가하니, 회원코드 입력 전 정확한 정보를 꼭 확인해주시기 바랍니다.&lt;/li&gt;
-  &lt;li&gt;이미 사용된 쿠폰이나, 유효기간이 지난 쿠폰은 사용할 수 없습니다.&lt;/li&gt;
-  &lt;li&gt;이미 사용한 쿠폰은 아이템 회수나 복구 등의 도움을 드리기 어렵습니다.&lt;/li&gt;
-  &lt;li&gt;쿠폰을 사용한 후 계정 초기화가 진행하여도 이미 사용한 쿠폰은 다시 사용하실 수 없습니다.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;쿠폰-번호&quot;&gt;쿠폰 번호&lt;/h2&gt;
-
-&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;&lt;i class=&quot;fa fa-check-square-o&quot;&gt;&lt;/i&gt; &lt;b&gt;쿠폰 번호:&lt;/b&gt; P787EF7D6V&lt;/div&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-gs25-coupon-info-06.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터와 GS25가 함께 하는 100% 당첨 쿠폰 나눔&quot; style=&quot;width: 500px;  &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;빌딩앤파이터-공식-채널&quot;&gt;빌딩앤파이터 공식 채널&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;빌딩앤파이터 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://bnf.nexon.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://bnf.nexon.com/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;빌딩앤파이터 커뮤니티
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://forum.nexon.com/bnf/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://forum.nexon.com/bnf/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-            <pubDate>Mon, 11 Dec 2023 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/mobile/building-and-fighter-gs25-coupon-info-05.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/mobile/building-and-fighter-gs25-coupon-info-05.html</guid>
-            
-            <category>mobile</category>
             
             
         </item>
