@@ -1520,6 +1520,7 @@ img.docimage{
     .tb-50 {width:50% !important;}
 }
 
+
 .simple_table > thead > tr > th,
 .simple_table > tbody > tr > th,
 .simple_table > tfoot > tr > th,
@@ -1529,4 +1530,26 @@ img.docimage{
     border: 1px solid #ddd;
     text-align: center;
     vertical-align: middle;
+    word-break:break-all;
+}
+
+.simple_table.small_font > thead > tr > th,
+.simple_table.small_font > tbody > tr > th,
+.simple_table.small_font > tfoot > tr > th,
+.simple_table.small_font > thead > tr > td,
+.simple_table.small_font > tbody > tr > td,
+.simple_table.small_font > tfoot > tr > td {    
+    font-size: 0.75em;
+}
+
+.simple_table.align_left > tbody > tr > td {
+    text-align: left;
+}
+
+.number_format {
+    text-align:right !important; 
+}
+
+.line_height_130 {
+    line-height: 130%;
 }
