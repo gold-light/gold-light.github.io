@@ -9,7 +9,7 @@
     <loc>https://cloudlog.kr/game/diablo/diablo4-nightmare-dungeon-tier6-gtx-750ti-play-movie.html</loc>
     <video:video>
       <video:thumbnail_loc>https://cloudlog.kr/images/game/diablo/diablo4-nightmare-dungeon-tier6-01.jpg</video:thumbnail_loc>
-      <video:title>[디아블로4] 악몽 던전 6단계 GTX 750Ti 플레이 영상</video:title>
+      <video:title>디아블로4 악몽 던전 6단계 GTX 750Ti 플레이 영상</video:title>
       <video:description>
         디아블로4 (Diablo 4) 악몽 던전 6단계를 Nvidia GeForce GTX 750Ti로 플레이한 영상을 소개해보겠습니다
       </video:description>
@@ -24,7 +24,7 @@
     <loc>https://cloudlog.kr/game/diablo/diablo4-geforce-gtx-750ti-play-movie.html</loc>
     <video:video>
       <video:thumbnail_loc>https://cloudlog.kr/images/game/diablo/diablo4-graphic-card-geforce-gtx-750ti-play-movie-01.jpg</video:thumbnail_loc>
-      <video:title>[디아블로4] GeForce GTX 750Ti로 플레이 해봤습니다</video:title>
+      <video:title>디아블로4 GeForce GTX 750Ti로 플레이 해봤습니다</video:title>
       <video:description>
         디아블로4 (Diablo 4)를 최소 사양보다 낮은 사양의 Nvidia GeForce GTX 750Ti로 플레이한 영상을 소개해보겠습니다
       </video:description>
@@ -54,7 +54,7 @@
     <loc>https://cloudlog.kr/game/diablo/diablo4-world-tier4-torment-unlock-quest-the-fallen-temple-clear.html</loc>
     <video:video>
       <video:thumbnail_loc>https://cloudlog.kr/images/game/diablo/diablo4-world-tier4-torment-unlock-quest-the-fallen-temple-clear-01.jpg</video:thumbnail_loc>
-      <video:title>[디아블로4] 고행 진입 퀘스트 - 몰락자의 사원 클리어 영상 - 풀버전 (GTX 750 Ti)</video:title>
+      <video:title>디아블로4 고행 진입 퀘스트 - 몰락자의 사원 클리어 영상 - 풀버전 (GTX 750 Ti)</video:title>
       <video:description>
         디아블로4 (Diablo 4) 고행 진입 퀘스트 - 몰락자의 사원 클리어 영상 - 풀버전 (GTX 750 Ti) 입니다.
       </video:description>
@@ -69,7 +69,7 @@
     <loc>https://cloudlog.kr/game/diablo/diablo4-world-tier4-torment-unlock-quest-the-fallen-temple-clear.html</loc>
     <video:video>
       <video:thumbnail_loc>https://cloudlog.kr/images/game/diablo/diablo4-world-tier4-torment-unlock-quest-the-fallen-temple-clear-12.jpg</video:thumbnail_loc>
-      <video:title>[디아블로4] 고행 퀘스트,  몰락자의 사원 엘리아스 클리어 영상 (GTX 750 Ti)</video:title>
+      <video:title>디아블로4 고행 퀘스트,  몰락자의 사원 엘리아스 클리어 영상 (GTX 750 Ti)</video:title>
       <video:description>
         디아블로4 (Diablo 4) 고행 퀘스트,  몰락자의 사원 엘리아스 클리어 영상 (GTX 750 Ti) 입니다.
       </video:description>
@@ -84,9 +84,24 @@
     <loc>https://cloudlog.kr/game/diablo/diablo4-world-tier4-torment-unlock-quest-the-fallen-temple-clear.html</loc>
     <video:video>
       <video:thumbnail_loc>https://cloudlog.kr/images/game/diablo/diablo4-world-tier4-torment-unlock-quest-the-fallen-temple-clear-13.jpg</video:thumbnail_loc>
-      <video:title>[디아블로4] 고행 퀘스트,  몰락자의 사원 엘리아스 클리어 편집 영상 (GTX 750 Ti)</video:title>
+      <video:title>디아블로4 고행 퀘스트,  몰락자의 사원 엘리아스 클리어 편집 영상 (GTX 750 Ti)</video:title>
       <video:description>
         고행 퀘스트,  몰락자의 사원 엘리아스 클리어 편집 영상 (GTX 750 Ti) 입니다.
+      </video:description>
+      <video:player_loc>
+        https://www.youtube.com/embed/cCy7DiwjRvI
+      </video:player_loc>
+    </video:video>
+  </url> 
+
+
+  <url>
+    <loc>https://cloudlog.kr/game/mobile/building-and-fighter-legend-item-seoul-sha-blade-play-movie.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://cloudlog.kr/images/game/mobile/nexon-bnf-legend-item-seoul-sha-blade-08.png</video:thumbnail_loc>
+      <video:title>빌딩앤파이터 B전용 전설 무기 [서울 샤검] 플레이 후기와 영상</video:title>
+      <video:description>
+        넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 B전용 전설 무기 [서울 샤검] 플레이 후기와 영상 정보입니다.
       </video:description>
       <video:player_loc>
         https://www.youtube.com/embed/cCy7DiwjRvI
