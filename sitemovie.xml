@@ -110,4 +110,19 @@
   </url> 
 
 
+  <url>
+    <loc>https://cloudlog.kr/game/mobile/building-and-fighter-legend-item-seoul-jamsil-saenae-fist-of-sun-play-movie.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://cloudlog.kr/images/game/mobile/nexon-bnf-legend-item-seoul-jamsil-saenae-fist-of-sun-09.png</video:thumbnail_loc>
+      <video:title>빌딩앤파이터 유나전용 전설 무기 [서울 잠실새내 태양권] 플레이 후기와 영상</video:title>
+      <video:description>
+        넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 유나전용 전설 무기 [서울 잠실새내 태양권] 플레이 후기와 영상 정보입니다.
+      </video:description>
+      <video:player_loc>
+        https://www.youtube.com/embed/SE9v1j4EUQA
+      </video:player_loc>
+    </video:video>
+  </url> 
+
+
 </urlset>
