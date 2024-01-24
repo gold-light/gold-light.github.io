@@ -155,4 +155,19 @@
   </url> 
 
 
+  <url>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-season3-season-of-construct-quest-seneschal.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://cloudlog.kr/images/game/diablo/diablo4-season3-season-of-construct-play-movie.jpg</video:thumbnail_loc>
+      <video:title>디아블로4 시즌3 - 청지기 획득 방법, 퀘스트 플레이 영상</video:title>
+      <video:description>
+        디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상입니다.
+      </video:description>
+      <video:player_loc>
+        https://www.youtube.com/embed/yKGZyj_6gME
+      </video:player_loc>
+    </video:video>
+  </url> 
+
+
 </urlset>
