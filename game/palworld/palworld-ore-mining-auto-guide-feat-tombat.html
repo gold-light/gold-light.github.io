@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법을 소개해보겠습니다">
+<meta name="keywords" content="simulationsettlers,  세틀러, 시뮬레이션, 도시 건설, 액션, 어드벤쳐, 포켓몬, 디지몬, 동물의 숲">
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="[팰 월드] 금속 채굴 자동으로 하는 방법 (feat.냥뱃)" />
+<meta property="og:locale" content="ko_KR" />
+<meta property="og:description" content="팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법을 소개해보겠습니다" />
+<link rel="canonical" href="https://cloudlog.kr/game/palworld/palworld-ore-mining-auto-guide-feat-tombat.html" />
+<meta property="og:url" content="https://cloudlog.kr/game/palworld/palworld-ore-mining-auto-guide-feat-tombat.html" />
+<meta property="og:site_name" content="Simple Life Cloud Log" />
+<meta property="og:image" content="https://cloudlog.kr/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-01.jpg" />
+<meta property="og:image:alt" content="팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-01-27T00:00:00+09:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://cloudlog.kr/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-01.jpg" />
+<meta name="twitter:image:alt" content="팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법" />
+<meta property="twitter:title" content="[팰 월드] 금속 채굴 자동으로 하는 방법 (feat.냥뱃)" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-01-27T00:00:00+09:00","datePublished":"2024-01-27T00:00:00+09:00","description":"팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법을 소개해보겠습니다","headline":"[팰 월드] 금속 채굴 자동으로 하는 방법 (feat.냥뱃)","image":{"alt":"팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법","url":"https://cloudlog.kr/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-01.jpg","@type":"imageObject"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://cloudlog.kr/game/palworld/palworld-ore-mining-auto-guide-feat-tombat.html"},"url":"https://cloudlog.kr/game/palworld/palworld-ore-mining-auto-guide-feat-tombat.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+<title>[팰 월드] 금속 채굴 자동으로 하는 방법 (feat.냥뱃) | Cloud Log</title>
+<link rel="stylesheet" href="/css/syntax.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+<link href="/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="/fontawesome/css/v4.7.css" rel="stylesheet">
+<link rel="stylesheet" href="/css/modern-business.css">
+<!-- Latest compiled and minified CSS -->
+<!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"-->
+<!--link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"-->
+<link rel="stylesheet" href="/css/customstyles.css">
+<link rel="stylesheet" href="/css/boxshadowproperties.css">
+<!-- most color styles are extracted out to here -->
+<link rel="stylesheet" href="/css/theme-blue.css">
+
+
+
+<script src="/js/jquery.341.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script-->
+
+<script src="/js/jquery.cookie.141.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script-->
+<script src="/js/jquery.navgoco.min.js"></script>
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="/js/bootstrap.341.min.js"></script>
+<!--script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script-->
+<!--script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script-->
+<!-- Anchor.js -->
+<script src="/js/anchor.420.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js"></script-->
+<script src="/js/toc.js"></script>
+<script src="/js/customscripts.js"></script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6199737337936118" crossorigin="anonymous"></script>
+
+<link rel="shortcut icon" href="/images/favicon.ico">
+
+
+<link rel="alternate" type="application/rss+xml" title="Simple Life Cloud Log" href="https://cloudlog.kr/feed.xml">
+
+
+
+    <script>
+        $(document).ready(function(e) {
+            // Initialize navgoco with default options
+            $("#mysidebar1").navgoco({
+                caretHtml: '',
+                accordion: false,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
+            $("#mysidebar1").navgoco('toggle', true);            
+
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', true);
+            });
+
+        });
+
+    </script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+        });
+    </script>
+    
+
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container topnavlinks">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="fa fa-home fa-lg navbar-brand" href="/">&nbsp;<span class="projectTitle"> Simple Life Cloud Log</span></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <!-- toggle sidebar button -->
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on fa-lg"></i> 카테고리</a></li>
+                <!-- entries without drop-downs appear here -->
+
+
+
+
+                
+                
+                
+                <li><a href="/programming/php/php-sql-injection-function.html">프로그래밍</a></li>
+                
+                
+                
+                <li><a href="/category/game/pcgame.html">게임</a></li>
+                
+                
+                
+                <li><a href="/category/life/animation.html">애니메이션</a></li>
+                
+                
+                
+                <li><a href="/category/life/drama.html">드라마</a></li>
+                
+                
+                
+                <li><a href="/category/life/bookstore.html">책방</a></li>
+                
+                
+                
+                <li><a href="/category/life/japanese.html">일본어</a></li>
+                
+                
+                
+                <!-- entries with drop-downs appear here -->
+                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+                
+                
+                                
+                <!--comment out this block if you want to hide search-->
+                <li>
+                    <!--start search-->
+                    <div id="search-demo-container">
+                        <input type="text" id="search-input" placeholder="search...">
+                        <ul id="results-container"></ul>
+                    </div>
+                    <script src="/js/jekyll-search.js"></script>
+                    <script>
+                            SimpleJekyllSearch.init({
+                                searchInput: document.getElementById('search-input'),
+                                resultsContainer: document.getElementById('results-container'),
+                                dataSource: '/search.json',
+                                searchResultTemplate: '<li><a href="{url}" title="[팰 월드] 금속 채굴 자동으로 하는 방법 (feat.냥뱃)">{title}</a></li>',
+                    noResultsText: 'No results found.',
+                            limit: 10,
+                            fuzzy: true,
+                    })
+                    </script>
+                    <!--end search-->
+                </li>
+            </ul>
+        </div>
+        </div>
+        <!-- /.container -->
+</nav>
+
+
+
+<!-- Page Content -->
+<div class="container">
+  <div id="main">
+    <!-- Content Row -->
+    <div class="row">
+        
+        
+            <!-- Sidebar Column -->
+            <div class="col-md-3" id="tg-sb-sidebar">
+                
+
+
+<ul id="mysidebar" class="nav">
+  <li class="sidebarTitle">Game Post 1.0</li>
+  
+  
+  
+  
+  
+  <li>
+      <a title="PC Game" href="/category/game/pcgame.html">PC Game</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="디아블로 (Diablo II, III, IV)" href="/category/game/diablo.html">ㄴ디아블로 (Diablo II, III, IV) </a></li>
+          
+          
+          
+          
+          
+          
+          
+          <li><a title="시뮬레이션 (Simulation)" href="/category/game/simulation.html">ㄴ시뮬레이션 (Simulation) </a></li>
+          
+          
+          
+          
+          
+          
+          
+          <li><a title="팰 월드(PalWorld)" href="/category/game/palworld.html">ㄴ팰 월드(PalWorld) </a></li>
+          
+          
+          
+          
+          
+          
+          
+          <li><a title="라그나로크 (Ragnarok)" href="/category/game/ragnarok.html">ㄴ라그나로크 (Ragnarok) </a></li>
+          
+          
+          
+          
+          
+          
+          
+          <li><a title="로스트아크 (LostArk)" href="/category/game/lostark.html">ㄴ로스트아크 (LostArk) </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+  
+  
+  
+  <li>
+      <a title="모바일 게임 (Mobile Game)" href="/category/game/mobile.html">모바일 게임 (Mobile Game)</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="디아블로 이모탈 (Diablo Immortal)" href="/category/game/diablo-immortal.html">ㄴ디아블로 이모탈 (Diablo Immortal) </a></li>
+          
+          
+          
+          
+          
+          
+          
+          <li><a title="히트2 (HIT 2)" href="/category/game/hit2.html">ㄴ히트2 (HIT 2) </a></li>
+          
+          
+          
+          
+          
+          
+          
+          <li><a title="디펜스 (Defense)" href="/category/game/defense.html">ㄴ디펜스 (Defense) </a></li>
+          
+          
+          
+          
+          
+          
+          
+          <li><a title="증강현실 (AR)" href="/category/game/ar.html">ㄴ증강현실 (AR) </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+   
+
+   
+
+  
+  
+  
+  <li>
+      <a title="Tag archives" href="#">Tag archives</a>
+      <ul>
+          
+          
+          
+          <li><a title="Tag archives overview" href="/tag/tag-archives_overview.html">Tag archives overview</a></li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Game Tag pages" href="#">Game Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Ragnarok pages" href="/tag/tag-ragnarok.html">Ragnarok pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="LostArk pages" href="/tag/tag-lostark.html">LostArk pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Alien pages" href="/tag/tag-alien.html">Alien pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Diablo pages" href="/tag/tag-diablo.html">Diablo pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Life Tag pages" href="#">Life Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Drama pages" href="/tag/tag-drama.html">Drama pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Ramantic pages" href="/tag/tag-romantic.html">Ramantic pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Programming Tag pages" href="#">Programming Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="PHP pages" href="/tag/tag-php.html">PHP pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="AWS pages" href="/tag/tag-aws.html">AWS pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Linux pages" href="/tag/tag-linux.html">Linux pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="API pages" href="/tag/tag-api.html">API pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+
+
+      
+    <!--p class="external">
+        <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+    </p-->
+      
+</ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+
+
+            </div>
+            
+        
+
+        <!-- Content Column -->
+        <div class="col-md-9" id="tg-sb-content">
+            <article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+
+    <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">[팰 월드] 금속 채굴 자동으로 하는 방법 (feat.냥뱃)</h1>
+        <p class="post-meta">        
+        <time datetime="2024-01-27T00:00:00+09:00" itemprop="datePublished"><span class="label label-info">2024-01-27</span></time> 
+        <span class="label label-primary">game / pc / palworld</span>
+        </p>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
+
+
+        
+        
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+});
+
+$("#toc_onoff").click(function() {  
+        $("#toc").toggle();
+        $("#tg-toc-icon").toggleClass('fa-toggle-on');
+        $("#tg-toc-icon").toggleClass('fa-toggle-off');
+
+});
+
+});
+</script>
+
+<p><span class="label label-warning" style="cursor:pointer" id="toc_onoff"><i id="tg-toc-icon" class="fas fa-toggle-on"></i> ToC on/off</span></p>
+<div id="toc"></div>
+
+
+
+        
+
+        <h2 id="개요">개요</h2>
+<p>지금 전 세계적으로 화제가 되고 있는 게임 [<strong>팰 월드(PalWorld)</strong>]를 플레이 해봤는데, 이런 저런 논란도 있고 있지만 역시나 인기가 있을 만한 요소들이 상당히 많다는 것을 알 수 있었습니다. 그 중에서 대략 20렙 이후 부터 매우 중요한 금속 채굴을 자동으로 해보는 방법을 찾아보고 정리해봤습니다.</p>
+
+<h2 id="작업-적성--채굴-lv2">작업 적성 : 채굴 Lv2</h2>
+<p>우선, 팰이 금속 채굴이 가능하려면 작업 적성에 [<strong>채굴 Lv2</strong>]이 있어야 합니다.</p>
+
+<p>저는 그 중에서 어둠 속성의 냥뱃(TomBat)을 운 좋게 구해서 배치해봤습니다.</p>
+
+<figure><img class="docimage" src="/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-02.jpg" alt="팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="채굴-우선-순위">채굴 우선 순위</h2>
+<p>작업 적성이 채굴인 경우 일반 돌이나 금속 광석보다 [<strong>채석장</strong>]에 작업 우선 순위가 있는 것으로 보입니다. 아무 것도 지정하지 않으면 바로 채석장으로 달려가서 채굴하고 있는 [<strong>냥뱃</strong>]을 볼 수 있습니다.</p>
+
+<figure><img class="docimage" src="/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-03.jpg" alt="팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="방법-2가지">방법 2가지</h2>
+<h3 id="방법---1">방법 - 1</h3>
+<p>첫번째 방법은 [<strong>채석장</strong>]을 없애는 방법이 있습니다.</p>
+
+<p>하지만 당장 [<strong>채석장</strong>]을 없을 수 없다면 아래의 방법으로 하시면 됩니다.</p>
+
+<h3 id="방법---2">방법 - 2</h3>
+<p>두번째 방법은 팰을 데려다 [<strong>금속 광석</strong>]에 작업을 지정하시면 되는데, 아래쪽에서 자세히 살펴보겠습니다.</p>
+
+<h2 id="팰-이동">팰 이동</h2>
+<p>그래서 작업 중인 [<strong>냥뱃</strong>]에 다가가서 [<strong>F</strong>]키가 활성화 되면 팰을 들어서 [<strong>금속 광석</strong>]으로 데려가 던집니다.</p>
+
+<figure><img class="docimage" src="/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-04.jpg" alt="팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="작업-고정-배치">작업 고정 배치</h2>
+<p>던지고 나면 [<strong>금속 광석에 고정 배치하는데 성공했습니다.</strong>]라는 메시지가 뜨면서 [<strong>냥뱃</strong>]이 [<strong>금속 광석</strong>]을 채굴하기 시작합니다.</p>
+
+<figure><img class="docimage" src="/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-05.jpg" alt="팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="금속-채굴-완료">금속 채굴 완료</h2>
+<p>채굴하면서 [<strong>금속 광석</strong>]이 떨어지면 운반 적성이 있는 팰이 와서 가져가는 것을 확인할 수 있습니다.</p>
+
+<figure><img class="docimage" src="/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-06.jpg" alt="팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<figure><img class="docimage" src="/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-07.jpg" alt="팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="냥뱃-서식-구역과-시간">냥뱃 서식 구역과 시간</h2>
+<p>[<strong>냥뱃</strong>]을 어디서 포획할 수 있을지 찾아봤는데 [<strong>팻 도감</strong>]에서 [<strong>서식 구역</strong>]을 확인해보면 낮 시간에는 활동하지 않고, 야행성이라 밤에만 찾을 수 있는 것을 알 수 있습니다.</p>
+
+<figure><img class="docimage" src="/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-08.jpg" alt="팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<ul>
+  <li>밤을 선택해보면 아래와 같이 거의 모든 지역에 출몰한다는 것을 알 수 있습니다.</li>
+</ul>
+
+<figure><img class="docimage" src="/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-09.jpg" alt="팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="플레이-영상">플레이 영상</h2>
+<p>간단하지만 영상을 만들어봤는데, 중간에 침공까지 있어서 정신 없었습니다.</p>
+
+<div class="video-wrap">
+  <iframe width="845" height="475" src="https://www.youtube.com/embed/zCG4RuewtB8" title="[팰월드]  금속 채굴 자동으로 하는 방법 (feat. 냥뱃) - (GTX 750Ti)" style="border:0;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<h2 id="공식-채널">공식 채널</h2>
+
+<ol>
+  <li>스팀 소개 페이지
+    <ul>
+      <li><a href="https://store.steampowered.com/app/1623730/Palworld/" target="_blank" style="word-break:break-all">https://store.steampowered.com/app/1623730/Palworld/</a></li>
+    </ul>
+  </li>
+  <li>게임 공식 홈페이지
+    <ul>
+      <li><a href="https://www.pocketpair.jp/palworld" target="_blank" style="word-break:break-all">https://www.pocketpair.jp/palworld</a></li>
+    </ul>
+  </li>
+  <li>개발사 Youtube 채널
+    <ul>
+      <li><a href="https://www.youtube.com/@pocketpair" target="_blank" style="word-break:break-all">https://www.youtube.com/@pocketpair</a></li>
+    </ul>
+  </li>
+  <li>게임 공식 SNS
+    <ul>
+      <li><a href="https://twitter.com/Palworld_JP" target="_blank" style="word-break:break-all">https://twitter.com/Palworld_JP</a></li>
+    </ul>
+  </li>
+</ol>
+
+    </div>
+
+     <div class="tags">
+        
+        <b>Tags: </b>
+        
+        
+        
+        <a href="/tag/tag-simulation.html" class="btn btn-default navbar-btn cursorNorm" role="button">simulation</a>
+        
+        
+        
+        <a href="/tag/tag-settlers.html" class="btn btn-default navbar-btn cursorNorm" role="button">settlers</a>
+        
+        
+        
+    </div>
+
+
+
+</article>
+
+
+
+<!-- 본문 하단 - cloudlog -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6199737337936118"
+     data-ad-slot="7488484889"
+     data-ad-format="auto"
+     data-full-width-responsive="true">
+</ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+
+
+
+<div class="mb-30">&nbsp;</div>
+<div class="home">
+    <div class="col-md-12">
+        <ul class="list-style list-unstyled arrow-list arrow-list-three pl-0">
+         
+            
+            <li>
+            <i class="fa-solid fa-caret-right"></i> <time>2024-01-27</time><a href="/game/palworld/palworld-ore-mining-auto-guide-feat-tombat.html">[팰 월드] 금속 채굴 자동으로 하는 방법 (feat.냥뱃)</a>
+            </li>  
+                      
+        </ul>
+    </div>
+</div>
+<div class="mb-10">&nbsp;</div>
+
+<hr class="shaded"/>
+
+<footer>
+            <div class="row">
+                <div class="col-lg-12 footer">
+               &copy;2024 Copyright 2022 @CLOUDLOG.KR. All rights reserved. <br />
+               Built with <a href="https://jekyllrb-ko.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Jekyll</a> 
+               & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
+               & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
+               
+<span>Page last updated:</span> 2024-01-27<br/> Site last generated: 2024-01-28 <br />
+
+                </div>
+            </div>
+</footer>
+
+
+
+
+
+
+        </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+</div>
+<!-- /#main -->
+</div>
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JNK63BTKXN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JNK63BTKXN');
+</script>
+
+
+
+
+
+<!-- Naver Analytics -->
+<script src="//wcs.naver.net/wcslog.js"></script>
+<script>
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "1352844e1f81670";
+if(window.wcs) {
+  wcs_do();
+}
+</script>
+
+
+</body>
+</html>
+
+

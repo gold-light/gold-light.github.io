@@ -2,7 +2,17 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2024-01-24T17:59:42+09:00</lastmod>
+    <lastmod>2024-01-28T23:15:55+09:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/game/palworld/palworld-ore-mining-auto-guide-feat-tombat.html</loc>
+  
+    <lastmod>2024-01-27T00:00:00+09:00</lastmod>
+    
+      
   </url>
   
   
@@ -1734,7 +1744,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-robots-txt-edit.html</loc>
+    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-xml-edit.html</loc>
 
     <lastmod>2022-04-10T00:00:00+09:00</lastmod>
     
@@ -1744,7 +1754,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-xml-edit.html</loc>
+    <loc>https://cloudlog.kr/programming/jekyll/jekyll-sitemap-gem-robots-txt-edit.html</loc>
 
     <lastmod>2022-04-10T00:00:00+09:00</lastmod>
     
@@ -1824,7 +1834,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/aws/aws-bitnami-lamp-setting-guide.html</loc>
+    <loc>https://cloudlog.kr/programming/os/os-macos-catalina-other-volume.html</loc>
 
     <lastmod>2021-11-13T00:00:00+09:00</lastmod>
     
@@ -1834,7 +1844,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/programming/os/os-macos-catalina-other-volume.html</loc>
+    <loc>https://cloudlog.kr/programming/aws/aws-bitnami-lamp-setting-guide.html</loc>
 
     <lastmod>2021-11-13T00:00:00+09:00</lastmod>
     
@@ -1921,6 +1931,14 @@
   
   <url>
     <loc>https://cloudlog.kr/category/game/pcgame.html</loc>
+  
+       
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/category/game/palworld.html</loc>
   
        
   </url>
@@ -2059,12 +2077,6 @@
   
   
   
-  <url>
-    <loc>https://cloudlog.kr/category/life/web-comics-novel.html</loc>
-  
-       
-  </url>
-  
   
   
   <url>
@@ -2074,6 +2086,12 @@
   </url>
   
   
+  
+  <url>
+    <loc>https://cloudlog.kr/category/life/web-comics-novel.html</loc>
+  
+       
+  </url>
   
   
   

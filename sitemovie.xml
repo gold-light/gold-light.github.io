@@ -170,4 +170,19 @@
   </url> 
 
 
+  <url>
+    <loc>https://cloudlog.kr/game/palworld/palworld-ore-mining-auto-guide-feat-tombat.html</loc>
+    <video:video>
+      <video:thumbnail_loc>https://cloudlog.kr/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-01.jpg</video:thumbnail_loc>
+      <video:title>팰월드  금속 채굴 자동으로 하는 방법 (feat. 냥뱃) - (GTX 750Ti)</video:title>
+      <video:description>
+        팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법을 소개하는 영상입니다.
+      </video:description>
+      <video:player_loc>
+        https://www.youtube.com/embed/zCG4RuewtB8
+      </video:player_loc>
+    </video:video>
+  </url> 
+
+
 </urlset>
