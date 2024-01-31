@@ -5,9 +5,100 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Jan 2024 23:15:55 +0900</pubDate>
-        <lastBuildDate>Sun, 28 Jan 2024 23:15:55 +0900</lastBuildDate>
+        <pubDate>Thu, 01 Feb 2024 00:31:07 +0900</pubDate>
+        <lastBuildDate>Thu, 01 Feb 2024 00:31:07 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>[팰 월드] 초반에 팰 스피어 자동으로 획득할 수 있는 초간단 방법 (feat.미호)</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;]를 플레이할 때 나중에 가면 기본 [&lt;strong&gt;팰 스피어&lt;/strong&gt;]는 사용하지도 않고, [&lt;strong&gt;메가 스피어&lt;/strong&gt;], [&lt;strong&gt;기가 스피어&lt;/strong&gt;]를 주로 사용하면서, 심지어는 남아돌기까지 하겠지만 초반에는 [&lt;strong&gt;팰 스피어&lt;/strong&gt;]를 만드는 것조차 시간과 노력이 많이 소비되는 일입니다.&lt;/p&gt;
+
+&lt;p&gt;하지만, [&lt;strong&gt;목장&lt;/strong&gt;]을 건설할 수 있는 거점 레벨 5만 되면 아주 쉽게, 그것도 자동으로 [&lt;strong&gt;팰 스피어&lt;/strong&gt;]를 얻을 수 있는 방법이 있어서 소개해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;미호&quot;&gt;미호&lt;/h2&gt;
+&lt;p&gt;이 방법은 [&lt;strong&gt;미호&lt;/strong&gt;]가 있어야 가능한 방법입니다.&lt;br /&gt;
+파트너 스킬에 보면 목장에 배치하면 지면에서 아이템을 파낸다고 하는데 바로 이 스킬이 핵심입니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;파트너-스킬&quot;&gt;파트너 스킬&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;여기를 파자: 가축 목장에 배치하면 지면에서 아이템을 파내기도 한다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;작업-적성&quot;&gt;작업 적성&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;채집: Lv 1&lt;/li&gt;
+  &lt;li&gt;목장: Lv 1&lt;/li&gt;
+  &lt;li&gt;식사량: 1개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;드롭하는-아이템&quot;&gt;드롭하는 아이템&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;가죽&lt;/li&gt;
+  &lt;li&gt;뼈&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-easy-way-to-get-shperes-feat-vixy-01.jpg&quot; alt=&quot;팰 월드(PalWorld)에서 초반에 미호를 이용해 팰 스피어를 자동으로 얻을 수 있는 초간단한 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;서식-구역&quot;&gt;서식 구역&lt;/h3&gt;
+&lt;p&gt;[&lt;strong&gt;미호&lt;/strong&gt;]의 서식 구역은 시작 지점에서 10시쪽 방향에서 아래 위쪽으로 세로로 길게 분포되어 있습니다. 레벨도 낮아서 [&lt;strong&gt;목장&lt;/strong&gt;]을 설치할 수 있을 때 포획하러가면 쉽게 잡을 수 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-easy-way-to-get-shperes-feat-vixy-02.jpg&quot; alt=&quot;팰 월드(PalWorld)에서 초반에 미호를 이용해 팰 스피어를 자동으로 얻을 수 있는 초간단한 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;목장-배치&quot;&gt;목장 배치&lt;/h2&gt;
+&lt;p&gt;저는 [&lt;strong&gt;미호&lt;/strong&gt;] 4마리를 목장에 배치해두었습니다. 게임 시간으로 1일 정도 지났을 때 바닥에 아이템들이 가득한 것을 확인할 수 있습니다. 바닥에 보이는 아이템들 전부 [&lt;strong&gt;미호&lt;/strong&gt;]가 생산한, 즉 땅에서 파낸 아이템들입니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-easy-way-to-get-shperes-feat-vixy-03.jpg&quot; alt=&quot;팰 월드(PalWorld)에서 초반에 미호를 이용해 팰 스피어를 자동으로 얻을 수 있는 초간단한 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;운반 능력을 가진 팰을 배치하니 저렇게 줄줄이 운반하러 가는 모습도 확인할 수 있습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-easy-way-to-get-shperes-feat-vixy-04.jpg&quot; alt=&quot;팰 월드(PalWorld)에서 초반에 미호를 이용해 팰 스피어를 자동으로 얻을 수 있는 초간단한 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;획득-아이템&quot;&gt;획득 아이템&lt;/h2&gt;
+&lt;p&gt;목장 바로 옆에 [&lt;strong&gt;나무 상자&lt;/strong&gt;]를 배치해두었더니 [&lt;strong&gt;미호&lt;/strong&gt;]가 목장에서 파낸 아이템들이 가득했습니다.&lt;br /&gt;
+종류를 살펴보면 [&lt;strong&gt;양털&lt;/strong&gt;], [&lt;strong&gt;화살&lt;/strong&gt;], [&lt;strong&gt;팰 스피어&lt;/strong&gt;], [&lt;strong&gt;금화&lt;/strong&gt;], [&lt;strong&gt;나무&lt;/strong&gt;], [&lt;strong&gt;돌&lt;/strong&gt;]등 정말 다양한 아이템들이 있었는데, 그 중에서 [&lt;strong&gt;팰 스피어&lt;/strong&gt;]도 엄청 많이 나와있는 것을 알 수 있습니다.&lt;/p&gt;
+
+&lt;p&gt;만약 [&lt;strong&gt;미호&lt;/strong&gt;]를 잔뜩 포획해서 [&lt;strong&gt;목장&lt;/strong&gt;]을 여러개 만들어두면 펑펑 쓰고도 남아돌 만큼 엄청 많은 [&lt;strong&gt;팰 스피어&lt;/strong&gt;]를 얻을 수 있을 것 같습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-easy-way-to-get-shperes-feat-vixy-05.jpg&quot; alt=&quot;팰 월드(PalWorld)에서 초반에 미호를 이용해 팰 스피어를 자동으로 얻을 수 있는 초간단한 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;스팀 소개 페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/1623730/Palworld/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/1623730/Palworld/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.pocketpair.jp/palworld&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.pocketpair.jp/palworld&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;개발사 Youtube 채널
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@pocketpair&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.youtube.com/@pocketpair&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 SNS
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/Palworld_JP&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://twitter.com/Palworld_JP&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Mon, 29 Jan 2024 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/palworld/palworld-easy-way-to-get-shperes-feat-vixy.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/palworld/palworld-easy-way-to-get-shperes-feat-vixy.html</guid>
+            
+            <category>simulation</category>
+            
+            <category>settlers</category>
+            
+            
+        </item>
         
         <item>
             <title>[팰 월드] 금속 채굴 자동으로 하는 방법 (feat.냥뱃)</title>
@@ -1499,141 +1590,6 @@
             <pubDate>Sat, 06 Jan 2024 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-equipment-and-training-building-info.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-equipment-and-training-building-info.html</guid>
-            
-            <category>simulation</category>
-            
-            <category>settlers</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[파이오니어스 오브 파고니아] 인터페이스 - 가공 건물 정보</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;세틀러(Settlers)&lt;/strong&gt; 원작자이자 개발자가 제작하고, 스팀(Steam)에서 &lt;strong&gt;얼리 액세스(Early Access, 앞서 해보기)&lt;/strong&gt;로 출시된 도시 건설 시뮬레이션 신작 &lt;strong&gt;파이오니어스 오브 파고니아(Pioneers of Pagonia)&lt;/strong&gt;의 인터페이스 중에서 여섯번째 [가공] 카테고리에 속하는 건물들의 정보를 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;가공&quot;&gt;가공&lt;/h2&gt;
-&lt;p&gt;[가공] 카테고리에는 [&lt;strong&gt;방직소&lt;/strong&gt;], [&lt;strong&gt;재단사의 상점&lt;/strong&gt;], [&lt;strong&gt;화폐 주조소&lt;/strong&gt;] 등이 있습니다. 건물 이름이나 설명 등, 한글로 번역된 내용은 정식 출시가 되면 바뀔 수 있을 듯합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/pioneers-of-pagonia/pioneers-of-pagonia-interface-processing-building-info-01.png&quot; alt=&quot;세틀러(Settlers) 개발자가 만든 신작 게임 파이오니어스 오브 파고니아(Pioneers Of Pagonia) 인터페이스중에서 [가공] 건물 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;div class=&quot;col-sm-12&quot;&gt;
-&lt;table class=&quot;simple_table align_left&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th rowspan=&quot;2&quot; width=&quot;16%&quot;&gt;카테고리&lt;/th&gt;
-      &lt;th rowspan=&quot;2&quot; width=&quot;17%&quot;&gt;건물&lt;/th&gt;
-      &lt;th colspan=&quot;2&quot; width=&quot;23%&quot;&gt;건설 비용&lt;/th&gt;
-      &lt;th rowspan=&quot;2&quot; width=&quot;22%&quot;&gt;활용&lt;/th&gt;
-      &lt;th rowspan=&quot;2&quot; width=&quot;22%&quot;&gt;생산, 수집&lt;/th&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;width:18%&quot;&gt;재료&lt;/th&gt;
-      &lt;th style=&quot;width:7%&quot;&gt;개수&lt;/th&gt;      
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;8&quot;&gt;가공&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot;&gt;방직소&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot;&gt;아마 섬유&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot; class=&quot;line_height_130&quot;&gt;밧줄&lt;br /&gt;천&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;목재 톱니바퀴&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;재단사의 상점&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;12&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;철 막대&lt;br /&gt;가죽&lt;br /&gt;천&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;가벼운 갑옷&lt;br /&gt;패드 갑옷&lt;br /&gt;배낭&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;3&quot;&gt;화폐 주조소&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot; class=&quot;line_height_130&quot;&gt;구리&lt;br /&gt;은 막대&lt;br /&gt;석탄&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot; class=&quot;line_height_130&quot;&gt;구리 동전&lt;br /&gt;은 동전&lt;br /&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-     &lt;tr&gt;
-        &lt;td&gt;목재 톱니바퀴&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;  
-&lt;/div&gt;
-
-&lt;h3 id=&quot;방직소&quot;&gt;방직소&lt;/h3&gt;
-&lt;p&gt;방직공은 몇몇 건물의 건축에 사용되는 밧줄과 천을 생산합니다. 또한 천은 일부 갑옷에 사용되기도 합니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;건설 비용: 무른 나무 기둥 10개, 마름돌 8개, 목재 톱니바퀴 2개&lt;/li&gt;
-  &lt;li&gt;활용: 아마 섬유&lt;/li&gt;
-  &lt;li&gt;생산품: 밧줄, 천&lt;/li&gt;
-  &lt;li&gt;인원: 방직공 3명&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;재단사의-상점&quot;&gt;재단사의 상점&lt;/h3&gt;
-&lt;p&gt;재단사는 모험가가 착용할 갑옷과 탐험가와 일부 짐꾼들이 사용할 배낭을 만듭니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;건설 비용: 무른 나무 기둥 12개, 마름돌 8개&lt;/li&gt;
-  &lt;li&gt;활용: 가죽, 철 막대, 천&lt;/li&gt;
-  &lt;li&gt;생산품: 가벼운 갑옷, 패드 갑옷, 배낭&lt;/li&gt;
-  &lt;li&gt;인원: 재단사 3명&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;화폐-주조소&quot;&gt;화폐 주조소&lt;/h3&gt;
-&lt;p&gt;화폐 주조소에서 생산된 동전은 거래에 사용되거나 금고에 저장됩니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;건설 비용: 무른 나무 기둥 8개, 마름돌 10개, 목재 톱니바퀴 2개&lt;/li&gt;
-  &lt;li&gt;활용: 석탄, 구리, 은 막대&lt;/li&gt;
-  &lt;li&gt;생산품: 구리 동전, 은 동전&lt;/li&gt;
-  &lt;li&gt;인원: 화폐 주조자 3명&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;스팀 소개 페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;게임 공식 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.pioneersofpagonia.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.pioneersofpagonia.com/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;개발사 Youtube 채널
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@envision_entertainment&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.youtube.com/@envision_entertainment&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;개발사 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.envision-entertainment.de/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://www.envision-entertainment.de/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-            <pubDate>Fri, 05 Jan 2024 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-processing-building-info.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-processing-building-info.html</guid>
             
             <category>simulation</category>
             
