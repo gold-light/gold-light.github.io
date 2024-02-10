@@ -5,9 +5,95 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 01 Feb 2024 00:31:07 +0900</pubDate>
-        <lastBuildDate>Thu, 01 Feb 2024 00:31:07 +0900</lastBuildDate>
+        <pubDate>Sat, 10 Feb 2024 11:17:18 +0900</pubDate>
+        <lastBuildDate>Sat, 10 Feb 2024 11:17:18 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>[팰 월드] 금속-석탄 동시 채굴 거점 장소 추천 (feat.드릴북이)</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;]에서는 장비 아이템들을 만들려면 광물 채굴이 중요한데, 그 중에서 금속(Ore)과 석탄(Coal)을 동시에 채굴할 수 있는 거점 장소를 발견해서 추천 소개해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;금속-석탄-광석&quot;&gt;금속, 석탄 광석&lt;/h2&gt;
+&lt;p&gt;많은 사람들이 추천하는 장소인데, 실제로 찾아가보니 이렇게 금속 7덩이, 석탄 6덩이가 모여있습니다. 게다가 좁은 지형에 가까이 모여 있기 때문에 동시에 채굴하기 딱 좋은 장소입니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-ore-coal-mining-base-position-01.jpg&quot; alt=&quot;팰 월드(PalWorld)에서 금속과 석탄을 동시에 채굴할 수 있는 좋은 거점 장소 추천&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;채굴-거점-위치&quot;&gt;채굴 거점 위치&lt;/h2&gt;
+&lt;p&gt;대략 위치는 [&lt;strong&gt;186, -35&lt;/strong&gt;] 정도의 위치에 있습니다. 그냥 찾아가기에는 좀 높은 위치이기 때문에 날아서 가야합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-ore-coal-mining-base-position-02.jpg&quot; alt=&quot;팰 월드(PalWorld)에서 금속과 석탄을 동시에 채굴할 수 있는 좋은 거점 장소 추천&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;채굴-모습&quot;&gt;채굴 모습&lt;/h2&gt;
+&lt;p&gt;여기다 거점을 설치하고, [&lt;strong&gt;드릴북이&lt;/strong&gt;]를 배치해서 석탄을 캐고, [&lt;strong&gt;냥뱃&lt;/strong&gt;]은 금속을 캐도록 했습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-ore-coal-mining-base-position-03.jpg&quot; alt=&quot;팰 월드(PalWorld)에서 금속과 석탄을 동시에 채굴할 수 있는 좋은 거점 장소 추천&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;채굴-추천-팰-드릴북이-digtoise&quot;&gt;채굴 추천 팰: 드릴북이 (Digtoise)&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;석탄&lt;/strong&gt;]은 [&lt;strong&gt;채굴&lt;/strong&gt;] Lv.3이 되어야 채굴 가능하더군요. 그 중에서 다른 직업 적성은 없어서 오로지 [&lt;strong&gt;채굴&lt;/strong&gt;]에만 집중하는 팰이 바로 [&lt;strong&gt;드릴북이&lt;/strong&gt;]입니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;설명&quot;&gt;설명&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;드릴북이의 드릴&lt;/strong&gt;이란 이야기가 있다. 최강의 등딱지와 드릴을 가진 드릴북이가 모순에 관해 고민하는 도적적인 이야기다.&lt;/p&gt;
+
+&lt;h3 id=&quot;파트너-스킬&quot;&gt;파트너 스킬&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;드릴 크레셔: 발동하면 스핀 상태가 된다. 회전하면서 플레이어를 따라와 광석을 효율적으로 파괴한다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;직업-적성&quot;&gt;직업 적성&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;채굴: Lv.3&lt;/li&gt;
+  &lt;li&gt;식사량: 5개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;드롭하는-아이템&quot;&gt;드롭하는 아이템&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;금속 광석&lt;/li&gt;
+  &lt;li&gt;고급 팰 기름&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-ore-coal-mining-base-position-04.jpg&quot; alt=&quot;팰 월드(PalWorld)에서 금속과 석탄을 동시에 채굴할 수 있는 좋은 거점 장소 추천&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;서식-구역&quot;&gt;서식 구역&lt;/h3&gt;
+&lt;p&gt;[&lt;strong&gt;드릴북이&lt;/strong&gt;]의 서식 구역은 시작 거점과 화산 지역 사이의 위쪽 맵에 있는 위치에 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-ore-coal-mining-base-position-05.jpg&quot; alt=&quot;팰 월드(PalWorld)에서 금속과 석탄을 동시에 채굴할 수 있는 좋은 거점 장소 추천&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;스팀 소개 페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/1623730/Palworld/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/1623730/Palworld/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.pocketpair.jp/palworld&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.pocketpair.jp/palworld&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;개발사 Youtube 채널
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@pocketpair&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.youtube.com/@pocketpair&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 SNS
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/Palworld_JP&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://twitter.com/Palworld_JP&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Mon, 05 Feb 2024 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/palworld/palworld-ore-coal-mining-base-position.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/palworld/palworld-ore-coal-mining-base-position.html</guid>
+            
+            <category>simulation</category>
+            
+            <category>settlers</category>
+            
+            
+        </item>
         
         <item>
             <title>[팰 월드] 초반에 팰 스피어 자동으로 획득할 수 있는 초간단 방법 (feat.미호)</title>
@@ -1364,232 +1450,6 @@
             <pubDate>Sun, 07 Jan 2024 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-storage-and-trade-building-info.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-storage-and-trade-building-info.html</guid>
-            
-            <category>simulation</category>
-            
-            <category>settlers</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[파이오니어스 오브 파고니아] 인터페이스 - 장비 &amp; 훈련 건물 정보</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;세틀러(Settlers)&lt;/strong&gt; 원작자이자 개발자가 제작하고, 스팀(Steam)에서 &lt;strong&gt;얼리 액세스(Early Access, 앞서 해보기)&lt;/strong&gt;로 출시된 도시 건설 시뮬레이션 신작 &lt;strong&gt;파이오니어스 오브 파고니아(Pioneers of Pagonia)&lt;/strong&gt;의 인터페이스 중에서 일곱번째 [장비 &amp;amp; 훈련] 카테고리에 속하는 건물들의 정보를 정리해보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;장비--훈련&quot;&gt;장비 &amp;amp; 훈련&lt;/h2&gt;
-&lt;p&gt;[장비 &amp;amp; 훈련] 카테고리에는 [&lt;strong&gt;길드 집회소&lt;/strong&gt;], [&lt;strong&gt;도구 공장&lt;/strong&gt;], [&lt;strong&gt;목재 작업장&lt;/strong&gt;], [&lt;strong&gt;무기 공장&lt;/strong&gt;], [&lt;strong&gt;갑옷 공장&lt;/strong&gt;], [&lt;strong&gt;장인 대장장이&lt;/strong&gt;], [&lt;strong&gt;군사 학교&lt;/strong&gt;], [&lt;strong&gt;모험가 길드&lt;/strong&gt;] 등이 있습니다. 건물 이름이나 설명 등, 한글로 번역된 내용은 정식 출시가 되면 바뀔 수 있을 듯합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/pioneers-of-pagonia/pioneers-of-pagonia-interface-equipment-and-training-building-info-01.png&quot; alt=&quot;세틀러(Settlers) 개발자가 만든 신작 게임 파이오니어스 오브 파고니아(Pioneers Of Pagonia) 인터페이스중에서 [장비 &amp;amp; 훈련] 건물 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;div class=&quot;col-sm-12&quot;&gt;
-&lt;table class=&quot;simple_table align_left&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th rowspan=&quot;2&quot; width=&quot;16%&quot;&gt;카테고리&lt;/th&gt;
-      &lt;th rowspan=&quot;2&quot; width=&quot;17%&quot;&gt;건물&lt;/th&gt;
-      &lt;th colspan=&quot;2&quot; width=&quot;23%&quot;&gt;건설 비용&lt;/th&gt;
-      &lt;th rowspan=&quot;2&quot; width=&quot;22%&quot;&gt;활용&lt;/th&gt;
-      &lt;th rowspan=&quot;2&quot; width=&quot;22%&quot;&gt;생산, 수집&lt;/th&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;width:18%&quot;&gt;재료&lt;/th&gt;
-      &lt;th style=&quot;width:7%&quot;&gt;개수&lt;/th&gt;      
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;18&quot;&gt;장비 &amp;amp; 훈련&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;길드 집회소&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;6&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;도구 공장&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;단단한 나무 판자&lt;br /&gt;석탄, 구리, 철 막대&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;망치, 삽, 도끼, 곡괭이&lt;br /&gt;낫, 칼, 톱, 끌, 집게&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;목재 작업장&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;12&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;단단한 나무 판자&lt;br /&gt;밧줄&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;사냥용 활, 목재 투창, 목재 방패, 횃불, 목재 톱니바퀴&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;무기 공장&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;구리, 석탄&lt;br /&gt;철 막대&lt;br /&gt;은 막대&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;동 검, 철 창&lt;br /&gt;철 검, 은 칼&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;3&quot;&gt;갑옷 공장&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;4&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot; class=&quot;line_height_130&quot;&gt;석탄&lt;br /&gt;철 막대&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot; class=&quot;line_height_130&quot;&gt;철 방패&lt;br /&gt;쇠사슬 갑옷&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;시멘트&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;3&quot;&gt;장인 대장장이&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;4&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot; class=&quot;line_height_130&quot;&gt;횃불&lt;br /&gt;에메랄드&lt;br /&gt;은 칼&lt;br /&gt;루비&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot; class=&quot;line_height_130&quot;&gt;마법의 횃불&lt;br /&gt;마법의 칼&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;시멘트&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;군사 학교&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;모험가 길드&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;16&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;  
-&lt;/div&gt;
-
-&lt;h3 id=&quot;길드-집회소&quot;&gt;길드 집회소&lt;/h3&gt;
-&lt;p&gt;길드 집회소는 건축 노동자와 기능공에게 도구를 장착해주는 곳입니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;건설 비용: 무른 나무 기둥 6개, 마름돌 10개&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;도구-공장&quot;&gt;도구 공장&lt;/h3&gt;
-&lt;p&gt;도구 공장은 길드 집회소에서 노동자들이 장착하는 도구를 제작합니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;건설 비용: 무른 나무 기둥 8개, 마름돌 10개&lt;/li&gt;
-  &lt;li&gt;활용: 단단한 나무 판자, 석탄, 구리, 철 막대&lt;/li&gt;
-  &lt;li&gt;생산품: 망치, 삽, 도끼, 곡괭이, 낫, 칼, 톱, 끌, 집게&lt;/li&gt;
-  &lt;li&gt;인원: 대장장이 3명&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;목재-작업장&quot;&gt;목재 작업장&lt;/h3&gt;
-&lt;p&gt;목공업자는 단단한 나무와 밧줄을 사용해 기본 무기와 일부 도구를 만듭니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;건설 비용: 무른 나무 기둥 12개, 마름돌 8개&lt;/li&gt;
-  &lt;li&gt;활용: 단단한 나무 판자, 밧줄&lt;/li&gt;
-  &lt;li&gt;생산품: 사냥용 활, 목재 투창, 목재 방패, 횃불, 목재 톱니바퀴&lt;/li&gt;
-  &lt;li&gt;인원: 목공업자 3명&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;무기-공장&quot;&gt;무기 공장&lt;/h3&gt;
-&lt;p&gt;무기 공장에서는 군사 학교와 모험가 길드에서 새로운 경비병 등에게 장비하기 위한 무기를 제작합니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;건설 비용: 무른 나무 기둥 8개, 마름돌 10개&lt;/li&gt;
-  &lt;li&gt;활용: 구리, 석탄, 철 막대, 은 막대&lt;/li&gt;
-  &lt;li&gt;생산품: 동 검, 철 창, 철 검, 은 칼&lt;/li&gt;
-  &lt;li&gt;인원: 대장장이 3명&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;갑옷-공장&quot;&gt;갑옷 공장&lt;/h3&gt;
-&lt;p&gt;갑옷 공장에서는 군사 학교와 모험가 길드에서 새로운 경비병 등에게 장비하기 위한 갑옷과 방패를 제작합니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;건설 비용: 무른 나무 기둥 4개, 시멘트 12개, 마름돌 8개&lt;/li&gt;
-  &lt;li&gt;활용: 석탄, 철 막대&lt;/li&gt;
-  &lt;li&gt;생산품: 철 방패, 쇠사슬 갑옷&lt;/li&gt;
-  &lt;li&gt;인원: 대장장이 3명&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;장인-대장장이&quot;&gt;장인 대장장이&lt;/h3&gt;
-&lt;p&gt;장인 대장장이는 보석으로 장비를 정제해 마법이 부여된 매우 뛰어난 장비와 무기를 만들어냅니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;건설 비용: 무른 나무 기둥 4개, 마름돌 8개, 시멘트 12개&lt;/li&gt;
-  &lt;li&gt;활용: 횃불, 에메랄드, 은 칼, 루비&lt;/li&gt;
-  &lt;li&gt;생산품: 마법의 횃불, 마법의 칼&lt;/li&gt;
-  &lt;li&gt;인원: 대장장이 3명&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;군사-학교&quot;&gt;군사 학교&lt;/h3&gt;
-&lt;p&gt;군사 학교에서는 병사를 훈련 시키고, 갑옷과 무기를 장착시킬 수 있습니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;건설 비용: 무른 나무 기둥 10개, 마름돌 16개&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;모험가-길드&quot;&gt;모험가 길드&lt;/h3&gt;
-&lt;p&gt;모험가 길드에서는 모험가를 훈련시키고, 갑옷과 무기를 장착 시킬 수 있습니다.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;건설 비용: 무른 나무 기둥 10개, 마름돌 16개&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;스팀 소개 페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;게임 공식 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.pioneersofpagonia.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.pioneersofpagonia.com/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;개발사 Youtube 채널
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@envision_entertainment&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.youtube.com/@envision_entertainment&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;개발사 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.envision-entertainment.de/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://www.envision-entertainment.de/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-            <pubDate>Sat, 06 Jan 2024 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-equipment-and-training-building-info.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/simulation/pioneers-of-pagonia-interface-equipment-and-training-building-info.html</guid>
             
             <category>simulation</category>
             
