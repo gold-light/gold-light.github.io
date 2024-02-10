@@ -5,9 +5,61 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Feb 2024 18:24:28 +0900</pubDate>
-        <lastBuildDate>Sat, 10 Feb 2024 18:24:28 +0900</lastBuildDate>
+        <pubDate>Sat, 10 Feb 2024 18:52:40 +0900</pubDate>
+        <lastBuildDate>Sat, 10 Feb 2024 18:52:40 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>[팰 월드] 언어 설정 변경하는 방법</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;]에서 언어 설정을 변경해보려고 해도 게임 내에서는 설정 옵션을 찾을 수 없어서 어디서 변경할 수 있는지 확인해봤습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;언어-설정-변경-방법&quot;&gt;언어 설정 변경 방법&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;] 언어 설정 변경 방법은 스팀 클라이언트를 실행해서 [&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;]를 실행하는 화면에서 오른쪽 끝에 있는 설정 아이콘 (&lt;i class=&quot;fa-solid fa-gear&quot;&gt;&lt;/i&gt;)을 클릭한 후 [&lt;strong&gt;속성&lt;/strong&gt;] 메뉴를 선택합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-how-to-change-language-01.jpg&quot; alt=&quot;팰 월드(PalWorld)에서 유황 8덩이를 채굴할 수 있는 장소 추천&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[&lt;strong&gt;속성&lt;/strong&gt;] 화면 [&lt;strong&gt;일반&lt;/strong&gt;] 카테고리에서 [&lt;strong&gt;언어&lt;/strong&gt;] 설정을 변경할 수 있습니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-how-to-change-language-02.jpg&quot; alt=&quot;팰 월드(PalWorld)에서 유황 8덩이를 채굴할 수 있는 장소 추천&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;스팀 소개 페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/1623730/Palworld/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/1623730/Palworld/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.pocketpair.jp/palworld&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.pocketpair.jp/palworld&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;개발사 Youtube 채널
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@pocketpair&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.youtube.com/@pocketpair&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 SNS
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/Palworld_JP&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://twitter.com/Palworld_JP&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Fri, 09 Feb 2024 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/palworld/palworld-how-to-change-language.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/palworld/palworld-how-to-change-language.html</guid>
+            
+            <category>simulation</category>
+            
+            <category>settlers</category>
+            
+            
+        </item>
         
         <item>
             <title>[팰 월드] 유황 8덩이 채굴 장소 추천</title>
@@ -797,584 +849,6 @@
             <guid isPermaLink="true">https://cloudlog.kr/game/mobile/building-and-fighter-legend-item-seoul-sha-blade-play-movie.html</guid>
             
             <category>mobile</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[파이오니어스 오브 파고니아] 건물 정보 - 건설 비용, 생산품, 필요 물품 등 총정리</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;세틀러(Settlers)&lt;/strong&gt; 원작자이자 개발자가 제작하고, 스팀(Steam)에서 &lt;strong&gt;얼리 액세스(Early Access, 앞서 해보기)&lt;/strong&gt;로 출시된 도시 건설 시뮬레이션 신작 &lt;strong&gt;파이오니어스 오브 파고니아(Pioneers of Pagonia)&lt;/strong&gt; 건물들의 건설 비용, 생산품, 필요 물품 등 여러 정보를 정리했습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/pioneers-of-pagonia/pioneers-of-pagonia-buildings-information-01.png&quot; alt=&quot;세틀러(Settlers) 개발자가 만든 신작 게임 [파이오니어스 오브 파고니아] 건물들의 건설 비용, 생산품, 필요 물품 등 여러 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;전체-건물-정보&quot;&gt;전체 건물 정보&lt;/h2&gt;
-
-&lt;div class=&quot;col-sm-12&quot;&gt;
-&lt;table class=&quot;simple_table align_left&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th rowspan=&quot;2&quot; width=&quot;16%&quot;&gt;카테고리&lt;/th&gt;
-      &lt;th rowspan=&quot;2&quot; width=&quot;17%&quot;&gt;건물&lt;/th&gt;
-      &lt;th colspan=&quot;2&quot; width=&quot;23%&quot;&gt;건설 비용&lt;/th&gt;
-      &lt;th rowspan=&quot;2&quot; width=&quot;22%&quot;&gt;활용&lt;/th&gt;
-      &lt;th rowspan=&quot;2&quot; width=&quot;22%&quot;&gt;생산, 수집&lt;/th&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;width:18%&quot;&gt;재료&lt;/th&gt;
-      &lt;th style=&quot;width:7%&quot;&gt;개수&lt;/th&gt;      
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;6&quot;&gt;탐험 &amp;amp; 확장&lt;/td&gt;
-        &lt;td&gt;경비탑&lt;/td&gt;
-        &lt;td&gt;돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;6&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;        
-        &lt;td&gt;주둔지&lt;/td&gt;  
-        &lt;td&gt;돌&lt;/td&gt;  
-        &lt;td class=&quot;number_format&quot;&gt;16&lt;/td&gt; 
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;        
-        &lt;td rowspan=&quot;2&quot;&gt;군사 야영지&lt;/td&gt;   
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;  
-        &lt;td class=&quot;number_format&quot;&gt;2&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt; 
-    &lt;/tr&gt;
-    &lt;tr&gt;          
-        &lt;td&gt;천&lt;/td&gt;  
-        &lt;td class=&quot;number_format&quot;&gt;2&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt; 
-    &lt;/tr&gt;  
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;탐험가의 오두막&lt;/td&gt;
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;  
-        &lt;td class=&quot;number_format&quot;&gt;4&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;      
-    &lt;/tr&gt; 
-    &lt;tr&gt;          
-        &lt;td&gt;돌&lt;/td&gt;  
-        &lt;td class=&quot;number_format&quot;&gt;6&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt; 
-    &lt;/tr&gt; 
-    &lt;tr&gt;
-        &lt;td colspan=&quot;6&quot; style=&quot;background-color:#FFF;height:5px&quot;&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;11&quot;&gt;나무 &amp;amp; 돌&lt;/td&gt;
-        &lt;td&gt;벌목 오두막&lt;/td&gt;
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;6&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;장작, 무른 나무 몸통&lt;br /&gt;단단난 나무 몸통&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;        
-        &lt;td&gt;제재소&lt;/td&gt;  
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;  
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;무른 나무 몸통&lt;br /&gt;단단한 나무 몸통&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;장작, 무른 나무 기둥&lt;br /&gt;단단한 나무 판자&lt;/td&gt; 
-    &lt;/tr&gt;
-    &lt;tr&gt;        
-        &lt;td&gt;수목 관리원&lt;/td&gt;   
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;  
-        &lt;td class=&quot;number_format&quot;&gt;4&lt;/td&gt; 
-        &lt;td&gt;물&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;장작, 무른 나무&lt;br /&gt;단단한 나무&lt;/td&gt;
-    &lt;/tr&gt;  
-    &lt;tr&gt;
-        &lt;td&gt;채석장&lt;/td&gt;
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;  
-        &lt;td class=&quot;number_format&quot;&gt;4&lt;/td&gt; 
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;돌&lt;br /&gt;석회석&lt;/td&gt;     
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;석공&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;무른 나무 몸통&lt;/td&gt; 
-        &lt;td class=&quot;number_format line_height_130&quot;&gt;6&lt;/td&gt;       
-        &lt;td rowspan=&quot;2&quot;&gt;돌&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;경계돌&lt;br /&gt;마름돌&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;돌&lt;/td&gt; 
-        &lt;td class=&quot;number_format line_height_130&quot;&gt;6&lt;/td&gt; 
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;3&quot;&gt;석재 가공공장&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;무른 나무 몸통&lt;/td&gt;  
-        &lt;td class=&quot;number_format line_height_130&quot;&gt;10&lt;/td&gt;   
-        &lt;td rowspan=&quot;3&quot;&gt;석회석&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot; class=&quot;line_height_130&quot;&gt;시멘트&lt;/td&gt;   
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;마름돌&lt;/td&gt;  
-        &lt;td class=&quot;number_format line_height_130&quot;&gt;8&lt;/td&gt;   
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;목재 톱니바퀴&lt;/td&gt;  
-        &lt;td class=&quot;number_format line_height_130&quot;&gt;2&lt;/td&gt;   
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;건축 야영지&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;무른 나무 몸통&lt;/td&gt;   
-        &lt;td class=&quot;number_format line_height_130&quot;&gt;2&lt;/td&gt;     
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;천&lt;/td&gt;   
-        &lt;td class=&quot;number_format line_height_130&quot;&gt;2&lt;/td&gt;     
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&quot;6&quot; style=&quot;background-color:#FFF;height:5px&quot;&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;15&quot;&gt;음식 생산물&lt;/td&gt;
-        &lt;td&gt;채집 오두막&lt;/td&gt;
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;1&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;라즈베리, 포르치니&lt;br /&gt;장작, 아마 섬유&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;사냥 오두막&lt;/td&gt;
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;1&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;토끼 고기, 사슴 고기&lt;br /&gt;멧돼지 고기,가죽&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;채소 농장&lt;/td&gt;
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;5&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;호박&lt;br /&gt;양배추&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;작물 농장&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;물&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;옥수수&lt;br /&gt;아마 섬유&lt;br /&gt;밀&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;농지&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;우물&lt;/td&gt;
-        &lt;td&gt;돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;물&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;밧줄&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;4&quot;&gt;풍차&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;12&lt;/td&gt;
-        &lt;td rowspan=&quot;4&quot;&gt;밀&lt;/td&gt;
-        &lt;td rowspan=&quot;4&quot; class=&quot;line_height_130&quot;&gt;밀가루&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;목재 톱니바퀴&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;시멘트&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;천&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;4&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;빵집&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;12&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;밀가루&lt;br /&gt;물&lt;br /&gt;장작&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;빵&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;시멘트&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&quot;6&quot; style=&quot;background-color:#FFF;height:5px&quot;&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;13&quot;&gt;인구 &amp;amp; 식사&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;별장&lt;/td&gt;
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;3&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;거주지&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;6&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;6&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;식량 공급기&lt;/td&gt;
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;4&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;빵, 장작&lt;br /&gt;멧돼지 고기&lt;br /&gt;사슴 고기&lt;br /&gt;토끼 고기&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;식량&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;4&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;시장 분수대&lt;/td&gt;
-        &lt;td&gt;돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;6&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;시장 가판대&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;1&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;천&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;선술집&lt;/td&gt;
-        &lt;td&gt;무는 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;4&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-     &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;선술집 테이블&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;1&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;천&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&quot;6&quot; style=&quot;background-color:#FFF;height:5px&quot;&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;6&quot;&gt;채굴&lt;/td&gt;
-        &lt;td&gt;구리 오두막&lt;/td&gt;
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;6&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;석탄 오두막&lt;/td&gt;
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;6&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;철 오두막&lt;/td&gt;
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;6&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;은 오두막&lt;/td&gt;
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;6&lt;/td&gt;
-        &lt;td&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;제련소&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;12&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;철 광석&lt;br /&gt;은 광석&lt;br /&gt;석탄&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;철 막대&lt;br /&gt;은 막대&lt;br /&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&quot;6&quot; style=&quot;background-color:#FFF;height:5px&quot;&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;8&quot;&gt;가공&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot;&gt;방직소&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot;&gt;아마 섬유&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot; class=&quot;line_height_130&quot;&gt;밧줄&lt;br /&gt;천&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;목재 톱니바퀴&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;재단사의 상점&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;12&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;철 막대&lt;br /&gt;가죽&lt;br /&gt;천&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;가벼운 갑옷&lt;br /&gt;패드 갑옷&lt;br /&gt;배낭&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;3&quot;&gt;화폐 주조소&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot; class=&quot;line_height_130&quot;&gt;구리&lt;br /&gt;은 막대&lt;br /&gt;석탄&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot; class=&quot;line_height_130&quot;&gt;구리 동전&lt;br /&gt;은 동전&lt;br /&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-     &lt;tr&gt;
-        &lt;td&gt;목재 톱니바퀴&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&quot;6&quot; style=&quot;background-color:#FFF;height:5px&quot;&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;18&quot;&gt;장비 &amp;amp; 훈련&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;길드 집회소&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;6&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;도구 공장&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;단단한 나무 판자&lt;br /&gt;석탄, 구리, 철 막대&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;망치, 삽, 도끼, 곡괭이&lt;br /&gt;낫, 칼, 톱, 끌, 집게&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;목재 작업장&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;12&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;단단한 나무 판자&lt;br /&gt;밧줄&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;사냥용 활, 목재 투창, 목재 방패, 횃불, 목재 톱니바퀴&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;무기 공장&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;구리, 석탄&lt;br /&gt;철 막대&lt;br /&gt;은 막대&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;동 검, 철 창&lt;br /&gt;철 검, 은 칼&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;3&quot;&gt;갑옷 공장&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;4&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot; class=&quot;line_height_130&quot;&gt;석탄&lt;br /&gt;철 막대&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot; class=&quot;line_height_130&quot;&gt;철 방패&lt;br /&gt;쇠사슬 갑옷&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;시멘트&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;3&quot;&gt;장인 대장장이&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;4&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot; class=&quot;line_height_130&quot;&gt;횃불&lt;br /&gt;에메랄드&lt;br /&gt;은 칼&lt;br /&gt;루비&lt;/td&gt;
-        &lt;td rowspan=&quot;3&quot; class=&quot;line_height_130&quot;&gt;마법의 횃불&lt;br /&gt;마법의 칼&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;시멘트&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;군사 학교&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;모험가 길드&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;10&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;16&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td colspan=&quot;6&quot; style=&quot;background-color:#FFF;height:5px&quot;&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;8&quot;&gt;저장고 &amp;amp; 거래&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;저장고&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;1&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;천&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;금고&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;12&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;16&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;상인의 야영지&lt;/td&gt;
-        &lt;td&gt;무른 나무 몸통&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;2&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;천&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;교역소&lt;/td&gt;
-        &lt;td&gt;무른 나무 기둥&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;4&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot;&gt;&amp;nbsp;&lt;/td&gt;
-        &lt;td rowspan=&quot;2&quot; class=&quot;line_height_130&quot;&gt;&amp;nbsp;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;마름돌&lt;/td&gt;
-        &lt;td class=&quot;number_format&quot;&gt;6&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;  
-&lt;/div&gt;
-
-&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;스팀 소개 페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/2155180/Pioneers_of_Pagonia/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;게임 공식 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.pioneersofpagonia.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.pioneersofpagonia.com/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;개발사 Youtube 채널
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@envision_entertainment&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.youtube.com/@envision_entertainment&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;개발사 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.envision-entertainment.de/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;http://www.envision-entertainment.de/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-            <pubDate>Mon, 08 Jan 2024 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/simulation/pioneers-of-pagonia-buildings-information.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/simulation/pioneers-of-pagonia-buildings-information.html</guid>
-            
-            <category>simulation</category>
-            
-            <category>settlers</category>
             
             
         </item>
