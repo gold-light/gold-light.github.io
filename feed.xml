@@ -5,9 +5,110 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 10 Feb 2024 18:52:40 +0900</pubDate>
-        <lastBuildDate>Sat, 10 Feb 2024 18:52:40 +0900</lastBuildDate>
+        <pubDate>Sun, 11 Feb 2024 19:33:53 +0900</pubDate>
+        <lastBuildDate>Sun, 11 Feb 2024 19:33:53 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>[인슈라오디드] 최저 사양 : GTX 750Ti ? 1050Ti ?</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;요즘 [&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;]에 이어서 화제가 되고 있는 오픈 월드 생존 RPG 게임인 [&lt;strong&gt;인슈라오디드(Enshrouded)&lt;/strong&gt;]를 구매 후 플레이 해보려고 했는데 실행이 되지 않길래 대체 최소 사양이 어느 정도이길래 [&lt;strong&gt;디아블로 4(Diablo 4)&lt;/strong&gt;], [&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;] 모두 잘 실행되는데 [&lt;strong&gt;인슈라오디드(Enshrouded)&lt;/strong&gt;]만 실행이 안되는 걸까 싶어서 최소 사양을 확인해봤습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;시스템-요구-사항&quot;&gt;시스템 요구 사항&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;스팀&lt;/strong&gt;] 소개 페이지에 나왔있는 [&lt;strong&gt;인슈라오디드(Enshrouded)&lt;/strong&gt;]의 시스템 요구 사항을 확인해보면 다음과 같습니다. 이 중에서 눈에 띄는 것은 [&lt;strong&gt;req. 6GB VRAM&lt;/strong&gt;] 이 부분으로 그래픽카드 메모리를 많이 요구하는 것을 알 수 있었습니다.&lt;/p&gt;
+
+&lt;p&gt;물론 이 사양은 개발사에서 안정적으로 플레이 하기 위한 최소, 권장 사양이므로 이 보다 낮은 사양에서도 플레이 가능한 경우도 많기 때문에 구매 후 플레이 해보려고 했습니다.&lt;/p&gt;
+
+&lt;table class=&quot;simple_table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;항목&lt;/th&gt;
+      &lt;th&gt;PC 최소 사양&lt;/th&gt;
+      &lt;th&gt;PC 권장 사양&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;    
+    &lt;tr&gt;&lt;td&gt;운영 체제&lt;/td&gt;&lt;td&gt;64비트 Windows 10&lt;/td&gt;&lt;td&gt;64비트 Windows 10&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;프로세서&lt;/td&gt;&lt;td&gt;Intel Core i5-6400 (2.7 GHz 4Core) &lt;br /&gt;&lt;br /&gt; AMD Ryzen 5 1500X (3.5 GHz 4 Core) or equivalent&lt;/td&gt;&lt;td&gt;Intel i7-8700 (3.7 GHz 6 Core) &lt;br /&gt;&lt;br /&gt; AMD Ryzen 7 2700X (3.7 GHz 8 Core) or equivalent&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;메모리&lt;/td&gt;&lt;td&gt;16GB RAM&lt;/td&gt;&lt;td&gt;16GB RAM&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;그래픽&lt;/td&gt;&lt;td&gt;NVIDIA GeForce GTX 1060 (req. 6GB VRAM) &lt;br /&gt;&lt;br /&gt; AMD Radeon RX 580 (req. 6GB VRAM)&lt;/td&gt;&lt;td&gt;NVIDIA RTX 2070 Super (req. 6GB VRAM) &lt;br /&gt;&lt;br /&gt; AMD Radeon RX 6700 XT (req. 6GB VRAM)&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;저장공간&lt;/td&gt;&lt;td&gt;60GB 사용 가능 공간&lt;/td&gt;&lt;td&gt;60GB 사용 가능 공간&lt;/td&gt;&lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/enshrouded/enshrouded-minimum-system-requirements-info-04.jpg&quot; alt=&quot;인슈라오디드(Enshrouded)를 플레이 하기 위한 PC 최저 사양 정보를 확인해보았습니다. GTX 750Ti? 아니면 1050Ti?&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;플레이-pc-사양&quot;&gt;플레이 PC 사양&lt;/h2&gt;
+&lt;p&gt;제가 사용하는 PC는 아주 오래전에 구매했었는데, 중간에 메모리랑 그래픽 카드만 업그레이드 한번 했었습니다.
+이 PC로 [디아블로3], [디아블로2 레저렉션], [디아블로 이모탈], [디아블로4], [히트2], [블레스 언리쉬드], [문명6], [로스트아크], [팰 월드], [파이오니어스 오브 파고니아] 등을 플레이했습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;운영 체제: 64비트 Windows 10&lt;/li&gt;
+  &lt;li&gt;프로세서: Intel Core i5-4570 CPU 3.20GHz&lt;/li&gt;
+  &lt;li&gt;메모리: 16GB RAM&lt;/li&gt;
+  &lt;li&gt;그래픽: NVIDIA GeForce GTX 750 Ti&lt;/li&gt;
+  &lt;li&gt;디스크: WD SSD 500G&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;실행-불가-메시지&quot;&gt;실행 불가 메시지&lt;/h2&gt;
+&lt;p&gt;게임을 실행하면 아래와 같이 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;그래픽 메모리가 너무 낮습니다.&lt;/code&gt;&lt;/strong&gt; 라는 오류 메시지가 뜨면서 실행이 되지 않았습니다. 그나마 최근에 패치가 되면서 오류 메시지가 정확히 나타는 것이지, 처음에는 검은 화면에 마우스 포인트만 보이다가 게임이 종료되는 당황스러운 상황만 지속되었습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/enshrouded/enshrouded-minimum-system-requirements-info-01.jpg&quot; alt=&quot;인슈라오디드(Enshrouded)를 플레이 하기 위한 PC 최저 사양 정보를 확인해보았습니다. GTX 750Ti? 아니면 1050Ti?&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;geforce-gtx-750-ti-정보&quot;&gt;GeForce GTX 750 Ti 정보&lt;/h2&gt;
+&lt;p&gt;그래서 현재 그래픽 카드인 [&lt;strong&gt;GeForce GTX 750 Ti&lt;/strong&gt;]의 정보를 확인해보았습니다.&lt;br /&gt;
+확인해봤더니 아래 스샷처럼 [&lt;strong&gt;전용 비디오 메모리&lt;/strong&gt;]가 [&lt;strong&gt;2GB&lt;/strong&gt;] 인 것을 알 수 있었습니다. 즉, 공식 소개 페이지에 나와있던 시스템 요구사항에서 확인했 듯이 그래픽카드의 메모리가 매우 중요하다는 것을 다시 한번 확인할 수 있었습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/enshrouded/enshrouded-minimum-system-requirements-info-02.jpg&quot; alt=&quot;인슈라오디드(Enshrouded)를 플레이 하기 위한 PC 최저 사양 정보를 확인해보았습니다. GTX 750Ti? 아니면 1050Ti?&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;geforce-gtx-1050-ti-정보&quot;&gt;GeForce GTX 1050 Ti 정보&lt;/h2&gt;
+&lt;p&gt;플레이 할 수 없으니 환불을 해야 하나 고민하다가 회사에 있는 PC는 [&lt;strong&gt;GTX 1050 Ti&lt;/strong&gt;] 그래픽카드가 장착되어 있으므로 혹시 가능할까 싶어서 그래픽카드 정보를 확인해보았더니 [&lt;strong&gt;전용 비디오 메모리&lt;/strong&gt;]가 [&lt;strong&gt;4GB&lt;/strong&gt;]였습니다. 다행히도 [&lt;strong&gt;GTX 1050 Ti&lt;/strong&gt;]에서는 무사히 실행되었고, 새 그래픽카드를 구매하기 전까지 당분간은 회사에서 플레이 해보기로 했습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/enshrouded/enshrouded-minimum-system-requirements-info-03.jpg&quot; alt=&quot;인슈라오디드(Enshrouded)를 플레이 하기 위한 PC 최저 사양 정보를 확인해보았습니다. GTX 750Ti? 아니면 1050Ti?&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;플레이-화면&quot;&gt;플레이 화면&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;GTX 1050 Ti&lt;/strong&gt;] 그래픽카드에서 플레이 해봤는데 이런 화면이었습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/enshrouded/enshrouded-minimum-system-requirements-info-05.jpg&quot; alt=&quot;인슈라오디드(Enshrouded)를 플레이 하기 위한 PC 최저 사양 정보를 확인해보았습니다. GTX 750Ti? 아니면 1050Ti?&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;결론&quot;&gt;결론&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;인슈라오디드(Enshrouded)&lt;/strong&gt;]을 플레이 하기 위한 최소 사양은 [&lt;strong&gt;GTX 1050 Ti - 4GB VRAM&lt;/strong&gt;]인데, 조금 더 안정적으로 플레이 하기 위해서는 [&lt;strong&gt;GTX 1060&lt;/strong&gt;] 이상에 가능하면 &lt;strong&gt;6GB VRAM&lt;/strong&gt;이 장착된 그래픽카드를 사용하는 것이 좋을 듯합니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;스팀 소개 페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/1203620/Enshrouded/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/1203620/Enshrouded/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://enshrouded.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://enshrouded.com/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 Youtube 채널
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@enshroudedgame&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.youtube.com/@enshroudedgame&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;개발사 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.keengames.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.keengames.com/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Sat, 10 Feb 2024 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/survival/enshrouded-minimum-system-requirements-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/survival/enshrouded-minimum-system-requirements-info.html</guid>
+            
+            <category>survival</category>
+            
+            <category>settlers</category>
+            
+            
+        </item>
         
         <item>
             <title>[팰 월드] 언어 설정 변경하는 방법</title>
@@ -761,92 +862,6 @@
             <pubDate>Wed, 10 Jan 2024 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/mobile/building-and-fighter-legend-item-seoul-jamsil-saenae-fist-of-sun-play-movie.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/mobile/building-and-fighter-legend-item-seoul-jamsil-saenae-fist-of-sun-play-movie.html</guid>
-            
-            <category>mobile</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[빌딩앤파이터] B전용 전설 무기 [서울 샤검] 플레이 후기와 영상</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;넥슨(Nexon)의 위치기반 모바일 게임 [&lt;strong&gt;빌딩앤파이터&lt;/strong&gt;]의 B전용 전설 무기 [서울 샤검] 플레이 후기와 영상 정보에 대해 정리해보겠습니다.&lt;br /&gt;
-우선 무기 제작과정부터 살펴보고 이후에 플레이 후기와 영상은 아래쪽에서 확인할 수 있습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;서울-샤검-제작&quot;&gt;서울 샤검 제작&lt;/h2&gt;
-&lt;p&gt;필요한 재료를 모두 모아서 서울 샤검을 제작해보겠습니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Lv.40 B 유니크 무기 1개&lt;/li&gt;
-  &lt;li&gt;강철 1,800개&lt;/li&gt;
-  &lt;li&gt;희토류 240개&lt;/li&gt;
-  &lt;li&gt;장비결정: 무기 1,200개&lt;/li&gt;
-  &lt;li&gt;서울 설렁탕 1개&lt;/li&gt;
-  &lt;li&gt;강화 인삼 삼계탕 1개&lt;/li&gt;
-  &lt;li&gt;수원 왕갈비 1개&lt;/li&gt;
-  &lt;li&gt;용인 백암순대 1개&lt;/li&gt;
-  &lt;li&gt;고양 털레기 1개&lt;/li&gt;
-  &lt;li&gt;제작 비용: 12,000 달러&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-legend-item-seoul-sha-blade-03.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 B전용 전설 무기 [서울 샤검] 플레이 후기와 영상 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;재료가 될 Lv.40 B 유니크 무기 1개를 아무거나 선택합니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-legend-item-seoul-sha-blade-04.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 B전용 전설 무기 [서울 샤검] 플레이 후기와 영상 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;서울-샤검-정보&quot;&gt;서울 샤검 정보&lt;/h2&gt;
-&lt;p&gt;제작이 완료되었고, 아래와 같은 공격력과 치명타 확률이 확정되었습니다. 다만 아쉽게도 3소켓이 되었네요.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;레벨: Lv.40&lt;/li&gt;
-  &lt;li&gt;공격력: 508&lt;/li&gt;
-  &lt;li&gt;치명타 확률: 8.6%&lt;/li&gt;
-  &lt;li&gt;스킬: 적에게 [직접, 칼날] 860% 피해를 줍니다. 카운터 타격 상황에서 발동합니다. (재사용 대기시간: 10초)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-legend-item-seoul-sha-blade-05.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 B전용 전설 무기 [서울 샤검] 플레이 후기와 영상 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;스킬-샤샤샤-아이콘&quot;&gt;스킬 샤샤샤! 아이콘&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;서울 샤검&lt;/strong&gt;]을 장착하면 아래와 같이 원래는 비어있는 공간에 스킬 아이콘이 추가됩니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-legend-item-seoul-sha-blade-06.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 B전용 전설 무기 [서울 샤검] 플레이 후기와 영상 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;스킬-발동&quot;&gt;스킬 발동&lt;/h2&gt;
-&lt;p&gt;스킬이 발동되면 아래와 같이 아이콘이 변하면서 쿨타임 진행바가 동작합니다.&lt;br /&gt;
-그런데 스킬이 카운터 상황에서 발동되는 것이기 때문에 직접 발동시킬 수가 없고, 스킬의 이펙트도 별도로 존재하지 않는 것 같다보니 스킬이 제대로 발동되었는지 알 수가 없습니다. 데미지 표시가 뜨지만 대체 어떤 것이 [&lt;strong&gt;서울 샤검&lt;/strong&gt;] 스킬이 발동된 데미지인지 알 수가 없습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-legend-item-seoul-sha-blade-07.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 B전용 전설 무기 [서울 샤검] 플레이 후기와 영상 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;결론&quot;&gt;결론&lt;/h2&gt;
-&lt;p&gt;스킬이 발동되는지 알 수도 없고, 수동으로 발동 시킬 수도 없고, 어느 정도 데미지가 나오는지 눈으로 확인도 되지 않다보니 과연 이 무기를 계속 사용해야 하는지 의문이 듭니다. 그래서 결국 다른 무기를 얻게 되면 바꾸고 싶습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;플레이-영상&quot;&gt;플레이 영상&lt;/h2&gt;
-
-&lt;div class=&quot;video-wrap&quot;&gt;
-  &lt;iframe width=&quot;845&quot; height=&quot;475&quot; src=&quot;https://www.youtube.com/embed/8MMYKvpiqhE&quot; title=&quot;빌딩앤파이터 B전용 전설 무기 [서울 샤검] 플레이 영상&quot; style=&quot;border:0;&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;빌딩앤파이터-공식-채널&quot;&gt;빌딩앤파이터 공식 채널&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;빌딩앤파이터 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://bnf.nexon.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://bnf.nexon.com/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;빌딩앤파이터 커뮤니티
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://forum.nexon.com/bnf/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://forum.nexon.com/bnf/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-            <pubDate>Tue, 09 Jan 2024 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/mobile/building-and-fighter-legend-item-seoul-sha-blade-play-movie.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/mobile/building-and-fighter-legend-item-seoul-sha-blade-play-movie.html</guid>
             
             <category>mobile</category>
             
