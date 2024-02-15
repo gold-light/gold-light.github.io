@@ -5,9 +5,67 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 12 Feb 2024 11:54:22 +0900</pubDate>
-        <lastBuildDate>Mon, 12 Feb 2024 11:54:22 +0900</lastBuildDate>
+        <pubDate>Thu, 15 Feb 2024 23:03:31 +0900</pubDate>
+        <lastBuildDate>Thu, 15 Feb 2024 23:03:31 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>[인슈라오디드] 한손 도끼 - 토마호크 : 희귀-비범 등급 비교</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;요즘 [&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;]에 이어서 화제가 되고 있는 오픈 월드 생존 RPG 게임인 [&lt;strong&gt;인슈라오디드(Enshrouded)&lt;/strong&gt;]에서 획득한 한손 도끼 [&lt;strong&gt;토마호크&lt;/strong&gt;]의 희귀(Rare)와 비범(Uncommon) 등급을 비교해봤습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/enshrouded/enshrouded-ucommon-weapon-hatchet-info-02.jpg&quot; alt=&quot;인슈라오디드(Enshrouded)에서 한손 도끼 토마호크의 희귀와 비범 등급 비교 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;토마호크-hatchet&quot;&gt;토마호크 (Hatchet)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;근접무기 (Melee Weapon)&lt;/li&gt;
+  &lt;li&gt;등급: 비범 (Uncommon)&lt;/li&gt;
+  &lt;li&gt;14 피해&lt;/li&gt;
+  &lt;li&gt;250 최대 내구도&lt;/li&gt;
+  &lt;li&gt;+2 절단 피해&lt;/li&gt;
+  &lt;li&gt;+2 둔기 피해&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;+2 절단 피해&lt;/code&gt;&lt;/strong&gt; (희귀 전용 옵션)&lt;/li&gt;
+  &lt;li&gt;다용로로 사용하는 한손 도끼입니다. 적의 두개골을 가를 때 자주 사용합니다.&lt;/li&gt;
+  &lt;li&gt;A versatile one-handed axe. Frequently used to split the skulls of enemies.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;위에서 확인했듯이 희귀 등급은 비범 등급보다 [&lt;strong&gt;+2 절단 피해&lt;/strong&gt;] 옵션이 추가되는 것을 확인할 수 있습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;스팀 소개 페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/1203620/Enshrouded/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/1203620/Enshrouded/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://enshrouded.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://enshrouded.com/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;게임 공식 Youtube 채널
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@enshroudedgame&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.youtube.com/@enshroudedgame&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;개발사 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.keengames.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.keengames.com/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Tue, 13 Feb 2024 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/survival/enshrouded-weapon-hatchet-rare-uncommon-compare.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/survival/enshrouded-weapon-hatchet-rare-uncommon-compare.html</guid>
+            
+            <category>survival</category>
+            
+            <category>settlers</category>
+            
+            
+        </item>
         
         <item>
             <title>[인슈라오디드] 첫번째 비범 무기 - 토마호크 정보</title>
@@ -660,140 +718,6 @@
             <category>simulation</category>
             
             <category>settlers</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>디아블로4 시즌3 - 청지기 획득 방법, 퀘스트 플레이 영상</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;디아블로4 (Diablo 4) 시즌3 [&lt;strong&gt;피조물의 시즌&lt;/strong&gt;] (Season of Construct)의 핵심인 [&lt;strong&gt;청지기&lt;/strong&gt;] (seneschal Construct) 동료를 얻는 시즌 퀘스트 진행 방법 정보를 간단히 정리해보겠습니다. 전체 플레이 영상은 아래쪽에 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-00.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;시작-위치--케지스탄-게아쿨&quot;&gt;시작 위치 : 케지스탄 게아쿨&lt;/h2&gt;
-&lt;p&gt;시즌3 [&lt;strong&gt;피조물의 시즌&lt;/strong&gt;]의 시작 위치는 [&lt;strong&gt;케지스탄&lt;/strong&gt;]지역의 [&lt;strong&gt;게아 쿨&lt;/strong&gt;]입니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;퀘스트-시작&quot;&gt;퀘스트 시작&lt;/h2&gt;
-&lt;p&gt;시작 위치에서 위쪽으로 올라가면 NPC [&lt;strong&gt;오트세그&lt;/strong&gt;]를 만날 수 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[&lt;strong&gt;오트세그&lt;/strong&gt;] 위치에서 왼쪽으로 가보면 [&lt;strong&gt;수수께끼의 룬석&lt;/strong&gt;]을 얻으면 퀘스트 장소를 알려줍니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;곪은-상처-발굴된-지하전당-찾기&quot;&gt;곪은 상처: 발굴된 지하전당 찾기&lt;/h2&gt;
-&lt;p&gt;퀘스트 장소인 [&lt;strong&gt;발굴된 지하전당&lt;/strong&gt;] 위치는 [&lt;strong&gt;게아 쿨&lt;/strong&gt;]에서 1시 방향으로 쭉 위로 올라가면 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-04.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;발굴된-지하전당&quot;&gt;발굴된 지하전당&lt;/h2&gt;
-&lt;p&gt;퀘스트 위치에 도착하면 아래 스샷처럼 갈라진 땅에 [&lt;strong&gt;발굴된 지하전당&lt;/strong&gt;]이 있는 것을 확인할 수 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-05.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;지하전당 던전을 들어가보면 아래와 같이 [&lt;strong&gt;반지의 제왕&lt;/strong&gt;]에 나오는 [&lt;strong&gt;사우론&lt;/strong&gt;]의 눈 같이 생긴 포탈로 이동합니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-06.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;다음으로 [&lt;strong&gt;미지로 통하는 문&lt;/strong&gt;]으로 들어갑니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-07.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;드디어 보스몹 [&lt;strong&gt;빙의된 원소술사 아유잔&lt;/strong&gt;]을 만나게 됩니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-08.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;빙의된 [&lt;strong&gt;아유잔&lt;/strong&gt;]을 물리치면 정신을 차린 [&lt;strong&gt;아유잔&lt;/strong&gt;]이 청지기를 소개해줍니다. 이렇게 시작하자마자 청지기를 얻을 수 있을지 몰랐는데, 이렇게 빨리 얻을 수 있었서 좋았습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-09.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;청지기-특징&quot;&gt;청지기 특징&lt;/h2&gt;
-&lt;p&gt;청지기의 능력, 스킬을 설정하고 강화하는 방식이 POE(패스오브엑자일)과 조금 닮은 것 같습니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;청지기 피조물은 든든한 동료입니다. 죽지는 않지만 비틀거릴 수 있습니다.&lt;/li&gt;
-  &lt;li&gt;피조물 탭 아래의 소지품 창에서 피조물을 원하는대로 설정할 수 있습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-10.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;지배석을 지정하여 피조물의 능력을 선택할 수 있습니다. 지시석을 통해 이 능력을 개조할 수 있습니다.&lt;/li&gt;
-  &lt;li&gt;동일한 지배석과 지시석을 획득하여 해당 지배석 또는 지시석을 업그레이드할 수 있습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-11.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;청지기-피조물-탭&quot;&gt;청지기 피조물 탭&lt;/h2&gt;
-&lt;p&gt;청지기 피조물의 탭 위치는 [&lt;strong&gt;장비&lt;/strong&gt;] 화면 제일 왼쪽에 있는 탭입니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-12.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;지배석-지시석-장착&quot;&gt;지배석, 지시석 장착&lt;/h2&gt;
-&lt;p&gt;청지기 피조물의 탭에서 [&lt;strong&gt;지배석&lt;/strong&gt;]과 [&lt;strong&gt;지시석&lt;/strong&gt;]을 끌어다 장착시키면 됩니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;우선 [&lt;strong&gt;지배석&lt;/strong&gt;]을 먼저 장착 시킵니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-13.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;다음으로 원하는 [&lt;strong&gt;지시석&lt;/strong&gt;]을 장착 시킵니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-14.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;지배석-지시석-효과-속성&quot;&gt;지배석-지시석 효과, 속성&lt;/h2&gt;
-&lt;p&gt;지배석과 지시석을 모두 장착 시키면 어떤 효과와 속성이 있는지 확인해보겠습니다.&lt;/p&gt;
-
-&lt;h3 id=&quot;번갯불&quot;&gt;번갯불&lt;/h3&gt;
-&lt;p&gt;대상에게 &lt;strong&gt;286&lt;/strong&gt;의 피해를 주는 번개 줄기를 발사합니다. &lt;strong&gt;1&lt;/strong&gt;마리의 추가 대상에게 튕기며 원래 피해의 &lt;strong&gt;35%&lt;/strong&gt;만큼 피해를 줍니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;피해량의 &lt;strong&gt;50%&lt;/strong&gt;가 번개 피해로 적용됩니다.&lt;/li&gt;
-  &lt;li&gt;처음 피해를 줄 때 &lt;strong&gt;2&lt;/strong&gt;의 주 자원을 얻습니다.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;4.0&lt;/strong&gt;초간 적을 자동으로 추적합니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-15.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;선회&quot;&gt;선회&lt;/h3&gt;
-&lt;p&gt;청지기 피조물이 다리를 빠르게 회전시켜 주위의 모든 적에게 &lt;strong&gt;749&lt;/strong&gt;의 피해를 줍니다.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;피해량의 &lt;strong&gt;50%&lt;/strong&gt;가 연소 피해로 적용됩니다.&lt;/li&gt;
-  &lt;li&gt;적을 &lt;strong&gt;2.2&lt;/strong&gt;초 동안 도발합니다.&lt;/li&gt;
-  &lt;li&gt;사용 시 플레이어에게 보강을 부여합니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season3-season-of-construct-quest-play-16.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌3 피조물의 시즌에서 청지기를 획득하는 퀘스트 플레이 영상&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;플레이-영상&quot;&gt;플레이 영상&lt;/h2&gt;
-
-&lt;div class=&quot;video-wrap&quot;&gt;
-  &lt;iframe width=&quot;845&quot; height=&quot;475&quot; src=&quot;https://www.youtube.com/embed/yKGZyj_6gME&quot; title=&quot;[디아블로4] 시즌3 - 청지기 획득 방법, 퀘스트 플레이 영상&quot; style=&quot;border:0;&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-            <pubDate>Wed, 24 Jan 2024 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/diablo/diablo4-season3-season-of-construct-quest-seneschal.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-season3-season-of-construct-quest-seneschal.html</guid>
-            
-            <category>diablo</category>
             
             
         </item>
