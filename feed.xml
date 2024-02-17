@@ -5,9 +5,91 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Feb 2024 23:03:31 +0900</pubDate>
-        <lastBuildDate>Thu, 15 Feb 2024 23:03:31 +0900</lastBuildDate>
+        <pubDate>Sun, 18 Feb 2024 00:05:34 +0900</pubDate>
+        <lastBuildDate>Sun, 18 Feb 2024 00:05:34 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>[빌딩앤파이터] 해피 전용 에픽 무기 [럭키 참] 정보, 제작재료</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;넥슨(Nexon)의 위치기반 모바일 게임 [&lt;strong&gt;빌딩앤파이터&lt;/strong&gt;]의 부하 캐릭터 [&lt;strong&gt;해피&lt;/strong&gt;] 전용 에픽 무기 [&lt;strong&gt;럭키 참&lt;/strong&gt;]의 정보와 제작재료, 에픽과 전설 스펙을 비교해봤습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;제작-재료&quot;&gt;제작 재료&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;해피&lt;/strong&gt;] 전용 에픽 무기 [&lt;strong&gt;럭키 참&lt;/strong&gt;]을 제작하려면 우선 [&lt;strong&gt;럭키 참 제작서&lt;/strong&gt;]를 구해야 합니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;전설 럭키 참 1개&lt;/li&gt;
+  &lt;li&gt;강철 5,400개&lt;/li&gt;
+  &lt;li&gt;희토류 480개&lt;/li&gt;
+  &lt;li&gt;부하장비 결정: 무기 3,600개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-epic-item-lucky-charm-for-happy-01.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 해피 전용 에픽 무기 [럭키 참] 정보, 제작재료&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;스펙-비교&quot;&gt;스펙 비교&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;해피&lt;/strong&gt;] 전용 무기 [&lt;strong&gt;럭키 참&lt;/strong&gt;]의 &lt;strong&gt;에픽&lt;/strong&gt; 버전과 &lt;strong&gt;전설&lt;/strong&gt; 버전의 스펙을 비교해봤습니다.&lt;/p&gt;
+
+&lt;table class=&quot;simple_table&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;항목&lt;/th&gt;
+      &lt;th&gt;에픽&lt;/th&gt;
+      &lt;th&gt;전설&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+        &lt;td&gt;공격력&lt;/td&gt;
+        &lt;td&gt;560 ~ 616&lt;/td&gt;
+        &lt;td&gt;482 ~ 534&lt;/td&gt;
+    &lt;/tr&gt; 
+    &lt;tr&gt;
+        &lt;td&gt;치명타 확률&lt;/td&gt;
+        &lt;td&gt;8.8 ~ 9.2%&lt;/td&gt;
+        &lt;td&gt;8.4 ~ 8.8%&lt;/td&gt;
+    &lt;/tr&gt; 
+    &lt;tr&gt;
+        &lt;td&gt;스킬&lt;/td&gt;
+        &lt;td&gt;[모래 뿌리기] 스킬 적중 시, 적을 &lt;span style=&quot;font-weight:bolder;color:red&quot;&gt;실명&lt;/span&gt;시키고,&lt;br /&gt;적중한 적으로부터 가까운 곳에 있는&lt;br /&gt;아군의 체력이 &lt;span style=&quot;font-weight:bolder;color:red&quot;&gt;7%&lt;/span&gt; 회복됩니다.&lt;br /&gt;(재사용 대기시간: 20초)&lt;/td&gt;
+        &lt;td&gt;[모래 뿌리기] 스킬 적중 시, 적을 &lt;span style=&quot;font-weight:bolder;color:red&quot;&gt;실명&lt;/span&gt;시키고,&lt;br /&gt;적중한 적으로부터 가까운 곳에 있는&lt;br /&gt;아군의 체력이 &lt;span style=&quot;font-weight:bolder;color:red&quot;&gt;5%&lt;/span&gt; 회복됩니다.&lt;br /&gt;(재사용 대기시간: 20초)&lt;/td&gt;
+    &lt;/tr&gt;   
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-epic-item-lucky-charm-for-happy-02.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 해피 전용 에픽 무기 [럭키 참] 정보, 제작재료&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;제작-완료&quot;&gt;제작 완료&lt;/h2&gt;
+&lt;p&gt;제작 완료한 [&lt;strong&gt;럭키 참&lt;/strong&gt;]의 스펙은 다음과 같았습니다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;공격력: 588&lt;/li&gt;
+  &lt;li&gt;치명타 확률: 9%&lt;/li&gt;
+  &lt;li&gt;특성 개수: 총 4개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/mobile/nexon-bnf-epic-item-lucky-charm-for-happy-03.png&quot; alt=&quot;넥슨(Nexon) 위치기반 모바일게임 빌딩앤파이터 해피 전용 에픽 무기 [럭키 참] 정보, 제작재료&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;빌딩앤파이터-공식-채널&quot;&gt;빌딩앤파이터 공식 채널&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;빌딩앤파이터 홈페이지
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://bnf.nexon.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://bnf.nexon.com/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;빌딩앤파이터 커뮤니티
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://forum.nexon.com/bnf/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://forum.nexon.com/bnf/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+            <pubDate>Wed, 14 Feb 2024 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/mobile/building-and-fighter-epic-item-lucky-charm-for-happy-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/mobile/building-and-fighter-epic-item-lucky-charm-for-happy-info.html</guid>
+            
+            <category>mobile</category>
+            
+            
+        </item>
         
         <item>
             <title>[인슈라오디드] 한손 도끼 - 토마호크 : 희귀-비범 등급 비교</title>
@@ -617,103 +699,6 @@
             <pubDate>Mon, 29 Jan 2024 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/palworld/palworld-easy-way-to-get-shperes-feat-vixy.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/palworld/palworld-easy-way-to-get-shperes-feat-vixy.html</guid>
-            
-            <category>simulation</category>
-            
-            <category>settlers</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[팰 월드] 금속 채굴 자동으로 하는 방법 (feat.냥뱃)</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;지금 전 세계적으로 화제가 되고 있는 게임 [&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;]를 플레이 해봤는데, 이런 저런 논란도 있고 있지만 역시나 인기가 있을 만한 요소들이 상당히 많다는 것을 알 수 있었습니다. 그 중에서 대략 20렙 이후 부터 매우 중요한 금속 채굴을 자동으로 해보는 방법을 찾아보고 정리해봤습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;작업-적성--채굴-lv2&quot;&gt;작업 적성 : 채굴 Lv2&lt;/h2&gt;
-&lt;p&gt;우선, 팰이 금속 채굴이 가능하려면 작업 적성에 [&lt;strong&gt;채굴 Lv2&lt;/strong&gt;]이 있어야 합니다.&lt;/p&gt;
-
-&lt;p&gt;저는 그 중에서 어둠 속성의 냥뱃(TomBat)을 운 좋게 구해서 배치해봤습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-02.jpg&quot; alt=&quot;팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;채굴-우선-순위&quot;&gt;채굴 우선 순위&lt;/h2&gt;
-&lt;p&gt;작업 적성이 채굴인 경우 일반 돌이나 금속 광석보다 [&lt;strong&gt;채석장&lt;/strong&gt;]에 작업 우선 순위가 있는 것으로 보입니다. 아무 것도 지정하지 않으면 바로 채석장으로 달려가서 채굴하고 있는 [&lt;strong&gt;냥뱃&lt;/strong&gt;]을 볼 수 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-03.jpg&quot; alt=&quot;팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;방법-2가지&quot;&gt;방법 2가지&lt;/h2&gt;
-&lt;h3 id=&quot;방법---1&quot;&gt;방법 - 1&lt;/h3&gt;
-&lt;p&gt;첫번째 방법은 [&lt;strong&gt;채석장&lt;/strong&gt;]을 없애는 방법이 있습니다.&lt;/p&gt;
-
-&lt;p&gt;하지만 당장 [&lt;strong&gt;채석장&lt;/strong&gt;]을 없을 수 없다면 아래의 방법으로 하시면 됩니다.&lt;/p&gt;
-
-&lt;h3 id=&quot;방법---2&quot;&gt;방법 - 2&lt;/h3&gt;
-&lt;p&gt;두번째 방법은 팰을 데려다 [&lt;strong&gt;금속 광석&lt;/strong&gt;]에 작업을 지정하시면 되는데, 아래쪽에서 자세히 살펴보겠습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;팰-이동&quot;&gt;팰 이동&lt;/h2&gt;
-&lt;p&gt;그래서 작업 중인 [&lt;strong&gt;냥뱃&lt;/strong&gt;]에 다가가서 [&lt;strong&gt;F&lt;/strong&gt;]키가 활성화 되면 팰을 들어서 [&lt;strong&gt;금속 광석&lt;/strong&gt;]으로 데려가 던집니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-04.jpg&quot; alt=&quot;팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;작업-고정-배치&quot;&gt;작업 고정 배치&lt;/h2&gt;
-&lt;p&gt;던지고 나면 [&lt;strong&gt;금속 광석에 고정 배치하는데 성공했습니다.&lt;/strong&gt;]라는 메시지가 뜨면서 [&lt;strong&gt;냥뱃&lt;/strong&gt;]이 [&lt;strong&gt;금속 광석&lt;/strong&gt;]을 채굴하기 시작합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-05.jpg&quot; alt=&quot;팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;금속-채굴-완료&quot;&gt;금속 채굴 완료&lt;/h2&gt;
-&lt;p&gt;채굴하면서 [&lt;strong&gt;금속 광석&lt;/strong&gt;]이 떨어지면 운반 적성이 있는 팰이 와서 가져가는 것을 확인할 수 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-06.jpg&quot; alt=&quot;팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-07.jpg&quot; alt=&quot;팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;냥뱃-서식-구역과-시간&quot;&gt;냥뱃 서식 구역과 시간&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;냥뱃&lt;/strong&gt;]을 어디서 포획할 수 있을지 찾아봤는데 [&lt;strong&gt;팻 도감&lt;/strong&gt;]에서 [&lt;strong&gt;서식 구역&lt;/strong&gt;]을 확인해보면 낮 시간에는 활동하지 않고, 야행성이라 밤에만 찾을 수 있는 것을 알 수 있습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-08.jpg&quot; alt=&quot;팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;밤을 선택해보면 아래와 같이 거의 모든 지역에 출몰한다는 것을 알 수 있습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-ore-mining-auto-guide-feat-tombat-09.jpg&quot; alt=&quot;팰 월드(PalWorld) 채굴 레벨2 능력치를 가진 냥뱃으로 금속 채굴을 자동으로 할 수 있는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;플레이-영상&quot;&gt;플레이 영상&lt;/h2&gt;
-&lt;p&gt;간단하지만 영상을 만들어봤는데, 중간에 침공까지 있어서 정신 없었습니다.&lt;/p&gt;
-
-&lt;div class=&quot;video-wrap&quot;&gt;
-  &lt;iframe width=&quot;845&quot; height=&quot;475&quot; src=&quot;https://www.youtube.com/embed/zCG4RuewtB8&quot; title=&quot;[팰월드]  금속 채굴 자동으로 하는 방법 (feat. 냥뱃) - (GTX 750Ti)&quot; style=&quot;border:0;&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;스팀 소개 페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/1623730/Palworld/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/1623730/Palworld/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;게임 공식 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.pocketpair.jp/palworld&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.pocketpair.jp/palworld&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;개발사 Youtube 채널
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@pocketpair&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.youtube.com/@pocketpair&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;게임 공식 SNS
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://twitter.com/Palworld_JP&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://twitter.com/Palworld_JP&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-            <pubDate>Sat, 27 Jan 2024 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/palworld/palworld-ore-mining-auto-guide-feat-tombat.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/palworld/palworld-ore-mining-auto-guide-feat-tombat.html</guid>
             
             <category>simulation</category>
             
