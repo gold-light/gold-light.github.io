@@ -5,9 +5,105 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 Mar 2024 19:47:58 +0900</pubDate>
-        <lastBuildDate>Sat, 02 Mar 2024 19:47:58 +0900</lastBuildDate>
+        <pubDate>Wed, 01 May 2024 16:23:56 +0900</pubDate>
+        <lastBuildDate>Wed, 01 May 2024 16:23:56 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>K-패스 회원가입 오류 상황 정리 - 해결 방법</title>
+            <description>&lt;h2 id=&quot;k-패스&quot;&gt;K-패스&lt;/h2&gt;
+&lt;p&gt;월 15회 이상 대중 교통 이용 시에 기준에 따라 20% ~ 53%까지 이용 요금을 환급 받을 수 있는 K-패스가 2024년 5월 1일부터 사용할 수 있게 되었습니다.&lt;br /&gt;
+그래서, 환급 받기 위해서 각 은행에서 발급받은 카드를 K-패스 앱이나 홈페이지에 회원가입을 해야 하는데, 여기서는 회원 가입 시에 나타나는 오류 상황과 해결 방법을 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;회원-가입-방법&quot;&gt;회원 가입 방법&lt;/h2&gt;
+&lt;p&gt;회원 가입 방법은 홈페이지와 앱 2가지가 있습니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;홈페이지&quot;&gt;홈페이지&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.korea-pass.kr/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all;&quot;&gt;https://www.korea-pass.kr/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;앱&quot;&gt;앱&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;아이폰: &lt;a href=&quot;https://itunes.apple.com/app/apple-store/id1538531939?mt=8&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all;&quot;&gt;https://itunes.apple.com/app/apple-store/id1538531939?mt=8&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;안드로이드: &lt;a href=&quot;https://play.google.com/store/apps/details?id=kr.or.kotsa.watc&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all;&quot;&gt;https://play.google.com/store/apps/details?id=kr.or.kotsa.watc&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;회원-가입-오류-상황&quot;&gt;회원 가입 오류 상황&lt;/h2&gt;
+&lt;p&gt;회원 가입 오류는 주로 홈페이지에서 발생합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/k-pass-member-join-error-01.png&quot; alt=&quot;대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;카드-번호-인증-오류&quot;&gt;카드 번호 인증 오류&lt;/h3&gt;
+&lt;p&gt;회원 가입 첫번째 단계에서 각 은행에서 발급 받은 K-패스 카드 번호를 입력해서 카드 인증을 받는 곳에서 카드 인증 오류가 발생하는 경우가 있습니다.&lt;br /&gt;
+이 때는 5~10초 정도 기다렸다가 다시 [&lt;strong&gt;카드 유효성 체크&lt;/strong&gt;] 버튼을 클릭하시면 됩니다. 너무 빨리, 자주 클릭하면 오히려 실패하는 경우가 많습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/k-pass-member-join-error-02.png&quot; alt=&quot;대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;휴대폰-인증-오류&quot;&gt;휴대폰 인증 오류&lt;/h3&gt;
+&lt;p&gt;다음 오류는 카드 번호 인증 통과 후에 휴대폰 인증을 하게 됩니다. 휴대폰 인증은 PASS로 인증하는 방법과 문자(SMS)로 인증하는 방법이 있는데 문자로 인증할 때 오류가 발생합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/k-pass-member-join-error-03.png&quot; alt=&quot;대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법&quot; style=&quot;width: 499px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;모든 정보를 입력하고, 보안 문자까지 입력하고 나면 인증이 끝나면서 팝업 창이 닫혀야 하는데, 아래 스샷처럼 아무 것도 없는 빈 페이지만 나타납니다.&lt;br /&gt;
+무슨 일인가 싶어서 크롬에서 [&lt;strong&gt;F12&lt;/strong&gt;] 버튼을 눌러서 상태를 확인해보면 오류 메시지가 있는 것을 알 수 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/k-pass-member-join-error-04.png&quot; alt=&quot;대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;오류-메시지&quot;&gt;오류 메시지&lt;/h3&gt;
+&lt;p&gt;오류 메시지를 좀 더 자세히 확인해보면 다음과 같은 메시지입니다.&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;Uncaught&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;DOMException&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Failed&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;read&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;named&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;property&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;dataInit&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;Window&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Blocked&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;frame&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;with&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;origin&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;https://korea-pass.kr&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;accessing&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;a&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;cross&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;origin&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;frame&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;at&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;success&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;https&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;//korea-pass.kr/cert/member_check.html?rec_cert={이하 생략})&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;at&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;https&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;//korea-pass.kr/assets/js/jquery.min.js:2:26925)&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;at&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Object&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fireWith&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;resolveWith&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;https&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;//korea-pass.kr/assets/js/jquery.min.js:2:27738)&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;at&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;https&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;//korea-pass.kr/assets/js/jquery.min.js:4:11253)&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;at&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;XMLHttpRequest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;anonymous&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;https&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;//korea-pass.kr/assets/js/jquery.min.js:4:14765)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/k-pass-member-join-error-05.png&quot; alt=&quot;대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법&quot; style=&quot;width: 642px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;오류-상황-총-정리&quot;&gt;오류 상황 총 정리&lt;/h2&gt;
+&lt;div class=&quot;bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-3&quot;&gt;
+⁃ 카드 번호 인증 오류 (홈페이지, 앱) &lt;br /&gt;
+⁃ 휴대폰 번호 인증 오류 (홈페이지: 크롬, 사파리 브라우저) &lt;br /&gt;
+⁃ 회원 가입 완료 오류 (홈페이지: 크롬, 사파리, 엣지 브라우저) &lt;br /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;오류-해결-방법&quot;&gt;오류 해결 방법&lt;/h2&gt;
+&lt;p&gt;대부분의 오류는 K-패스 홈페이지에서 발생하고 있습니다. 다행히 &lt;strong&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;스마트폰 앱을 다운 받아서 하면 문제 없이 회원 가입 가능&lt;/code&gt;&lt;/strong&gt;합니다. 물론 카드 번호 인증 오류가 발생하는 경우가 있기는 하지만 위에서 적은 대로 5 ~ 10초 후에 다시 인증하면 문제 없이 진행 가능합니다.&lt;/p&gt;
+
+&lt;p&gt;스마트폰 앱 링크는 아래와 같습니다. 다만 가짜 앱도 있다고 하니 아래 스샷처럼 [&lt;strong&gt;교통안전공단&lt;/strong&gt;]에서 만든 앱을 꼭 확인하고 다운 받으시기 바랍니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;아이폰: &lt;a href=&quot;https://itunes.apple.com/app/apple-store/id1538531939?mt=8&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all;&quot;&gt;https://itunes.apple.com/app/apple-store/id1538531939?mt=8&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;안드로이드: &lt;a href=&quot;https://play.google.com/store/apps/details?id=kr.or.kotsa.watc&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all;&quot;&gt;https://play.google.com/store/apps/details?id=kr.or.kotsa.watc&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/k-pass-member-join-error-06.png&quot; alt=&quot;대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법&quot; style=&quot;width: 642px;  &quot; /&gt;&lt;/figure&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/diary/k-pass-member-join-error-07.png&quot; alt=&quot;대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법&quot; style=&quot;width: 642px;  &quot; /&gt;&lt;/figure&gt;
+
+</description>
+            <pubDate>Wed, 01 May 2024 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/life/diary/k-pass-member-join-error-info.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/life/diary/k-pass-member-join-error-info.html</guid>
+            
+            <category>card</category>
+            
+            <category>train</category>
+            
+            
+        </item>
         
         <item>
             <title>[팰 월드] 화산지역에 유황 거점 설치하는 방법</title>
@@ -625,58 +721,6 @@
             <guid isPermaLink="true">https://cloudlog.kr/game/survival/enshrouded-minimum-system-requirements-info.html</guid>
             
             <category>survival</category>
-            
-            <category>settlers</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[팰 월드] 언어 설정 변경하는 방법</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;]에서 언어 설정을 변경해보려고 해도 게임 내에서는 설정 옵션을 찾을 수 없어서 어디서 변경할 수 있는지 확인해봤습니다.&lt;/p&gt;
-
-&lt;h2 id=&quot;언어-설정-변경-방법&quot;&gt;언어 설정 변경 방법&lt;/h2&gt;
-&lt;p&gt;[&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;] 언어 설정 변경 방법은 스팀 클라이언트를 실행해서 [&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;]를 실행하는 화면에서 오른쪽 끝에 있는 설정 아이콘 (&lt;i class=&quot;fa-solid fa-gear&quot;&gt;&lt;/i&gt;)을 클릭한 후 [&lt;strong&gt;속성&lt;/strong&gt;] 메뉴를 선택합니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-how-to-change-language-01.jpg&quot; alt=&quot;팰 월드(PalWorld)에서 유황 8덩이를 채굴할 수 있는 장소 추천&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;[&lt;strong&gt;속성&lt;/strong&gt;] 화면 [&lt;strong&gt;일반&lt;/strong&gt;] 카테고리에서 [&lt;strong&gt;언어&lt;/strong&gt;] 설정을 변경할 수 있습니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/palworld/palworld-how-to-change-language-02.jpg&quot; alt=&quot;팰 월드(PalWorld)에서 유황 8덩이를 채굴할 수 있는 장소 추천&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;스팀 소개 페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/1623730/Palworld/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/1623730/Palworld/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;게임 공식 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.pocketpair.jp/palworld&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.pocketpair.jp/palworld&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;개발사 Youtube 채널
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@pocketpair&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.youtube.com/@pocketpair&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;게임 공식 SNS
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://twitter.com/Palworld_JP&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://twitter.com/Palworld_JP&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-            <pubDate>Fri, 09 Feb 2024 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/palworld/palworld-how-to-change-language.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/palworld/palworld-how-to-change-language.html</guid>
-            
-            <category>simulation</category>
             
             <category>settlers</category>
             

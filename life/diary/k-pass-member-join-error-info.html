@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법을 정리해보았습니다.">
+<meta name="keywords" content="cardtrain,  K-Pass, 교통카드, 버스, 지하철, 회원가입">
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="K-패스 회원가입 오류 상황 정리 - 해결 방법" />
+<meta property="og:locale" content="ko_KR" />
+<meta property="og:description" content="대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법을 정리해보았습니다." />
+<link rel="canonical" href="https://cloudlog.kr/life/diary/k-pass-member-join-error-info.html" />
+<meta property="og:url" content="https://cloudlog.kr/life/diary/k-pass-member-join-error-info.html" />
+<meta property="og:site_name" content="Simple Life Cloud Log" />
+<meta property="og:image" content="https://cloudlog.kr/images/diary/k-pass-member-join-error-01.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-05-01T00:00:00+09:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://cloudlog.kr/images/diary/k-pass-member-join-error-01.png" />
+<meta property="twitter:title" content="K-패스 회원가입 오류 상황 정리 - 해결 방법" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-05-01T00:00:00+09:00","datePublished":"2024-05-01T00:00:00+09:00","description":"대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법을 정리해보았습니다.","headline":"K-패스 회원가입 오류 상황 정리 - 해결 방법","image":"https://cloudlog.kr/images/diary/k-pass-member-join-error-01.png","mainEntityOfPage":{"@type":"WebPage","@id":"https://cloudlog.kr/life/diary/k-pass-member-join-error-info.html"},"url":"https://cloudlog.kr/life/diary/k-pass-member-join-error-info.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+<title>K-패스 회원가입 오류 상황 정리 - 해결 방법 | Cloud Log</title>
+<link rel="stylesheet" href="/css/syntax.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+<link href="/fontawesome/css/all.min.css" rel="stylesheet">
+<link href="/fontawesome/css/v4.7.css" rel="stylesheet">
+<link rel="stylesheet" href="/css/modern-business.css">
+<!-- Latest compiled and minified CSS -->
+<!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous"-->
+<!--link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous"-->
+<link rel="stylesheet" href="/css/customstyles.css">
+<link rel="stylesheet" href="/css/boxshadowproperties.css">
+<!-- most color styles are extracted out to here -->
+<link rel="stylesheet" href="/css/theme-blue.css">
+
+
+
+<script src="/js/jquery.341.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script-->
+
+<script src="/js/jquery.cookie.141.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script-->
+<script src="/js/jquery.navgoco.min.js"></script>
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="/js/bootstrap.341.min.js"></script>
+<!--script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script-->
+<!--script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script-->
+<!-- Anchor.js -->
+<script src="/js/anchor.420.min.js"></script>
+<!--script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.2.0/anchor.min.js"></script-->
+<script src="/js/toc.js"></script>
+<script src="/js/customscripts.js"></script>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6199737337936118" crossorigin="anonymous"></script>
+
+<link rel="shortcut icon" href="/images/favicon.ico">
+
+
+<link rel="alternate" type="application/rss+xml" title="Simple Life Cloud Log" href="https://cloudlog.kr/feed.xml">
+
+
+
+    <script>
+        $(document).ready(function(e) {
+            // Initialize navgoco with default options
+            $("#mysidebar1").navgoco({
+                caretHtml: '',
+                accordion: false,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
+            $("#mysidebar1").navgoco('toggle', true);            
+
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', true);
+            });
+
+        });
+
+    </script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+        });
+    </script>
+    
+
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container topnavlinks">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="fa fa-home fa-lg navbar-brand" href="/">&nbsp;<span class="projectTitle"> Simple Life Cloud Log</span></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <!-- toggle sidebar button -->
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on fa-lg"></i> 카테고리</a></li>
+                <!-- entries without drop-downs appear here -->
+
+
+
+
+                
+                
+                
+                <li><a href="/programming/php/php-sql-injection-function.html">프로그래밍</a></li>
+                
+                
+                
+                <li><a href="/category/game/pcgame.html">게임</a></li>
+                
+                
+                
+                <li><a href="/category/life/animation.html">애니메이션</a></li>
+                
+                
+                
+                <li><a href="/category/life/drama.html">드라마</a></li>
+                
+                
+                
+                <li><a href="/category/life/bookstore.html">책방</a></li>
+                
+                
+                
+                <li><a href="/category/life/japanese.html">일본어</a></li>
+                
+                
+                
+                <!-- entries with drop-downs appear here -->
+                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+                
+                
+                                
+                <!--comment out this block if you want to hide search-->
+                <li>
+                    <!--start search-->
+                    <div id="search-demo-container">
+                        <input type="text" id="search-input" placeholder="search...">
+                        <ul id="results-container"></ul>
+                    </div>
+                    <script src="/js/jekyll-search.js"></script>
+                    <script>
+                            SimpleJekyllSearch.init({
+                                searchInput: document.getElementById('search-input'),
+                                resultsContainer: document.getElementById('results-container'),
+                                dataSource: '/search.json',
+                                searchResultTemplate: '<li><a href="{url}" title="K-패스 회원가입 오류 상황 정리 - 해결 방법">{title}</a></li>',
+                    noResultsText: 'No results found.',
+                            limit: 10,
+                            fuzzy: true,
+                    })
+                    </script>
+                    <!--end search-->
+                </li>
+            </ul>
+        </div>
+        </div>
+        <!-- /.container -->
+</nav>
+
+
+
+<!-- Page Content -->
+<div class="container">
+  <div id="main">
+    <!-- Content Row -->
+    <div class="row">
+        
+        
+            <!-- Sidebar Column -->
+            <div class="col-md-3" id="tg-sb-sidebar">
+                
+
+
+<ul id="mysidebar" class="nav">
+  <li class="sidebarTitle">Life Post 1.0</li>
+  
+  
+  
+  
+  
+  <li>
+      <a title="드라마" href="/category/life/drama.html">드라마</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="한국" href="/category/life/drama-korea.html">ㄴ한국 </a></li>
+          
+          
+          
+          
+          
+          
+          
+          <li><a title="일본" href="/category/life/drama-japan.html">ㄴ일본 </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+  
+  
+  
+  <li>
+      <a title="영화" href="/category/life/movie.html">영화</a>
+      <ul>
+          
+      </ul>
+   </li>
+   
+   
+  
+  
+  
+  <li>
+      <a title="애니메이션" href="/category/life/animation.html">애니메이션</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="OVA" href="/category/life/animation-ova.html">ㄴOVA </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+  
+  
+  
+  <li>
+      <a title="책방" href="/category/life/bookstore.html">책방</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="웹툰, 웹소설" href="/category/life/web-comics-novel.html">ㄴ웹툰, 웹소설 </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+  
+  
+  
+  <li>
+      <a title="외국어" href="/category/life/language.html">외국어</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="일본어" href="/category/life/japanese.html">ㄴ일본어 </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+  
+  
+  
+  <li>
+      <a title="생활정보" href="/category/life/diary.html">생활정보</a>
+      <ul>
+          
+          
+          
+          
+          <li><a title="생활정보" href="/category/life/diary.html">ㄴ생활정보 </a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+   
+   
+   
+
+   
+
+  
+  
+  
+  <li>
+      <a title="Tag archives" href="#">Tag archives</a>
+      <ul>
+          
+          
+          
+          <li><a title="Tag archives overview" href="/tag/tag-archives_overview.html">Tag archives overview</a></li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Game Tag pages" href="#">Game Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Ragnarok pages" href="/tag/tag-ragnarok.html">Ragnarok pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="LostArk pages" href="/tag/tag-lostark.html">LostArk pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Alien pages" href="/tag/tag-alien.html">Alien pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Diablo pages" href="/tag/tag-diablo.html">Diablo pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Life Tag pages" href="#">Life Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="Drama pages" href="/tag/tag-drama.html">Drama pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Ramantic pages" href="/tag/tag-romantic.html">Ramantic pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          <li class="subfolders">
+              <a title="Programming Tag pages" href="#">Programming Tag pages</a>
+              <ul>
+                  
+                  
+                  
+                  <li><a title="PHP pages" href="/tag/tag-php.html">PHP pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="AWS pages" href="/tag/tag-aws.html">AWS pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="Linux pages" href="/tag/tag-linux.html">Linux pages</a></li>
+                  
+                  
+                  
+                  
+                  
+                  <li><a title="API pages" href="/tag/tag-api.html">API pages</a></li>
+                  
+                  
+                  
+              </ul>
+          </li>
+          
+          
+          
+          
+      </ul>
+   </li>
+  
+  
+  
+
+
+      
+    <!--p class="external">
+        <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+    </p-->
+      
+</ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+
+
+            </div>
+            
+        
+
+        <!-- Content Column -->
+        <div class="col-md-9" id="tg-sb-content">
+            <article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+
+    <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">K-패스 회원가입 오류 상황 정리 - 해결 방법</h1>
+        <p class="post-meta">        
+        <time datetime="2024-05-01T00:00:00+09:00" itemprop="datePublished"><span class="label label-info">2024-05-01</span></time> 
+        <span class="label label-primary">life / diary</span>
+        </p>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
+
+
+        
+        
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+});
+
+$("#toc_onoff").click(function() {  
+        $("#toc").toggle();
+        $("#tg-toc-icon").toggleClass('fa-toggle-on');
+        $("#tg-toc-icon").toggleClass('fa-toggle-off');
+
+});
+
+});
+</script>
+
+<p><span class="label label-warning" style="cursor:pointer" id="toc_onoff"><i id="tg-toc-icon" class="fas fa-toggle-on"></i> ToC on/off</span></p>
+<div id="toc"></div>
+
+
+
+        
+
+        <h2 id="k-패스">K-패스</h2>
+<p>월 15회 이상 대중 교통 이용 시에 기준에 따라 20% ~ 53%까지 이용 요금을 환급 받을 수 있는 K-패스가 2024년 5월 1일부터 사용할 수 있게 되었습니다.<br />
+그래서, 환급 받기 위해서 각 은행에서 발급받은 카드를 K-패스 앱이나 홈페이지에 회원가입을 해야 하는데, 여기서는 회원 가입 시에 나타나는 오류 상황과 해결 방법을 정리해보겠습니다.</p>
+
+<h2 id="회원-가입-방법">회원 가입 방법</h2>
+<p>회원 가입 방법은 홈페이지와 앱 2가지가 있습니다.</p>
+
+<h3 id="홈페이지">홈페이지</h3>
+
+<ul>
+  <li><a href="https://www.korea-pass.kr/" target="_blank" style="word-break:break-all;">https://www.korea-pass.kr/</a></li>
+</ul>
+
+<h3 id="앱">앱</h3>
+
+<ul>
+  <li>
+    <p>아이폰: <a href="https://itunes.apple.com/app/apple-store/id1538531939?mt=8" target="_blank" style="word-break:break-all;">https://itunes.apple.com/app/apple-store/id1538531939?mt=8</a></p>
+  </li>
+  <li>
+    <p>안드로이드: <a href="https://play.google.com/store/apps/details?id=kr.or.kotsa.watc" target="_blank" style="word-break:break-all;">https://play.google.com/store/apps/details?id=kr.or.kotsa.watc</a></p>
+  </li>
+</ul>
+
+<h2 id="회원-가입-오류-상황">회원 가입 오류 상황</h2>
+<p>회원 가입 오류는 주로 홈페이지에서 발생합니다.</p>
+
+<figure><img class="docimage" src="/images/diary/k-pass-member-join-error-01.png" alt="대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h3 id="카드-번호-인증-오류">카드 번호 인증 오류</h3>
+<p>회원 가입 첫번째 단계에서 각 은행에서 발급 받은 K-패스 카드 번호를 입력해서 카드 인증을 받는 곳에서 카드 인증 오류가 발생하는 경우가 있습니다.<br />
+이 때는 5~10초 정도 기다렸다가 다시 [<strong>카드 유효성 체크</strong>] 버튼을 클릭하시면 됩니다. 너무 빨리, 자주 클릭하면 오히려 실패하는 경우가 많습니다.</p>
+
+<figure><img class="docimage" src="/images/diary/k-pass-member-join-error-02.png" alt="대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h3 id="휴대폰-인증-오류">휴대폰 인증 오류</h3>
+<p>다음 오류는 카드 번호 인증 통과 후에 휴대폰 인증을 하게 됩니다. 휴대폰 인증은 PASS로 인증하는 방법과 문자(SMS)로 인증하는 방법이 있는데 문자로 인증할 때 오류가 발생합니다.</p>
+
+<figure><img class="docimage" src="/images/diary/k-pass-member-join-error-03.png" alt="대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법" style="width: 499px;  " /></figure>
+
+<p>모든 정보를 입력하고, 보안 문자까지 입력하고 나면 인증이 끝나면서 팝업 창이 닫혀야 하는데, 아래 스샷처럼 아무 것도 없는 빈 페이지만 나타납니다.<br />
+무슨 일인가 싶어서 크롬에서 [<strong>F12</strong>] 버튼을 눌러서 상태를 확인해보면 오류 메시지가 있는 것을 알 수 있습니다.</p>
+
+<figure><img class="docimage" src="/images/diary/k-pass-member-join-error-04.png" alt="대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h3 id="오류-메시지">오류 메시지</h3>
+<p>오류 메시지를 좀 더 자세히 확인해보면 다음과 같은 메시지입니다.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">Uncaught</span> <span class="nx">DOMException</span><span class="p">:</span> <span class="nx">Failed</span> <span class="nx">to</span> <span class="nx">read</span> <span class="nx">a</span> <span class="nx">named</span> <span class="nx">property</span> <span class="dl">'</span><span class="s1">dataInit</span><span class="dl">'</span> <span class="k">from</span> <span class="dl">'</span><span class="s1">Window</span><span class="dl">'</span><span class="p">:</span> <span class="nx">Blocked</span> <span class="nx">a</span> <span class="nx">frame</span> <span class="kd">with</span> <span class="nx">origin</span> <span class="dl">"</span><span class="s2">https://korea-pass.kr</span><span class="dl">"</span> <span class="k">from</span> <span class="nx">accessing</span> <span class="nx">a</span> <span class="nx">cross</span><span class="o">-</span><span class="nx">origin</span> <span class="nx">frame</span><span class="p">.</span>
+    <span class="nx">at</span> <span class="nb">Object</span><span class="p">.</span><span class="nx">success</span> <span class="p">(</span><span class="nx">https</span><span class="p">:</span><span class="c1">//korea-pass.kr/cert/member_check.html?rec_cert={이하 생략})</span>
+    <span class="nx">at</span> <span class="nx">j</span> <span class="p">(</span><span class="nx">https</span><span class="p">:</span><span class="c1">//korea-pass.kr/assets/js/jquery.min.js:2:26925)</span>
+    <span class="nx">at</span> <span class="nb">Object</span><span class="p">.</span><span class="nx">fireWith</span> <span class="p">[</span><span class="k">as</span> <span class="nx">resolveWith</span><span class="p">]</span> <span class="p">(</span><span class="nx">https</span><span class="p">:</span><span class="c1">//korea-pass.kr/assets/js/jquery.min.js:2:27738)</span>
+    <span class="nx">at</span> <span class="nx">x</span> <span class="p">(</span><span class="nx">https</span><span class="p">:</span><span class="c1">//korea-pass.kr/assets/js/jquery.min.js:4:11253)</span>
+    <span class="nx">at</span> <span class="nx">XMLHttpRequest</span><span class="p">.</span><span class="o">&lt;</span><span class="nx">anonymous</span><span class="o">&gt;</span> <span class="p">(</span><span class="nx">https</span><span class="p">:</span><span class="c1">//korea-pass.kr/assets/js/jquery.min.js:4:14765)</span>
+</code></pre></div></div>
+<figure><img class="docimage" src="/images/diary/k-pass-member-join-error-05.png" alt="대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법" style="width: 642px;  " /></figure>
+
+<h2 id="오류-상황-총-정리">오류 상황 총 정리</h2>
+<div class="bs-callout-v2 bs-callout-v2-warning bs-callout-v2-level-3">
+⁃ 카드 번호 인증 오류 (홈페이지, 앱) <br />
+⁃ 휴대폰 번호 인증 오류 (홈페이지: 크롬, 사파리 브라우저) <br />
+⁃ 회원 가입 완료 오류 (홈페이지: 크롬, 사파리, 엣지 브라우저) <br />
+</div>
+
+<h2 id="오류-해결-방법">오류 해결 방법</h2>
+<p>대부분의 오류는 K-패스 홈페이지에서 발생하고 있습니다. 다행히 <strong><code class="language-plaintext highlighter-rouge">스마트폰 앱을 다운 받아서 하면 문제 없이 회원 가입 가능</code></strong>합니다. 물론 카드 번호 인증 오류가 발생하는 경우가 있기는 하지만 위에서 적은 대로 5 ~ 10초 후에 다시 인증하면 문제 없이 진행 가능합니다.</p>
+
+<p>스마트폰 앱 링크는 아래와 같습니다. 다만 가짜 앱도 있다고 하니 아래 스샷처럼 [<strong>교통안전공단</strong>]에서 만든 앱을 꼭 확인하고 다운 받으시기 바랍니다.</p>
+
+<ul>
+  <li>
+    <p>아이폰: <a href="https://itunes.apple.com/app/apple-store/id1538531939?mt=8" target="_blank" style="word-break:break-all;">https://itunes.apple.com/app/apple-store/id1538531939?mt=8</a></p>
+  </li>
+  <li>
+    <p>안드로이드: <a href="https://play.google.com/store/apps/details?id=kr.or.kotsa.watc" target="_blank" style="word-break:break-all;">https://play.google.com/store/apps/details?id=kr.or.kotsa.watc</a></p>
+  </li>
+</ul>
+
+<figure><img class="docimage" src="/images/diary/k-pass-member-join-error-06.png" alt="대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법" style="width: 642px;  " /></figure>
+
+<figure><img class="docimage" src="/images/diary/k-pass-member-join-error-07.png" alt="대한민국 대표 교통카드로 알려진 K-패스에 회원가입할 때 발생하는 오류 상황과 해결 방법" style="width: 642px;  " /></figure>
+
+
+    </div>
+
+     <div class="tags">
+        
+        <b>Tags: </b>
+        
+        
+        
+        
+        
+        
+        
+    </div>
+
+
+
+</article>
+
+
+
+<!-- 본문 하단 - cloudlog -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6199737337936118"
+     data-ad-slot="7488484889"
+     data-ad-format="auto"
+     data-full-width-responsive="true">
+</ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+
+
+
+
+<div class="mb-30">&nbsp;</div>
+<div class="home">
+    <div class="col-md-12">
+        <ul class="list-style list-unstyled arrow-list arrow-list-three pl-0">
+         
+                     
+        </ul>
+    </div>
+</div>
+<div class="mb-10">&nbsp;</div>
+
+<hr class="shaded"/>
+
+<footer>
+            <div class="row">
+                <div class="col-lg-12 footer">
+               &copy;2024 Copyright 2022 @CLOUDLOG.KR. All rights reserved. <br />
+               Built with <a href="https://jekyllrb-ko.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Jekyll</a> 
+               & <a href="https://idratherbewriting.com/documentation-theme-jekyll/" target="_blank" class="no_icon" style="word-break:break-all">Documentation Theme</a> 
+               & <a href="https://heliumjk.github.io/" target="_blank" class="no_icon" style="word-break:break-all">Helium Theme</a> <br />
+               
+<span>Page last updated:</span> 2024-05-01<br/> Site last generated: 2024-05-01 <br />
+
+                </div>
+            </div>
+</footer>
+
+
+
+
+
+
+        </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+</div>
+<!-- /#main -->
+</div>
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JNK63BTKXN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JNK63BTKXN');
+</script>
+
+
+
+
+
+<!-- Naver Analytics -->
+<script src="//wcs.naver.net/wcslog.js"></script>
+<script>
+if(!wcs_add) var wcs_add = {};
+wcs_add["wa"] = "1352844e1f81670";
+if(window.wcs) {
+  wcs_do();
+}
+</script>
+
+
+</body>
+</html>
+
+
