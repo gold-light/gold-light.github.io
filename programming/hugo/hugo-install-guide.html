@@ -729,12 +729,17 @@ $("#toc_onoff").click(function() {
    <h2 id="개요">개요</h2>
 <p>정적 사이트 생성기 (SSG, Static Sige Generator)중에서 Jekyll 다음으로 많이 사용되고 있는 Google의 Go 언어를 기반으로 만들어진 [<strong>Hugo</strong>]를 Windows 환경에서 설치하는 방법을 정리해보겠습니다. 설치하는 방법은 바이너리를 이용해서 설치하는 방법도 있지만 여기서는 간편하게 패키지 매니저를 사용해서 설치하는 방법을 사용해보겠습니다.</p>
 
+<div class="bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-2">
+Hugo를 이용해서 블로그 등의 사이트를 생성할 때 Theme를 사용하거나 각종 Hugo module을 사용하게 되면 <strong>Go 언어</strong>가 설치되어 있어야 합니다. <br />
+<strong>Go 언어</strong> 설치 방법은 아래쪽에서 다시 확인해보겠습니다.
+</div>
+
 <figure><img class="docimage" src="/images/programming/hugo/hugo-install-09.png" alt="Windows 환경에서 Hugo를 설치하는 방법" style="width: 843px;  " /></figure>
 
 <h2 id="설치">설치</h2>
 <p>Windows 환경에서 설치할 수 있는 패키지 매니저는 [<strong>Chocolatey</strong>], [<strong>Scoop</strong>],  [<strong>Winget</strong>] 이렇게 3가지가 있는데 여기서는 윈도우 환경에서 사용하기에 가장 간단한 [<strong>Winget</strong>]으로 설치해보겠습니다.</p>
 
-<ul id="package-manager" class="tab" data-tab="4712c411-67a9-4518-b6cc-46daf7c0f1e8" data-name="package-manager">
+<ul id="package-manager" class="tab" data-tab="d208a579-247d-4c0a-aa80-c322309776ae" data-name="package-manager">
   
       <li class="active" id="package-manager-winget">
           <a href="#">Winget </a>
@@ -749,7 +754,7 @@ $("#toc_onoff").click(function() {
       </li>
   
 </ul>
-<ul class="tab-content" id="4712c411-67a9-4518-b6cc-46daf7c0f1e8" data-name="package-manager">
+<ul class="tab-content" id="d208a579-247d-4c0a-aa80-c322309776ae" data-name="package-manager">
   
       <li class="active">
 <div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">winget</span><span class="w"> </span><span class="nx">install</span><span class="w"> </span><span class="nx">Hugo.Hugo.Extended</span><span class="w">
@@ -837,6 +842,42 @@ Hugo v0.109.0 이하 버전에서는 [<strong>config.toml</strong>] 파일이었
 
 <figure><img class="docimage" src="/images/programming/hugo/hugo-install-08.png" alt="Windows 환경에서 Hugo를 설치하는 방법" style="width: 845px; max-width: 100%; " /></figure>
 
+<h2 id="go-언어-미설치-오류-상황">Go 언어 미설치 오류 상황</h2>
+<p>Hugo만 설치하고 Go 언어를 설치하지 않은 상태에서 모듈을 사용하기 위해 초기화 명령어를 입력하면 아래와 같은 오류 메시지가 나탑니다. 이 문제는 다음 단계에 나오는 설치 방법을 따라 Go 언어를 설치하면 됩니다.</p>
+
+<div class="language-powershell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">hugo</span><span class="w"> </span><span class="nx">mod</span><span class="w"> </span><span class="nx">init</span><span class="w"> </span><span class="nx">SiteName</span><span class="w">
+</span><span class="n">Error:</span><span class="w"> </span><span class="nx">failed</span><span class="w"> </span><span class="nx">to</span><span class="w"> </span><span class="nx">init</span><span class="w"> </span><span class="nx">modules:</span><span class="w"> </span><span class="nx">binary</span><span class="w"> </span><span class="nx">with</span><span class="w"> </span><span class="nx">name</span><span class="w"> </span><span class="s2">"go"</span><span class="w"> </span><span class="nx">not</span><span class="w"> </span><span class="nx">found</span><span class="w">
+</span></code></pre></div></div>
+
+<figure><img class="docimage" src="/images/programming/hugo/hugo-install-14.png" alt="Windows 환경에서 Hugo를 설치하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<h2 id="go-언어-설치">Go 언어 설치</h2>
+<p>Go 언어는 아래 공식 사이트에서 다운로드 받아서 설치할 수 있습니다.</p>
+
+<div class="bs-callout-v2 bs-callout-v2-info bs-callout-v2-level-2">
+⁃ Go 언어 다운로드: <a href="https://go.dev/" target="_blank" style="word-break:break-all;">https://go.dev/</a>
+</div>
+
+<figure><img class="docimage" src="/images/programming/hugo/hugo-install-10.png" alt="Windows 환경에서 Hugo를 설치하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<ul>
+  <li>설치 파일 중에서 여기서는 Windows 용 파일을 다운 받습니다.</li>
+</ul>
+
+<figure><img class="docimage" src="/images/programming/hugo/hugo-install-11.png" alt="Windows 환경에서 Hugo를 설치하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
+<ul>
+  <li>다운 받을 파일을 설치합니다.</li>
+</ul>
+
+<figure><img class="docimage" src="/images/programming/hugo/hugo-install-12.png" alt="Windows 환경에서 Hugo를 설치하는 방법" style="width: 495px;  " /></figure>
+
+<ul>
+  <li>설치하고 나서 다시 모듈 초기화 명령을 입력하면 정상전으로 초기화 되는 것을 알 수 있습니다.</li>
+</ul>
+
+<figure><img class="docimage" src="/images/programming/hugo/hugo-install-13.png" alt="Windows 환경에서 Hugo를 설치하는 방법" style="width: 845px; max-width: 100%; " /></figure>
+
 <h2 id="참고-url">참고 URL</h2>
 <ol>
   <li>Hugo 가이드 문서
@@ -844,8 +885,12 @@ Hugo v0.109.0 이하 버전에서는 [<strong>config.toml</strong>] 파일이었
       <li><a href="https://gohugo.io/documentation/" target="_blank" style="word-break:break-all;">https://gohugo.io/documentation/</a></li>
     </ul>
   </li>
+  <li>Go 언어 다운로드
+    <ul>
+      <li><a href="https://go.dev/" target="_blank" style="word-break:break-all;">https://go.dev/</a></li>
+    </ul>
+  </li>
 </ol>
-
 
 
     <div class="tags">
