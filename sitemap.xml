@@ -2,7 +2,17 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2024-05-05T22:49:50+09:00</lastmod>
+    <lastmod>2024-05-31T11:40:03+09:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-season4-how-to-use-four-elixir-magic-incense.html</loc>
+  
+    <lastmod>2024-05-25T00:00:00+09:00</lastmod>
+    
+      
   </url>
   
   
@@ -68,16 +78,6 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/survival/enshrouded-legendary-weapon-guillotine-info.html</loc>
-  
-    <lastmod>2024-02-11T00:00:00+09:00</lastmod>
-    
-      
-  </url>
-  
-  
-  
-  <url>
     <loc>https://cloudlog.kr/game/survival/enshrouded-ucommon-weapon-hatchet-info.html</loc>
   
     <lastmod>2024-02-11T00:00:00+09:00</lastmod>
@@ -89,6 +89,16 @@
   
   <url>
     <loc>https://cloudlog.kr/game/survival/enshrouded-ucommon-weapon-forest-longbow-info.html</loc>
+  
+    <lastmod>2024-02-11T00:00:00+09:00</lastmod>
+    
+      
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/game/survival/enshrouded-legendary-weapon-guillotine-info.html</loc>
   
     <lastmod>2024-02-11T00:00:00+09:00</lastmod>
     
@@ -828,16 +838,6 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-day3-get-legendary-item-info.html</loc>
-  
-    <lastmod>2023-06-05T00:00:00+09:00</lastmod>
-    
-      
-  </url>
-  
-  
-  
-  <url>
     <loc>https://cloudlog.kr/game/diablo/diablo4-quest-secret-of-the-spring-guide.html</loc>
   
     <lastmod>2023-06-05T00:00:00+09:00</lastmod>
@@ -848,7 +848,17 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-quest-mount-favor-of-donan-guide.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-day3-get-legendary-item-info.html</loc>
+  
+    <lastmod>2023-06-05T00:00:00+09:00</lastmod>
+    
+      
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-day1-get-legendary-item-info.html</loc>
   
     <lastmod>2023-06-03T00:00:00+09:00</lastmod>
     
@@ -858,7 +868,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-day1-get-legendary-item-info.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-quest-mount-favor-of-donan-guide.html</loc>
   
     <lastmod>2023-06-03T00:00:00+09:00</lastmod>
     
@@ -1098,7 +1108,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/hit2/hit2-dungeon-monster-position-info.html</loc>
+    <loc>https://cloudlog.kr/game/mobile/hit2-dungeon-monster-position-info-2nd.html</loc>
   
     <lastmod>2022-09-09T00:00:00+09:00</lastmod>
     
@@ -1108,7 +1118,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/mobile/hit2-dungeon-monster-position-info-2nd.html</loc>
+    <loc>https://cloudlog.kr/game/hit2/hit2-dungeon-monster-position-info.html</loc>
   
     <lastmod>2022-09-09T00:00:00+09:00</lastmod>
     
