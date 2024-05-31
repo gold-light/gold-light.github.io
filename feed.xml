@@ -5,14 +5,111 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 31 May 2024 11:40:03 +0900</pubDate>
-        <lastBuildDate>Fri, 31 May 2024 11:40:03 +0900</lastBuildDate>
+        <pubDate>Fri, 31 May 2024 18:25:48 +0900</pubDate>
+        <lastBuildDate>Fri, 31 May 2024 18:25:48 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
+        
+        <item>
+            <title>디아블로4 시즌4 - 향독의 비약 제작하는 방법 (퀘스트 비약)</title>
+            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
+&lt;p&gt;디아블로4 (Diablo 4) [&lt;strong&gt;시즌4 - 전리품의 재발견&lt;/strong&gt;]에서는 경험치 버프를 주는 비약을 동시에 2개를 사용할 수 있는데 그러기 위해서는 일반 비약과 함께 퀘스트 비약인 [&lt;strong&gt;향독의 비약&lt;/strong&gt;]을 제작해서 사용해야 합니다.&lt;br /&gt;
+그래서 [&lt;strong&gt;향독의 비약&lt;/strong&gt;]을 어떻게 제작할 수 있는지 정리해보겠습니다.&lt;/p&gt;
+
+&lt;h2 id=&quot;퀘스트&quot;&gt;퀘스트&lt;/h2&gt;
+&lt;p&gt;[&lt;strong&gt;향독의 비약&lt;/strong&gt;]은 부가 퀘스트를 진행해서 제작법을 얻어야 제작할 수 있습니다.&lt;/p&gt;
+
+&lt;h3 id=&quot;위치&quot;&gt;위치&lt;/h3&gt;
+&lt;p&gt;퀘스트 위치는 [&lt;strong&gt;케지스탄&lt;/strong&gt;]지역에 있는 [&lt;strong&gt;게아 쿨&lt;/strong&gt;]에서 진행 가능합니다.  [&lt;strong&gt;게아 쿨&lt;/strong&gt;]에 가시면 12시 방향쯤 선술집 건물에 있는  NPC를 찾아가야 합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season4-loot-reborn-elixir-of-antivenin-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌4에서 퀘스트 비약인 향독의 비약 제작하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;선술집 건물에 들어가면 [&lt;strong&gt;바라임&lt;/strong&gt;]이라는 NPC가 있는데 말을 걸어서 퀘스트를 시작합니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season4-loot-reborn-elixir-of-antivenin-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌4에서 퀘스트 비약인 향독의 비약 제작하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;독-한-자밤-퀘스트&quot;&gt;독 한 자밤 퀘스트&lt;/h3&gt;
+&lt;p&gt;NPC [&lt;strong&gt;바라임&lt;/strong&gt;]과 대화를 해서 퀘스트를 시작합니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season4-loot-reborn-elixir-of-antivenin-04.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌4에서 퀘스트 비약인 향독의 비약 제작하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;퀘스트: 독 한 자밤&lt;/li&gt;
+  &lt;li&gt;목표: 케지스탄에서 전갈 독샘 15개 채집&lt;/li&gt;
+  &lt;li&gt;설명: 게아 쿨의 물웅덩이 선술집 소유주가 케지스탄 전역에 서식하는 전갈의 독샘을 모아 달라고 했다. 전갈은 북쪽에 있는 황색 사막에서 가장 흔히 볼 수 있다. 게아 쿨처럼 부패한 도시에서는 굳이 이렇게 하지 않아도 독울 구하려면 얼마든지 구할 수 있을 텐데… 그는 이 독을 어디 쓰려는 걸까?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season4-loot-reborn-elixir-of-antivenin-05.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌4에서 퀘스트 비약인 향독의 비약 제작하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;전갈 독샘 15개를 모아서 [&lt;strong&gt;바라임&lt;/strong&gt;]을 찾아가면 퀘스트가 완료됩니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season4-loot-reborn-elixir-of-antivenin-06.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌4에서 퀘스트 비약인 향독의 비약 제작하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;제조법-향독의-비약&quot;&gt;제조법: 향독의 비약&lt;/h2&gt;
+&lt;p&gt;퀘스트를 완료하면 보상으로 [&lt;strong&gt;향독의 비약&lt;/strong&gt;] 제조법을 얻을 수 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season4-loot-reborn-elixir-of-antivenin-07.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌4에서 퀘스트 비약인 향독의 비약 제작하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h2 id=&quot;향독의-비약-제작&quot;&gt;향독의 비약 제작&lt;/h2&gt;
+&lt;p&gt;제조법을 사용한 후에 [&lt;strong&gt;연금술사&lt;/strong&gt;]를 찾아가면 비약 제작에서 [&lt;strong&gt;퀘스트 비약&lt;/strong&gt;] 카테고리에 있는 [&lt;strong&gt;향독의 비약&lt;/strong&gt;]을 제작할 수 있습니다.&lt;/p&gt;
+
+&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season4-loot-reborn-elixir-of-antivenin-08.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌4에서 퀘스트 비약인 향독의 비약 제작하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;효과&quot;&gt;효과&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;최대 생명력이 15% 증가하고 독 저항이 20% 증가합니다.&lt;/li&gt;
+  &lt;li&gt;경험치 획득량이 8% 증가합니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;재료&quot;&gt;재료&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;약초 묶음 50개&lt;/li&gt;
+  &lt;li&gt;천사숨결 35개&lt;/li&gt;
+  &lt;li&gt;에메랄드 조각 150개&lt;/li&gt;
+  &lt;li&gt;해골 조각 150개&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;경험치-비약과-향로를-동시에-4개-사용하는-방법&quot;&gt;경험치 비약과 향로를 동시에 4개 사용하는 방법&lt;/h2&gt;
+
+&lt;section class=&quot;blog blog-block&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm-12 col-md-12&quot;&gt;
+      
+        
+        
+        &lt;div class=&quot;blog-post-small&quot;&gt;
+          &lt;img src=&quot;/images/game/diablo/diablo4-season4-loot-reborn-elixir-03.jpg&quot; alt=&quot;/images/game/diablo/diablo4-season4-loot-reborn-elixir-03.jpg&quot; /&gt;
+          &lt;div class=&quot;title&quot;&gt;
+            &lt;i class=&quot; fa-solid fa-desktop  fa-xl&quot;&gt;&lt;/i&gt;
+            &lt;a href=&quot;/game/diablo/diablo4-season4-how-to-use-four-elixir-magic-incense.html&quot;&gt;디아블로4 시즌4 - 경험치 비약과 향로를 동시에 4개 사용하는 방법&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;p&gt;개요 디아블로4 (Diablo 4)에서 경험치와 각 종 버프 효과를 주는 비약과 향로는 각각 1개씩 즉 합쳐서 총 2개만 동시에 사용할 수 있는 줄 알았는데, 이번 [시즌4 - 전리품의 재발견]에서는 동시에...&lt;/p&gt;
+          &lt;a href=&quot;/game/diablo/diablo4-season4-how-to-use-four-elixir-magic-incense.html&quot; class=&quot;link-url&quot;&gt;
+            &lt;span class=&quot;label label-warning&quot;&gt;Read More&lt;/span&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;mb-30&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
+</description>
+            <pubDate>Mon, 27 May 2024 00:00:00 +0900</pubDate>
+            <link>https://cloudlog.kr/game/diablo/diablo4-season4-loot-reborn-elixir-of-antivenin-quest.html</link>
+            <guid isPermaLink="true">https://cloudlog.kr/game/diablo/diablo4-season4-loot-reborn-elixir-of-antivenin-quest.html</guid>
+            
+            <category>diablo</category>
+            
+            
+        </item>
         
         <item>
             <title>디아블로4 시즌4 - 경험치 비약과 향로를 동시에 4개 사용하는 방법</title>
             <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;디아블로4 (Diablo 4)에서 경험치와 각 종 버프 효과를 주는 비약과 향로는 각각 1개씩 즉 합쳐서 총 2개만 동시에 사용할 수 있는 줄 알았는데, 동시에 4개까지 사용할 수 있는 것을 알게 되어서 어떻게 사용할 수 있는지 내용을 정리해보기로 했습니다.&lt;/p&gt;
+&lt;p&gt;디아블로4 (Diablo 4)에서 경험치와 각 종 버프 효과를 주는 비약과 향로는 각각 1개씩 즉 합쳐서 총 2개만 동시에 사용할 수 있는 줄 알았는데, 이번 [&lt;strong&gt;시즌4 - 전리품의 재발견&lt;/strong&gt;]에서는 동시에 4개까지 사용할 수 있는 것을 알게 되어서 어떻게 사용할 수 있는지 내용을 정리해보기로 했습니다.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season4-loot-reborn-elixir-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌4에서 경험치 비약과 향로를 동시에 4개 사용하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
 
@@ -27,6 +124,32 @@
   &lt;li&gt;&lt;strong&gt;향독의 비약&lt;/strong&gt;: 최대 생명력이 15% 증가하고, 독 저항이 20% 증가합니다. 경험치 획득량이 8% 증가합니다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season4-loot-reborn-elixir-02.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌4에서 경험치 비약과 향로를 동시에 4개 사용하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
+
+&lt;h3 id=&quot;향독의-비약-제작하는-방법-퀘스트-비약&quot;&gt;향독의 비약 제작하는 방법 (퀘스트 비약)&lt;/h3&gt;
+&lt;p&gt;향독의 비약을 제작하는 방법은 아래 글에서 확인할 수 있습니다.&lt;/p&gt;
+
+&lt;section class=&quot;blog blog-block&quot;&gt;
+  &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-sm-12 col-md-12&quot;&gt;
+      
+        
+        
+        &lt;div class=&quot;blog-post-small&quot;&gt;
+          &lt;img src=&quot;/images/game/diablo/diablo4-season4-loot-reborn-elixir-of-antivenin-07.jpg&quot; alt=&quot;/images/game/diablo/diablo4-season4-loot-reborn-elixir-of-antivenin-07.jpg&quot; /&gt;
+          &lt;div class=&quot;title&quot;&gt;
+            &lt;i class=&quot; fa-solid fa-desktop  fa-xl&quot;&gt;&lt;/i&gt;
+            &lt;a href=&quot;/game/diablo/diablo4-season4-loot-reborn-elixir-of-antivenin-quest.html&quot;&gt;디아블로4 시즌4 - 향독의 비약 제작하는 방법 (퀘스트 비약)&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;p&gt;개요 디아블로4 (Diablo 4) [시즌4 - 전리품의 재발견]에서는 경험치 버프를 주는 비약을 동시에 2개를 사용할 수 있는데 그러기 위해서는 일반 비약과 함께 퀘스트 비약인 [향독의 비약]을 제작해서 사용해야 합니다. 그래서...&lt;/p&gt;
+          &lt;a href=&quot;/game/diablo/diablo4-season4-loot-reborn-elixir-of-antivenin-quest.html&quot; class=&quot;link-url&quot;&gt;
+            &lt;span class=&quot;label label-warning&quot;&gt;Read More&lt;/span&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;mb-30&quot;&gt;&lt;/div&gt;
+&lt;/section&gt;
 
 &lt;h2 id=&quot;향로-magic-incense&quot;&gt;향로 (Magic Incense)&lt;/h2&gt;
 &lt;p&gt;다음으로 향로는 자세히 살펴보니 종류가 아래 스샷처럼 [&lt;strong&gt;유형 I&lt;/strong&gt;], [&lt;strong&gt;유형 II&lt;/strong&gt;] 이렇게 2가지가 있었고, 2가지는 동시에 사용 가능한 것으로 확인되었습니다.&lt;/p&gt;
@@ -613,65 +736,6 @@
             <pubDate>Sun, 11 Feb 2024 00:00:00 +0900</pubDate>
             <link>https://cloudlog.kr/game/survival/enshrouded-ucommon-weapon-forest-longbow-info.html</link>
             <guid isPermaLink="true">https://cloudlog.kr/game/survival/enshrouded-ucommon-weapon-forest-longbow-info.html</guid>
-            
-            <category>survival</category>
-            
-            <category>settlers</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>[인슈라오디드] 첫번째 전설 무기 - 기요틴(길로틴) 정보</title>
-            <description>&lt;h2 id=&quot;개요&quot;&gt;개요&lt;/h2&gt;
-&lt;p&gt;요즘 [&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;]에 이어서 화제가 되고 있는 오픈 월드 생존 RPG 게임인 [&lt;strong&gt;인슈라오디드(Enshrouded)&lt;/strong&gt;]을 플레이하면서 처음으로 획득한 전설(Legendary) 무기인 [&lt;strong&gt;기요틴(길로틴)&lt;/strong&gt;]에 대한 정보를 정리해봤습니다.&lt;/p&gt;
-
-&lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/enshrouded/enshrouded-legendary-weapon-guillotine-info-01.jpg&quot; alt=&quot;인슈라오디드(Enshrouded)에서 처음으로 획득한 전설 무기 - 기요틴(길로틴)에  대한 정보&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;기요틴길로틴-guillotine&quot;&gt;기요틴(길로틴) (Guillotine)&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;근접 무기 (Melee Weapon)&lt;/li&gt;
-  &lt;li&gt;등급: 전설 (Legendary)&lt;/li&gt;
-  &lt;li&gt;21 피해&lt;/li&gt;
-  &lt;li&gt;350 최대 내구도&lt;/li&gt;
-  &lt;li&gt;+3 막기 위력&lt;/li&gt;
-  &lt;li&gt;+4 절단 피해&lt;/li&gt;
-  &lt;li&gt;+2 절단 보호&lt;/li&gt;
-  &lt;li&gt;+4 절단 피해&lt;/li&gt;
-  &lt;li&gt;잔인함: 치명타 공격력 20% 증가&lt;/li&gt;
-  &lt;li&gt;정밀함: 치명타 확률 5% 증가&lt;/li&gt;
-  &lt;li&gt;공포에 질려 눈을 감고 머리를 땅에 떨어뜨립니다. 희생자는 기요틴(길로틴)을 마주하기 보다 어둠을 바랍니다.&lt;/li&gt;
-  &lt;li&gt;Heads plummet to the ground, eyes shut in terror. Victims prefer darkness rather than to face the Guillotine.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;공식-채널&quot;&gt;공식 채널&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;스팀 소개 페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/1203620/Enshrouded/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://store.steampowered.com/app/1203620/Enshrouded/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;게임 공식 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://enshrouded.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://enshrouded.com/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;게임 공식 Youtube 채널
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/@enshroudedgame&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.youtube.com/@enshroudedgame&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;개발사 홈페이지
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.keengames.com/&quot; target=&quot;_blank&quot; style=&quot;word-break:break-all&quot;&gt;https://www.keengames.com/&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-            <pubDate>Sun, 11 Feb 2024 00:00:00 +0900</pubDate>
-            <link>https://cloudlog.kr/game/survival/enshrouded-legendary-weapon-guillotine-info.html</link>
-            <guid isPermaLink="true">https://cloudlog.kr/game/survival/enshrouded-legendary-weapon-guillotine-info.html</guid>
             
             <category>survival</category>
             
