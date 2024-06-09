@@ -5,8 +5,8 @@
         <description>Simple Life Cloud Log Blog</description>
         <link>https://cloudlog.kr/</link>
         <atom:link href="https://cloudlog.kr/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 09 Jun 2024 18:09:11 +0900</pubDate>
-        <lastBuildDate>Sun, 09 Jun 2024 18:09:11 +0900</lastBuildDate>
+        <pubDate>Sun, 09 Jun 2024 21:23:50 +0900</pubDate>
+        <lastBuildDate>Sun, 09 Jun 2024 21:23:50 +0900</lastBuildDate>
         <generator>Jekyll v4.2.2</generator>
         
         <item>
@@ -261,7 +261,8 @@
 &lt;/section&gt;
 
 &lt;h2 id=&quot;향로-magic-incense&quot;&gt;향로 (Magic Incense)&lt;/h2&gt;
-&lt;p&gt;다음으로 향로는 자세히 살펴보니 종류가 아래 스샷처럼 [&lt;strong&gt;유형 I&lt;/strong&gt;], [&lt;strong&gt;유형 II&lt;/strong&gt;] 이렇게 2가지가 있었고, 2가지는 동시에 사용 가능한 것으로 확인되었습니다.&lt;/p&gt;
+&lt;p&gt;다음으로 향로는 자세히 살펴보니 종류가 아래 스샷처럼 [&lt;strong&gt;유형 I&lt;/strong&gt;], [&lt;strong&gt;유형 II&lt;/strong&gt;] 이렇게 2가지가 있었고, 2가지는 동시에 사용 가능한 것으로 확인되었습니다.&lt;br /&gt;
+다만, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;추가 경험치는 다른 향과 중복되지 않는다&lt;/code&gt;고 나와 있습니다. 즉, 유형 I, II 관계 없이 향로의 다른 버프는 동시에 적용되지만 추가 경험치는 중복되지 않는다는 것입니다.&lt;/p&gt;
 
 &lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season4-loot-reborn-magic-incense-01.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌4에서 경험치 비약과 향로를 동시에 4개 사용하는 방법&quot; style=&quot;width: 395px;  &quot; /&gt;&lt;/figure&gt;
 
@@ -273,7 +274,7 @@
 &lt;figure&gt;&lt;img class=&quot;docimage&quot; src=&quot;/images/game/diablo/diablo4-season4-loot-reborn-elixir-03.jpg&quot; alt=&quot;디아블로4 (Diablo 4) 시즌4에서 경험치 비약과 향로를 동시에 4개 사용하는 방법&quot; style=&quot;width: 845px; max-width: 100%; &quot; /&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;경험치-증가량&quot;&gt;경험치 증가량&lt;/h2&gt;
-&lt;p&gt;2개의 비약과 2개의 향로 즉, 4개의 버프 아이템을 동시에 켰을 때 경험치 증가량을 확인해보면 다음과 같습니다.&lt;/p&gt;
+&lt;p&gt;2개의 비약과 2개의 향로 즉, 4개의 버프 아이템을 동시에 켰을 때 [&lt;strong&gt;2개의 비약 + 1개의 향로에 의한 경험치 증가량&lt;/strong&gt;]을 확인해보면 다음과 같습니다.&lt;/p&gt;
 
 &lt;h3 id=&quot;기본-경험치&quot;&gt;기본 경험치&lt;/h3&gt;
 &lt;p&gt;세계 단계 4 고행 단계에서 얻을 수 있는 기본 경험치는 [&lt;strong&gt;250.0%&lt;/strong&gt;] 입니다.&lt;/p&gt;
