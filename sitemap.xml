@@ -2,7 +2,17 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2024-05-31T18:25:48+09:00</lastmod>
+    <lastmod>2024-06-09T16:10:18+09:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-traning-grounds-dummy-position.html</loc>
+  
+    <lastmod>2024-06-03T00:00:00+09:00</lastmod>
+    
+      
   </url>
   
   
@@ -88,6 +98,16 @@
   
   
   <url>
+    <loc>https://cloudlog.kr/game/survival/enshrouded-legendary-weapon-guillotine-info.html</loc>
+  
+    <lastmod>2024-02-11T00:00:00+09:00</lastmod>
+    
+      
+  </url>
+  
+  
+  
+  <url>
     <loc>https://cloudlog.kr/game/survival/enshrouded-ucommon-weapon-hatchet-info.html</loc>
   
     <lastmod>2024-02-11T00:00:00+09:00</lastmod>
@@ -99,16 +119,6 @@
   
   <url>
     <loc>https://cloudlog.kr/game/survival/enshrouded-ucommon-weapon-forest-longbow-info.html</loc>
-  
-    <lastmod>2024-02-11T00:00:00+09:00</lastmod>
-    
-      
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://cloudlog.kr/game/survival/enshrouded-legendary-weapon-guillotine-info.html</loc>
   
     <lastmod>2024-02-11T00:00:00+09:00</lastmod>
     
@@ -438,7 +448,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/life/drama/japan/disney-plus-japan-drama-list-202309.html</loc>
+    <loc>https://cloudlog.kr/life/movie/disney-plus-guardians-of-the-galaxy-volume-3.html</loc>
   
     <lastmod>2023-09-25T00:00:00+09:00</lastmod>
     
@@ -448,7 +458,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/life/movie/disney-plus-guardians-of-the-galaxy-volume-3.html</loc>
+    <loc>https://cloudlog.kr/life/drama/japan/disney-plus-japan-drama-list-202309.html</loc>
   
     <lastmod>2023-09-25T00:00:00+09:00</lastmod>
     
@@ -738,7 +748,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-helltide-aberrant-cinders-collecting-tip-01.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-gem-crafting-level-requirement.html</loc>
   
     <lastmod>2023-06-15T00:00:00+09:00</lastmod>
     
@@ -748,7 +758,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-gem-crafting-level-requirement.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-helltide-aberrant-cinders-collecting-tip-01.html</loc>
   
     <lastmod>2023-06-15T00:00:00+09:00</lastmod>
     
@@ -1118,7 +1128,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/mobile/hit2-dungeon-monster-position-info-2nd.html</loc>
+    <loc>https://cloudlog.kr/game/hit2/hit2-dungeon-monster-position-info.html</loc>
   
     <lastmod>2022-09-09T00:00:00+09:00</lastmod>
     
@@ -1128,7 +1138,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/hit2/hit2-dungeon-monster-position-info.html</loc>
+    <loc>https://cloudlog.kr/game/mobile/hit2-dungeon-monster-position-info-2nd.html</loc>
   
     <lastmod>2022-09-09T00:00:00+09:00</lastmod>
     
