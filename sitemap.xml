@@ -2,7 +2,17 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2024-06-09T16:23:15+09:00</lastmod>
+    <lastmod>2024-06-09T18:09:11+09:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-season4-one-year-anniversary-event-blessing-of-mother-exp.html</loc>
+  
+    <lastmod>2024-06-07T00:00:00+09:00</lastmod>
+    
+      
   </url>
   
   
@@ -548,7 +558,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-sorcerer-enchantment-list.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-sorcerer-enchantment-quest.html</loc>
   
     <lastmod>2023-07-20T00:00:00+09:00</lastmod>
     
@@ -558,7 +568,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-sorcerer-enchantment-quest.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-sorcerer-enchantment-list.html</loc>
   
     <lastmod>2023-07-20T00:00:00+09:00</lastmod>
     
@@ -748,7 +758,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-gem-crafting-level-requirement.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-helltide-aberrant-cinders-collecting-tip-01.html</loc>
   
     <lastmod>2023-06-15T00:00:00+09:00</lastmod>
     
@@ -758,7 +768,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-helltide-aberrant-cinders-collecting-tip-01.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-gem-crafting-level-requirement.html</loc>
   
     <lastmod>2023-06-15T00:00:00+09:00</lastmod>
     
@@ -858,16 +868,6 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-day3-get-legendary-item-info.html</loc>
-  
-    <lastmod>2023-06-05T00:00:00+09:00</lastmod>
-    
-      
-  </url>
-  
-  
-  
-  <url>
     <loc>https://cloudlog.kr/game/diablo/diablo4-quest-secret-of-the-spring-guide.html</loc>
   
     <lastmod>2023-06-05T00:00:00+09:00</lastmod>
@@ -878,7 +878,17 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-quest-mount-favor-of-donan-guide.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-day3-get-legendary-item-info.html</loc>
+  
+    <lastmod>2023-06-05T00:00:00+09:00</lastmod>
+    
+      
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-day1-get-legendary-item-info.html</loc>
   
     <lastmod>2023-06-03T00:00:00+09:00</lastmod>
     
@@ -888,7 +898,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-day1-get-legendary-item-info.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-quest-mount-favor-of-donan-guide.html</loc>
   
     <lastmod>2023-06-03T00:00:00+09:00</lastmod>
     
