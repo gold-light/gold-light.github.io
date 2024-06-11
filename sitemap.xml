@@ -2,7 +2,17 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cloudlog.kr/</loc>
-    <lastmod>2024-06-10T23:38:34+09:00</lastmod>
+    <lastmod>2024-06-11T23:13:42+09:00</lastmod>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-expansion-vessel-of-hatred-info.html</loc>
+  
+    <lastmod>2024-06-11T00:00:00+09:00</lastmod>
+    
+      
   </url>
   
   
@@ -548,16 +558,6 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-season-character-create-start-guide.html</loc>
-  
-    <lastmod>2023-07-21T00:00:00+09:00</lastmod>
-    
-      
-  </url>
-  
-  
-  
-  <url>
     <loc>https://cloudlog.kr/game/diablo/diablo4-season-malignant-hearts-quest-guide.html</loc>
   
     <lastmod>2023-07-21T00:00:00+09:00</lastmod>
@@ -568,7 +568,17 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-sorcerer-enchantment-quest.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-season-character-create-start-guide.html</loc>
+  
+    <lastmod>2023-07-21T00:00:00+09:00</lastmod>
+    
+      
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-sorcerer-enchantment-list.html</loc>
   
     <lastmod>2023-07-20T00:00:00+09:00</lastmod>
     
@@ -578,7 +588,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-sorcerer-enchantment-list.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-sorcerer-enchantment-quest.html</loc>
   
     <lastmod>2023-07-20T00:00:00+09:00</lastmod>
     
@@ -828,7 +838,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-crushed-beast-bones-location.html</loc>
   
     <lastmod>2023-06-09T00:00:00+09:00</lastmod>
     
@@ -838,7 +848,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-crushed-beast-bones-location.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-helltide-tortured-gift-of-mysteries-sacred-legendary-item-info.html</loc>
   
     <lastmod>2023-06-09T00:00:00+09:00</lastmod>
     
@@ -878,7 +888,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-day3-get-legendary-item-info.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-quest-secret-of-the-spring-guide.html</loc>
   
     <lastmod>2023-06-05T00:00:00+09:00</lastmod>
     
@@ -888,7 +898,7 @@
   
   
   <url>
-    <loc>https://cloudlog.kr/game/diablo/diablo4-quest-secret-of-the-spring-guide.html</loc>
+    <loc>https://cloudlog.kr/game/diablo/diablo4-day3-get-legendary-item-info.html</loc>
   
     <lastmod>2023-06-05T00:00:00+09:00</lastmod>
     
