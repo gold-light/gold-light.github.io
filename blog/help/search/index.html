@@ -2156,6 +2156,12 @@
 						"url": "\/docs\/cloud\/aws\/bitnami-lamp-setting-guide\/",
 						"content": "개요 linkAWS에 간단한 웹사이트를 만들때 주로 사용하게 되는 것이 LAMP(Linux, Apache, Mysql, PHP)인데, 직접 설치해서 사용해도 되지만 AWS에는 LAMP가 기본적으로 설치, 설정되어 있는 라이브러리가 있습니다. 그중에서 유명한 것이 bitnami 입니다.\n제가 최근에 설치한 것이 Ubuntu 16.04 버전 기반으로 AMP가 설치된 버전이었는데, AWS EC2에서 새로운 서버를 설치할 때 AWS MarketPlace에서 Linux, PHP 버전별로 찾아서 설치하시면 됩니다.\nhttps:\/\/aws.amazon.com\/marketplace\/search\/results?searchTerms=lamp\n설치 후에 각종 설정 파일들 위치가 직접 설치하는 경우와는 다르기 때문에 쉽게 확인하고 설정할 수 있도록 디렉토리와 파일 위치를 정리하면서 웹사이트 개설에 필요한 정보를 정리해보겠습니다.\n홈 디렉토리 link\r\/home\/bitnami\/\r가상 호스트 파일 위치 link\r\/opt\/bitnami\/apache2\/conf\/bitnami\/bitnami-apps-vhosts.conf\rApache 설정 linkmyweb.com 이라는 웹사이트를 만든다고 가정했을 때의 환경 설정 방법을 정리해보겠습니다.\nhttpd-app.conf 생성 link\rvi \/opt\/bitnami\/apps\/myweb\/conf\/httpd-app.conf\rOptions \u002bFollowSymLinks\rAllowOverride None\r"
 					},				
+					"\/docs\/cloud\/aws\/rocky-linux-9.3-selinux-setsebool-error\/": {
+						"id": "\/docs\/cloud\/aws\/rocky-linux-9.3-selinux-setsebool-error\/",
+						"title": "AWS Rocky Linux 9.3에서 SELInux setsebool 설정이 저장되지 않는 문제 해결 방법",
+						"url": "\/docs\/cloud\/aws\/rocky-linux-9.3-selinux-setsebool-error\/",
+						"content": "개요 linkAWS Rocky Linux 9.3 버전에서 httpd_can_network_connect on 옵션이 저장되지 않고 재부팅하면 옵션이 초기화 되는 현상이 발생합니다. 이렇게 되면 Apache나 NginX를 이용해서 웹사이트를 가동시켜도 재부팅하면 SELinux의 setsebool 옵션이 저장되지 않았기 때문에 접속이 차단되는 현상입니다.\n실제로 명령어를 실행하면 아래와 같은 메시지 발생합니다.\nsetsebool -P httpd_can_network_connect on\rlibsepol.context_from_record: type gnss_device_t is not defined\rlibsepol.context_from_record: could not create context structure\rlibsepol.context_from_string: could not create context structure\rlibsepol.sepol_context_to_sid: could not convert system_u:object_r:gnss_device_t:s0 to sid\rinvalid context system_u:object_r:gnss_device_t:s0\rFailed to commit changes to booleans: Success\r해결 방법 link이 문제를 해결하는 방법은 Rocky Linux 9.4로 업그레이드 하면 간단하게 해결됩니다.\ndnf upgrade\r문서 업데이트 내역 link\r날짜 내용 2024-07-19 문서 최초 생성 "
+					},				
 					"\/docs\/cloud\/ncloud\/nca-certification-pass-review\/": {
 						"id": "\/docs\/cloud\/ncloud\/nca-certification-pass-review\/",
 						"title": "네이버 클라우드 (Ncloud) 자격증 NCA 합격 후기, 시험문제 출제 경향",
@@ -2654,7 +2660,7 @@
                         Built with <a href="https://gohugo.io/" target="_blank" class="no_icon">HUGO</a> & <a href="https://lotusdocs.dev/docs/" target="_blank" class="no_icon">Lotus Docs</a>
                     </p>                    
                     <p class="mb-0">
-                        Site last modified: 2024-06-13
+                        Site last modified: 2024-07-19
                     </p>                   
                 </div>
             </div>

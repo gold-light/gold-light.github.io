@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SELinux on Simple Life Cloud Log</title>
+    <link>https://cloudlog.kr/tags/selinux/</link>
+    <description>Recent content in SELinux on Simple Life Cloud Log</description>
+    <generator>Hugo 0.128.2</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://cloudlog.kr/tags/selinux/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>AWS Rocky Linux 9.3에서 SELInux setsebool 설정이 저장되지 않는 문제 해결 방법</title>
+      <link>https://cloudlog.kr/docs/cloud/aws/rocky-linux-9.3-selinux-setsebool-error/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/docs/cloud/aws/rocky-linux-9.3-selinux-setsebool-error/</guid>
+      <description>개요 linkAWS Rocky Linux 9.3 버전에서 httpd_can_network_connect on 옵션이 저장되지 않고 재부팅하면 옵션이 초기화 되는 현상이 발생합니다. 이렇게 되면 Apache나 NginX를 이용해서 웹사이트를 가동시켜도 재부팅하면 SELinux의 setsebool 옵션이 저장되지 않았기 때문에 접속이 차단되는 현상입니다.&#xA;실제로 명령어를 실행하면 아래와 같은 메시지 발생합니다.&#xA;setsebool -P httpd_can_network_connect on&#xD;libsepol.context_from_record: type gnss_device_t is not defined&#xD;libsepol.context_from_record: could not create context structure&#xD;libsepol.context_from_string: could not create context structure&#xD;libsepol.sepol_context_to_sid: could not convert system_u:object_r:gnss_device_t:s0 to sid&#xD;invalid context system_u:object_r:gnss_device_t:s0&#xD;Failed to commit changes to booleans: Success&#xD;해결 방법 link이 문제를 해결하는 방법은 Rocky Linux 9.</description>
+    </item>
+  </channel>
+</rss>

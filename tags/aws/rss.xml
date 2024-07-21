@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aws on Simple Life Cloud Log</title>
+    <title>AWS on Simple Life Cloud Log</title>
     <link>https://cloudlog.kr/tags/aws/</link>
-    <description>Recent content in Aws on Simple Life Cloud Log</description>
+    <description>Recent content in AWS on Simple Life Cloud Log</description>
     <generator>Hugo 0.128.2</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Sat, 13 Nov 2021 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/tags/aws/rss.xml" rel="self" type="application/rss+xml" /><item>
       <title> AWS bitnami LAMP 설정하기 (apache, php, mysql)</title>
       <link>https://cloudlog.kr/docs/cloud/aws/bitnami-lamp-setting-guide/</link>
       <pubDate>Sat, 13 Nov 2021 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/docs/cloud/aws/bitnami-lamp-setting-guide/</guid>
       <description>개요 linkAWS에 간단한 웹사이트를 만들때 주로 사용하게 되는 것이 LAMP(Linux, Apache, Mysql, PHP)인데, 직접 설치해서 사용해도 되지만 AWS에는 LAMP가 기본적으로 설치, 설정되어 있는 라이브러리가 있습니다. 그중에서 유명한 것이 bitnami 입니다.&#xA;제가 최근에 설치한 것이 Ubuntu 16.04 버전 기반으로 AMP가 설치된 버전이었는데, AWS EC2에서 새로운 서버를 설치할 때 AWS MarketPlace에서 Linux, PHP 버전별로 찾아서 설치하시면 됩니다.&#xA;https://aws.amazon.com/marketplace/search/results?searchTerms=lamp&#xA;설치 후에 각종 설정 파일들 위치가 직접 설치하는 경우와는 다르기 때문에 쉽게 확인하고 설정할 수 있도록 디렉토리와 파일 위치를 정리하면서 웹사이트 개설에 필요한 정보를 정리해보겠습니다.</description>
+    </item><item>
+      <title>AWS Rocky Linux 9.3에서 SELInux setsebool 설정이 저장되지 않는 문제 해결 방법</title>
+      <link>https://cloudlog.kr/docs/cloud/aws/rocky-linux-9.3-selinux-setsebool-error/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/docs/cloud/aws/rocky-linux-9.3-selinux-setsebool-error/</guid>
+      <description>개요 linkAWS Rocky Linux 9.3 버전에서 httpd_can_network_connect on 옵션이 저장되지 않고 재부팅하면 옵션이 초기화 되는 현상이 발생합니다. 이렇게 되면 Apache나 NginX를 이용해서 웹사이트를 가동시켜도 재부팅하면 SELinux의 setsebool 옵션이 저장되지 않았기 때문에 접속이 차단되는 현상입니다.&#xA;실제로 명령어를 실행하면 아래와 같은 메시지 발생합니다.&#xA;setsebool -P httpd_can_network_connect on&#xD;libsepol.context_from_record: type gnss_device_t is not defined&#xD;libsepol.context_from_record: could not create context structure&#xD;libsepol.context_from_string: could not create context structure&#xD;libsepol.sepol_context_to_sid: could not convert system_u:object_r:gnss_device_t:s0 to sid&#xD;invalid context system_u:object_r:gnss_device_t:s0&#xD;Failed to commit changes to booleans: Success&#xD;해결 방법 link이 문제를 해결하는 방법은 Rocky Linux 9.</description>
     </item>
   </channel>
 </rss>

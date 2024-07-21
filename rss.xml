@@ -6,8 +6,14 @@
     <description>Recent content on Simple Life Cloud Log</description>
     <generator>Hugo 0.128.2</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Thu, 13 Jun 2024 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>AWS Rocky Linux 9.3에서 SELInux setsebool 설정이 저장되지 않는 문제 해결 방법</title>
+      <link>https://cloudlog.kr/docs/cloud/aws/rocky-linux-9.3-selinux-setsebool-error/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/docs/cloud/aws/rocky-linux-9.3-selinux-setsebool-error/</guid>
+      <description>개요 linkAWS Rocky Linux 9.3 버전에서 httpd_can_network_connect on 옵션이 저장되지 않고 재부팅하면 옵션이 초기화 되는 현상이 발생합니다. 이렇게 되면 Apache나 NginX를 이용해서 웹사이트를 가동시켜도 재부팅하면 SELinux의 setsebool 옵션이 저장되지 않았기 때문에 접속이 차단되는 현상입니다.&#xA;실제로 명령어를 실행하면 아래와 같은 메시지 발생합니다.&#xA;setsebool -P httpd_can_network_connect on&#xD;libsepol.context_from_record: type gnss_device_t is not defined&#xD;libsepol.context_from_record: could not create context structure&#xD;libsepol.context_from_string: could not create context structure&#xD;libsepol.sepol_context_to_sid: could not convert system_u:object_r:gnss_device_t:s0 to sid&#xD;invalid context system_u:object_r:gnss_device_t:s0&#xD;Failed to commit changes to booleans: Success&#xD;해결 방법 link이 문제를 해결하는 방법은 Rocky Linux 9.</description>
+    </item><item>
       <title>디아블로4 시즌4 선조 고유 아이템 [할리퀸 관모] - 샤코 상세 정보</title>
       <link>https://cloudlog.kr/blog/game/pc/diablo/item/diablo4-season4-get-ancestral-unique-helm-harlequin-crest-info/</link>
       <pubDate>Thu, 13 Jun 2024 00:00:00 +0900</pubDate>
@@ -61,12 +67,6 @@
       <pubDate>Wed, 01 May 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/blog/life/k-pass-member-join-error-info/</guid>
       <description>K-패스 link월 15회 이상 대중 교통 이용 시에 기준에 따라 20% ~ 53%까지 이용 요금을 환급 받을 수 있는 K-패스가 2024년 5월 1일부터 사용할 수 있게 되었습니다.&#xA;그래서, 환급 받기 위해서 각 은행에서 발급받은 카드를 K-패스 앱이나 홈페이지에 회원가입을 해야 하는데, 여기서는 회원 가입 시에 나타나는 오류 상황과 해결 방법을 정리해보겠습니다.&#xA;회원 가입 방법 link회원 가입 방법은 홈페이지와 앱 2가지가 있습니다.&#xA;홈페이지 link https://www.korea-pass.kr/ 앱 link 아이폰: https://itunes.apple.com/app/apple-store/id1538531939?mt=8&#xA;안드로이드: https://play.google.com/store/apps/details?id=kr.or.kotsa.watc</description>
-    </item><item>
-      <title>[팰 월드] 화산지역에 유황 거점 설치하는 방법</title>
-      <link>https://cloudlog.kr/blog/game/pc/palworld/palworld-build-sulfur-base-in-volcanic-area/</link>
-      <pubDate>Tue, 27 Feb 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/blog/game/pc/palworld/palworld-build-sulfur-base-in-volcanic-area/</guid>
-      <description>개요 link[팰 월드(PalWorld)]에서 총알이나 폭탄, 미사일 등을 제작하려면 화약이 필요하고, 화약을 만들려면 유황을 채굴해야 합니다. 유황은 다른 지역에는 1덩이씩 있지만, 화산 지역에는 대량으로 존재하는 곳이 몇 군데 있습니다. 하지만 화산지역은 거점을 설치할 수 없거나 용암 때문에 팰이나 캐릭터가 금방 죽는 경우가 있어서 많아서 거점을 설치하기 어려운 것이 사실입니다.&#xA;물론 유황은 거점을 설치하지 않고, 직접 이동해서 캐는 방법이 일반적이기는 하지만 재미를 위해서 한번 직접 거점을 설치해봤습니다.&#xA;유황 거점 위치 link대략 위치는 [-590, -402] 정도의 위치에 있습니다.</description>
     </item>
   </channel>
 </rss>
