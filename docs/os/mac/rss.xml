@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>맥OS on Simple Life Cloud Log</title>
+    <link>https://clouglog.kr/docs/os/mac/</link>
+    <description>Recent content in 맥OS on Simple Life Cloud Log</description>
+    <generator>Hugo 0.128.2</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 13 Nov 2021 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://clouglog.kr/docs/os/mac/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>맥OS 카탈리나(Catalina) 기타볼륨(읽기 전용 볼륨)의 정체</title>
+      <link>https://clouglog.kr/docs/os/mac/macos-catalina-other-volume/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/os/mac/macos-catalina-other-volume/</guid>
+      <description>개요 link아이맥이나 맥북을 사용하면서 최신 OS 카탈리나로 업데이트 한 후에 저랑 비슷하게 당황스러운 경험을 하신 분들이 있을거라 생각이 들어 조금 정리해보았습니다.&#xA;아이맥에서 카탈리나로 업데이트 한 후에 몇일 사용하다보니 디스크 용량이 부족하다는 메시지를 접하게 되었습니다. 그래서 디스크 유틸리티로 확인해보았더니 기타볼륨이라고 해서 알수 없는 공간이 상당한 양을 차지하고 있었습니다. 게다가 왼쪽 디스크 구분에 &amp;ldquo;&amp;hellip;-데이터&amp;rdquo; 라고 하는 조금 의아한 디스크도 추가되어 있어서 몹시 당황스러웠습니다.&#xA;결국 구글에서 맥OS 카탈리나 기타볼륨 등으로 검색을 열심히 해보았더니 디스크 클린 유틸리티 등으로 사용하지 않는 파일 등을 삭제해야 해결된다는 이야기만 가득했습니다.</description>
+    </item>
+  </channel>
+</rss>

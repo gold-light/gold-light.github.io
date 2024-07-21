@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html on Simple Life Cloud Log</title>
+    <link>https://clouglog.kr/tags/html/</link>
+    <description>Recent content in Html on Simple Life Cloud Log</description>
+    <generator>Hugo 0.128.2</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 03 Oct 2022 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://clouglog.kr/tags/html/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Form Request 파라미터 설정 여부 확인하는 PHP 함수</title>
+      <link>https://clouglog.kr/docs/programming/php/request-variables-isset-parameter/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/programming/php/request-variables-isset-parameter/</guid>
+      <description>개요 link웹페이지를 만들다 보면 태그로 여러가지 Request 파라미터를 전송하게 됩니다.&#xA;이때 파라미터를 전송 받은 페이지에서 파라미터가 전송되었는지 즉, 변수가 설정되어 있는지 확인하는 작업이 필요한 경우가 있는데 PHP에서 좀 더 쉽게 확인할 수 있는 함수를 만들어봤습니다.&#xA;전송하는 HTML 페이지 link아래와 같이 파라미터를 전송하는 HTML 페이지가 있다고 가정해보겠습니다.&#xA;&amp;lt;form action=&amp;#34;input_insert.php&amp;#34; method=&amp;#34;post&amp;#34;&amp;gt;&#xD;&amp;lt;input type=&amp;#34;text&amp;#34; id=&amp;#34;param_1&amp;#34; name=&amp;#34;param_1&amp;#34; value=&amp;#34;value_1&amp;#34;&amp;gt;&#xD;&amp;lt;input type=&amp;#34;text&amp;#34; id=&amp;#34;param_2&amp;#34; name=&amp;#34;param_2&amp;#34; value=&amp;#34;value_2&amp;#34;&amp;gt;&#xD;&amp;lt;input type=&amp;#34;text&amp;#34; id=&amp;#34;param_3&amp;#34; name=&amp;#34;param_3&amp;#34; value=&amp;#34;value_3&amp;#34;&amp;gt;&#xD;&amp;lt;input type=&amp;#34;text&amp;#34; id=&amp;#34;param_4&amp;#34; name=&amp;#34;param_4&amp;#34; value=&amp;#34;value_4&amp;#34;&amp;gt;&#xD;&amp;lt;input type=&amp;#34;text&amp;#34; id=&amp;#34;param_5&amp;#34; name=&amp;#34;param_5&amp;#34; value=&amp;#34;value_5&amp;#34;&amp;gt;&#xD;&amp;lt;/form&amp;gt;&#xD;전송받는 PHP 페이지 link이때 파라미터를 전송 받은 페이지에서 파라미터가 전송되었는지 확인하는 작업이 필요한 경우가 있습니다.</description>
+    </item><item>
+      <title>HTML Loading Progress Bar with Bootstrap</title>
+      <link>https://clouglog.kr/docs/programming/html/loading-progress-bar-with-bootstrap/</link>
+      <pubDate>Mon, 03 Oct 2022 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/programming/html/loading-progress-bar-with-bootstrap/</guid>
+      <description>개요 link웹페이지를 만들다 보면 로딩바 즉, 프로그레스바 (Progress Bar)가 필요한 경우가 있습니다.&#xA;이때 부트스트랩(Bootstrap)의 [Progress Bar]와 자바스크립트 함수 [setInterval]을 이용하면 간단하게 만들 수 있습니다.&#xA;예제 link처음 페이지 로딩할 때 아래 로딩바가 조금씩 움직이는 걸 확인할 수 있습니다. 다시 보시려면 새로 고침을 해보시면 됩니다.&#xA;소스 코드 link아래는 HTML과 JavaScript 소스코드입니다.&#xA;HTML은 우선 Bootstrap가 있어야 하므로 상단에 css, js 파일을 불러오는데, Bootstrap 3.x 버전과 4.x 버전이 조금 다르니 사용하시는 버전으로 골라서 적용하시면 됩니다.</description>
+    </item>
+  </channel>
+</rss>

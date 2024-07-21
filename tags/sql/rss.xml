@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sql on Simple Life Cloud Log</title>
+    <link>https://clouglog.kr/tags/sql/</link>
+    <description>Recent content in Sql on Simple Life Cloud Log</description>
+    <generator>Hugo 0.128.2</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://clouglog.kr/tags/sql/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>PHP SQL Injection 방지 코드</title>
+      <link>https://clouglog.kr/docs/programming/php/sql-injection-function/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/programming/php/sql-injection-function/</guid>
+      <description>개요 link웹개발을 하면서 항상 신경 쓰이는 것이 SQL Injection을 비롯한 각종 보안문제입니다. 특히나 외부에서(사용자로부터) 데이터를 입력 받아서 DB에 입력하는 기능이 핵심이기 때문에 어떤 문자열이 입력될지 알 수가 없다는 것이 신경쓰이는 부분입니다.&#xA;사용자가 실수로 혹은 악의적인 목적을 가진 사람이 의도적으로 DB해킹을 목적으로 비정상적인 데이터를 입력하는 경우가 많기 때문에 해킹코드를 100% 막지는 못하더라도 최대한 막을 수 있도록 준비해두는 것이 필요합니다.&#xA;화이트 리스트 link보안과 관련해서 흔히 얘기되는 중요한 원칙이 블랙리스트 방식이 아닌 화이트리스트 방식으로 해야 한다는 것입니다.</description>
+    </item>
+  </channel>
+</rss>

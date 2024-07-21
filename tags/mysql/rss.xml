@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mysql on Simple Life Cloud Log</title>
+    <link>https://clouglog.kr/tags/mysql/</link>
+    <description>Recent content in Mysql on Simple Life Cloud Log</description>
+    <generator>Hugo 0.128.2</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Fri, 29 Sep 2023 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://clouglog.kr/tags/mysql/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title> AWS bitnami LAMP 설정하기 (apache, php, mysql)</title>
+      <link>https://clouglog.kr/docs/cloud/aws/bitnami-lamp-setting-guide/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/cloud/aws/bitnami-lamp-setting-guide/</guid>
+      <description>개요 linkAWS에 간단한 웹사이트를 만들때 주로 사용하게 되는 것이 LAMP(Linux, Apache, Mysql, PHP)인데, 직접 설치해서 사용해도 되지만 AWS에는 LAMP가 기본적으로 설치, 설정되어 있는 라이브러리가 있습니다. 그중에서 유명한 것이 bitnami 입니다.&#xA;제가 최근에 설치한 것이 Ubuntu 16.04 버전 기반으로 AMP가 설치된 버전이었는데, AWS EC2에서 새로운 서버를 설치할 때 AWS MarketPlace에서 Linux, PHP 버전별로 찾아서 설치하시면 됩니다.&#xA;https://aws.amazon.com/marketplace/search/results?searchTerms=lamp&#xA;설치 후에 각종 설정 파일들 위치가 직접 설치하는 경우와는 다르기 때문에 쉽게 확인하고 설정할 수 있도록 디렉토리와 파일 위치를 정리하면서 웹사이트 개설에 필요한 정보를 정리해보겠습니다.</description>
+    </item><item>
+      <title>DB(데이터베이스) 마이그레이션 프로세스와 일정 예시</title>
+      <link>https://clouglog.kr/docs/database/database-migration-process-schedule/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/database/database-migration-process-schedule/</guid>
+      <description>개요 linkDB(데이터베이스)를 사용하는 서비스를 유지하다보면, DB를 마이그레이션 해야 하는 경우가 있습니다.&#xA;DB 마이그레이션에는 여러 종류가 있지만, 여기서는 물리적인 위치나 플랫폼을 바꾸는 경우 예를 들어 아래와 같은 경우에 참고할 만한 내용을 정리해보겠습니다.&#xA;IDC IDC IDC Cloud Cloud Cloud Cloud IDC 사전 설정 linkDB 마이그레이션은 애플리케이션 서버와 함께 마이그레이션 하는 경우가 대부분 이므로 그렇게 가정하고 정리해보겠습니다.&#xA;또한, MSSQL, MySQL 등의 DB 종류와 관계없이 일반적인 내용으로 정리하려고 합니다.&#xA;그리고, 디비 마이그레이션은 충분한 시간을 갖고 계획을 수립하고, 디비 백업 파일을 마이그레이션할 대상 플랫폼에 옮겨서 라이브 환경과 동일하게 테스트 환경을 갖추고, 충분한 기간 동안 스트를 진행한 후에 문제가 있으면 수정하는 등, 충분한 시뮬레이션을 거친 후에 진행하기를 추천합니다.</description>
+    </item><item>
+      <title>CentOS 7에 MySQL 5.7 설치하는 방법</title>
+      <link>https://clouglog.kr/docs/database/mysql/mysql-57-how-to-install-on-centos7/</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/database/mysql/mysql-57-how-to-install-on-centos7/</guid>
+      <description>개요 linkCentOS 7.8에 MySQL 5.7을 설치하는 방법을 정리했습니다.&#xA;물론 CentOS 7은 2024년 6월 30일에 서비스 지원이 종료되기에 앞으로는 Ubuntu나 Rocky Linux를 사용하게 되겠지만 그래도 상황에 따라 사용하게 될 수도 있어서 CentOS 7에 설치하는 방법을 정리하게 되었습니다.&#xA;전체 과정 link설치하는 전체 과정을 정리하면 아래와 같습니다. 이후에 하나씩 설명을 해보겠습니다.&#xA;yum -y install https://dev.mysql.com/get/mysql80-community-release-el7-10.noarch.rpm&#xD;yum repolist all | grep mysql&#xD;yum-config-manager --disable mysql80-community&#xD;yum-config-manager --enable mysql57-community&#xD;yum -y install mysql-community-server&#xD;mysqld --initialize-insecure --user=mysql&#xD;systemctl start mysqld&#xD;mysql_secure_installation&#xD;mysql -u root -p&#xD;패키지 설치 link설치할 패키지 경로는 dev.</description>
+    </item><item>
+      <title>MySql Workbench 대량 Update Error - Safe Updates Option</title>
+      <link>https://clouglog.kr/docs/database/mysql/workbench-update-error-safe-updates/</link>
+      <pubDate>Sat, 17 Dec 2022 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/database/mysql/workbench-update-error-safe-updates/</guid>
+      <description>개요 linkMySQL DB를 MySQL Workbench로 연결해서 사용할 때 테이블에 있는 다수의 행을 한꺼번에 업데이트 해야 하는 경우가 있습니다.&#xA;예를 들어&#xA;UPDATE test_db.test_table SET field_1 = ‘value’;&#xA;하지만, 이때 업데이트 문을 실행하면 아래와 같이 [safe update mode]가 설정되어 있는데, Key 칼럼을 조건문에 사용하지 않았으므로 쿼리를 실행할 수 없다는 메시지가 나타납니다.&#xA;report&#xD;Error Code: 1175 : You are using safe update mode and you tried to update a table without a WHERE that uses a KEY column To disable safe mode, toggle the option in Preferences -&amp;gt; SQL Editor and reconnect.</description>
+    </item><item>
+      <title>Windows 10 환경에서 Apache, MySQL, PHP 간단히 실행하기 무설치 버전 - XAMPP</title>
+      <link>https://clouglog.kr/docs/os/windows/xampp-apache-mysql-php-perl-execute-no-install/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/os/windows/xampp-apache-mysql-php-perl-execute-no-install/</guid>
+      <description>개요 link리눅스 서버가 아닌 윈도우 PC나 맥 OS에서 Apache, MySQL, PHP를 설치하고 실행해야 하는 경우가 있는데, 이때 각각 따로 설치하는 방법도 있지만 한꺼번에 설치, 실행할 수 있으면 매우 편합니다. 예전에는 APMSetup이라는 툴이 있었지만, 현재는 개발이 중단된 상태라 대체 툴로 나온 것이 XAMPP입니다.&#xA;XAMPP는 Apache, MariaDB, PHP, Perl을 포함하고 있고 Windows, Linux, OS X 세 가지 운영체제에 맞는 패키지를 제공하고 있습니다.&#xA;여기서는 XAMPP에서 제공하는 여러 가지 버전 중에서 PHP 7.X버전이 포함된 압축 파일 형태로 제공되는 무설치 버전을 소개하려고 합니다.</description>
+    </item>
+  </channel>
+</rss>

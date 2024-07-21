@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Function on Simple Life Cloud Log</title>
+    <link>https://clouglog.kr/tags/function/</link>
+    <description>Recent content in Function on Simple Life Cloud Log</description>
+    <generator>Hugo 0.128.2</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://clouglog.kr/tags/function/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>PHP 자주쓰는 유용한 함수 모음</title>
+      <link>https://clouglog.kr/docs/programming/php/useful-function-list/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/programming/php/useful-function-list/</guid>
+      <description>개요 linkPHP로 개발할 때 자주 찾아보게 되는 함수들을 정리해보았습니다.&#xA;Date link날짜와 시간 관련 함수들입니다.&#xA;&amp;lt;?php&#xD;// 해당달($nowMonth) 의 1일의 타임스탬프 얻기&#xD;$unix_time_stamp = mktime(0,0,0,$nowMonth,1,$nowYear);&#xD;// 해당달($nowMonth) 의 요일을 숫자로 얻어오기&#xD;$firstday_week_num = date(w,$intTimeStamp); // 해당달($nowMonth) 의 총일자수&#xD;$month_total_day = date(t,$intTimeStamp); ?&amp;gt;&#xD;배열 link배열과 관련된 함수들입니다.&#xA;array_search link배열에서 데이터 검색할 때 사용합니다.&#xA;&amp;lt;?php&#xD;$idx_search_01 = array_search(303, $arr_test_01);&#xD;$idx_search_02 = array_search(&amp;#34;nvidia&amp;#34;, $arr_test_02);&#xD;$idx_search_04 = array_search(&amp;#34;홍길동&amp;#34;, array_column($arr_user_info, &amp;#34;name&amp;#34;));&#xD;?&amp;gt;&#xD;array_column link배열에서 열(column) 기준으로 검색할 때 사용하며, 단독으로 사용하기 보다는 주로 array_search 함수와 함께 사용합니다.</description>
+    </item><item>
+      <title>PHP 이전 날짜, 다음 날짜 구하는 방법</title>
+      <link>https://clouglog.kr/docs/programming/php/get-prev-next-date-function/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/programming/php/get-prev-next-date-function/</guid>
+      <description>개요 linkPHP로 개발할 때 기준 날짜 기준으로 이전 날짜, 다음 날짜를 구하는 방법을 정리해보겠습니다.&#xA;날짜 계산하는 방법은 여러가지 있지만 이번에는 [$obj-&amp;gt;sub(new DateInterval(&amp;ldquo;P1D&amp;rdquo;));] 방식을 이용해보겠습니다.&#xA;핵심 기능 link이전 날짜를 계산할 때는 $obj-&amp;gt;sub();&#xA;다음 날짜를 계산할 때는 $obj-&amp;gt;add();&#xA;&amp;lt;?php $prev_date_obj-&amp;gt;sub(new DateInterval(&amp;#34;P1D&amp;#34;));&#xD;$next_date_obj-&amp;gt;add(new DateInterval(&amp;#34;P1D&amp;#34;));&#xD;?&amp;gt;&#xD;이전 날짜, 다음 날짜 link기준일의 1일전, 1일후 날짜를 구해보겠습니다.&#xA;&amp;lt;?php $check_date = &amp;#34;2023-01-06&amp;#34;;&#xD;$prev_date_obj = new DateTime($check_date);&#xD;$prev_date_obj-&amp;gt;sub(new DateInterval(&amp;#34;P1D&amp;#34;));&#xD;$prev_date = $prev_date_obj-&amp;gt;format(&amp;#34;Y-m-d&amp;#34;);&#xD;$next_date_obj = new DateTime($check_date);&#xD;$next_date_obj-&amp;gt;add(new DateInterval(&amp;#34;P1D&amp;#34;));&#xD;$next_date = $next_date_obj-&amp;gt;format(&amp;#34;Y-m-d&amp;#34;);&#xD;echo(&amp;#34;prev_date : &amp;#34;.</description>
+    </item><item>
+      <title>PHP 배열검색 array_search, array_column</title>
+      <link>https://clouglog.kr/docs/programming/php/array-search-column/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/programming/php/array-search-column/</guid>
+      <description>개요 linkPHP에서 배열에 들어 있는 값을 검색하거나 인덱스를 찾아야 할 때 사용하는 함수가 array_search 입니다.&#xA;array_search 사용법을 1차원 배열과 2차원 배열 각각의 경우에 대해 살펴보겠습니다.&#xA;1차원 배열 검색 link1차원 배열에서는 간단하게 array_search(검색할 값, 배열) 형식으로 검색할 수 있고, 검색할 값의 인덱스가 리턴됩니다.&#xA;&amp;lt;?php&#xD;$arr_test_01 = array(101, 202, 303, 404, 505);&#xD;$arr_test_02 = array(&amp;#34;cpu&amp;#34;=&amp;gt;&amp;#34;intel&amp;#34;, &amp;#34;memory&amp;#34;=&amp;gt;&amp;#34;hynix&amp;#34;, &amp;#34;graphic&amp;#34;=&amp;gt;&amp;#34;nvidia&amp;#34;, &amp;#34;monitor&amp;#34;=&amp;gt;&amp;#34;lg&amp;#34;);&#xD;$idx_search_01 = array_search(303, $arr_test_01);&#xD;$idx_search_02 = array_search(&amp;#34;nvidia&amp;#34;, $arr_test_02);&#xD;echo($idx_search_01);&#xD;echo(&amp;#34;&amp;lt;br /&amp;gt;&amp;#34;);&#xD;echo($idx_search_02);&#xD;echo(&amp;#34;&amp;lt;br /&amp;gt;&amp;#34;);&#xD;?</description>
+    </item><item>
+      <title>Form Request 파라미터 설정 여부 확인하는 PHP 함수</title>
+      <link>https://clouglog.kr/docs/programming/php/request-variables-isset-parameter/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/programming/php/request-variables-isset-parameter/</guid>
+      <description>개요 link웹페이지를 만들다 보면 태그로 여러가지 Request 파라미터를 전송하게 됩니다.&#xA;이때 파라미터를 전송 받은 페이지에서 파라미터가 전송되었는지 즉, 변수가 설정되어 있는지 확인하는 작업이 필요한 경우가 있는데 PHP에서 좀 더 쉽게 확인할 수 있는 함수를 만들어봤습니다.&#xA;전송하는 HTML 페이지 link아래와 같이 파라미터를 전송하는 HTML 페이지가 있다고 가정해보겠습니다.&#xA;&amp;lt;form action=&amp;#34;input_insert.php&amp;#34; method=&amp;#34;post&amp;#34;&amp;gt;&#xD;&amp;lt;input type=&amp;#34;text&amp;#34; id=&amp;#34;param_1&amp;#34; name=&amp;#34;param_1&amp;#34; value=&amp;#34;value_1&amp;#34;&amp;gt;&#xD;&amp;lt;input type=&amp;#34;text&amp;#34; id=&amp;#34;param_2&amp;#34; name=&amp;#34;param_2&amp;#34; value=&amp;#34;value_2&amp;#34;&amp;gt;&#xD;&amp;lt;input type=&amp;#34;text&amp;#34; id=&amp;#34;param_3&amp;#34; name=&amp;#34;param_3&amp;#34; value=&amp;#34;value_3&amp;#34;&amp;gt;&#xD;&amp;lt;input type=&amp;#34;text&amp;#34; id=&amp;#34;param_4&amp;#34; name=&amp;#34;param_4&amp;#34; value=&amp;#34;value_4&amp;#34;&amp;gt;&#xD;&amp;lt;input type=&amp;#34;text&amp;#34; id=&amp;#34;param_5&amp;#34; name=&amp;#34;param_5&amp;#34; value=&amp;#34;value_5&amp;#34;&amp;gt;&#xD;&amp;lt;/form&amp;gt;&#xD;전송받는 PHP 페이지 link이때 파라미터를 전송 받은 페이지에서 파라미터가 전송되었는지 확인하는 작업이 필요한 경우가 있습니다.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API on Simple Life Cloud Log</title>
+    <link>https://clouglog.kr/docs/programming/api/</link>
+    <description>Recent content in API on Simple Life Cloud Log</description>
+    <generator>Hugo 0.128.2</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://clouglog.kr/docs/programming/api/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>유니패스 오픈API 신청, 가이드 정보 통관정보 조회, 개인통관고유부호 검증</title>
+      <link>https://clouglog.kr/docs/programming/api/unipass-openapi-introduce/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/programming/api/unipass-openapi-introduce/</guid>
+      <description>개요 link수출입화물의 화물통관정보 조회나 수입신고 개인통관고유부호 검증을 하려고 할 때 관세청에서 운영하는 유니패스(UniPass)사이트에서 직접 조회를 할 수도 있지만 각 쇼핑몰 사이트 등에서 해당 기능을 만들어서 제공하려고 할 때는 유니패스에서 제공하는 Open API를 활용하면 됩니다.&#xA;사용 신청 link일단 유니패스 사이트 주소는 다음과 같습니다.&#xA;⁃ https://unipass.customs.go.kr/&#xA;유니패스 사이트에 접속해서 회원 가입을 한 이후에 오른쪽 상단에 있는 My메뉴에 들어가시면 [서비스 관리] - [OpenAPI 사용관리] 메뉴가 있습니다.&#xA;현재는 총 30건의 오픈API를 제공하고 있고, 화면 오른쪽 하단에 보면 [연계가이드 다운로드]와 [Open API 신청] 버튼이 있습니다.</description>
+    </item>
+  </channel>
+</rss>

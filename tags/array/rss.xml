@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Array on Simple Life Cloud Log</title>
+    <link>https://clouglog.kr/tags/array/</link>
+    <description>Recent content in Array on Simple Life Cloud Log</description>
+    <generator>Hugo 0.128.2</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://clouglog.kr/tags/array/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>PHP 배열검색 array_search, array_column</title>
+      <link>https://clouglog.kr/docs/programming/php/array-search-column/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/programming/php/array-search-column/</guid>
+      <description>개요 linkPHP에서 배열에 들어 있는 값을 검색하거나 인덱스를 찾아야 할 때 사용하는 함수가 array_search 입니다.&#xA;array_search 사용법을 1차원 배열과 2차원 배열 각각의 경우에 대해 살펴보겠습니다.&#xA;1차원 배열 검색 link1차원 배열에서는 간단하게 array_search(검색할 값, 배열) 형식으로 검색할 수 있고, 검색할 값의 인덱스가 리턴됩니다.&#xA;&amp;lt;?php&#xD;$arr_test_01 = array(101, 202, 303, 404, 505);&#xD;$arr_test_02 = array(&amp;#34;cpu&amp;#34;=&amp;gt;&amp;#34;intel&amp;#34;, &amp;#34;memory&amp;#34;=&amp;gt;&amp;#34;hynix&amp;#34;, &amp;#34;graphic&amp;#34;=&amp;gt;&amp;#34;nvidia&amp;#34;, &amp;#34;monitor&amp;#34;=&amp;gt;&amp;#34;lg&amp;#34;);&#xD;$idx_search_01 = array_search(303, $arr_test_01);&#xD;$idx_search_02 = array_search(&amp;#34;nvidia&amp;#34;, $arr_test_02);&#xD;echo($idx_search_01);&#xD;echo(&amp;#34;&amp;lt;br /&amp;gt;&amp;#34;);&#xD;echo($idx_search_02);&#xD;echo(&amp;#34;&amp;lt;br /&amp;gt;&amp;#34;);&#xD;?</description>
+    </item>
+  </channel>
+</rss>

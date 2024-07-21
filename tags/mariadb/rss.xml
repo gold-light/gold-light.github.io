@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mariadb on Simple Life Cloud Log</title>
+    <link>https://clouglog.kr/tags/mariadb/</link>
+    <description>Recent content in Mariadb on Simple Life Cloud Log</description>
+    <generator>Hugo 0.128.2</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://clouglog.kr/tags/mariadb/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Windows 10 환경에서 Apache, MySQL, PHP 간단히 실행하기 무설치 버전 - XAMPP</title>
+      <link>https://clouglog.kr/docs/os/windows/xampp-apache-mysql-php-perl-execute-no-install/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/os/windows/xampp-apache-mysql-php-perl-execute-no-install/</guid>
+      <description>개요 link리눅스 서버가 아닌 윈도우 PC나 맥 OS에서 Apache, MySQL, PHP를 설치하고 실행해야 하는 경우가 있는데, 이때 각각 따로 설치하는 방법도 있지만 한꺼번에 설치, 실행할 수 있으면 매우 편합니다. 예전에는 APMSetup이라는 툴이 있었지만, 현재는 개발이 중단된 상태라 대체 툴로 나온 것이 XAMPP입니다.&#xA;XAMPP는 Apache, MariaDB, PHP, Perl을 포함하고 있고 Windows, Linux, OS X 세 가지 운영체제에 맞는 패키지를 제공하고 있습니다.&#xA;여기서는 XAMPP에서 제공하는 여러 가지 버전 중에서 PHP 7.X버전이 포함된 압축 파일 형태로 제공되는 무설치 버전을 소개하려고 합니다.</description>
+    </item>
+  </channel>
+</rss>

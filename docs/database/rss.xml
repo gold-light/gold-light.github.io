@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>데이터베이스 on Simple Life Cloud Log</title>
+    <link>https://clouglog.kr/docs/database/</link>
+    <description>Recent content in 데이터베이스 on Simple Life Cloud Log</description>
+    <generator>Hugo 0.128.2</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 16 May 2023 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://clouglog.kr/docs/database/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>DB(데이터베이스) 마이그레이션 프로세스와 일정 예시</title>
+      <link>https://clouglog.kr/docs/database/database-migration-process-schedule/</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/database/database-migration-process-schedule/</guid>
+      <description>개요 linkDB(데이터베이스)를 사용하는 서비스를 유지하다보면, DB를 마이그레이션 해야 하는 경우가 있습니다.&#xA;DB 마이그레이션에는 여러 종류가 있지만, 여기서는 물리적인 위치나 플랫폼을 바꾸는 경우 예를 들어 아래와 같은 경우에 참고할 만한 내용을 정리해보겠습니다.&#xA;IDC IDC IDC Cloud Cloud Cloud Cloud IDC 사전 설정 linkDB 마이그레이션은 애플리케이션 서버와 함께 마이그레이션 하는 경우가 대부분 이므로 그렇게 가정하고 정리해보겠습니다.&#xA;또한, MSSQL, MySQL 등의 DB 종류와 관계없이 일반적인 내용으로 정리하려고 합니다.&#xA;그리고, 디비 마이그레이션은 충분한 시간을 갖고 계획을 수립하고, 디비 백업 파일을 마이그레이션할 대상 플랫폼에 옮겨서 라이브 환경과 동일하게 테스트 환경을 갖추고, 충분한 기간 동안 스트를 진행한 후에 문제가 있으면 수정하는 등, 충분한 시뮬레이션을 거친 후에 진행하기를 추천합니다.</description>
+    </item>
+  </channel>
+</rss>

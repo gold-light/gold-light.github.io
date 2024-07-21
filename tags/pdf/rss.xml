@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pdf on Simple Life Cloud Log</title>
+    <link>https://clouglog.kr/tags/pdf/</link>
+    <description>Recent content in Pdf on Simple Life Cloud Log</description>
+    <generator>Hugo 0.128.2</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 23 Dec 2023 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://clouglog.kr/tags/pdf/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Phpspreadsheet, mPDF를 사용해 PDF 문서 저장하기 | Windows</title>
+      <link>https://clouglog.kr/docs/programming/php/phpspreadsheet/save-pdf-file-guide/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/programming/php/phpspreadsheet/save-pdf-file-guide/</guid>
+      <description>개요 link여기서는 Windows 환경에서 PHP Composer를 이용해 Phpspreadsheet와 mPDF를 설치하고, PDF 문서를 생성, 저장하는 방법에 대해 정리해보겠습니다. (Phpspreadsheet는 PHPExcel의 업그레이드 버전입니다.)&#xA;composer.json 생성 linkComposer로 Phpspreadsheet와 mPDF를 설치하기 위한 설정 파일인 composer.json 파일을 아래와 같이 생성합니다.&#xA;{&#xD;&amp;#34;require&amp;#34;: {&#xD;&amp;#34;phpoffice/phpspreadsheet&amp;#34;: &amp;#34;^1.28&amp;#34;,&#xD;&amp;#34;mpdf/mpdf&amp;#34;: &amp;#34;^8.1.1&amp;#34;&#xD;},&#xD;&amp;#34;config&amp;#34;: {&#xD;&amp;#34;platform&amp;#34;: {&#xD;&amp;#34;php&amp;#34;: &amp;#34;8.0&amp;#34;&#xD;}&#xD;}&#xD;}&#xD;설치 link아래 명령어를 사용해 Phpspreadsheet와 mPDF 패키지를 설치합니다.&#xA;&amp;gt; composer install&#xD;오류 상황 - 1 link설치를 시도하면 아래와 같이 오류가 발생하는 경우가 있습니다.</description>
+    </item><item>
+      <title>Phpspreadsheet(mPDF) PDF 한글 깨짐 현상 해결 방법</title>
+      <link>https://clouglog.kr/docs/programming/php/phpspreadsheet/korean-font-error-troubleshooting/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/programming/php/phpspreadsheet/korean-font-error-troubleshooting/</guid>
+      <description>개요 linkPHP에서 엑셀 파일이나 PDF 문서를 다룰 때 사용하는 것이 Phpspreadsheet입니다. 이 Phpspreadsheet에서 PDF 문서를 생성할 때 [DomPDF], [mPDF], [TcPDF] 등을 사용할 수 있는데, 여기서는 [mPDF]로 문서를 생성할 때 한글이 깨지는 경우가 있는데 이 문제를 해결하는 방법을 정리해보겠습니다. (Phpspreadsheet는 PHPExcel의 업그레이드 버전입니다.)&#xA;한글 깨짐 테스트 link아래와 같이 PDF로 저장할 데이터에 한글을 넣어서 테스트 해보겠습니다.&#xA;&amp;lt;?php&#xD;require &amp;#39;vendor/autoload.php&amp;#39;;&#xD;use PhpOffice\PhpSpreadsheet\Spreadsheet;&#xD;use PhpOffice\PhpSpreadsheet\Writer\Xlsx;&#xD;$spreadsheet = new Spreadsheet();&#xD;$spreadsheet-&amp;gt;getProperties()-&amp;gt;setTitle(&amp;#34;PhpSpreadsheet 테스트&amp;#34;);&#xD;$activeWorksheet = $spreadsheet-&amp;gt;getActiveSheet();&#xD;$activeWorksheet-&amp;gt;setCellValue(&amp;#39;A1&amp;#39;, &amp;#39;PhpSpreadsheet 테스트&amp;#39;);&#xD;$activeWorksheet-&amp;gt;getColumnDimension(&amp;#34;A&amp;#34;)-&amp;gt;setWidth(25); $activeWorksheet-&amp;gt;setPrintGridlines(true);&#xD;$out_put_file_name = &amp;#34;PhpSpreadsheet-테스트.</description>
+    </item>
+  </channel>
+</rss>

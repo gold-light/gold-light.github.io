@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Install on Simple Life Cloud Log</title>
+    <link>https://clouglog.kr/tags/install/</link>
+    <description>Recent content in Install on Simple Life Cloud Log</description>
+    <generator>Hugo 0.128.2</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://clouglog.kr/tags/install/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Windows 환경에서 PHP Composer 설치하는 방법</title>
+      <link>https://clouglog.kr/docs/programming/php/composer-install-windows-guide/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/programming/php/composer-install-windows-guide/</guid>
+      <description>개요 linkWindows 환경에서 PHP Composer 설치하는 방법을 정리해보았습니다.&#xA;Composer란? linkComposer는 php로 개발할때 필요한 패키지간의 의존성을 관리하는 의존성 관리툴이라가 할 수 있습니다. 비슷하게 node.js에는 npm, ruby에는 bundle이 있습니다.&#xA;다운로드 linkComposer 공식 사이트에서 Windows용 설치 파일을 다운로드 받습니다.&#xA;⁃ composer 다운로드: https://getcomposer.org/download/&#xD;설치 link다운로드 받은 설치 파일을 실행합니다.&#xA;PC의 모든 계정에서 사용할 수 있게 할 것인지, 현재 계정만 사용할 것인지 선택할 수 있습니다. 개발자 모드를 선택하면 UnInstaller가 포함되지 않습니다. PHP 위치 설정 linkComposer는 PHP의 패키지 의존성 관리툴이기 때문에 PC에 있는 php.</description>
+    </item><item>
+      <title>CentOS 7에 MySQL 5.7 설치하는 방법</title>
+      <link>https://clouglog.kr/docs/database/mysql/mysql-57-how-to-install-on-centos7/</link>
+      <pubDate>Fri, 29 Sep 2023 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/database/mysql/mysql-57-how-to-install-on-centos7/</guid>
+      <description>개요 linkCentOS 7.8에 MySQL 5.7을 설치하는 방법을 정리했습니다.&#xA;물론 CentOS 7은 2024년 6월 30일에 서비스 지원이 종료되기에 앞으로는 Ubuntu나 Rocky Linux를 사용하게 되겠지만 그래도 상황에 따라 사용하게 될 수도 있어서 CentOS 7에 설치하는 방법을 정리하게 되었습니다.&#xA;전체 과정 link설치하는 전체 과정을 정리하면 아래와 같습니다. 이후에 하나씩 설명을 해보겠습니다.&#xA;yum -y install https://dev.mysql.com/get/mysql80-community-release-el7-10.noarch.rpm&#xD;yum repolist all | grep mysql&#xD;yum-config-manager --disable mysql80-community&#xD;yum-config-manager --enable mysql57-community&#xD;yum -y install mysql-community-server&#xD;mysqld --initialize-insecure --user=mysql&#xD;systemctl start mysqld&#xD;mysql_secure_installation&#xD;mysql -u root -p&#xD;패키지 설치 link설치할 패키지 경로는 dev.</description>
+    </item>
+  </channel>
+</rss>

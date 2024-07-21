@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Simple Life Cloud Log</title>
+    <link>https://clouglog.kr/tags/linux/</link>
+    <description>Recent content in Linux on Simple Life Cloud Log</description>
+    <generator>Hugo 0.128.2</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://clouglog.kr/tags/linux/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title> AWS bitnami LAMP 설정하기 (apache, php, mysql)</title>
+      <link>https://clouglog.kr/docs/cloud/aws/bitnami-lamp-setting-guide/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/cloud/aws/bitnami-lamp-setting-guide/</guid>
+      <description>개요 linkAWS에 간단한 웹사이트를 만들때 주로 사용하게 되는 것이 LAMP(Linux, Apache, Mysql, PHP)인데, 직접 설치해서 사용해도 되지만 AWS에는 LAMP가 기본적으로 설치, 설정되어 있는 라이브러리가 있습니다. 그중에서 유명한 것이 bitnami 입니다.&#xA;제가 최근에 설치한 것이 Ubuntu 16.04 버전 기반으로 AMP가 설치된 버전이었는데, AWS EC2에서 새로운 서버를 설치할 때 AWS MarketPlace에서 Linux, PHP 버전별로 찾아서 설치하시면 됩니다.&#xA;https://aws.amazon.com/marketplace/search/results?searchTerms=lamp&#xA;설치 후에 각종 설정 파일들 위치가 직접 설치하는 경우와는 다르기 때문에 쉽게 확인하고 설정할 수 있도록 디렉토리와 파일 위치를 정리하면서 웹사이트 개설에 필요한 정보를 정리해보겠습니다.</description>
+    </item><item>
+      <title>Linux Tree 명령어 사용법</title>
+      <link>https://clouglog.kr/docs/os/linux/tree-command-manual/</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0900</pubDate>
+      <guid>https://clouglog.kr/docs/os/linux/tree-command-manual/</guid>
+      <description>개요 linkLinux에서 tree 명령어는 디렉토리와 파일의 구조를 한눈에 보기 쉽게 계층으로 표현해주는 명령어입니다.&#xA;기본 사용법 link&#xD;tree [-acdfghilnpqrstuvxACDFJQNSUX] [-H baseHREF] [-T title ]&#xD;[-L level [-R]] [-P pattern] [-I pattern] [-o filename] [--version]&#xD;[--help] [--inodes] [--device] [--noreport] [--nolinks] [--dirsfirst]&#xD;[--charset charset] [--filelimit[=]#] [--si] [--timefmt[=]&amp;lt;f&amp;gt;]&#xD;[--sort[=]&amp;lt;name&amp;gt;] [--matchdirs] [--ignore-case] [--] [&amp;lt;directory list&amp;gt;]&#xD;주요 옵션 linktree 명령에서 주요 사용하는 옵션을 모아봤습니다&#xA;-d : 디렉토리만 출력&#xD;-L : 지정한 단계의 하위 디렉토리까지만 출력&#xD;-P : 지정한 패턴과 일치하는 파일만 출력&#xD;리스트 옵션 link&#xD;------- Listing options -------&#xD;-a All files are listed.</description>
+    </item>
+  </channel>
+</rss>
