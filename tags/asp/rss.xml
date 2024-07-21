@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asp on Simple Life Cloud Log</title>
-    <link>https://clouglog.kr/tags/asp/</link>
+    <link>https://cloudlog.kr/tags/asp/</link>
     <description>Recent content in Asp on Simple Life Cloud Log</description>
     <generator>Hugo 0.128.2</generator>
     <language>ko-kr</language>
     <lastBuildDate>Sat, 07 Jan 2023 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://clouglog.kr/tags/asp/rss.xml" rel="self" type="application/rss+xml" /><item>
+    <atom:link href="https://cloudlog.kr/tags/asp/rss.xml" rel="self" type="application/rss+xml" /><item>
       <title>윤년 계산하는 방법 PHP, ASP</title>
-      <link>https://clouglog.kr/docs/programming/php/leap-year-php-asp/</link>
+      <link>https://cloudlog.kr/docs/programming/php/leap-year-php-asp/</link>
       <pubDate>Sat, 07 Jan 2023 00:00:00 +0900</pubDate>
-      <guid>https://clouglog.kr/docs/programming/php/leap-year-php-asp/</guid>
+      <guid>https://cloudlog.kr/docs/programming/php/leap-year-php-asp/</guid>
       <description>개요 link보통 달력을 만들거나 해당 달이 몇일까지 있는지 혹은 그해가 윤년이 있는지 등을 알기 위해서 윤년 계산을 하게 됩니다.&#xA;즉 윤년은 400 으로 나누어지는 (나머지가 0 인경우) 경우와 4 로 나누어지면서 100 으로 나누어지지 않는 경우입니다. 이렇게 해서 윤년인 해의 2월은 29일까지 평년인 경우 28일로 정하고, 나머지 달은 1, 3, 5, 7, 8, 10, 12 월은 31일 4, 6, 9, 11 월은 30 일로 설정하게 됩니다.&#xA;쉬운 방법이지만, 뭔가 좀 이상하고, 불편하다는 느낌이 듭니다.</description>
     </item>
   </channel>

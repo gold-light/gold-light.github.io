@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Go on Simple Life Cloud Log</title>
-    <link>https://clouglog.kr/tags/go/</link>
+    <link>https://cloudlog.kr/tags/go/</link>
     <description>Recent content in Go on Simple Life Cloud Log</description>
     <generator>Hugo 0.128.2</generator>
     <language>ko-kr</language>
     <lastBuildDate>Sat, 04 May 2024 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://clouglog.kr/tags/go/rss.xml" rel="self" type="application/rss+xml" /><item>
+    <atom:link href="https://cloudlog.kr/tags/go/rss.xml" rel="self" type="application/rss+xml" /><item>
       <title>Hugo 설치 하는 방법</title>
-      <link>https://clouglog.kr/docs/markdown/hugo/install-guide/</link>
+      <link>https://cloudlog.kr/docs/markdown/hugo/install-guide/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0900</pubDate>
-      <guid>https://clouglog.kr/docs/markdown/hugo/install-guide/</guid>
+      <guid>https://cloudlog.kr/docs/markdown/hugo/install-guide/</guid>
       <description>개요 link정적 사이트 생성기 (SSG, Static Sige Generator)중에서 Jekyll 다음으로 많이 사용되고 있는 Google의 Go 언어를 기반으로 만들어진 [Hugo]를 Windows 환경에서 설치하는 방법을 정리해보겠습니다. 설치하는 방법은 바이너리를 이용해서 설치하는 방법도 있지만 여기서는 간편하게 패키지 매니저를 사용해서 설치하는 방법을 사용해보겠습니다.&#xA;Hugo를 이용해서 블로그 등의 사이트를 생성할 때 Theme를 사용하거나 각종 Hugo module을 사용하게 되면 Go 언어가 설치되어 있어야 합니다. Go 언어 설치 방법은 아래쪽에서 다시 확인해보겠습니다.&#xD;설치 linkWindows 환경에서 설치할 수 있는 패키지 매니저는 [Chocolatey], [Scoop], [Winget] 이렇게 3가지가 있는데 여기서는 윈도우 환경에서 사용하기에 가장 간단한 [Winget]으로 설치해보겠습니다.</description>
     </item>
   </channel>

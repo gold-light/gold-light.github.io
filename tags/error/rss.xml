@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Error on Simple Life Cloud Log</title>
-    <link>https://clouglog.kr/tags/error/</link>
+    <link>https://cloudlog.kr/tags/error/</link>
     <description>Recent content in Error on Simple Life Cloud Log</description>
     <generator>Hugo 0.128.2</generator>
     <language>ko-kr</language>
     <lastBuildDate>Sat, 17 Dec 2022 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://clouglog.kr/tags/error/rss.xml" rel="self" type="application/rss+xml" /><item>
+    <atom:link href="https://cloudlog.kr/tags/error/rss.xml" rel="self" type="application/rss+xml" /><item>
       <title>PHPExcel, PhpSpreadsheet에서 Err_Invalid_Response 오류 해결 방법</title>
-      <link>https://clouglog.kr/docs/programming/php/phpspreadsheet/err-invalid-response/</link>
+      <link>https://cloudlog.kr/docs/programming/php/phpspreadsheet/err-invalid-response/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0900</pubDate>
-      <guid>https://clouglog.kr/docs/programming/php/phpspreadsheet/err-invalid-response/</guid>
+      <guid>https://cloudlog.kr/docs/programming/php/phpspreadsheet/err-invalid-response/</guid>
       <description>개요 linkPHP로 웹사이트를 제작하면서 화면에 표시되는 데이터를 엑셀 파일로 다운로드 받을 때 주로 이용하는 것이 PHPExcel입니다. 그리고, 현재는 PHPExcel의 유지보수가 중단되고 업그레이드 버전인 PhpSpreadsheet가 공개된 상태입니다.&#xA;아무튼, 엑셀 파일로 다운로드 받을 때 간혹 ERR_INVALID_RESPONSE 이라는 오류 메시지가 나타날 때가 있습니다. 이런 저런 방법을 찾아보고 코드를 변경해보다가 결국은 PHPExcel이 오래된 것이라 새로운 버전인 PhpSpreadsheet를 이용해보라는 정보를 보고 바꾸어 보았지만 역시나 해결이 되지 않았습니다.&#xA;문제 원인 link그러다 구글에서 겨우겨우 찾은 해결방법을 적용해보니 해결이 되어 공유하려고 합니다.</description>
     </item><item>
       <title>MySql Workbench 대량 Update Error - Safe Updates Option</title>
-      <link>https://clouglog.kr/docs/database/mysql/workbench-update-error-safe-updates/</link>
+      <link>https://cloudlog.kr/docs/database/mysql/workbench-update-error-safe-updates/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0900</pubDate>
-      <guid>https://clouglog.kr/docs/database/mysql/workbench-update-error-safe-updates/</guid>
+      <guid>https://cloudlog.kr/docs/database/mysql/workbench-update-error-safe-updates/</guid>
       <description>개요 linkMySQL DB를 MySQL Workbench로 연결해서 사용할 때 테이블에 있는 다수의 행을 한꺼번에 업데이트 해야 하는 경우가 있습니다.&#xA;예를 들어&#xA;UPDATE test_db.test_table SET field_1 = ‘value’;&#xA;하지만, 이때 업데이트 문을 실행하면 아래와 같이 [safe update mode]가 설정되어 있는데, Key 칼럼을 조건문에 사용하지 않았으므로 쿼리를 실행할 수 없다는 메시지가 나타납니다.&#xA;report&#xD;Error Code: 1175 : You are using safe update mode and you tried to update a table without a WHERE that uses a KEY column To disable safe mode, toggle the option in Preferences -&amp;gt; SQL Editor and reconnect.</description>
     </item>
   </channel>

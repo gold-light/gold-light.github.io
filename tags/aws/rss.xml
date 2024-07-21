@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aws on Simple Life Cloud Log</title>
-    <link>https://clouglog.kr/tags/aws/</link>
+    <link>https://cloudlog.kr/tags/aws/</link>
     <description>Recent content in Aws on Simple Life Cloud Log</description>
     <generator>Hugo 0.128.2</generator>
     <language>ko-kr</language>
     <lastBuildDate>Sat, 13 Nov 2021 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://clouglog.kr/tags/aws/rss.xml" rel="self" type="application/rss+xml" /><item>
+    <atom:link href="https://cloudlog.kr/tags/aws/rss.xml" rel="self" type="application/rss+xml" /><item>
       <title> AWS bitnami LAMP 설정하기 (apache, php, mysql)</title>
-      <link>https://clouglog.kr/docs/cloud/aws/bitnami-lamp-setting-guide/</link>
+      <link>https://cloudlog.kr/docs/cloud/aws/bitnami-lamp-setting-guide/</link>
       <pubDate>Sat, 13 Nov 2021 00:00:00 +0900</pubDate>
-      <guid>https://clouglog.kr/docs/cloud/aws/bitnami-lamp-setting-guide/</guid>
+      <guid>https://cloudlog.kr/docs/cloud/aws/bitnami-lamp-setting-guide/</guid>
       <description>개요 linkAWS에 간단한 웹사이트를 만들때 주로 사용하게 되는 것이 LAMP(Linux, Apache, Mysql, PHP)인데, 직접 설치해서 사용해도 되지만 AWS에는 LAMP가 기본적으로 설치, 설정되어 있는 라이브러리가 있습니다. 그중에서 유명한 것이 bitnami 입니다.&#xA;제가 최근에 설치한 것이 Ubuntu 16.04 버전 기반으로 AMP가 설치된 버전이었는데, AWS EC2에서 새로운 서버를 설치할 때 AWS MarketPlace에서 Linux, PHP 버전별로 찾아서 설치하시면 됩니다.&#xA;https://aws.amazon.com/marketplace/search/results?searchTerms=lamp&#xA;설치 후에 각종 설정 파일들 위치가 직접 설치하는 경우와는 다르기 때문에 쉽게 확인하고 설정할 수 있도록 디렉토리와 파일 위치를 정리하면서 웹사이트 개설에 필요한 정보를 정리해보겠습니다.</description>
     </item>
   </channel>

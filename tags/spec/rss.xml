@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spec on Simple Life Cloud Log</title>
-    <link>https://clouglog.kr/tags/spec/</link>
+    <link>https://cloudlog.kr/tags/spec/</link>
     <description>Recent content in Spec on Simple Life Cloud Log</description>
     <generator>Hugo 0.128.2</generator>
     <language>ko-kr</language>
     <lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://clouglog.kr/tags/spec/rss.xml" rel="self" type="application/rss+xml" /><item>
+    <atom:link href="https://cloudlog.kr/tags/spec/rss.xml" rel="self" type="application/rss+xml" /><item>
       <title>[인슈라오디드] 최저 사양 : GTX 750Ti ? 1050Ti ?</title>
-      <link>https://clouglog.kr/blog/game/pc/enshrouded/minimum-system-requirements-info/</link>
+      <link>https://cloudlog.kr/blog/game/pc/enshrouded/minimum-system-requirements-info/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0900</pubDate>
-      <guid>https://clouglog.kr/blog/game/pc/enshrouded/minimum-system-requirements-info/</guid>
+      <guid>https://cloudlog.kr/blog/game/pc/enshrouded/minimum-system-requirements-info/</guid>
       <description>개요 link요즘 [팰 월드(PalWorld)]에 이어서 화제가 되고 있는 오픈 월드 생존 RPG 게임인 [인슈라오디드(Enshrouded)]를 구매 후 플레이 해보려고 했는데 실행이 되지 않길래 대체 최소 사양이 어느 정도이길래 [디아블로 4(Diablo 4)], [팰 월드(PalWorld)] 모두 잘 실행되는데 [인슈라오디드(Enshrouded)]만 실행이 안되는 걸까 싶어서 최소 사양을 확인해봤습니다.&#xA;시스템 요구 사항 link[스팀] 소개 페이지에 나왔있는 [인슈라오디드(Enshrouded)]의 시스템 요구 사항을 확인해보면 다음과 같습니다. 이 중에서 눈에 띄는 것은 [req. 6GB VRAM] 이 부분으로 그래픽카드 메모리를 많이 요구하는 것을 알 수 있었습니다.</description>
     </item>
   </channel>

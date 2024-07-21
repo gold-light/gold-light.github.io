@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>카드 on Simple Life Cloud Log</title>
-    <link>https://clouglog.kr/tags/%EC%B9%B4%EB%93%9C/</link>
+    <link>https://cloudlog.kr/tags/%EC%B9%B4%EB%93%9C/</link>
     <description>Recent content in 카드 on Simple Life Cloud Log</description>
     <generator>Hugo 0.128.2</generator>
     <language>ko-kr</language>
     <lastBuildDate>Wed, 01 May 2024 00:00:00 +0900</lastBuildDate>
-    <atom:link href="https://clouglog.kr/tags/%EC%B9%B4%EB%93%9C/rss.xml" rel="self" type="application/rss+xml" /><item>
+    <atom:link href="https://cloudlog.kr/tags/%EC%B9%B4%EB%93%9C/rss.xml" rel="self" type="application/rss+xml" /><item>
       <title>K-패스 회원가입 오류 상황 정리 - 해결 방법</title>
-      <link>https://clouglog.kr/blog/life/k-pass-member-join-error-info/</link>
+      <link>https://cloudlog.kr/blog/life/k-pass-member-join-error-info/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0900</pubDate>
-      <guid>https://clouglog.kr/blog/life/k-pass-member-join-error-info/</guid>
+      <guid>https://cloudlog.kr/blog/life/k-pass-member-join-error-info/</guid>
       <description>K-패스 link월 15회 이상 대중 교통 이용 시에 기준에 따라 20% ~ 53%까지 이용 요금을 환급 받을 수 있는 K-패스가 2024년 5월 1일부터 사용할 수 있게 되었습니다.&#xA;그래서, 환급 받기 위해서 각 은행에서 발급받은 카드를 K-패스 앱이나 홈페이지에 회원가입을 해야 하는데, 여기서는 회원 가입 시에 나타나는 오류 상황과 해결 방법을 정리해보겠습니다.&#xA;회원 가입 방법 link회원 가입 방법은 홈페이지와 앱 2가지가 있습니다.&#xA;홈페이지 link https://www.korea-pass.kr/ 앱 link 아이폰: https://itunes.apple.com/app/apple-store/id1538531939?mt=8&#xA;안드로이드: https://play.google.com/store/apps/details?id=kr.or.kotsa.watc</description>
     </item>
   </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Help on Simple Life Cloud Log</title>
-    <link>https://clouglog.kr/blog/help/</link>
+    <link>https://cloudlog.kr/blog/help/</link>
     <description>Recent content in Help on Simple Life Cloud Log</description>
     <generator>Hugo 0.128.2</generator>
     <language>ko-kr</language>
     <lastBuildDate>Wed, 03 May 2023 22:37:22 +0100</lastBuildDate>
-    <atom:link href="https://clouglog.kr/blog/help/rss.xml" rel="self" type="application/rss+xml" /><item>
+    <atom:link href="https://cloudlog.kr/blog/help/rss.xml" rel="self" type="application/rss+xml" /><item>
       <title>Updates</title>
-      <link>https://clouglog.kr/blog/help/update/</link>
+      <link>https://cloudlog.kr/blog/help/update/</link>
       <pubDate>Wed, 03 May 2023 22:37:22 +0100</pubDate>
-      <guid>https://clouglog.kr/blog/help/update/</guid>
+      <guid>https://cloudlog.kr/blog/help/update/</guid>
       <description></description>
     </item>
   </channel>
