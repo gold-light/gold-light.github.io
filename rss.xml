@@ -6,8 +6,14 @@
     <description>Recent content on Simple Life Cloud Log</description>
     <generator>Hugo 0.128.2</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>라그나로크 온라인 추억 여행 - 01</title>
+      <link>https://cloudlog.kr/blog/game/pc/ragnarok/ragnarok-online-memories-01/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/blog/game/pc/ragnarok/ragnarok-online-memories-01/</guid>
+      <description>개요 link라그나로크 온라인을 플레이했던 것이 벌써 20년이 넘었네요. 우연히 오래된 파일들을 정리하다 20여년전 게임 스크린샷이 있어서 조금씩 다시 정리하면서 추억을 되살려 보려고 합니다.&#xA;캐릭터 - 1 link 서버 : 케이아스 캐릭명 : 희망새~ 직업 : 프리스트 레벨 : 82 성향 : 보조 - 어슬픈 보조 이유는? : 남들이 안쓰는 스킬 마스터하기 +_+ 대표스킬 : 세이퍼티 월, 생츄어리 마스터 했음 +_+ 캐릭터 - 2 link 서버 : 케이아스 캐릭명 : 희망새 백화점 직업 : 블랙 스미스 레벨 : 73 성향 : 제조 블스 대표 제작 무기 : +7 무지무지센 희망새 백화점의 파이어 프람베르그 캐릭터 - 3 link 서버 : 케이아스 캐릭명 : 희망새　기사단 &amp;ndash;&amp;gt; 가운데 ㄱ + 한자 + 1번 직업 : 크루세이더 레벨 : 75 성향 : 그랜드 + 솔플용 기병수련 마스터 = 어슬픈 크루 +_+ 문서 업데이트 내역 link&#xD;날짜 내용 2004-06-27 문서 최초 생성 2024-07-25 블로그 리뉴얼 이전 </description>
+    </item><item>
       <title>AWS Rocky Linux 9.3에서 SELInux setsebool 설정이 저장되지 않는 문제 해결 방법</title>
       <link>https://cloudlog.kr/docs/cloud/aws/rocky-linux-9.3-selinux-setsebool-error/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0900</pubDate>
@@ -61,12 +67,6 @@
       <pubDate>Sat, 04 May 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/docs/markdown/hugo/install-guide/</guid>
       <description>개요 link정적 사이트 생성기 (SSG, Static Sige Generator)중에서 Jekyll 다음으로 많이 사용되고 있는 Google의 Go 언어를 기반으로 만들어진 [Hugo]를 Windows 환경에서 설치하는 방법을 정리해보겠습니다. 설치하는 방법은 바이너리를 이용해서 설치하는 방법도 있지만 여기서는 간편하게 패키지 매니저를 사용해서 설치하는 방법을 사용해보겠습니다.&#xA;Hugo를 이용해서 블로그 등의 사이트를 생성할 때 Theme를 사용하거나 각종 Hugo module을 사용하게 되면 Go 언어가 설치되어 있어야 합니다. Go 언어 설치 방법은 아래쪽에서 다시 확인해보겠습니다.&#xD;설치 linkWindows 환경에서 설치할 수 있는 패키지 매니저는 [Chocolatey], [Scoop], [Winget] 이렇게 3가지가 있는데 여기서는 윈도우 환경에서 사용하기에 가장 간단한 [Winget]으로 설치해보겠습니다.</description>
-    </item><item>
-      <title>K-패스 회원가입 오류 상황 정리 - 해결 방법</title>
-      <link>https://cloudlog.kr/blog/life/k-pass-member-join-error-info/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/blog/life/k-pass-member-join-error-info/</guid>
-      <description>K-패스 link월 15회 이상 대중 교통 이용 시에 기준에 따라 20% ~ 53%까지 이용 요금을 환급 받을 수 있는 K-패스가 2024년 5월 1일부터 사용할 수 있게 되었습니다.&#xA;그래서, 환급 받기 위해서 각 은행에서 발급받은 카드를 K-패스 앱이나 홈페이지에 회원가입을 해야 하는데, 여기서는 회원 가입 시에 나타나는 오류 상황과 해결 방법을 정리해보겠습니다.&#xA;회원 가입 방법 link회원 가입 방법은 홈페이지와 앱 2가지가 있습니다.&#xA;홈페이지 link https://www.korea-pass.kr/ 앱 link 아이폰: https://itunes.apple.com/app/apple-store/id1538531939?mt=8&#xA;안드로이드: https://play.google.com/store/apps/details?id=kr.or.kotsa.watc</description>
     </item>
   </channel>
 </rss>
