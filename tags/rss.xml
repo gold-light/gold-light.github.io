@@ -26,6 +26,12 @@
       <guid>https://cloudlog.kr/tags/rpg/</guid>
       <description></description>
     </item><item>
+      <title>LostArk</title>
+      <link>https://cloudlog.kr/tags/lostark/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/tags/lostark/</guid>
+      <description></description>
+    </item><item>
       <title>Item</title>
       <link>https://cloudlog.kr/tags/item/</link>
       <pubDate>Tue, 30 Jul 2024 00:00:00 +0900</pubDate>
@@ -60,12 +66,6 @@
       <link>https://cloudlog.kr/tags/linux/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/tags/linux/</guid>
-      <description></description>
-    </item><item>
-      <title>Rocky Linux</title>
-      <link>https://cloudlog.kr/tags/rocky-linux/</link>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/rocky-linux/</guid>
       <description></description>
     </item>
   </channel>
