@@ -26,6 +26,24 @@
       <guid>https://cloudlog.kr/tags/rpg/</guid>
       <description></description>
     </item><item>
+      <title>App</title>
+      <link>https://cloudlog.kr/tags/app/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/tags/app/</guid>
+      <description></description>
+    </item><item>
+      <title>Map</title>
+      <link>https://cloudlog.kr/tags/map/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/tags/map/</guid>
+      <description></description>
+    </item><item>
+      <title>Travel</title>
+      <link>https://cloudlog.kr/tags/travel/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/tags/travel/</guid>
+      <description></description>
+    </item><item>
       <title>LostArk</title>
       <link>https://cloudlog.kr/tags/lostark/</link>
       <pubDate>Wed, 31 Jul 2024 00:00:00 +0900</pubDate>
@@ -48,24 +66,6 @@
       <link>https://cloudlog.kr/tags/ragnarok/</link>
       <pubDate>Thu, 25 Jul 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/tags/ragnarok/</guid>
-      <description></description>
-    </item><item>
-      <title>AWS</title>
-      <link>https://cloudlog.kr/tags/aws/</link>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/aws/</guid>
-      <description></description>
-    </item><item>
-      <title>Error</title>
-      <link>https://cloudlog.kr/tags/error/</link>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/error/</guid>
-      <description></description>
-    </item><item>
-      <title>Linux</title>
-      <link>https://cloudlog.kr/tags/linux/</link>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/linux/</guid>
       <description></description>
     </item>
   </channel>

@@ -1029,6 +1029,42 @@
                     
                     
                         <li class="sidebar-dropdown  ">
+                            <button class="btn" value="/blog/travel/">
+                                <i class='fa-solid fa-plane  me-2'></i>
+                                여행
+                            </button>
+                            <div class="sidebar-submenu ">
+                                <ul>
+                                    
+                                        
+                                        
+                                        
+                                            <li class="sidebar-dropdown nested  ">
+                                                <button class="btn" value="/blog/travel/overseas/">
+                                                    
+                                                    해외 여행
+                                                </button>
+                                                <div class="sidebar-submenu ">
+                                                    <ul>
+                                                        
+                                                            
+                                                            
+                                                            
+                                                        
+                                                    </ul>
+                                                </div>
+                                            </li>                                        
+                                        
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    
+                
+                    
+                    
+                    
+                        <li class="sidebar-dropdown  ">
                             <button class="btn" value="/blog/bookcafe/">
                                 <i class='fa-solid fa-book  me-2'></i>
                                 북카페
@@ -2557,6 +2593,12 @@
 						"title": "K-패스 회원가입 오류 상황 정리 - 해결 방법",
 						"url": "\/blog\/life\/k-pass-member-join-error-info\/",
 						"content": "K-패스 link월 15회 이상 대중 교통 이용 시에 기준에 따라 20% ~ 53%까지 이용 요금을 환급 받을 수 있는 K-패스가 2024년 5월 1일부터 사용할 수 있게 되었습니다.\n그래서, 환급 받기 위해서 각 은행에서 발급받은 카드를 K-패스 앱이나 홈페이지에 회원가입을 해야 하는데, 여기서는 회원 가입 시에 나타나는 오류 상황과 해결 방법을 정리해보겠습니다.\n회원 가입 방법 link회원 가입 방법은 홈페이지와 앱 2가지가 있습니다.\n홈페이지 link https:\/\/www.korea-pass.kr\/ 앱 link 아이폰: https:\/\/itunes.apple.com\/app\/apple-store\/id1538531939?mt=8\n안드로이드: https:\/\/play.google.com\/store\/apps\/details?id=kr.or.kotsa.watc\n회원 가입 오류 상황 link회원 가입 오류는 주로 홈페이지에서 발생합니다.\n카드 번호 인증 오류 link회원 가입 첫번째 단계에서 각 은행에서 발급 받은 K-패스 카드 번호를 입력해서 카드 인증을 받는 곳에서 카드 인증 오류가 발생하는 경우가 있습니다.\n이 때는 5~10초 정도 기다렸다가 다시 [카드 유효성 체크] 버튼을 클릭하시면 됩니다. 너무 빨리, 자주 클릭하면 오히려 실패하는 경우가 많습니다.\n휴대폰 인증 오류 link다음 오류는 카드 번호 인증 통과 후에 휴대폰 인증을 하게 됩니다. 휴대폰 인증은 PASS로 인증하는 방법과 문자(SMS)로 인증하는 방법이 있는데 문자로 인증할 때 오류가 발생합니다.\n모든 정보를 입력하고, 보안 문자까지 입력하고 나면 인증이 끝나면서 팝업 창이 닫혀야 하는데, 아래 스샷처럼 아무 것도 없는 빈 페이지만 나타납니다.\n무슨 일인가 싶어서 크롬에서 [F12] 버튼을 눌러서 상태를 확인해보면 오류 메시지가 있는 것을 알 수 있습니다.\n오류 메시지 link오류 메시지를 좀 더 자세히 확인해보면 다음과 같은 메시지입니다.\nUncaught DOMException: Failed to read a named property \u0027dataInit\u0027 from \u0027Window\u0027: Blocked a frame with origin \u0022https:\/\/korea-pass.kr\u0022 from accessing a cross-origin frame.\rat Object.success (https:\/\/korea-pass.kr\/cert\/member_check.html?rec_cert={이하 생략})\rat j (https:\/\/korea-pass.kr\/assets\/js\/jquery.min.js:2:26925)\rat Object.fireWith [as resolveWith] (https:\/\/korea-pass.kr\/assets\/js\/jquery.min.js:2:27738)\rat x (https:\/\/korea-pass.kr\/assets\/js\/jquery.min.js:4:11253)\rat XMLHttpRequest. (https:\/\/korea-pass.kr\/assets\/js\/jquery.min.js:4:14765)\r오류 상황 총 정리 link\r⁃ 카드 번호 인증 오류 (홈페이지, 앱) ⁃ 휴대폰 번호 인증 오류 (홈페이지: 크롬, 사파리 브라우저) ⁃ 회원 가입 완료 오류 (홈페이지: 크롬, 사파리, 엣지 브라우저)\r오류 해결 방법 link대부분의 오류는 K-패스 홈페이지에서 발생하고 있습니다. 다행히 **스마트폰 앱을 다운 받아서 하면 문제 없이 회원 가입 가능**합니다. 물론 카드 번호 인증 오류가 발생하는 경우가 있기는 하지만 위에서 적은 대로 5 ~ 10초 후에 다시 인증하면 문제 없이 진행 가능합니다.\n스마트폰 앱 링크는 아래와 같습니다. 다만 가짜 앱도 있다고 하니 아래 스샷처럼 [교통안전공단]에서 만든 앱을 꼭 확인하고 다운 받으시기 바랍니다.\n아이폰: https:\/\/itunes.apple.com\/app\/apple-store\/id1538531939?mt=8\n안드로이드: https:\/\/play.google.com\/store\/apps\/details?id=kr.or.kotsa.watc\n문서 업데이트 내역 link\r날짜 내용 2024-05-01 문서 최초 생성 "
+					},				
+					"\/blog\/travel\/overseas\/useful-apps-google-maps\/": {
+						"id": "\/blog\/travel\/overseas\/useful-apps-google-maps\/",
+						"title": "[일본여행] 해외여행 길 찾기 필수앱 구글맵(Google Maps) 정말 좋습니다.",
+						"url": "\/blog\/travel\/overseas\/useful-apps-google-maps\/",
+						"content": "개요 link여행을 가게 되면 주변 지리를 잘 모르기 때문에 항상 고생하게 됩니다. 특히나 해외여행을 갔을 경우에는 말도 잘 안통하고 생소하기 때문에 더더욱 곤란한 상황이 많이 생기고는 합니다.예전에는 지도를 들고 다니거나 블로그나 카페에 올라온 지도를 이용해서 찾아다니고는 했는데 요즘은 많은 분들이 길찾기 앱을 사용하는 듯합니다.\n그 중에서도 저는 구글맵이 정말 좋다고 생각합니다.특히나 유럽이나 미국 등 다른 나라는 잘 모르겠지만, 특히나 일본은 구글맵이 아주 상세하게 나오고 설명까지 해주기 때문에 여행갈 때마다 무척 도움이 되었습니다.\n길 찾기 link아래 스샷은 2018년 후쿠오카에 여행갔을 때 구글맵으로 길찾기 하는 모습입니다.경로는 하카타역에서 베니키아 칼튼 호텔 후쿠오카 텐진(Benikea Calton Hotel Fukuoka Tenjin)까지 가는 경로입니다.걸어가면 20분정도 걸리는데 지하철을 타도 13분이나 걸린다고 해서 거리 구경도 할겸 걸어가 보았습니다.일단 길 찾기를 하면 이렇게 가능한 경로를 여러가지로 표시해주고, 아래쪽에 시작 버튼이 활성화 됩니다.시작 버튼에 대해서는 아래쪽 스샷에서 설명 드리겠습니다.\n내비게이션 link시작버튼을 누르면 이렇게 자동차 내비게이션처럼 안내를 시작합니다.예전에 일본에 갔을 때는 구글맵에서 이 정도로 자세히 안내하지는 않았던 것으로 기억하는데, 심지어 횡단보도까지 안내해 줍니다.앞쪽에 교차로가 보이고 횡단보도가 있으니 횡단보도를 건너서 가라는 안내를 해주는 것을 보고 깜짝 놀랐습니다.\n설정 link설정 화면에서는 이렇게 음성안내도 사용할 것인지, 볼륨은 어떻게 할 것인지, 블루투스 이어폰으로 안내 받을 것인지, 전화 왔을 때 통화로 전환할 것인지 등도 설정할 수 있게 되어 있습니다.\n이제 해외여행 특히 일본으로 여행갔을 때는 구글맵을 활용해서 길 헤메지 말고 편하고 즐거운 여행을 할 수 있어 무척 편해졌습니다.\n여러분도 꼭 사용해 보시길 바랍니다.저는 포켓와이파이, 와이파이 도시락을 대여해서 사용하니 길 찾기 할때 더 편리하게 사용했습니다.여러분도 꼭 구글맵 사용해 보시길 바랍니다.\n문서 업데이트 내역 link\r날짜 내용 2018-02-14 문서 최초 생성 2024-08-02 블로그 이전 "
 					},				
 					"\/blog\/bookcafe\/book\/milk-lies-and-propaganda\/": {
 						"id": "\/blog\/bookcafe\/book\/milk-lies-and-propaganda\/",
