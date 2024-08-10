@@ -6,8 +6,14 @@
     <description>Recent content on Simple Life Cloud Log</description>
     <generator>Hugo 0.128.2</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>디아블로4 선조 고유 아이템 [화염흉터] 정보</title>
+      <link>https://cloudlog.kr/blog/game/pc/diablo/db/item/one-hand/diablo4-item-ancestral-unique-wand-flamescar-info/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/blog/game/pc/diablo/db/item/one-hand/diablo4-item-ancestral-unique-wand-flamescar-info/</guid>
+      <description>[선조 고유 마법봉] 화염흉터 link 아이템 위력 925 1,838 초당 공격력 적중당 공격력 [1,226 - 1,838] 초당 공격 횟수 1.20 (매우 빠름) 적중 시 생명력 회복 + 130 행운의 적중: 최대 40% 확률로 주는 화염 피해 +6,000 지능 +[153 - 225] 행운의 적중 확률 +[8.0 - 10.0]% 소각 크기 +[28.5 - 37.5]% (원소술사 전용) 소각 +[4 - 6] (원소술사 전용) 요구레벨: 79 소각을 사용하는 동안 주기적으로 적에게 이끌리는 잿불을 쏘아 각각 [3,676 - 7,352]의 화염 피해를 줍니다.</description>
+    </item><item>
       <title>[디아블로4] 시즌5 첫번째 고유 아이템 [바람살] 상세 정보</title>
       <link>https://cloudlog.kr/blog/game/pc/diablo/item/diablo4-season5-get-unique-bow-windforce-info/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0900</pubDate>
@@ -61,12 +67,6 @@
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/blog/game/pc/diablo/item/diablo4-season4-get-ancestral-unique-chest-soulbrand-info/</guid>
       <description>시즌4 득템 link디아블로4 시즌4에 획득한 선조 고유(Ancestral Unique) 가슴 방어구 아이템 [영혼 낙인]대한 정보를 정리해보겠습니다.&#xA;[선조 고유 가슴 방어구] 영혼 낙인 link 아이템 위력 925 방어도 1,619 최대 생명력 +[403 - 873] 보호막이 있을 때 행운의 적중 확률 +[4.4 -10.0]% 보호막 생성량 +21.0% 근거리에 있는 적에게 받는 피해 감소 [7.0 - 14.0]% 요구레벨: 80 치유 물약이 이제 즉시 치유하지 않고, 대신 4초 동안 치유량의 200%만큼 보호막을 부여합니다. 보호막이 있는 동안에는 [10 - 20]%의 피해 감소를 얻습니다.</description>
-    </item><item>
-      <title>디아블로4 시즌4 선조 고유 아이템 [건달의 가죽옷] 상세 정보</title>
-      <link>https://cloudlog.kr/blog/game/pc/diablo/item/diablo4-season4-get-ancestral-unique-chest-scoundrels-leathers-info/</link>
-      <pubDate>Sun, 28 Jul 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/blog/game/pc/diablo/item/diablo4-season4-get-ancestral-unique-chest-scoundrels-leathers-info/</guid>
-      <description>시즌4 득템 link디아블로4 시즌4에 획득한 선조 고유(Ancestral Unique) 가슴 방어구 아이템 [건달의 가죽옷]대한 정보를 정리해보겠습니다.&#xA;[선조 고유 가슴 방어구] 건달의 가죽옷 link 아이템 위력 925 방어도 1,619 덫 피해 +105.0% 덫에 걸린 적에게 주는 피해 +[7.0 - 14.0]% 덫 기술의 영향을 받은 적에게 받는 피해 감소 [9.5 - 16.5]% 회피 확률 [3.1 - 7.3]% 요구레벨: 80 내면의 시야를 통해 기력을 무제한으로 사용할 수 있는 동안에는, 핵심 기술을 시전하면 [60 - 80]% 확률로 쇠못, 덫 맹독 덫, 또는 죽음의 덫을 생성합니다.</description>
     </item>
   </channel>
 </rss>
