@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "E:/개인/blog/blog-v2-src",
+	"sourceRoot": "E:/개인/blog/blog-v3-src",
 	"sources": [
 		"themes/lotusdocs/assets/blog/scss/style.scss",
 		"themes/lotusdocs/assets/blog/scss/custom/plugins/icons/_google-material.scss",

@@ -5,7 +5,7 @@
     <link>https://cloudlog.kr/tags/ubuntu/</link>
     <description>Recent content in Ubuntu on Simple Life Cloud Log</description>
     <generator>Hugo 0.128.2</generator>
-    <language>ko-kr</language>
+    <language>ko</language>
     <lastBuildDate>Sat, 13 Nov 2021 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/tags/ubuntu/rss.xml" rel="self" type="application/rss+xml" /><item>
       <title> AWS bitnami LAMP 설정하기 (apache, php, mysql)</title>

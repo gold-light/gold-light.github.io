@@ -5,7 +5,7 @@
     <link>https://cloudlog.kr/docs/programming/api/</link>
     <description>Recent content in API on Simple Life Cloud Log</description>
     <generator>Hugo 0.128.2</generator>
-    <language>ko-kr</language>
+    <language>ko</language>
     <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/docs/programming/api/rss.xml" rel="self" type="application/rss+xml" /><item>
       <title>유니패스 오픈API 신청, 가이드 정보 통관정보 조회, 개인통관고유부호 검증</title>
