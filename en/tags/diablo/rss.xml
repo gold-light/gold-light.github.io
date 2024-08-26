@@ -6,7 +6,7 @@
     <description>Recent content in Diablo on Simple Life Cloud Log</description>
     <generator>Hugo 0.133.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Aug 2024 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/en/tags/diablo/rss.xml" rel="self" type="application/rss+xml" /><item>
       <title>[Diablo 4] Ancestral Mythic Unique Item [Harlequin Crest] Info</title>
       <link>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/heml/diablo4-season4-get-ancestral-mythic-unique-helm-harlequin-crest-info/</link>
@@ -31,6 +31,12 @@
       <pubDate>Tue, 13 Aug 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/gloves/diablo4-item-ancestral-unique-gloves-gloves-of-the-illuminator-info/</guid>
       <description>[Ancestral Unique Gloves] Gloves of The Illuminator link 925 Item Power 462 Armor +[9.0 - 11.0]% Critical Strike Chance +[10.5 - 15.0]% Fireball Attack Speed (Sorcerer Only) +[1 - 2] Mana when a Fireball Explodes +[2 - 3]% to Fireball (Sorcerer Only) Requires Level: 80 Fireball now bounces as it travels, exploding each time it hits the ground, but its explosion deals [30 - 0]% less damage. (Sorcerer Only)&#xD;After Inarius returned to Sanctuary, he sought a way back to the High Heavens.</description>
+    </item><item>
+      <title>[Diablo 4] Ancestral Unique Item [Fists of Fate] Info</title>
+      <link>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/gloves/diablo4-item-ancestral-unique-gloves-fists-of-fate-info/</link>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/gloves/diablo4-item-ancestral-unique-gloves-fists-of-fate-info/</guid>
+      <description>[Ancestral Unique Gloves] Fists of Fate link 925 Item Power 462 Armor +[0.1 - 8.7]% Attack Speed +[0.1 - 8.7]% Critical Strike Chance +[1.0 - 51.8]% Lucky Hit Chance Lucky Hit: Up to a +[1.0 - 51.8]% Chance to Apply a Random Crownd Control Effect for 2 Seconds Requires Level: 80 Your attacks randomly deal 1% to [200 - 300]% of their normal damage.&#xD;&amp;ldquo;Will you let fear cheat you, or will you risk everything to find understandanding?</description>
     </item><item>
       <title>[Diablo 4] Ancestral Unique Item [Axial Conduit] Info</title>
       <link>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/pants/diablo4-item-ancestral-unique-pants-axial-conduit-info/</link>
@@ -61,12 +67,6 @@
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-locran-info/</guid>
       <description>[Ancestral Unique Amulet] Locran&amp;rsquo;s Talisman link 925 Item Power +25.0% Resistance to All Elements +[2.0 - 3.0]% All Stats +[5 - 13] Maximum Resource +[88.0 - 115.0]% Critical Strike Damage +[8.0 - 10.0]% Resistance to All Elements Requires Level: 80 Your skills gain a [0.10 - 0.40]%[+] Critical Strike Chance bonus per point of Primary Resource you have, upto [10 - 40]%[+]. Each point of Primary Resource above 100 grants 0.</description>
-    </item><item>
-      <title>[Diablo 4] Ancestral Unique Item [Fractured WinterGlass] Info</title>
-      <link>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-fractured-winterglass-info/</link>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-fractured-winterglass-info/</guid>
-      <description>[Ancestral Unique Amulet] Fractured WinterGlass link 925 Item Power +25.0% Resistance to All Elements +[57.0 - 75.0]% Non-Physical Damage +[13.0 - 17.5]% Chance for Frozen Orb Projectiles to Cast Twice (Sorcerer Only) Conjuration Cooldowns are Reduced by +[0.1 - 0.3] Seconds when a Fronzen Orb Explodes +[3 - 4] to Conjuration Mastery (Sorcerer Only) Requires Level: 80 Casting Frozen Orb has a [35 - 65]% chance to spawn a random Conjuration when it explodes.</description>
     </item>
   </channel>
 </rss>
