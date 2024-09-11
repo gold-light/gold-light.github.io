@@ -4,7 +4,7 @@
     <title>윈도우 on Simple Life Cloud Log</title>
     <link>https://cloudlog.kr/docs/os/windows/</link>
     <description>Recent content in 윈도우 on Simple Life Cloud Log</description>
-    <generator>Hugo 0.133.0</generator>
+    <generator>Hugo 0.134.1</generator>
     <language>ko</language>
     <lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/docs/os/windows/rss.xml" rel="self" type="application/rss+xml" /><item>
@@ -12,13 +12,13 @@
       <link>https://cloudlog.kr/docs/os/windows/xampp-apache-mysql-php-perl-execute-no-install/</link>
       <pubDate>Wed, 28 Dec 2022 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/docs/os/windows/xampp-apache-mysql-php-perl-execute-no-install/</guid>
-      <description>개요 link리눅스 서버가 아닌 윈도우 PC나 맥 OS에서 Apache, MySQL, PHP를 설치하고 실행해야 하는 경우가 있는데, 이때 각각 따로 설치하는 방법도 있지만 한꺼번에 설치, 실행할 수 있으면 매우 편합니다. 예전에는 APMSetup이라는 툴이 있었지만, 현재는 개발이 중단된 상태라 대체 툴로 나온 것이 XAMPP입니다.&#xA;XAMPP는 Apache, MariaDB, PHP, Perl을 포함하고 있고 Windows, Linux, OS X 세 가지 운영체제에 맞는 패키지를 제공하고 있습니다.&#xA;여기서는 XAMPP에서 제공하는 여러 가지 버전 중에서 PHP 7.X버전이 포함된 압축 파일 형태로 제공되는 무설치 버전을 소개하려고 합니다.</description>
+      <description>&lt;h2 id=&#34;개요&#34;&gt;개요 &lt;a href=&#34;#%ea%b0%9c%ec%9a%94&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;리눅스 서버가 아닌 윈도우 PC나 맥 OS에서 Apache, MySQL, PHP를 설치하고 실행해야 하는 경우가 있는데, 이때 각각 따로 설치하는 방법도 있지만&#xA;한꺼번에 설치, 실행할 수 있으면 매우 편합니다. 예전에는 APMSetup이라는 툴이 있었지만, 현재는 개발이 중단된 상태라 대체 툴로 나온 것이 XAMPP입니다.&lt;/p&gt;&#xA;&lt;p&gt;XAMPP는 &lt;strong&gt;Apache, MariaDB, PHP, Perl&lt;/strong&gt;을 포함하고 있고 Windows, Linux, OS X 세 가지 운영체제에 맞는 패키지를 제공하고 있습니다.&lt;/p&gt;&#xA;&lt;p&gt;여기서는 XAMPP에서 제공하는 여러 가지 버전 중에서 PHP 7.X버전이 포함된 압축 파일 형태로 제공되는 &lt;strong&gt;무설치 버전&lt;/strong&gt;을 소개하려고 합니다.&lt;/p&gt;</description>
     </item><item>
       <title>윈도우 유용한 유틸, 설정, 명령어 모음</title>
       <link>https://cloudlog.kr/docs/os/windows/command-util-config/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/docs/os/windows/command-util-config/</guid>
-      <description>제어판 link윈도우 10 작업 표시줄 검색 창에 [제어판]이라고 입력하면 됩니다.&#xA;PATH 설정 link윈도우 10 작업 표시줄 검색 창에 [고급 시스템 설정 보기]라고 입력한 후 나타나는 팝업에서 아래쪽 [환경변수] 버튼을 클릭하면 됩니다.&#xA;시작프로그램 관리 link 작업표시줄에서 [마우스 오른쪽 클릭] - [작업관리자]에서 [시작 프로그램] 메뉴에서 관리할 수 있습니다. 키보드의 [Windows 키] + [R]에서 실행할 명령어 입력 칸에 [msconfig]를 입력하고 확인 버튼을 클릭하면 나타나는 [시스템 구성] 팝업에서 [시작 프로그램] 메뉴를 확인하시면 됩니다. 문서 업데이트 내역 link&#xD;날짜 내용 2022-05-01 문서 최초 생성 </description>
+      <description>&lt;h2 id=&#34;제어판&#34;&gt;제어판 &lt;a href=&#34;#%ec%a0%9c%ec%96%b4%ed%8c%90&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;code&gt;윈도우 10 작업 표시줄 검색 창&lt;/code&gt;에 [&lt;strong&gt;제어판&lt;/strong&gt;]이라고 입력하면 됩니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;path-설정&#34;&gt;PATH 설정 &lt;a href=&#34;#path-%ec%84%a4%ec%a0%95&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;code&gt;윈도우 10 작업 표시줄 검색 창&lt;/code&gt;에 [&lt;strong&gt;고급 시스템 설정 보기&lt;/strong&gt;]라고 입력한 후 나타나는 팝업에서 아래쪽 [&lt;strong&gt;환경변수&lt;/strong&gt;] 버튼을 클릭하면 됩니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;시작프로그램-관리&#34;&gt;시작프로그램 관리 &lt;a href=&#34;#%ec%8b%9c%ec%9e%91%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8-%ea%b4%80%eb%a6%ac&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;작업표시줄&lt;/strong&gt;에서 [마우스 오른쪽 클릭] - &lt;strong&gt;[작업관리자&lt;/strong&gt;]에서 [&lt;strong&gt;시작 프로그램&lt;/strong&gt;] 메뉴에서 관리할 수 있습니다.&lt;/li&gt;&#xA;&lt;li&gt;키보드의 &lt;code&gt;[Windows 키] + [R]&lt;/code&gt;에서 실행할 명령어 입력 칸에 [&lt;strong&gt;msconfig&lt;/strong&gt;]를 입력하고 확인 버튼을 클릭하면 나타나는 [&lt;strong&gt;시스템 구성&lt;/strong&gt;] 팝업에서 [&lt;strong&gt;시작 프로그램&lt;/strong&gt;] 메뉴를 확인하시면 됩니다.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;문서-업데이트-내역&#34;&gt;문서 업데이트 내역 &lt;a href=&#34;#%eb%ac%b8%ec%84%9c-%ec%97%85%eb%8d%b0%ec%9d%b4%ed%8a%b8-%eb%82%b4%ec%97%ad&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table class=&#34;simple_table small_font col-sm-5&#34;&gt;&#xD;&#xA;    &lt;thead&gt;&#xD;&#xA;      &lt;tr&gt;&#xD;&#xA;        &lt;th&gt;날짜&lt;/th&gt;   &#xD;&#xA;        &lt;th&gt;내용&lt;/th&gt;           &#xD;&#xA;      &lt;/tr&gt;&#xD;&#xA;    &lt;/thead&gt;&#xD;&#xA;    &lt;tbody&gt;&#xD;&#xA;        &lt;tr&gt;&#xD;&#xA;          &lt;td&gt;2022-05-01&lt;/td&gt;        &#xD;&#xA;          &lt;td&gt;문서 최초 생성&lt;/td&gt;          &#xD;&#xA;        &lt;/tr&gt;&#xD;&#xA;    &lt;/tbody&gt;&#xD;&#xA;&lt;/table&gt;</description>
     </item>
   </channel>
 </rss>

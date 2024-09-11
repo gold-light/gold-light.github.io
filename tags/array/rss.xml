@@ -4,7 +4,7 @@
     <title>Array on Simple Life Cloud Log</title>
     <link>https://cloudlog.kr/tags/array/</link>
     <description>Recent content in Array on Simple Life Cloud Log</description>
-    <generator>Hugo 0.133.0</generator>
+    <generator>Hugo 0.134.1</generator>
     <language>ko</language>
     <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/tags/array/rss.xml" rel="self" type="application/rss+xml" /><item>
@@ -12,7 +12,7 @@
       <link>https://cloudlog.kr/docs/programming/php/array-search-column/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/docs/programming/php/array-search-column/</guid>
-      <description>개요 linkPHP에서 배열에 들어 있는 값을 검색하거나 인덱스를 찾아야 할 때 사용하는 함수가 array_search 입니다.&#xA;array_search 사용법을 1차원 배열과 2차원 배열 각각의 경우에 대해 살펴보겠습니다.&#xA;1차원 배열 검색 link1차원 배열에서는 간단하게 array_search(검색할 값, 배열) 형식으로 검색할 수 있고, 검색할 값의 인덱스가 리턴됩니다.&#xA;&amp;lt;?php&#xD;$arr_test_01 = array(101, 202, 303, 404, 505);&#xD;$arr_test_02 = array(&amp;#34;cpu&amp;#34;=&amp;gt;&amp;#34;intel&amp;#34;, &amp;#34;memory&amp;#34;=&amp;gt;&amp;#34;hynix&amp;#34;, &amp;#34;graphic&amp;#34;=&amp;gt;&amp;#34;nvidia&amp;#34;, &amp;#34;monitor&amp;#34;=&amp;gt;&amp;#34;lg&amp;#34;);&#xD;$idx_search_01 = array_search(303, $arr_test_01);&#xD;$idx_search_02 = array_search(&amp;#34;nvidia&amp;#34;, $arr_test_02);&#xD;echo($idx_search_01);&#xD;echo(&amp;#34;&amp;lt;br /&amp;gt;&amp;#34;);&#xD;echo($idx_search_02);&#xD;echo(&amp;#34;&amp;lt;br /&amp;gt;&amp;#34;);&#xD;?</description>
+      <description>&lt;h2 id=&#34;개요&#34;&gt;개요 &lt;a href=&#34;#%ea%b0%9c%ec%9a%94&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;PHP에서 배열에 들어 있는 값을 검색하거나 인덱스를 찾아야 할 때 사용하는 함수가 &lt;strong&gt;array_search&lt;/strong&gt; 입니다.&lt;br&gt;&#xA;array_search 사용법을 1차원 배열과 2차원 배열 각각의 경우에 대해 살펴보겠습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1차원-배열-검색&#34;&gt;1차원 배열 검색 &lt;a href=&#34;#1%ec%b0%a8%ec%9b%90-%eb%b0%b0%ec%97%b4-%ea%b2%80%ec%83%89&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;1차원 배열에서는 간단하게 array_search(검색할 값, 배열) 형식으로 검색할 수 있고, 검색할 값의 인덱스가 리턴됩니다.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;prism-codeblock &#34;&gt;&#xD;&#xA;  &lt;pre id=&#34;2890f41&#34; class=&#34;language-php &#34;&gt;&#xD;&#xA;  &lt;code&gt;&amp;lt;?php&#xD;&#xA;&#xD;&#xA;    $arr_test_01 = array(101, 202, 303, 404, 505);&#xD;&#xA;    $arr_test_02 = array(&amp;#34;cpu&amp;#34;=&amp;gt;&amp;#34;intel&amp;#34;, &amp;#34;memory&amp;#34;=&amp;gt;&amp;#34;hynix&amp;#34;, &amp;#34;graphic&amp;#34;=&amp;gt;&amp;#34;nvidia&amp;#34;, &amp;#34;monitor&amp;#34;=&amp;gt;&amp;#34;lg&amp;#34;);&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;    $idx_search_01 = array_search(303, $arr_test_01);&#xD;&#xA;    $idx_search_02 = array_search(&amp;#34;nvidia&amp;#34;, $arr_test_02);&#xD;&#xA;&#xD;&#xA;    echo($idx_search_01);&#xD;&#xA;    echo(&amp;#34;&amp;lt;br /&amp;gt;&amp;#34;);&#xD;&#xA;    echo($idx_search_02);&#xD;&#xA;    echo(&amp;#34;&amp;lt;br /&amp;gt;&amp;#34;);&#xD;&#xA;&#xD;&#xA;?&amp;gt;&lt;/code&gt;&#xD;&#xA;  &lt;/pr</description>
     </item>
   </channel>
 </rss>

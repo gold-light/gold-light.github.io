@@ -4,7 +4,7 @@
     <title>Ncloud on Simple Life Cloud Log</title>
     <link>https://cloudlog.kr/tags/ncloud/</link>
     <description>Recent content in Ncloud on Simple Life Cloud Log</description>
-    <generator>Hugo 0.133.0</generator>
+    <generator>Hugo 0.134.1</generator>
     <language>ko</language>
     <lastBuildDate>Sat, 13 Aug 2022 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/tags/ncloud/rss.xml" rel="self" type="application/rss+xml" /><item>
@@ -12,13 +12,13 @@
       <link>https://cloudlog.kr/docs/cloud/ncloud/nca-certification-pass-review/</link>
       <pubDate>Sat, 13 Aug 2022 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/docs/cloud/ncloud/nca-certification-pass-review/</guid>
-      <description>NCA 합격 link다소 걱정했던 네이버 클라우드 (Ncloud) 자격증 NCA (NAVER CLOUD PLATFORM Certified Associate) 시험에 드디어 합격했습니다.&#xA;설마 이런 것까지 문제로 나오는가 싶은 것들도 많아서 생각했던 것 보다는 다소 어렵게 느껴습니다.&#xA;혹시 7월 말에 네이버 클라우드 최고 등급 자격증인 NCE (NAVER CLOUD PLATFORM Certified Expert) 시험이 시작되었다고 하던데 그 영향인지, 아니면 제가 8월 초에 시험을 봤는데, 월초 시험이라 좀 더 어렵게 나온 것은 아닐까 하는 생각도 들었지만 근거는 없습니다.&#xA;출제 경향 link제가 그닥 암기를 잘하는 것도 아니어서 시험 문제를 잘 기억하지 못하기도 하고, 기억 한다고 해도 함부로 올려도 되는지 확실치가 않아서 대략적인 출제 경향만 적어 보겠습니다.</description>
+      <description>&lt;h2 id=&#34;nca-합격&#34;&gt;NCA 합격 &lt;a href=&#34;#nca-%ed%95%a9%ea%b2%a9&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;다소 걱정했던 네이버 클라우드 (Ncloud) 자격증 NCA (NAVER CLOUD PLATFORM Certified Associate) 시험에 드디어 합격했습니다.&lt;/p&gt;&#xA;&lt;p&gt;설마 이런 것까지 문제로 나오는가 싶은 것들도 많아서 생각했던 것 보다는 다소 어렵게 느껴습니다.&lt;/p&gt;&#xA;&lt;p&gt;혹시 7월 말에 네이버 클라우드 최고 등급 자격증인 NCE (NAVER CLOUD PLATFORM Certified Expert) 시험이 시작되었다고 하던데 그 영향인지,&#xA;아니면 제가 8월 초에 시험을 봤는데, 월초 시험이라 좀 더 어렵게 나온 것은 아닐까 하는 생각도 들었지만 근거는 없습니다.&lt;/p&gt;</description>
     </item><item>
       <title>네이버 클라우드 (Ncloud) 자격증 NCA 시험 대비 핵심 요약, 예상문제</title>
       <link>https://cloudlog.kr/docs/cloud/ncloud/nca-short-answer-question/</link>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/docs/cloud/ncloud/nca-short-answer-question/</guid>
-      <description>개요 link네이버 클라우드 플랫폼 기반의 기술자격증은 NCA (NAVER CLOUD PLATFORM Certified Associate), NCP (NAVER CLOUD PLATFORM Certified Professional), NCE (NAVER CLOUD PLATFORM Certified Expert)의 3단계로 구성되어 있는데, 그 중에서 가장 기초 단계의 자격증인 NCA 자격증 시험을 준비하면서 공부했던 내용을 시험 날짜를 몇일 앞두고 마지막으로 정리해보려고 합니다.&#xA;원래 이렇게 핵심 내용을 정리하는 과정 자체도 시험 준비에 도움이 되기 때문에, 마치 시험 문제의 예상 문제를 뽑아 보는 것 같은 느낌으로 단답형 주관식처럼 정리해보았습니다.</description>
+      <description>&lt;h2 id=&#34;개요&#34;&gt;개요 &lt;a href=&#34;#%ea%b0%9c%ec%9a%94&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;네이버 클라우드 플랫폼 기반의 기술자격증은 NCA (NAVER CLOUD PLATFORM Certified Associate), NCP (NAVER CLOUD PLATFORM Certified Professional), NCE (NAVER CLOUD PLATFORM Certified Expert)의 3단계로 구성되어 있는데, 그 중에서 가장 기초 단계의 자격증인 NCA 자격증 시험을 준비하면서 공부했던 내용을 시험 날짜를 몇일 앞두고 마지막으로 정리해보려고 합니다.&lt;/p&gt;&#xA;&lt;p&gt;원래 이렇게 핵심 내용을 정리하는 과정 자체도 시험 준비에 도움이 되기 때문에, 마치 시험 문제의 예상 문제를 뽑아 보는 것 같은 느낌으로 단답형 주관식처럼 정리해보았습니다. (실제 시험은 객관식입니다.)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

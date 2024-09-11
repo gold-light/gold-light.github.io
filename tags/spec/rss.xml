@@ -4,7 +4,7 @@
     <title>Spec on Simple Life Cloud Log</title>
     <link>https://cloudlog.kr/tags/spec/</link>
     <description>Recent content in Spec on Simple Life Cloud Log</description>
-    <generator>Hugo 0.133.0</generator>
+    <generator>Hugo 0.134.1</generator>
     <language>ko</language>
     <lastBuildDate>Sat, 10 Feb 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/tags/spec/rss.xml" rel="self" type="application/rss+xml" /><item>
@@ -12,7 +12,7 @@
       <link>https://cloudlog.kr/blog/game/pc/enshrouded/minimum-system-requirements-info/</link>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/blog/game/pc/enshrouded/minimum-system-requirements-info/</guid>
-      <description>개요 link요즘 [팰 월드(PalWorld)]에 이어서 화제가 되고 있는 오픈 월드 생존 RPG 게임인 [인슈라오디드(Enshrouded)]를 구매 후 플레이 해보려고 했는데 실행이 되지 않길래 대체 최소 사양이 어느 정도이길래 [디아블로 4(Diablo 4)], [팰 월드(PalWorld)] 모두 잘 실행되는데 [인슈라오디드(Enshrouded)]만 실행이 안되는 걸까 싶어서 최소 사양을 확인해봤습니다.&#xA;시스템 요구 사항 link[스팀] 소개 페이지에 나왔있는 [인슈라오디드(Enshrouded)]의 시스템 요구 사항을 확인해보면 다음과 같습니다. 이 중에서 눈에 띄는 것은 [req. 6GB VRAM] 이 부분으로 그래픽카드 메모리를 많이 요구하는 것을 알 수 있었습니다.</description>
+      <description>&lt;h2 id=&#34;개요&#34;&gt;개요 &lt;a href=&#34;#%ea%b0%9c%ec%9a%94&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;요즘 [&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;]에 이어서 화제가 되고 있는 오픈 월드 생존 RPG 게임인 [&lt;strong&gt;인슈라오디드(Enshrouded)&lt;/strong&gt;]를 구매 후 플레이 해보려고 했는데 실행이 되지 않길래 대체 최소 사양이 어느 정도이길래 [&lt;strong&gt;디아블로 4(Diablo 4)&lt;/strong&gt;], [&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;] 모두 잘 실행되는데 [&lt;strong&gt;인슈라오디드(Enshrouded)&lt;/strong&gt;]만 실행이 안되는 걸까 싶어서 최소 사양을 확인해봤습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;시스템-요구-사항&#34;&gt;시스템 요구 사항 &lt;a href=&#34;#%ec%8b%9c%ec%8a%a4%ed%85%9c-%ec%9a%94%ea%b5%ac-%ec%82%ac%ed%95%ad&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;[&lt;strong&gt;스팀&lt;/strong&gt;] 소개 페이지에 나왔있는 [&lt;strong&gt;인슈라오디드(Enshrouded)&lt;/strong&gt;]의 시스템 요구 사항을 확인해보면 다음과 같습니다. 이 중에서 눈에 띄는 것은 [&lt;strong&gt;req. 6GB VRAM&lt;/strong&gt;] 이 부분으로 그래픽카드 메모리를 많이 요구하는 것을 알 수 있었습니다.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

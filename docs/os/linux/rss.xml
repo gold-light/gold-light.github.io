@@ -4,7 +4,7 @@
     <title>리눅스 on Simple Life Cloud Log</title>
     <link>https://cloudlog.kr/docs/os/linux/</link>
     <description>Recent content in 리눅스 on Simple Life Cloud Log</description>
-    <generator>Hugo 0.133.0</generator>
+    <generator>Hugo 0.134.1</generator>
     <language>ko</language>
     <lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/docs/os/linux/rss.xml" rel="self" type="application/rss+xml" /><item>
@@ -12,7 +12,7 @@
       <link>https://cloudlog.kr/docs/os/linux/tree-command-manual/</link>
       <pubDate>Fri, 25 Aug 2023 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/docs/os/linux/tree-command-manual/</guid>
-      <description>개요 linkLinux에서 tree 명령어는 디렉토리와 파일의 구조를 한눈에 보기 쉽게 계층으로 표현해주는 명령어입니다.&#xA;기본 사용법 link&#xD;tree [-acdfghilnpqrstuvxACDFJQNSUX] [-H baseHREF] [-T title ]&#xD;[-L level [-R]] [-P pattern] [-I pattern] [-o filename] [--version]&#xD;[--help] [--inodes] [--device] [--noreport] [--nolinks] [--dirsfirst]&#xD;[--charset charset] [--filelimit[=]#] [--si] [--timefmt[=]&amp;lt;f&amp;gt;]&#xD;[--sort[=]&amp;lt;name&amp;gt;] [--matchdirs] [--ignore-case] [--] [&amp;lt;directory list&amp;gt;]&#xD;주요 옵션 linktree 명령에서 주요 사용하는 옵션을 모아봤습니다&#xA;-d : 디렉토리만 출력&#xD;-L : 지정한 단계의 하위 디렉토리까지만 출력&#xD;-P : 지정한 패턴과 일치하는 파일만 출력&#xD;리스트 옵션 link&#xD;------- Listing options -------&#xD;-a All files are listed.</description>
+      <description>&lt;h2 id=&#34;개요&#34;&gt;개요 &lt;a href=&#34;#%ea%b0%9c%ec%9a%94&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Linux에서 tree 명령어는 디렉토리와 파일의 구조를 한눈에 보기 쉽게 계층으로 표현해주는 명령어입니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;기본-사용법&#34;&gt;기본 사용법 &lt;a href=&#34;#%ea%b8%b0%eb%b3%b8-%ec%82%ac%ec%9a%a9%eb%b2%95&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;prism-codeblock &#34;&gt;&#xD;&#xA;  &lt;pre id=&#34;d0807e0&#34; class=&#34;language-bash &#34;&gt;&#xD;&#xA;  &lt;code&gt;tree [-acdfghilnpqrstuvxACDFJQNSUX] [-H baseHREF] [-T title ]&#xD;&#xA;[-L level [-R]] [-P pattern] [-I pattern] [-o filename] [--version]&#xD;&#xA;[--help] [--inodes] [--device] [--noreport] [--nolinks] [--dirsfirst]&#xD;&#xA;[--charset charset] [--filelimit[=]#] [--si] [--timefmt[=]&amp;lt;f&amp;gt;]&#xD;&#xA;[--sort[=]&amp;lt;name&amp;gt;] [--matchdirs] [--ignore-case] [--] [&amp;lt;directory list&amp;gt;]&lt;/code&gt;&#xD;&#xA;  &lt;/pr</description>
     </item>
   </channel>
 </rss>

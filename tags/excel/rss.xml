@@ -4,7 +4,7 @@
     <title>Excel on Simple Life Cloud Log</title>
     <link>https://cloudlog.kr/tags/excel/</link>
     <description>Recent content in Excel on Simple Life Cloud Log</description>
-    <generator>Hugo 0.133.0</generator>
+    <generator>Hugo 0.134.1</generator>
     <language>ko</language>
     <lastBuildDate>Sat, 05 Feb 2022 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/tags/excel/rss.xml" rel="self" type="application/rss+xml" /><item>
@@ -12,25 +12,25 @@
       <link>https://cloudlog.kr/docs/programming/php/phpspreadsheet/introduce/</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/docs/programming/php/phpspreadsheet/introduce/</guid>
-      <description>개요 linkPHP에서 엑셀파일을 업로드 하거나 데이터를 엑셀파일로 다운로드 받을 때 주로 사용하는 것이 PHPExcel입니다. 그런데 PHPExcel이 더 이상 업데이트나 유지보수가 없고, 대신에 업그레이드 버전인 PhpSpreadsheet가 공개되었습니다.&#xA;업그레이드 버전인 만큼 실제 엑셀파일을 다루는 코드 사용 방법은 거의 동일합니다. 다만 앞부분에 관련 기능을 불러오는 오브젝트 생성 단계가 조금 달라졌습니다.&#xA;그러면 신규 버전인 PhpSpreadsheet의 기본 설정 방법과 사용가이드, github 경로 등을 소개하겠습니다.&#xA;기본 설정 방법 linkPhpSpreadsheet는 composer.json 으로 설치하게 되고, 그래서 autoload.php 를 이용해서 로드하게 됩니다.</description>
+      <description>&lt;h2 id=&#34;개요&#34;&gt;개요 &lt;a href=&#34;#%ea%b0%9c%ec%9a%94&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;PHP에서 엑셀파일을 업로드 하거나 데이터를 엑셀파일로 다운로드 받을 때 주로 사용하는 것이 PHPExcel입니다.&#xA;그런데 PHPExcel이 더 이상 업데이트나 유지보수가 없고, 대신에 업그레이드 버전인 PhpSpreadsheet가 공개되었습니다.&lt;/p&gt;&#xA;&lt;p&gt;업그레이드 버전인 만큼 실제 엑셀파일을 다루는 코드 사용 방법은 거의 동일합니다.&#xA;다만 앞부분에 관련 기능을 불러오는 오브젝트 생성 단계가 조금 달라졌습니다.&lt;/p&gt;&#xA;&lt;p&gt;그러면 신규 버전인 PhpSpreadsheet의 기본 설정 방법과 사용가이드, github 경로 등을 소개하겠습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;기본-설정-방법&#34;&gt;기본 설정 방법 &lt;a href=&#34;#%ea%b8%b0%eb%b3%b8-%ec%84%a4%ec%a0%95-%eb%b0%a9%eb%b2%95&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;PhpSpreadsheet는 composer.json 으로 설치하게 되고, 그래서 autoload.php 를 이용해서 로드하게 됩니다.&lt;/p&gt;</description>
     </item><item>
       <title>PhpSpreadsheet 엑셀 셀서식 행 높이 설정하기</title>
       <link>https://cloudlog.kr/docs/programming/php/phpspreadsheet/row-height-set/</link>
       <pubDate>Sat, 05 Feb 2022 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/docs/programming/php/phpspreadsheet/row-height-set/</guid>
-      <description>PhpSpreadsheet 행 높이 설정하기 link각 행의 높이를 지정하려면 행 숫자와 높이를 숫자로 지정하면 됩니다.&#xA;&amp;lt;?php&#xD;$spreadsheet-&amp;gt;getActiveSheet()-&amp;gt;getDefaultRowDimension(1)-&amp;gt;setRowHeight(15);&#xD;?&amp;gt;&#xD;핵심은 getDefaultRowDimension(행번호)-&amp;gt;setRowHeight(행높이); 입니다.&#xA;몇번째 행의 높이를 얼마로 설정할 것인가를 입력하면 됩니다.&#xA;전체 행의 높이를 한번에 설정하는 방법은 아직 찾지 못했습니다.&#xA;모든 행의 높이를 설정하려면 각 행의 데이터를 루프문 안에서 가져와서 기록할 때 높이도 함께 설정하면 될 듯 합니다.&#xA;문서 업데이트 내역 link&#xD;날짜 내용 2022-02-05 문서 최초 생성 </description>
+      <description>&lt;h2 id=&#34;phpspreadsheet-행-높이-설정하기&#34;&gt;PhpSpreadsheet 행 높이 설정하기 &lt;a href=&#34;#phpspreadsheet-%ed%96%89-%eb%86%92%ec%9d%b4-%ec%84%a4%ec%a0%95%ed%95%98%ea%b8%b0&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;각 행의 높이를 지정하려면 행 숫자와 높이를 숫자로 지정하면 됩니다.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;prism-codeblock &#34;&gt;&#xD;&#xA;  &lt;pre id=&#34;9b05c50&#34; class=&#34;language-php &#34;&gt;&#xD;&#xA;  &lt;code&gt;&amp;lt;?php&#xD;&#xA;    $spreadsheet-&amp;gt;getActiveSheet()-&amp;gt;getDefaultRowDimension(1)-&amp;gt;setRowHeight(15);&#xD;&#xA;?&amp;gt;&lt;/code&gt;&#xD;&#xA;  &lt;/pr</description>
     </item><item>
       <title>PhpSpreadsheet 셀 서식 텍스트(문자)로 지정하기</title>
       <link>https://cloudlog.kr/docs/programming/php/phpspreadsheet/cell-datatype-string/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/docs/programming/php/phpspreadsheet/cell-datatype-string/</guid>
-      <description>셀서식 텍스트(문자)로 지정하기 link엑셀로 저장하는 데이터 중에서 구성은 숫자 또는 날짜 등으로 되어 있는 데이터이지만 텍스트로 표현해야 하는 경우가 있습니다. 그럴 때 셀서식을 텍스트로 지정해야 하는데 PhpSpreadsheet에서는 PHPExcel과 조금 다르게 표현된다고 합니다.&#xA;핵심은 \PhpOffice\PhpSpreadsheet\Cell\DataType::TYPE_STRING 입니다&#xA;&amp;lt;?php&#xD;$spreadsheet-&amp;gt;setActiveSheetIndex(0)&#xD;-&amp;gt;setCellValueExplicit(&amp;#34;A1&amp;#34;, &amp;#34;1234&amp;#34;, \PhpOffice\PhpSpreadsheet\Cell\DataType::TYPE_STRING);&#xD;?&amp;gt;&#xD;문서 업데이트 내역 link&#xD;날짜 내용 2022-01-27 문서 최초 생성 </description>
+      <description>&lt;h2 id=&#34;셀서식-텍스트문자로-지정하기&#34;&gt;셀서식 텍스트(문자)로 지정하기 &lt;a href=&#34;#%ec%85%80%ec%84%9c%ec%8b%9d-%ed%85%8d%ec%8a%a4%ed%8a%b8%eb%ac%b8%ec%9e%90%eb%a1%9c-%ec%a7%80%ec%a0%95%ed%95%98%ea%b8%b0&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;엑셀로 저장하는 데이터 중에서 구성은 숫자 또는 날짜 등으로 되어 있는 데이터이지만 텍스트로 표현해야 하는 경우가 있습니다.&#xA;그럴 때 셀서식을 텍스트로 지정해야 하는데 PhpSpreadsheet에서는 PHPExcel과 조금 다르게 표현된다고 합니다.&lt;/p&gt;&#xA;&lt;p&gt;핵심은   \PhpOffice\PhpSpreadsheet\Cell\DataType::TYPE_STRING  입니다&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;&#xD;&#xA;  &lt;div class=&#34;prism-codeblock &#34;&gt;&#xD;&#xA;  &lt;pre id=&#34;2870e7e&#34; class=&#34;language-php &#34;&gt;&#xD;&#xA;  &lt;code&gt;&amp;lt;?php&#xD;&#xA;    $spreadsheet-&amp;gt;setActiveSheetIndex(0)&#xD;&#xA;    -&amp;gt;setCellValueExplicit(&amp;#34;A1&amp;#34;, &amp;#34;1234&amp;#34;, \PhpOffice\PhpSpreadsheet\Cell\DataType::TYPE_STRING);&#xD;&#xA;?&amp;gt;&lt;/code&gt;&#xD;&#xA;  &lt;/pr</description>
     </item><item>
       <title>PHPExcel, PhpSpreadsheet에서 Err_Invalid_Response 오류 해결 방법</title>
       <link>https://cloudlog.kr/docs/programming/php/phpspreadsheet/err-invalid-response/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/docs/programming/php/phpspreadsheet/err-invalid-response/</guid>
-      <description>개요 linkPHP로 웹사이트를 제작하면서 화면에 표시되는 데이터를 엑셀 파일로 다운로드 받을 때 주로 이용하는 것이 PHPExcel입니다. 그리고, 현재는 PHPExcel의 유지보수가 중단되고 업그레이드 버전인 PhpSpreadsheet가 공개된 상태입니다.&#xA;아무튼, 엑셀 파일로 다운로드 받을 때 간혹 ERR_INVALID_RESPONSE 이라는 오류 메시지가 나타날 때가 있습니다. 이런 저런 방법을 찾아보고 코드를 변경해보다가 결국은 PHPExcel이 오래된 것이라 새로운 버전인 PhpSpreadsheet를 이용해보라는 정보를 보고 바꾸어 보았지만 역시나 해결이 되지 않았습니다.&#xA;문제 원인 link그러다 구글에서 겨우겨우 찾은 해결방법을 적용해보니 해결이 되어 공유하려고 합니다.</description>
+      <description>&lt;h2 id=&#34;개요&#34;&gt;개요 &lt;a href=&#34;#%ea%b0%9c%ec%9a%94&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;PHP로 웹사이트를 제작하면서 화면에 표시되는 데이터를 엑셀 파일로 다운로드 받을 때 주로 이용하는 것이 PHPExcel입니다. 그리고, 현재는 PHPExcel의 유지보수가 중단되고 업그레이드 버전인 PhpSpreadsheet가 공개된 상태입니다.&lt;/p&gt;&#xA;&lt;p&gt;아무튼, 엑셀 파일로 다운로드 받을 때 간혹  ERR_INVALID_RESPONSE  이라는 오류 메시지가 나타날 때가 있습니다.&#xA;이런 저런 방법을 찾아보고 코드를 변경해보다가 결국은 PHPExcel이 오래된 것이라 새로운 버전인 PhpSpreadsheet를 이용해보라는 정보를 보고 바꾸어 보았지만 역시나 해결이 되지 않았습니다.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
