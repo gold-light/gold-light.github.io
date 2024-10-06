@@ -26,10 +26,16 @@
       <guid>https://cloudlog.kr/tags/rpg/</guid>
       <description></description>
     </item><item>
-      <title>Stat</title>
-      <link>https://cloudlog.kr/tags/stat/</link>
+      <title>Coupon</title>
+      <link>https://cloudlog.kr/tags/coupon/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/tags/coupon/</guid>
+      <description></description>
+    </item><item>
+      <title>방치형 게임</title>
+      <link>https://cloudlog.kr/tags/%EB%B0%A9%EC%B9%98%ED%98%95-%EA%B2%8C%EC%9E%84/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/stat/</guid>
+      <guid>https://cloudlog.kr/tags/%EB%B0%A9%EC%B9%98%ED%98%95-%EA%B2%8C%EC%9E%84/</guid>
       <description></description>
     </item><item>
       <title>Item</title>
@@ -60,12 +66,6 @@
       <link>https://cloudlog.kr/tags/lostark/</link>
       <pubDate>Wed, 31 Jul 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/tags/lostark/</guid>
-      <description></description>
-    </item><item>
-      <title>Mabinogi</title>
-      <link>https://cloudlog.kr/tags/mabinogi/</link>
-      <pubDate>Sat, 27 Jul 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/mabinogi/</guid>
       <description></description>
     </item>
   </channel>
