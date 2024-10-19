@@ -2,6 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/ring/diablo4-item-ancestral-unique-ring-ring-of-the-midnight-sun-info/</loc>
+    <lastmod>2024-10-17T00:00:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://cloudlog.kr/blog/game/pc/diablo/db/item/ring/diablo4-item-ancestral-unique-ring-ring-of-the-midnight-sun-info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/ring/diablo4-item-ancestral-unique-ring-ring-of-the-midnight-sun-info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cloudlog.kr/en/blog/game/pc/diablo/db/item/ring/diablo4-item-ancestral-unique-ring-ring-of-the-midnight-sun-info/"
+                />
+  </url><url>
+    <loc>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-banished-lord-info/</loc>
+    <lastmod>2024-10-17T00:00:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://cloudlog.kr/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-banished-lord-info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-banished-lord-info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cloudlog.kr/en/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-banished-lord-info/"
+                />
+  </url><url>
+    <loc>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/heml/diablo4-item-ancestral-unique-helm-harmony-of-ebewaka-info/</loc>
+    <lastmod>2024-10-17T00:00:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/heml/diablo4-item-ancestral-unique-helm-harmony-of-ebewaka-info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cloudlog.kr/en/blog/game/pc/diablo/db/item/heml/diablo4-item-ancestral-unique-helm-harmony-of-ebewaka-info/"
+                />
+  </url><url>
+    <loc>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/two-handes-weapon/diablo4-item-ancestral-unique-quarterstaff-sepazontec-info/</loc>
+    <lastmod>2024-10-17T00:00:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://cloudlog.kr/blog/game/pc/diablo/db/item/two-handes-weapon/diablo4-item-ancestral-unique-quarterstaff-sepazontec-info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/two-handes-weapon/diablo4-item-ancestral-unique-quarterstaff-sepazontec-info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cloudlog.kr/en/blog/game/pc/diablo/db/item/two-handes-weapon/diablo4-item-ancestral-unique-quarterstaff-sepazontec-info/"
+                />
+  </url><url>
     <loc>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/ring/diablo4-item-ancestral-unique-ring-ring-of-the-midday-hunt-info/</loc>
     <lastmod>2024-10-15T00:00:00+09:00</lastmod>
     <priority>0.7</priority>
@@ -19,25 +90,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cloudlog.kr/en/blog/game/pc/diablo/db/item/ring/diablo4-item-ancestral-unique-ring-ring-of-the-midday-hunt-info/"
-                />
-  </url><url>
-    <loc>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-banished-lord-info/</loc>
-    <lastmod>2024-10-15T00:00:00+09:00</lastmod>
-    <priority>0.7</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://cloudlog.kr/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-banished-lord-info/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-banished-lord-info/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cloudlog.kr/en/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-banished-lord-info/"
                 />
   </url><url>
     <loc>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/two-handes-weapon/diablo4-item-ancestral-unique-quarterstaff-rod-of-kepeleke-info/</loc>
@@ -95,25 +147,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://cloudlog.kr/en/blog/game/pc/diablo/db/item/heml/diablo4-item-ancestral-unique-helm-mantle-of-loyalty-info/"
-                />
-  </url><url>
-    <loc>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/two-handes-weapon/diablo4-item-ancestral-unique-quarterstaff-sepazontec-info/</loc>
-    <lastmod>2024-10-13T00:00:00+09:00</lastmod>
-    <priority>0.7</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://cloudlog.kr/blog/game/pc/diablo/db/item/two-handes-weapon/diablo4-item-ancestral-unique-quarterstaff-sepazontec-info/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/two-handes-weapon/diablo4-item-ancestral-unique-quarterstaff-sepazontec-info/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cloudlog.kr/en/blog/game/pc/diablo/db/item/two-handes-weapon/diablo4-item-ancestral-unique-quarterstaff-sepazontec-info/"
                 />
   </url><url>
     <loc>https://cloudlog.kr/en/blog/game/pc/diablo/db/item/ring/diablo4-item-unique-ring-ring-of-the-midnight-sun-info/</loc>
