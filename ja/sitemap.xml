@@ -2,6 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/ring/diablo4-item-ancestral-unique-ring-embrace-of-mother-info/</loc>
+    <lastmod>2024-10-21T00:00:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://cloudlog.kr/blog/game/pc/diablo/db/item/ring/diablo4-item-ancestral-unique-ring-embrace-of-mother-info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cloudlog.kr/en/blog/game/pc/diablo/db/item/ring/diablo4-item-ancestral-unique-ring-embrace-of-mother-info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/ring/diablo4-item-ancestral-unique-ring-embrace-of-mother-info/"
+                />
+  </url><url>
+    <loc>https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-locran-info/</loc>
+    <lastmod>2024-10-21T00:00:00+09:00</lastmod>
+    <priority>0.7</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://cloudlog.kr/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-locran-info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://cloudlog.kr/en/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-locran-info/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-locran-info/"
+                />
+  </url><url>
     <loc>https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/heml/diablo4-item-ancestral-mythic-unique-helm-harlequin-crest-info/</loc>
     <lastmod>2024-10-20T00:00:00+09:00</lastmod>
     <priority>0.7</priority>
@@ -586,25 +624,6 @@
                 href="https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/heml/diablo4-season4-get-ancestral-mythic-unique-helm-harlequin-crest-info/"
                 />
   </url><url>
-    <loc>https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/ring/diablo4-item-ancestral-unique-ring-embrace-of-mother-info/</loc>
-    <lastmod>2024-08-14T00:00:00+09:00</lastmod>
-    <priority>0.7</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://cloudlog.kr/blog/game/pc/diablo/db/item/ring/diablo4-item-ancestral-unique-ring-embrace-of-mother-info/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cloudlog.kr/en/blog/game/pc/diablo/db/item/ring/diablo4-item-ancestral-unique-ring-embrace-of-mother-info/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/ring/diablo4-item-ancestral-unique-ring-embrace-of-mother-info/"
-                />
-  </url><url>
     <loc>https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/gloves/diablo4-item-ancestral-unique-gloves-gloves-of-the-illuminator-info/</loc>
     <lastmod>2024-08-13T00:00:00+09:00</lastmod>
     <priority>0.7</priority>
@@ -679,25 +698,6 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-fractured-winterglass-info/"
-                />
-  </url><url>
-    <loc>https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-locran-info/</loc>
-    <lastmod>2024-08-10T00:00:00+09:00</lastmod>
-    <priority>0.7</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://cloudlog.kr/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-locran-info/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://cloudlog.kr/en/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-locran-info/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/amulet/diablo4-item-ancestral-unique-amulet-talisman-of-locran-info/"
                 />
   </url><url>
     <loc>https://cloudlog.kr/ja/blog/game/pc/diablo/db/item/boots/diablo4-item-ancestral-unique-boots-heirloom-of-esu-info/</loc>

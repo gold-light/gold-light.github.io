@@ -4,7 +4,7 @@
     <title>팰월드 (PalWorld) on Simple Life Cloud Log</title>
     <link>https://cloudlog.kr/blog/game/pc/palworld/</link>
     <description>Recent content in 팰월드 (PalWorld) on Simple Life Cloud Log</description>
-    <generator>Hugo 0.134.1</generator>
+    <generator>Hugo 0.136.4</generator>
     <language>ko</language>
     <lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/blog/game/pc/palworld/rss.xml" rel="self" type="application/rss+xml" /><item>
@@ -12,7 +12,7 @@
       <link>https://cloudlog.kr/blog/game/pc/palworld/palworld-build-sulfur-base-in-volcanic-area/</link>
       <pubDate>Tue, 27 Feb 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/blog/game/pc/palworld/palworld-build-sulfur-base-in-volcanic-area/</guid>
-      <description>&lt;h2 id=&#34;개요&#34;&gt;개요 &lt;a href=&#34;#%ea%b0%9c%ec%9a%94&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;[&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;]에서 총알이나 폭탄, 미사일 등을 제작하려면 화약이 필요하고, 화약을 만들려면 유황을 채굴해야 합니다.&#xA;유황은 다른 지역에는 1덩이씩 있지만, 화산 지역에는 대량으로 존재하는 곳이 몇 군데 있습니다. 하지만 화산지역은 거점을 설치할 수 없거나 용암 때문에 팰이나 캐릭터가 금방 죽는 경우가 있어서 많아서 거점을 설치하기 어려운 것이 사실입니다.&lt;/p&gt;&#xA;&lt;p&gt;물론 유황은 거점을 설치하지 않고, 직접 이동해서 캐는 방법이 일반적이기는 하지만 재미를 위해서 한번 직접 거점을 설치해봤습니다.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;개요&#34;&gt;개요 &lt;a href=&#34;#%ea%b0%9c%ec%9a%94&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;[&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;]에서 총알이나 폭탄, 미사일 등을 제작하려면 화약이 필요하고, 화약을 만들려면 유황을 채굴해야 합니다.&#xA;유황은 다른 지역에는 1덩이씩 있지만, 화산 지역에는 대량으로 존재하는 곳이 몇 군데 있습니다. 하지만 화산지역은 거점을 설치할 수 없거나 용암 때문에 팰이나 캐릭터가 금방 죽는 경우가 있어서 많아서 거점을 설치하기 어려운 것이 사실입니다.&lt;/p&gt;&#xA;&lt;p&gt;물론 유황은 거점을 설치하지 않고, 직접 이동해서 캐는 방법이 일반적이기는 하지만 재미를 위해서 한번 직접 거점을 설치해봤습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;유황-거점-위치&#34;&gt;유황 거점 위치 &lt;a href=&#34;#%ec%9c%a0%ed%99%a9-%ea%b1%b0%ec%a0%90-%ec%9c%84%ec%b9%98&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;대략 위치는 [&lt;strong&gt;-590, -402&lt;/strong&gt;] 정도의 위치에 있습니다.&lt;/p&gt;</description>
     </item><item>
       <title>[팰 월드] 언어 설정 변경하는 방법</title>
       <link>https://cloudlog.kr/blog/game/pc/palworld/how-to-change-language/</link>
@@ -42,7 +42,7 @@
       <link>https://cloudlog.kr/blog/game/pc/palworld/ore-mining-auto-guide-feat-tombat/</link>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/blog/game/pc/palworld/ore-mining-auto-guide-feat-tombat/</guid>
-      <description>&lt;h2 id=&#34;개요&#34;&gt;개요 &lt;a href=&#34;#%ea%b0%9c%ec%9a%94&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;지금 전 세계적으로 화제가 되고 있는 게임 [&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;]를 플레이 해봤는데, 이런 저런 논란도 있고 있지만 역시나 인기가 있을 만한 요소들이 상당히 많다는 것을 알 수 있었습니다. 그 중에서 대략 20렙 이후 부터 매우 중요한 금속 채굴을 자동으로 해보는 방법을 찾아보고 정리해봤습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;작업-적성--채굴-lv2&#34;&gt;작업 적성 : 채굴 Lv2 &lt;a href=&#34;#%ec%9e%91%ec%97%85-%ec%a0%81%ec%84%b1--%ec%b1%84%ea%b5%b4-lv2&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;우선, 팰이 금속 채굴이 가능하려면 작업 적성에 [&lt;strong&gt;채굴 Lv2&lt;/strong&gt;]이 있어야 합니다.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;개요&#34;&gt;개요 &lt;a href=&#34;#%ea%b0%9c%ec%9a%94&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;지금 전 세계적으로 화제가 되고 있는 게임 [&lt;strong&gt;팰 월드(PalWorld)&lt;/strong&gt;]를 플레이 해봤는데, 이런 저런 논란도 있고 있지만 역시나 인기가 있을 만한 요소들이 상당히 많다는 것을 알 수 있었습니다. 그 중에서 대략 20렙 이후 부터 매우 중요한 금속 채굴을 자동으로 해보는 방법을 찾아보고 정리해봤습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;작업-적성--채굴-lv2&#34;&gt;작업 적성 : 채굴 Lv2 &lt;a href=&#34;#%ec%9e%91%ec%97%85-%ec%a0%81%ec%84%b1--%ec%b1%84%ea%b5%b4-lv2&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;우선, 팰이 금속 채굴이 가능하려면 작업 적성에 [&lt;strong&gt;채굴 Lv2&lt;/strong&gt;]이 있어야 합니다.&lt;/p&gt;&#xA;&lt;p&gt;저는 그 중에서 어둠 속성의 냥뱃(TomBat)을 운 좋게 구해서 배치해봤습니다.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

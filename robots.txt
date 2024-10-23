@@ -15,8 +15,6 @@ User-agent: Q_BlogBot
 Disallow: /
 User-agent: QT_BlogBot
 Disallow: /
-User-agent: YandexBot
-Disallow: /
 User-agent: NKBot
 Disallow: /
 User-agent: SemrushBot

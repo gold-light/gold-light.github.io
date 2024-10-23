@@ -4,7 +4,7 @@
     <title>히트 (Hit) on Simple Life Cloud Log</title>
     <link>https://cloudlog.kr/blog/game/mobile/hit/</link>
     <description>Recent content in 히트 (Hit) on Simple Life Cloud Log</description>
-    <generator>Hugo 0.134.1</generator>
+    <generator>Hugo 0.136.4</generator>
     <language>ko</language>
     <lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/blog/game/mobile/hit/rss.xml" rel="self" type="application/rss+xml" /><item>
@@ -18,7 +18,7 @@
       <link>https://cloudlog.kr/blog/game/mobile/hit/hit2-game-server-connection-waiting-time/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/blog/game/mobile/hit/hit2-game-server-connection-waiting-time/</guid>
-      <description>&lt;h2 id=&#34;서버-포화&#34;&gt;서버 포화 &lt;a href=&#34;#%ec%84%9c%eb%b2%84-%ed%8f%ac%ed%99%94&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;인기 많은 게임은 보통 서버가 포화상태가 되고, 접속 대기열이 생기는 것이 일반적이기는 합니다.&lt;br&gt;&#xA;하지만, 대부분 유저 접속이 많은 시간대에 한정되고, 새벽이나 아침에는 서버 접속이 원할한게 일반적인데 넥슨의 히트2는 그렇지 않아서 상당히 의문이 듭니다.&lt;/p&gt;&#xA;&lt;p&gt;평일은 학생들 학원이 끝나고, 직장인들 퇴근 시간 이후에 접속 대기가 생기고, 주말에는 점심즈음부터 접속이 어려워지는데, 히트2는 일요일 새벽부터 접속 대기가 생기고 있습니다.&lt;/p&gt;&#xA;&lt;p&gt;아래와 같이 일요일 오전 8시인데도 대부분의 서버가 포화 상태로 나타납니다.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;서버-포화&#34;&gt;서버 포화 &lt;a href=&#34;#%ec%84%9c%eb%b2%84-%ed%8f%ac%ed%99%94&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;인기 많은 게임은 보통 서버가 포화상태가 되고, 접속 대기열이 생기는 것이 일반적이기는 합니다.&lt;br&gt;&#xA;하지만, 대부분 유저 접속이 많은 시간대에 한정되고, 새벽이나 아침에는 서버 접속이 원할한게 일반적인데 넥슨의 히트2는 그렇지 않아서 상당히 의문이 듭니다.&lt;/p&gt;&#xA;&lt;p&gt;평일은 학생들 학원이 끝나고, 직장인들 퇴근 시간 이후에 접속 대기가 생기고, 주말에는 점심즈음부터 접속이 어려워지는데, 히트2는 일요일 새벽부터 접속 대기가 생기고 있습니다.&lt;/p&gt;&#xA;&lt;p&gt;아래와 같이 일요일 오전 8시인데도 대부분의 서버가 포화 상태로 나타납니다.&lt;/p&gt;&#xA;&lt;figure&gt;&#xD;&#xA;&lt;img src=&#34;https://cloudlog.kr/images/game/hit2/nexon-hit2-game-server-connection-waiting-time-01.jpg&#34; width=&#34;845&#34; alt=&#34;히트2(Hit 2)는 작업장을 안 잡는가? 못 잡는가? - 서버 접속 대기&#34; class=&#39;docimage&#39;&gt;&#xD;&#xA;&lt;figcaption&gt;&lt;/figcaption&gt;&#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&lt;figure&gt;&#xD;&#xA;&lt;img src=&#34;https://cloudlog.kr/images/game/hit2/nexon-hit2-game-server-connection-waiting-time-02.jpg&#34; width=&#34;845&#34; alt=&#34;히트2(Hit 2)는 작업장을 안 잡는가? 못 잡는가? - 서버 접속 대기&#34; class=&#39;docimage&#39;&gt;&#xD;&#xA;&lt;figcaption&gt;&lt;/figcaption&gt;&#xD;&#xA;&lt;/figure&gt;&#xD;&#xA;&lt;h3 id=&#34;접속-대기&#34;&gt;접속 대기 &lt;a href=&#34;#%ec%a0%91%ec%86%8d-%eb%8c%80%ea%b8%b0&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;이처럼 아침 일찍부터 접속하지 못하는 상황이 발생하고 있습니다.&lt;/p&gt;</description>
     </item><item>
       <title>히트2(Hit 2) 떠돌이 고블린 주술사, 발타르 만드라고드라, 배회하는 모험가 망령 위치 정보</title>
       <link>https://cloudlog.kr/blog/game/mobile/hit/hit2-dungeon-monster-position-info-2nd/</link>
