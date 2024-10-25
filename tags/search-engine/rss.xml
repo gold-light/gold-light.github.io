@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search Engine on Simple Life Cloud Log</title>
+    <link>https://cloudlog.kr/tags/search-engine/</link>
+    <description>Recent content in Search Engine on Simple Life Cloud Log</description>
+    <generator>Hugo 0.136.4</generator>
+    <language>ko</language>
+    <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://cloudlog.kr/tags/search-engine/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>IndexNow를 사용해 검색 엔진에 글 등록하는 방법</title>
+      <link>https://cloudlog.kr/docs/blog-manage/how-to-use-indexnow-for-search-engine/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/docs/blog-manage/how-to-use-indexnow-for-search-engine/</guid>
+      <description>&lt;h2 id=&#34;개요&#34;&gt;개요 &lt;a href=&#34;#%ea%b0%9c%ec%9a%94&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;지금까지 검색 엔진에 웹페이지가 등록되는 방식은 검색 엔진의 로봇이 웹사이트를 방문해서 웹페이지의 정보를 수집하는 방식이었습니다.&#xA;하지만, 검색 엔진이 언제 어떻게 방문할지, 방문하더라도 해당 사이트의 모든 웹페이지의 정보를 한번에 수집하지는 않기 때문에 새로운 글을 작성하더라도 언제 검색 엔진에 등록될지 알 수 없는 것이 현실입니다. 그래서 직접 웹페이지를 등록할 수 있는 시스템이 생겼는데, 바로 그 시스템인  [&lt;strong&gt;IndexNow&lt;/strong&gt;] 사용 방법을 소개해보겠습니다.&lt;/p&gt;&#xA;&lt;h2 id=&#34;indexnow-란&#34;&gt;IndexNow 란? &lt;a href=&#34;#indexnow-%eb%9e%80&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;i class=&#34;material-icons align-middle&#34;&gt;link&lt;/i&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;[&lt;strong&gt;IndexNow&lt;/strong&gt;]는 이처럼 기존의 검색 엔진에서 웹페이지 정보를 가져가는 크롤링 방식이 아니라, 웹페이지의 정보를 웹사이트를 운영하는 사람이 직접 검색 엔진에 등록할 수 있도록 해주는 시스템으로&#xA;&lt;strong&gt;Microsoft Bing&lt;/strong&gt;이 &lt;strong&gt;Yandex&lt;/strong&gt;, &lt;strong&gt;Seznam&lt;/strong&gt; 등의 검색 엔진과 함께 만들었습니다. 그리고 네이버도 2023-07-25부터 [&lt;strong&gt;IndexNow&lt;/strong&gt;]를 지원하기 시작했습니다.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

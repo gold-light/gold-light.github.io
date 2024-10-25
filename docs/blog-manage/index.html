@@ -1,0 +1,939 @@
+<!DOCTYPE html>
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+<html lang="ko"><head>
+        <meta charset="utf-8" />
+    <title>블로그 관리 | CloudLog</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Blog Management Category">
+    <meta name="keywords" content=""> 
+    <meta name="author" content="CloudLog" />
+    <meta name="generator" content="Hugo v0.128.2" />
+    
+    <link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" crossorigin="use-credentials" href="/site.webmanifest">
+<meta property="og:title" content="블로그 관리" />
+<meta property="og:description" content="Blog Management Category" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://cloudlog.kr/docs/blog-manage/" /><meta   property="og:image" content="https://cloudlog.kr/images/opengraph/card-base-2_hu17006455695480417288.png"/><meta property="og:locale" content="ko" /><meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://cloudlog.kr/images/opengraph/card-base-2_hu17006455695480417288.png"/><meta name="twitter:title" content="블로그 관리"/>
+<meta name="twitter:description" content="Blog Management Category"/>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Blog Management Category","headline":"블로그 관리","sameAs":["https://hongyaku.tistory.com","https://game-land.tistory.com","https://arvr.tistory.com","https://blog.naver.com/staeho23","https://twitter.com/Gold__Light"],"url":"https:\/\/cloudlog.kr\/docs\/blog-manage\/"}
+</script>
+    
+    <script>(()=>{var t=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches,e=localStorage.getItem("theme");t&&e===null&&(localStorage.setItem("theme","dark"),document.documentElement.setAttribute("data-dark-mode","")),t&&e==="dark"&&document.documentElement.setAttribute("data-dark-mode",""),e==="dark"&&document.documentElement.setAttribute("data-dark-mode","")})()</script>
+    
+    
+    
+    
+    
+        
+        
+        
+        
+    
+        
+        
+        
+        
+    
+    
+    <link rel="preconnect" href="https://fonts.gstatic.com/" />
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
+    <link href="https://fonts.googleapis.com/css?family=Inter:300,400,600,700|Fira+Code:500,700&display=block" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+
+    <link rel="stylesheet" href="/docs/scss/style.min.b0bb5ce4d465c0d6b2c43ea23f63faab2716dfd22beebf2c0e1ab2cabed44b718ae7531c0c1924abe13181de0747439c.css" integrity="sha384-sLtc5NRlwNayxD6iP2P6qycW39Ir7r8sDhqyyr7US3GK51McDBkkq&#43;Exgd4HR0Oc"crossorigin="anonymous">
+    
+    <link href="/css/customstyles-v3.min.6902a1cf7292919699be82b509f7d580b3a60d88e7429596066f4a1a4dd1391b.css" rel="stylesheet" integrity="sha256-aQKhz3KSkZaZvoK1CffVgLOmDYjnQpWWBm9KGk3RORs=" />
+
+    <link href="/fontawesome/css/all.min.css" rel="stylesheet">
+    
+    
+    
+    
+       
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JNK63BTKXN"></script>
+    <script>
+    var doNotTrack = false;
+    if ( false ) {
+        var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+        var doNotTrack = (dnt == "1" || dnt == "yes");
+    }
+    if (!doNotTrack) {
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-JNK63BTKXN');
+    }
+    </script>
+  
+    
+    <script src="//wcs.naver.net/wcslog.js"></script>
+    <script>
+    if(!wcs_add) var wcs_add = {};
+    wcs_add["wa"] = "1352844e1f81670";
+    if(window.wcs) {
+    wcs_do();
+    }
+    </script>
+   
+    <script
+    async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6199737337936118"
+    crossorigin="anonymous"></script>
+    </head><body>
+            <div class="content">
+            <div class="page-wrapper toggled">
+<nav id="sidebar" class="sidebar-wrapper">
+    <div class="sidebar-brand">
+        <a href='/' aria-label="HomePage" alt="HomePage">
+            <img src="/images/logo/logo-cloudlog-160.png" alt="Company logo" class="main-logo">
+        </a> <span class="main-logo-text">Tech Docs</span>
+    </div>    
+    <div class="sidebar-content" style="height: calc(100% - 131px);">
+        <div class="mt-2 text-center">   
+        
+    <ins class="adsbygoogle"
+        style="display:inline-block;width:260px;height:50px"
+        data-ad-client="ca-pub-6199737337936118"
+        data-ad-slot="8036189187"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+        <ul class="sidebar-menu">
+            
+                
+                
+                    
+                    
+                    
+                        <li class="sidebar-dropdown  ">
+                            <button class="btn">
+                                <i class='fa-solid fa-laptop-code  me-2'></i>
+                                프로그래밍
+                            </button>
+                            <div class="sidebar-submenu ">
+                                <ul>
+                                    
+                                        
+                                        
+                                        
+                                            <li class="sidebar-dropdown nested  ">
+                                                <button class="btn">
+                                                    
+                                                    PHP
+                                                </button>
+                                                <div class="sidebar-submenu ">
+                                                    <ul>
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class="sidebar-dropdown nested  ">
+                                                                    <button class="btn">
+                                                                        
+                                                                        PhpSpreadsheet
+                                                                    </button>
+                                                                    <div class="sidebar-submenu ">
+                                                                        <ul>
+                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                    <li class=" "><a class="sidebar-nested-link" href="/docs/programming/php/phpspreadsheet/introduce/">PhpSpreadsheet 소개</a></li>
+                                                                                
+                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                    <li class=" "><a class="sidebar-nested-link" href="/docs/programming/php/phpspreadsheet/row-height-set/">엑셀 셀서식 행 높이 설정</a></li>
+                                                                                
+                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                    <li class=" "><a class="sidebar-nested-link" href="/docs/programming/php/phpspreadsheet/cell-datatype-string/">셀 서식 텍스트 지정</a></li>
+                                                                                
+                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                    <li class=" "><a class="sidebar-nested-link" href="/docs/programming/php/phpspreadsheet/err-invalid-response/">Err_Invalid_Response 오류 해결 방법</a></li>
+                                                                                
+                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                    <li class=" "><a class="sidebar-nested-link" href="/docs/programming/php/phpspreadsheet/save-pdf-file-guide/">Windows PDF 문서 저장</a></li>
+                                                                                
+                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                    <li class=" "><a class="sidebar-nested-link" href="/docs/programming/php/phpspreadsheet/korean-font-error-troubleshooting/">PDF 한글 깨짐 해결 방법</a></li>
+                                                                                
+                                                                            
+                                                                        </ul>
+                                                                    </div>
+                                                                </li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/programming/php/composer-install-windows-guide/">Windows Composer 설치</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/programming/php/sql-injection-function/">SQL Injection 방지 코드</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/programming/php/useful-function-list/">자주쓰는 유용한 함수 모음</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/programming/php/get-prev-next-date-function/">이전 날짜, 다음 날짜 구하기</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/programming/php/leap-year-php-asp/">윤년 계산하는 방법 (&#43; ASP)</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/programming/php/array-search-column/">배열검색 함수 array_search</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/programming/php/request-variables-isset-parameter/">Form 파라미터 설정 확인</a></li>
+                                                            
+                                                        
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        
+                                    
+                                        
+                                        
+                                        
+                                            <li class="sidebar-dropdown nested  ">
+                                                <button class="btn">
+                                                    
+                                                    HTML
+                                                </button>
+                                                <div class="sidebar-submenu ">
+                                                    <ul>
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/programming/html/loading-progress-bar-with-bootstrap/">Loading Progress Bar</a></li>
+                                                            
+                                                        
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        
+                                    
+                                        
+                                        
+                                        
+                                            <li class="sidebar-dropdown nested  ">
+                                                <button class="btn">
+                                                    
+                                                    API
+                                                </button>
+                                                <div class="sidebar-submenu ">
+                                                    <ul>
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/programming/api/unipass-openapi-introduce/">유니패스 오픈API</a></li>
+                                                            
+                                                        
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    
+                
+                    
+                    
+                    
+                        <li class="sidebar-dropdown  ">
+                            <button class="btn">
+                                <i class='fa-brands fa-markdown  me-2'></i>
+                                MarkDown
+                            </button>
+                            <div class="sidebar-submenu ">
+                                <ul>
+                                    
+                                        
+                                        
+                                        
+                                            <li class="sidebar-dropdown nested  ">
+                                                <button class="btn">
+                                                    
+                                                    Hugo
+                                                </button>
+                                                <div class="sidebar-submenu ">
+                                                    <ul>
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/markdown/hugo/install-guide/">Hugo 설치 하는 방법</a></li>
+                                                            
+                                                        
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        
+                                    
+                                        
+                                        
+                                        
+                                            <li class="sidebar-dropdown nested  ">
+                                                <button class="btn">
+                                                    
+                                                    Jekyll
+                                                </button>
+                                                <div class="sidebar-submenu ">
+                                                    <ul>
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/markdown/jekyll/extract-element-nokogiri-error/">jekyll-extract-element, nokogiri 버전 오류 해결 방법</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/markdown/jekyll/sitemap-gem-robots-txt-edit/">robots.txt 템플릿 수정</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/markdown/jekyll/sitemap-gem-xml-edit/">sitemap.xml 템플릿 수정</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/markdown/jekyll/include-internal-post-page/">사이트 내부 문서 링크</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/markdown/jekyll/liquid-language/">Liquid 언어 사용법</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/markdown/jekyll/helium-theme-introduce/">Helium 테마 소개</a></li>
+                                                            
+                                                        
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    
+                
+                    
+                    
+                    
+                        <li class="sidebar-dropdown  ">
+                            <button class="btn">
+                                <i class='fa-solid fa-cloud  me-2'></i>
+                                클라우드 서버
+                            </button>
+                            <div class="sidebar-submenu ">
+                                <ul>
+                                    
+                                        
+                                        
+                                        
+                                            <li class="sidebar-dropdown nested  ">
+                                                <button class="btn">
+                                                    
+                                                    AWS
+                                                </button>
+                                                <div class="sidebar-submenu ">
+                                                    <ul>
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/cloud/aws/s3-cli-time-different-error-troubleshooting/">S3 cli RequestTimeTooSkewed 에러 원인, 해결 방법</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/cloud/aws/bitnami-lamp-setting-guide/">bitnami LAMP 설정</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/cloud/aws/rocky-linux-9.3-selinux-setsebool-error/">setsebool 설정 저장 문제</a></li>
+                                                            
+                                                        
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        
+                                    
+                                        
+                                        
+                                        
+                                            <li class="sidebar-dropdown nested  ">
+                                                <button class="btn">
+                                                    
+                                                    Ncloud
+                                                </button>
+                                                <div class="sidebar-submenu ">
+                                                    <ul>
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/cloud/ncloud/nca-certification-pass-review/"> NCA 합격 후기, 출제 경향</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/cloud/ncloud/nca-short-answer-question/">NCA 시험 예상문제</a></li>
+                                                            
+                                                        
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    
+                
+                    
+                    
+                    
+                        <li class="sidebar-dropdown  ">
+                            <button class="btn">
+                                <i class='fa-solid fa-database  me-2'></i>
+                                데이터베이스
+                            </button>
+                            <div class="sidebar-submenu ">
+                                <ul>
+                                    
+                                        
+                                        
+                                        
+                                            <li class="sidebar-dropdown nested  ">
+                                                <button class="btn">
+                                                    
+                                                    MySQL
+                                                </button>
+                                                <div class="sidebar-submenu ">
+                                                    <ul>
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/database/mysql/mysql-57-how-to-install-on-centos7/">CentOS 7에 MySQL 5.7 설치</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/database/mysql/workbench-update-error-safe-updates/">Workbench - Safe Updates</a></li>
+                                                            
+                                                        
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        
+                                    
+                                        
+                                        
+                                        
+                                            <li class=" "><a class="sidebar-nested-link" href="/docs/database/database-migration-process-schedule/">DB 마이그레이션 프로세스</a></li>
+                                        
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    
+                
+                    
+                    
+                    
+                        <li class="sidebar-dropdown  ">
+                            <button class="btn">
+                                <i class='fa-solid fa-computer  me-2'></i>
+                                운영체제
+                            </button>
+                            <div class="sidebar-submenu ">
+                                <ul>
+                                    
+                                        
+                                        
+                                        
+                                            <li class="sidebar-dropdown nested  ">
+                                                <button class="btn">
+                                                    
+                                                    맥OS
+                                                </button>
+                                                <div class="sidebar-submenu ">
+                                                    <ul>
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/os/mac/macos-catalina-other-volume/">카탈리나 기타볼륨 정체</a></li>
+                                                            
+                                                        
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        
+                                    
+                                        
+                                        
+                                        
+                                            <li class="sidebar-dropdown nested  ">
+                                                <button class="btn">
+                                                    
+                                                    윈도우
+                                                </button>
+                                                <div class="sidebar-submenu ">
+                                                    <ul>
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/os/windows/command-util-config/">유용한 유틸, 설정, 명령어</a></li>
+                                                            
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/os/windows/xampp-apache-mysql-php-perl-execute-no-install/">XAMPP 무설치 버전</a></li>
+                                                            
+                                                        
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        
+                                    
+                                        
+                                        
+                                        
+                                            <li class="sidebar-dropdown nested  ">
+                                                <button class="btn">
+                                                    
+                                                    리눅스
+                                                </button>
+                                                <div class="sidebar-submenu ">
+                                                    <ul>
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                <li class=" "><a class="sidebar-nested-link" href="/docs/os/linux/tree-command-manual/">Tree 명령어 사용법</a></li>
+                                                            
+                                                        
+                                                    </ul>
+                                                </div>
+                                            </li>
+                                        
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    
+                
+                    
+                    
+                    
+                        <li class="sidebar-dropdown  current active">
+                            <button class="btn">
+                                <i class='fa-solid fa-blog  me-2'></i>
+                                블로그 관리
+                            </button>
+                            <div class="sidebar-submenu d-block">
+                                <ul>
+                                    
+                                        
+                                        
+                                        
+                                            <li class=" "><a class="sidebar-nested-link" href="/docs/blog-manage/how-to-use-indexnow-for-search-engine/">IndexNow 사용 방법</a></li>
+                                        
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    
+                
+                    
+                    
+                    
+                        <li class="sidebar-dropdown  ">
+                            <button class="btn">
+                                <i class='fa-regular fa-circle-question  me-2'></i>
+                                Help
+                            </button>
+                            <div class="sidebar-submenu ">
+                                <ul>
+                                    
+                                        
+                                        
+                                        
+                                            <li class=" "><a class="sidebar-nested-link" href="/docs/help/update/">Updates</a></li>
+                                        
+                                    
+                                        
+                                        
+                                        
+                                            <li class=" "><a class="sidebar-nested-link" href="/docs/help/search/">Search</a></li>
+                                        
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    
+                
+            
+        </ul>
+        
+    </div>
+    
+        <ul class="sidebar-footer list-unstyled mb-0">
+            
+        </ul>
+    
+</nav>
+
+                    <main class="page-content bg-transparent">
+                        
+<div id="top-header" class="top-header d-print-none">
+    <div class="header-bar d-flex justify-content-between">
+        <div class="d-flex align-items-center">
+            
+            <button id="close-sidebar" class="btn btn-icon btn-soft">
+                <span class="material-icons size-20 menu-icon align-middle">menu</span>
+            </button>
+            <form action="/docs/help/search/" method="get" id="search-form">
+                <input type="search" name="q" id="search-input" onfocus="this.placeholder=''" onblur="this.placeholder='Search'" placeholder="Search">                
+                <input type="submit" value="Search" style="display: none;">
+            </form>
+            
+            </div>
+        <div class="d-flex align-items-start">
+            <div class="nav-lg-menu">
+            <ul class="nav">
+            
+                
+                <li class="nav-item">
+                  <a class="nav-link yes_icon" aria-current="page" href="/docs/" target="_self">Docs</a>
+                </li>  
+                             
+            
+                
+                <li class="nav-item">
+                  <a class="nav-link yes_icon" aria-current="page" href="/blog/" target="_self">Blog</a>
+                </li>  
+                             
+            
+                
+                <li class="nav-item">
+                  <a class="nav-link yes_icon" aria-current="page" href="/docs/help/update/" target="_self">Update</a>
+                </li>  
+                             
+            
+                             
+            
+                
+                <li class="nav-item">
+                  <a class="nav-link yes_icon" aria-current="page" href="/tags/" target="_self">Tags</a>
+                </li>  
+                             
+            
+            </ul>
+            </div>
+            <div class="nav-sm-menu">
+            <ul class="nav">               
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">CloudLog Docs</a>
+                  <ul class="dropdown-menu">
+                
+                    
+                    <li><a class="dropdown-item" href="/docs/" target="_self">Docs</a></li>        
+                    
+                
+                    
+                    <li><a class="dropdown-item" href="/blog/" target="_self">Blog</a></li>        
+                    
+                
+                    
+                    <li><a class="dropdown-item" href="/docs/help/update/" target="_self">Update</a></li>        
+                    
+                
+                    
+                
+                    
+                    <li><a class="dropdown-item" href="/tags/" target="_self">Tags</a></li>        
+                    
+                
+                  </ul>
+                </li>                
+            </ul>
+            </div>
+        </div>
+        <div class="d-flex align-items-center">
+            <ul class="list-unstyled mb-0">
+                
+            </ul>
+            <button id="mode" class="btn btn-icon btn-default ms-2" type="button" aria-label="Toggle user interface mode">
+                <span class="toggle-dark">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="30" width="30" viewBox="0 0 48 48" fill="currentColor">
+                        <title>Enable Dark mode</title>
+                        <path d="M24 42q-7.5 0-12.75-5.25T6 24q0-7.5 5.25-12.75T24 6q.4 0 .85.025.45.025 1.15.075-1.8 1.6-2.8 3.95-1 2.35-1 4.95 0 4.5 3.15 7.65Q28.5 25.8 33 25.8q2.6 0 4.95-.925T41.9 22.3q.05.6.075.975Q42 23.65 42 24q0 7.5-5.25 12.75T24 42Zm0-3q5.45 0 9.5-3.375t5.05-7.925q-1.25.55-2.675.825Q34.45 28.8 33 28.8q-5.75 0-9.775-4.025T19.2 15q0-1.2.25-2.575.25-1.375.9-3.125-4.9 1.35-8.125 5.475Q9 18.9 9 24q0 6.25 4.375 10.625T24 39Zm-.2-14.85Z"/>
+                    </svg>
+                </span>
+                <span class="toggle-light">
+                    <svg xmlns="http://www.w3.org/2000/svg" height="30" width="30" viewBox="0 0 48 48" fill="currentColor">
+                        <title>Enable Light mode</title>
+                        <path d="M24 31q2.9 0 4.95-2.05Q31 26.9 31 24q0-2.9-2.05-4.95Q26.9 17 24 17q-2.9 0-4.95 2.05Q17 21.1 17 24q0 2.9 2.05 4.95Q21.1 31 24 31Zm0 3q-4.15 0-7.075-2.925T14 24q0-4.15 2.925-7.075T24 14q4.15 0 7.075 2.925T34 24q0 4.15-2.925 7.075T24 34ZM3.5 25.5q-.65 0-1.075-.425Q2 24.65 2 24q0-.65.425-1.075Q2.85 22.5 3.5 22.5h5q.65 0 1.075.425Q10 23.35 10 24q0 .65-.425 1.075-.425.425-1.075.425Zm36 0q-.65 0-1.075-.425Q38 24.65 38 24q0-.65.425-1.075.425-.425 1.075-.425h5q.65 0 1.075.425Q46 23.35 46 24q0 .65-.425 1.075-.425.425-1.075.425ZM24 10q-.65 0-1.075-.425Q22.5 9.15 22.5 8.5v-5q0-.65.425-1.075Q23.35 2 24 2q.65 0 1.075.425.425.425.425 1.075v5q0 .65-.425 1.075Q24.65 10 24 10Zm0 36q-.65 0-1.075-.425-.425-.425-.425-1.075v-5q0-.65.425-1.075Q23.35 38 24 38q.65 0 1.075.425.425.425.425 1.075v5q0 .65-.425 1.075Q24.65 46 24 46ZM12 14.1l-2.85-2.8q-.45-.45-.425-1.075.025-.625.425-1.075.45-.45 1.075-.45t1.075.45L14.1 12q.4.45.4 1.05 0 .6-.4 1-.4.45-1.025.45-.625 0-1.075-.4Zm24.7 24.75L33.9 36q-.4-.45-.4-1.075t.45-1.025q.4-.45 1-.45t1.05.45l2.85 2.8q.45.45.425 1.075-.025.625-.425 1.075-.45.45-1.075.45t-1.075-.45ZM33.9 14.1q-.45-.45-.45-1.05 0-.6.45-1.05l2.8-2.85q.45-.45 1.075-.425.625.025 1.075.425.45.45.45 1.075t-.45 1.075L36 14.1q-.4.4-1.025.4-.625 0-1.075-.4ZM9.15 38.85q-.45-.45-.45-1.075t.45-1.075L12 33.9q.45-.45 1.05-.45.6 0 1.05.45.45.45.45 1.05 0 .6-.45 1.05l-2.8 2.85q-.45.45-1.075.425-.625-.025-1.075-.425ZM24 24Z"/>
+                    </svg>
+                </span>
+            </button>
+            
+        </div>
+    </div>
+    
+    
+    
+</div>
+
+                            <div class="container-fluid main-body">
+                                <div class="layout-spacing">
+                                    
+                                        <div class="d-md-flex justify-content-between align-items-center"><nav aria-label="breadcrumb" class="d-inline-block pb-2 mt-1 mt-sm-0">
+    <ul id="breadcrumbs" class="breadcrumb bg-transparent mb-0" itemscope itemtype="https://schema.org/BreadcrumbList">
+        
+            
+                <li class="breadcrumb-item text-capitalize active" aria-current="page" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a itemprop="item" href="/docs/">
+                        <i class="material-icons size-20 align-text-bottom" itemprop="name">Home</i>
+                    </a>
+                    <meta itemprop="position" content='1' />
+                </li>
+            
+        
+            <li class="breadcrumb-item text-capitalize active" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <span itemprop="name">블로그 관리</span>
+                <meta itemprop="position" content='2' />
+            </li>
+        
+    </ul>
+</nav></div>
+                                    
+                                    <div class="row flex-xl-nowrap">
+                                        
+                                        <div class="docs-toc col-xl-3 visually-hidden visually-hidden  d-xl-block"><toc>
+    <div class="fw-bold text-uppercase mb-2">On this page</div>
+    <nav id="toc"></nav>
+    </toc><div class="mt-5">   
+        
+    <ins class="adsbygoogle"
+        style="display:inline-block;width:260px;height:700px"
+        data-ad-client="ca-pub-6199737337936118"
+        data-ad-slot="9869109637"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+                                        </div>
+                                        
+                                        
+                                        <div class="docs-toc-mobile visually-hidden visually-hidden  d-print-none d-xl-none">
+                                            <button id="toc-dropdown-btn" class="btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" data-bs-offset="0,0" aria-expanded="false">
+                                                Table of Contents
+                                            </button>
+<nav id="toc-mobile"></nav></div>
+                                        <div class="docs-content col-12  mt-0">
+                                            <hr />
+                                            <div class="mb-0 d-flex">
+                                                
+                                                <i class='fa-solid fa-blog fa-2x title-icon me-2'></i>
+                                                
+                                                <h1 class="content-title mb-0">
+                                                    블로그 관리
+                                                    
+                                                </h1>
+                                            </div>                                            
+                                            
+                                            <hr />
+                                            <div class="mb-3">   
+        
+    <ins class="adsbygoogle adsense-top-title"
+        style="display:inline-block;"
+        data-ad-client="ca-pub-6199737337936118"
+        data-ad-slot="3195890071"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+                                            <div id="content" class="main-content" data-bs-spy="scroll" data-bs-root-margin="0px 0px -65%" data-bs-target="#toc-mobile">
+                                                
+    <div class="row flex-xl-wrap">
+        
+        <div id="list-item" class="col-md-4 col-12 mt-4 pt-2">
+            <a class="text-decoration-none text-reset" href="/docs/blog-manage/how-to-use-indexnow-for-search-engine/">
+                <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
+                    <span class="icon-color d-flex my-3">
+                        <i class='fa-solid fa-magnifying-glass fa-2x'></i>
+                        
+                        
+                    </span>
+                    <div class="card-body p-0 content">
+                        <p class="fs-5 fw-semibold card-title mb-1">IndexNow를 사용해 검색 엔진에 글 등록하는 방법</p>
+                        <p class="para card-text mb-0">블로그 문서를 Microsoft Bing, Naver, Seznam.cz, Yandex, Yep 등의 검색 엔진에 등록할 수 있는 IndexNow 사용 방법에 대해 정리해보겠습니다</p>
+                    </div>
+                    
+                </div>
+            </a>
+        </div>
+        
+    </div>
+
+                                            </div>                                            
+                                            <div><div class="tags mt-4">
+    
+</div>
+</div>
+                                            <div><hr class="doc-hr">
+<div id="doc-nav" class="d-print-none">
+</div><div class="mt-5">   
+       
+    <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-format="autorelaxed"
+        data-ad-client="ca-pub-6199737337936118"
+        data-ad-slot="7006372065"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+<footer class="shadow py-3 d-print-none">
+    <div class="container-fluid">
+        <div class="row align-items-center">
+            <div class="col">
+                <div class="text-sm-start text-center mx-md-2">
+                    <p class="mb-0">
+                        
+                        © 2024 Copyright CLOUDLOG.KR. All rights reserved.
+                    </p>
+                    <p class="mb-0">
+                        Built with <a href="https://gohugo.io/" target="_blank" class="no_icon">HUGO</a> & <a href="https://lotusdocs.dev/docs/" target="_blank" class="no_icon">Lotus Docs</a>
+                    </p>                    
+                    <p class="mb-0">
+                        Site last modified: 2028-08-10
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</main>
+            </div>
+        </div>
+
+        
+        
+        <button onclick="topFunction()" id="back-to-top" aria-label="Back to Top Button" class="back-to-top fs-5"><svg width="24" height="24"><path d="M12,10.224l-6.3,6.3L4.32,15.152,12,7.472l7.68,7.68L18.3,16.528Z" style="fill:#fff"/></svg></button>
+        
+        
+
+        
+        
+            <script>(()=>{var e=document.getElementById("mode");e!==null&&(window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",e=>{e.matches?(localStorage.setItem("theme","dark"),document.documentElement.setAttribute("data-dark-mode","")):(localStorage.setItem("theme","light"),document.documentElement.removeAttribute("data-dark-mode"))}),e.addEventListener("click",()=>{document.documentElement.toggleAttribute("data-dark-mode"),localStorage.setItem("theme",document.documentElement.hasAttribute("data-dark-mode")?"dark":"light")}),localStorage.getItem("theme")==="dark"?document.documentElement.setAttribute("data-dark-mode",""):document.documentElement.removeAttribute("data-dark-mode"))})()</script>
+        
+
+
+
+
+    
+        
+        
+    
+    
+
+
+
+
+
+
+    
+
+    <script src="/docs/js/bootstrap.eac7ee3f6fa791c684e7a51fc2fd50b6f724271b9e39562e4fe8c3942412df3acbfc4045f043d03399dac70091207507.js" integrity="sha384-6sfuP2&#43;nkcaE56Ufwv1QtvckJxueOVYuT&#43;jDlCQS3zrL/EBF8EPQM5naxwCRIHUH"defer></script>
+
+
+    <script type="text/javascript" src="/docs/js/bundle.min.d8ec137ef3076601d790eef2bf1774e1a11fd185a3fc95fe8b211c22add93061aa5538a52a2c949d5d6b897c7ff6e37c.js" defer></script>
+        
+
+        
+       
+    </body>
+</html>

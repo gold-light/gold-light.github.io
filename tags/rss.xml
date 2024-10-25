@@ -8,6 +8,12 @@
     <language>ko</language>
     <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/tags/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Blog</title>
+      <link>https://cloudlog.kr/tags/blog/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/tags/blog/</guid>
+      <description></description>
+    </item><item>
       <title>Diablo</title>
       <link>https://cloudlog.kr/tags/diablo/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0900</pubDate>
@@ -32,6 +38,12 @@
       <guid>https://cloudlog.kr/tags/rpg/</guid>
       <description></description>
     </item><item>
+      <title>Search Engine</title>
+      <link>https://cloudlog.kr/tags/search-engine/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/tags/search-engine/</guid>
+      <description></description>
+    </item><item>
       <title>Coupon</title>
       <link>https://cloudlog.kr/tags/coupon/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0900</pubDate>
@@ -54,18 +66,6 @@
       <link>https://cloudlog.kr/tags/map/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/tags/map/</guid>
-      <description></description>
-    </item><item>
-      <title>Travel</title>
-      <link>https://cloudlog.kr/tags/travel/</link>
-      <pubDate>Fri, 02 Aug 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/travel/</guid>
-      <description></description>
-    </item><item>
-      <title>LostArk</title>
-      <link>https://cloudlog.kr/tags/lostark/</link>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/lostark/</guid>
       <description></description>
     </item>
   </channel>
