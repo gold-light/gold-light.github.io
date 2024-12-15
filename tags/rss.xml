@@ -6,23 +6,29 @@
     <description>Recent content in Tags on Simple Life Cloud Log</description>
     <generator>Hugo 0.138.0</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 08 Dec 2024 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/tags/rss.xml" rel="self" type="application/rss+xml" /><item>
       <title>Game</title>
       <link>https://cloudlog.kr/tags/game/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0900</pubDate>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/tags/game/</guid>
       <description></description>
     </item><item>
       <title>POE</title>
       <link>https://cloudlog.kr/tags/poe/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0900</pubDate>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/tags/poe/</guid>
+      <description></description>
+    </item><item>
+      <title>POE2</title>
+      <link>https://cloudlog.kr/tags/poe2/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/tags/poe2/</guid>
       <description></description>
     </item><item>
       <title>RPG</title>
       <link>https://cloudlog.kr/tags/rpg/</link>
-      <pubDate>Sun, 08 Dec 2024 00:00:00 +0900</pubDate>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/tags/rpg/</guid>
       <description></description>
     </item><item>
@@ -60,12 +66,6 @@
       <link>https://cloudlog.kr/tags/search-engine/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/tags/search-engine/</guid>
-      <description></description>
-    </item><item>
-      <title>방치형 게임</title>
-      <link>https://cloudlog.kr/tags/%EB%B0%A9%EC%B9%98%ED%98%95-%EA%B2%8C%EC%9E%84/</link>
-      <pubDate>Mon, 23 Sep 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/%EB%B0%A9%EC%B9%98%ED%98%95-%EA%B2%8C%EC%9E%84/</guid>
       <description></description>
     </item>
   </channel>
