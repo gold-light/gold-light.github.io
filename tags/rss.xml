@@ -20,6 +20,30 @@
       <guid>https://cloudlog.kr/tags/rpg/</guid>
       <description></description>
     </item><item>
+      <title>Movie</title>
+      <link>https://cloudlog.kr/tags/movie/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/tags/movie/</guid>
+      <description></description>
+    </item><item>
+      <title>Netflix</title>
+      <link>https://cloudlog.kr/tags/netflix/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/tags/netflix/</guid>
+      <description></description>
+    </item><item>
+      <title>넷플릭스</title>
+      <link>https://cloudlog.kr/tags/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/tags/%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4/</guid>
+      <description></description>
+    </item><item>
+      <title>영화</title>
+      <link>https://cloudlog.kr/tags/%EC%98%81%ED%99%94/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/tags/%EC%98%81%ED%99%94/</guid>
+      <description></description>
+    </item><item>
       <title>CU</title>
       <link>https://cloudlog.kr/tags/cu/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0900</pubDate>
@@ -42,30 +66,6 @@
       <link>https://cloudlog.kr/tags/%ED%8E%B8%EC%9D%98%EC%A0%90/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/tags/%ED%8E%B8%EC%9D%98%EC%A0%90/</guid>
-      <description></description>
-    </item><item>
-      <title>Emart24</title>
-      <link>https://cloudlog.kr/tags/emart24/</link>
-      <pubDate>Sun, 22 Dec 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/emart24/</guid>
-      <description></description>
-    </item><item>
-      <title>Game</title>
-      <link>https://cloudlog.kr/tags/game/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/game/</guid>
-      <description></description>
-    </item><item>
-      <title>POE</title>
-      <link>https://cloudlog.kr/tags/poe/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/poe/</guid>
-      <description></description>
-    </item><item>
-      <title>POE2</title>
-      <link>https://cloudlog.kr/tags/poe2/</link>
-      <pubDate>Tue, 10 Dec 2024 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/poe2/</guid>
       <description></description>
     </item>
   </channel>
