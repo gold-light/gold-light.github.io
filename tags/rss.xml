@@ -6,8 +6,26 @@
     <description>Recent content in Tags on Simple Life Cloud Log</description>
     <generator>Hugo 0.145.0</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0900</lastBuildDate>
     <atom:link href="https://cloudlog.kr/tags/rss.xml" rel="self" type="application/rss+xml" /><item>
+      <title>Mabinogi</title>
+      <link>https://cloudlog.kr/tags/mabinogi/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/tags/mabinogi/</guid>
+      <description></description>
+    </item><item>
+      <title>Mobile</title>
+      <link>https://cloudlog.kr/tags/mobile/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/tags/mobile/</guid>
+      <description></description>
+    </item><item>
+      <title>RPG</title>
+      <link>https://cloudlog.kr/tags/rpg/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0900</pubDate>
+      <guid>https://cloudlog.kr/tags/rpg/</guid>
+      <description></description>
+    </item><item>
       <title>Diablo</title>
       <link>https://cloudlog.kr/tags/diablo/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0900</pubDate>
@@ -24,12 +42,6 @@
       <link>https://cloudlog.kr/tags/item/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/tags/item/</guid>
-      <description></description>
-    </item><item>
-      <title>RPG</title>
-      <link>https://cloudlog.kr/tags/rpg/</link>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/rpg/</guid>
       <description></description>
     </item><item>
       <title>Faker</title>
@@ -54,18 +66,6 @@
       <link>https://cloudlog.kr/tags/%ED%8E%98%EC%9D%B4%EC%BB%A4/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0900</pubDate>
       <guid>https://cloudlog.kr/tags/%ED%8E%98%EC%9D%B4%EC%BB%A4/</guid>
-      <description></description>
-    </item><item>
-      <title>Rogue Like</title>
-      <link>https://cloudlog.kr/tags/rogue-like/</link>
-      <pubDate>Wed, 29 Jan 2025 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/rogue-like/</guid>
-      <description></description>
-    </item><item>
-      <title>Movie</title>
-      <link>https://cloudlog.kr/tags/movie/</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0900</pubDate>
-      <guid>https://cloudlog.kr/tags/movie/</guid>
       <description></description>
     </item>
   </channel>
